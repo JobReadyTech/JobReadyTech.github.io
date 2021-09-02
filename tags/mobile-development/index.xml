@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Development on </title>
+    <link>/tags/mobile-development/</link>
+    <description>Recent content in Mobile Development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full Stack Mobile Application Development - Master Class</title>
+      <link>/full-stack-mobile-application-development-master-class/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/full-stack-mobile-application-development-master-class/</guid>
+      <description>There’s strong motivation for companies to find someone who can “do it all”. 
+This Course explores the features of full-stack mobile development environments and covers several core native and hybrid mobile alternatives and the factors that influence the selection of each platform.
+Full-stack mobile app development lies at the nexus of content and technology. Billions of people worldwide now use smartphones and tablets, which form the client side of the full-stack app.</description>
+    </item>
+    
+    <item>
+      <title>The Complete Dart Learning Guide</title>
+      <link>/the-complete-dart-learning-guide/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/the-complete-dart-learning-guide/</guid>
+      <description>تم الانتهاء من تحديث دورة الدارت
+التحديثات شملت:
+١- تحديث الاكواد المكتوبة في الدورة لتعمل على اخر اصدار في الدارت بدون مشاكل.
+٢- تم توسيع دورة الدرات باضافة قسم كامل للبرمجة الغير متزامنة (Asynchronous Programming) لتتضمن شرح مواضيع (Future, Stream, Async/Await, get Api, File system)
+٣- أضافة شرح لدوال الفلترة او التصفية (where, indexWhere, map, any, وغيرهم)
+٤- أضافة مشروع تطبيقي في نهاية الدورة.
+٥- أضافة شرح مفصل لمفهوم ال null safety والتحديثات الجديدة مثل required وال late.</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in App Creation: Beginners Edition</title>
+      <link>/artificial-intelligence-in-app-creation-beginners-edition/</link>
+      <pubDate>Sat, 28 Aug 2021 01:50:08 +0530</pubDate>
+      
+      <guid>/artificial-intelligence-in-app-creation-beginners-edition/</guid>
+      <description>Welcome to the sixth course in Term 2 as part of the series &#34;MBA in Artificial Intelligence Digital Marketing&#34;.
+Today, Artificial Intelligence (AI), Machine Learning, and Deep Learning technologies are used in diverse fields as part of the daily life of large organizations across the globe. The rapid speed of AI growth demonstrates that it is a groundbreaking technology designed to transform the way people use devices and conduct business: achievements in unmanned aerial vehicles, the ability to beat people in chess and sporting games, automated customer service, and analytical systems - of course.</description>
+    </item>
+    
+  </channel>
+</rss>

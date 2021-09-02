@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on </title>
+    <link>/tags/hardware/</link>
+    <description>Recent content in Hardware on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPGA UART communication protocol series Vol1</title>
+      <link>/fpga-uart-communication-protocol-series-vol1/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/fpga-uart-communication-protocol-series-vol1/</guid>
+      <description>This Course was made by a professional electronic engineer specializes in FPGA !
+This course is the first one on a series of courses about communication protocols.
+In this course you will learn everything you need to know about UART
+No prior communications protocol knowledge is needed - I will teach everything about serial communication and how to sample it, and about the issues we might have inside FPGA when trying to sample a signal from the outside world.</description>
+    </item>
+    
+    <item>
+      <title>VIVADO Xilinx FPGA -Learn From The Beginning (&#43;PCIe project)</title>
+      <link>/vivado-xilinx-fpga-learn-from-the-beginning-pcie-project/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/vivado-xilinx-fpga-learn-from-the-beginning-pcie-project/</guid>
+      <description>In this course you will learn how to use VIVADO tool to develop Xilinx FPGAs.
+As it&#39;s easy for you to understand, working as an FPGA developer is the most profitable job in the Hardware development industry. And by now, it is a profession with great demand in every big company: Apple, Microsoft, Intel, Amazon, Google and many others!
+If you want to work as an FPGA developer or just to know how to design an FPGA this is the course for you!</description>
+    </item>
+    
+  </channel>
+</rss>

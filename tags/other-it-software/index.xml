@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other IT &amp; Software on </title>
+    <link>/tags/other-it-software/</link>
+    <description>Recent content in Other IT &amp; Software on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Aug 2021 22:24:58 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Kanban: Kanban for Software Development Teams</title>
+      <link>/agile-kanban-kanban-for-software-development-teams/</link>
+      <pubDate>Sun, 29 Aug 2021 22:24:58 +0530</pubDate>
+      
+      <guid>/agile-kanban-kanban-for-software-development-teams/</guid>
+      <description>Kanban is not a software development lifecycle methodology or an approach to project management.
+It requires that some process is already in place so that Kanban can be applied to
+incrementally change the underlying process.
+—David Anderson, Kanban
+Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Foundation</title>
+      <link>/devops-foundation/</link>
+      <pubDate>Sun, 29 Aug 2021 22:24:58 +0530</pubDate>
+      
+      <guid>/devops-foundation/</guid>
+      <description>If you are new to DevOps, this course will give you the basic information about DevOps, including key concepts and the terminologies. This course covers the DevOps Full Stack: People and Culture, Processes and Practices, Technology and Automation. People and Culture:
+You will be able to summarize the cultural, structural, and technological barriers that IT faces, when attempting to deliver services at the right quality, speed, and cost, and why challenges are faced when implementing DevOps in today’s organizations.</description>
+    </item>
+    
+    <item>
+      <title>Python And Flask Framework Complete Course</title>
+      <link>/python-and-flask-framework-complete-course/</link>
+      <pubDate>Sun, 29 Aug 2021 04:18:59 +0530</pubDate>
+      
+      <guid>/python-and-flask-framework-complete-course/</guid>
+      <description>This course is a depth introduction to fundamental python programming concepts.
+Learn Python From Beginner To Advanced Level
+ I’ve created thorough, extensive, but easy to follow content which you’ll easily understand and absorb.
+ The course starts with the basics, including Python fundamentals, programming, and user interaction.
+
+The curriculum is going to be very hands-on as we walk you from start to finish becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real-life practice and be ready for the real world.</description>
+    </item>
+    
+    <item>
+      <title>Amazon EKS Ultimate Course</title>
+      <link>/amazon-eks-ultimate-course/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/amazon-eks-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to do use Amazon Elastic Kubernetes Service but don&#39;t know where to start?	Would you like to make amazing Kubernetes applications in AWS Cloud or on-premise and bring your ideas to life?	Then Amazon EKS Ultimate Course is for you!	Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.	Amazon EKS is an in-demand skill in 2021.&amp;nbsp; The course begins with the basics.</description>
+    </item>
+    
+    <item>
+      <title>Deep Web- The complete Introduction to the hidden web</title>
+      <link>/deep-web-the-complete-introduction-to-the-hidden-web/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/deep-web-the-complete-introduction-to-the-hidden-web/</guid>
+      <description>Have you heard many times about the deep/dark web but you never knew what it is. Or you you have an Idea of what is it but you never visited this part of the web. Then this course for you. You will learn all the basics of the deep/dark and how to access this part of the web. At the end of the course, you will be able to use the TOR browser as your default browser and surf on all the parts of the Web.</description>
+    </item>
+    
+    <item>
+      <title>Mathematics &amp; Statistics for Machine Learning</title>
+      <link>/mathematics-statistics-for-machine-learning/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/mathematics-statistics-for-machine-learning/</guid>
+      <description>&amp;lt;This course doesn&#39;t cover programming related to AI but helps you to build a strong foundation in math &amp;amp; statistics needed for AI&amp;gt;
+The trainer of this course is an AI expert and he has observed that many students and young professionals make the mistake of learning machine learning without understanding the core concepts in maths and statistics. This course will help to address that gap in a big way.</description>
+    </item>
+    
+    <item>
+      <title>Python Bootcamp 2021 Build 15 working Applications and Games</title>
+      <link>/python-bootcamp-2021-build-15-working-applications-and-games/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/python-bootcamp-2021-build-15-working-applications-and-games/</guid>
+      <description>Are you tired of getting videos and lectures on just python basics and syntaxes or just strucked in college studies and hello world program. so I guess you have to give a try to this course this course is designed after analysing what a student need to study python. After analysing what they required and what they want in a course, how they can easily start any course but didn&#39;t able to finish it.</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Beginner Guide to Streamlabs OBS (OBS)</title>
+      <link>/ultimate-beginner-guide-to-streamlabs-obs-obs/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/ultimate-beginner-guide-to-streamlabs-obs-obs/</guid>
+      <description>Welcome to Ultimate Beginner Guide to Streamlabs OBS (OBS)!
+Nick Nyxson here, Your Instructor for this course.
+In this course, you will learn how to start using&amp;nbsp; Streamlabs OBS which is live streaming software made by Streamlabs and is a modified version of Open Broadcaster Software (OBS).
+In this course You Will Learn:
+What is SLOBS (Streamlabs OBS);
+How Streamlabs OBS is any different from OBS Studio;
+Streamlabs OBS Settings Walkthrough;</description>
+    </item>
+    
+    <item>
+      <title>Cursillo Excel Básico</title>
+      <link>/cursillo-excel-b%C3%A1sico/</link>
+      <pubDate>Sat, 28 Aug 2021 01:50:08 +0530</pubDate>
+      
+      <guid>/cursillo-excel-b%C3%A1sico/</guid>
+      <description>Curso de Bolsillo Excel que lo puedes llevar a todo lado. Tocaremos los temas más fundamentales pero a la vez indispensables cuando usamos Excel. Diseñado para todos aquellos que están empezando con esta poderosa herramienta. - Primero lo primero: En el primero video te cuento cuáles son los puntos a tratar. Luego, pasaremos al contenido principal del curso.&amp;nbsp; - Abordaremos Atajos y Truquitos para ya a empezar a sentir qué tan fácil resulta trabajar con la interfaz.</description>
+    </item>
+    
+    <item>
+      <title>Exploring VirBELA 3D University Campus (2021 Edition)</title>
+      <link>/exploring-virbela-3d-university-campus-2021-edition/</link>
+      <pubDate>Sat, 28 Aug 2021 01:50:08 +0530</pubDate>
+      
+      <guid>/exploring-virbela-3d-university-campus-2021-edition/</guid>
+      <description>Welcome to the eighth course in Term 3 as part of the series &#34;MBA in Artificial Intelligence Digital Marketing&#34;.
+Did you know?&amp;nbsp;Virtual worlds are simulated environments accessed by multiple users through an online interface or software. Virtual worlds integrate two things which can be intrinsic to human nature; social connectivity and creativeness.
+Human beings are a social species that require verbal exchange to thrive and we are constantly seeking opportunities for interaction, expression and validation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial Modeling &amp; Analysis on </title>
+    <link>/tags/financial-modeling-analysis/</link>
+    <description>Recent content in Financial Modeling &amp; Analysis on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="/tags/financial-modeling-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master Reporting Automation with Google Sheets</title>
+      <link>/master-reporting-automation-with-google-sheets/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/master-reporting-automation-with-google-sheets/</guid>
+      <description>Learn to solve any business modeling task you might ever experience!
+Have you ever felt that you&#39;re regularly repeating some tasks in Google Sheets or Excel?
+Have you ever thought about the time you would save if you would automate those tasks?
+
+All the work you&#39;re doing in a repetitive manner in Google Sheets or Excel could be automated.&amp;nbsp;It requires no coding skills, add-ons, or special tools - all you need to know is how to execute advanced formula combinations that will do all the automation for you.</description>
+    </item>
+    
+  </channel>
+</rss>

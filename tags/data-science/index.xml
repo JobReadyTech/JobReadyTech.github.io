@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on </title>
+    <link>/tags/data-science/</link>
+    <description>Recent content in Data Science on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Analysis Real world use-cases- Hands on Python</title>
+      <link>/data-analysis-real-world-use-cases-hands-on-python/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/data-analysis-real-world-use-cases-hands-on-python/</guid>
+      <description>This is the first course that gives hands-on Data Analysis Projects using Python..
+
+
+Can you start right now?
+A frequently asked question of Python Beginners is: &#34;Do I need to become an expert in Python coding before I can start working on Data Analysis Projects?&#34;
+The clear answer is: &#34;No!
+You just require some Python Basics like data types, simple operations/operators, lists and numpy arrays that you can learn from my Free Python course &#39;Basics Of Python&#39;</description>
+    </item>
+    
+    <item>
+      <title>Fraud Analytics in Banking and Credit using Machine Learning</title>
+      <link>/fraud-analytics-in-banking-and-credit-using-machine-learning/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/fraud-analytics-in-banking-and-credit-using-machine-learning/</guid>
+      <description>In general, fraud can be defined as some illegal or criminal thing done by any person who intended to deceive in financial organizations or personal profit. So the processes of analyzing such illegitimate transactions done by anyone like buyer or customer are caught and only the legal transactions are allowed to be made. As fraud is increasing in day to day life so to analyze frauds that are occurring in the organizations or companies these frauds are analyzed using some quantitative science to understand the fraud, through BI (Business Intelligence), and then we have to develop effective fraud detection solutions through data science.</description>
+    </item>
+    
+    <item>
+      <title>MatPlotLib for Python Developers - Advanced</title>
+      <link>/matplotlib-for-python-developers-advanced/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/matplotlib-for-python-developers-advanced/</guid>
+      <description>We will be covering all the advanced level concepts in the course by the virtue of the sample questions which have been included to help the trainees on getting a precise view of the topics. You will get to learn about all the advanced-level topics and will also learn how to leverage them to draft solutions for plotting-based problems. Once you are done with this unit, you will be able to work proficiently with all the aspects of Matplotlib.</description>
+    </item>
+    
+    <item>
+      <title>Python-Introduction to Data Science and Machine learning A-Z</title>
+      <link>/python-introduction-to-data-science-and-machine-learning-a-z/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/python-introduction-to-data-science-and-machine-learning-a-z/</guid>
+      <description>Learning how to program in Python is not always easy especially if you want to use it for Data science. Indeed, there are many of different tools that have to be learned to be able to properly use Python for Data science and machine learning and each of those tools is not always easy to learn. But, this course will give all the basics you need no matter for what objective you want to use it so if you :</description>
+    </item>
+    
+  </channel>
+</rss>

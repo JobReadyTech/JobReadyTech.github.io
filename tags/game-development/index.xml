@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Development on </title>
+    <link>/tags/game-development/</link>
+    <description>Recent content in Game Development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Unity Shaders from Scratch</title>
+      <link>/learn-unity-shaders-from-scratch/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/learn-unity-shaders-from-scratch/</guid>
+      <description>In this course we&#39;re going to look at Unity ShaderLab and the HLSL shading language to create amazing shaders. Maybe you are
+a developer struggling to bring to life a particular game feature because it needs a custom shader.
+a developer who always wanted to create custom shaders but was too scared to start. a developer wanting to add some custom post-processing effects to your 3d renders.
+Unity ShaderLab is how you create custom shaders.</description>
+    </item>
+    
+  </channel>
+</rss>

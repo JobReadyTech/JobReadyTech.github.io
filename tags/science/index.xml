@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on </title>
+    <link>/tags/science/</link>
+    <description>Recent content in Science on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complete General Chemistry 20&#43; hours of lectures &amp; examples</title>
+      <link>/complete-general-chemistry-20-hours-of-lectures-examples/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>/complete-general-chemistry-20-hours-of-lectures-examples/</guid>
+      <description>Description:
+General Chemistry is a basic course for a broad range of students from different fields of science and engineering. This course is designed to help you get a firm grasp over the most important topics in chemistry that you need to know in order to do great in your exams and classes. By the end of the course you’ll learn the principals and important concepts regarding matter, atoms, solutions, phases, chemical reactions, equilibrium, kinetics, acids and bases and so much more.</description>
+    </item>
+    
+  </channel>
+</rss>
