@@ -6,7 +6,16 @@
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 13:11:36 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CheckPoint-NGFW Security : Basic Introduction</title>
+      <link>/checkpoint-ngfw-security-basic-introduction/</link>
+      <pubDate>Fri, 03 Sep 2021 13:11:36 +0530</pubDate>
+      
+      <guid>/checkpoint-ngfw-security-basic-introduction/</guid>
+      <description>Learn all the Concepts about the Features of CheckPoint - Next Generation Firewall, Learn how to evaluate or Review a Firewall. Why are Firewalls needed and how its&#39; features justify the Deployment in modern Day networks in spite of ACLs on Router, Packet filters &amp;amp; Proxy based Firewalls. You will learn all the additional features they provide on top of other traditional Networking and legacy security solutions. Learn about Stateful Inspection and how it is Used in Firewall to provide security.</description>
+    </item>
+    
     <item>
       <title>Complete CompTIA Network&#43; (N10-007) Video Training Series</title>
       <link>/complete-comptia-network-n10-007-video-training-series/</link>

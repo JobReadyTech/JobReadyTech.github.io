@@ -6,7 +6,42 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Aug 2021 22:24:58 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 14:39:46 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI (Artificial Intelligence) for CXOs &amp; Senior Managers</title>
+      <link>/ai-artificial-intelligence-for-cxos-senior-managers/</link>
+      <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
+      
+      <guid>/ai-artificial-intelligence-for-cxos-senior-managers/</guid>
+      <description>&amp;lt;This course covers concepts &amp;amp; case studies for executives and senior managers to better understand AI. This course doesn&#39;t cover programming aspects of AI&amp;gt;
+Demystifying Artificial Intelligence including ML, DL, NLP, Industry 4.0, IoT &amp;amp; RPA with Caselets for CxOs and Senior Managers.
+AI, AI, AI Everywhere! If you don’t do something about AI, you will be left behind or disrupted into extinction – this is a message that executives, Managers, Team Leaders and CXOs often hear, especially in the last year or so from consultants, vendors, industry experts or the IT organization.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Foundation</title>
+      <link>/devops-foundation/</link>
+      <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
+      
+      <guid>/devops-foundation/</guid>
+      <description>If you are new to DevOps, this course will give you the basic information about DevOps, including key concepts and the terminologies. This course covers the DevOps Full Stack: People and Culture, Processes and Practices, Technology and Automation. People and Culture:
+You will be able to summarize the cultural, structural, and technological barriers that IT faces, when attempting to deliver services at the right quality, speed, and cost, and why challenges are faced when implementing DevOps in today’s organizations.</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing Real-World Projects in Python</title>
+      <link>/natural-language-processing-real-world-projects-in-python/</link>
+      <pubDate>Fri, 03 Sep 2021 13:11:36 +0530</pubDate>
+      
+      <guid>/natural-language-processing-real-world-projects-in-python/</guid>
+      <description>Are you looking to land a top-paying job in Data Science , AI &amp;amp; Natural Language Processing?
+Or are you a seasoned AI practitioner who want to take your career to the next level?
+Or are you an aspiring data scientist who wants to get Hands-on Data Science and Artificial Intelligence?
+
+If the answer is yes to any of these questions, then this course is for you!
+Data Science is one of the hottest tech fields to be in right now!</description>
+    </item>
+    
     <item>
       <title>Agile Kanban: Kanban for Software Development Teams</title>
       <link>/agile-kanban-kanban-for-software-development-teams/</link>
@@ -18,16 +53,6 @@ It requires that some process is already in place so that Kanban can be applied 
 incrementally change the underlying process.
 —David Anderson, Kanban
 Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.</description>
-    </item>
-    
-    <item>
-      <title>DevOps Foundation</title>
-      <link>/devops-foundation/</link>
-      <pubDate>Sun, 29 Aug 2021 22:24:58 +0530</pubDate>
-      
-      <guid>/devops-foundation/</guid>
-      <description>If you are new to DevOps, this course will give you the basic information about DevOps, including key concepts and the terminologies. This course covers the DevOps Full Stack: People and Culture, Processes and Practices, Technology and Automation. People and Culture:
-You will be able to summarize the cultural, structural, and technological barriers that IT faces, when attempting to deliver services at the right quality, speed, and cost, and why challenges are faced when implementing DevOps in today’s organizations.</description>
     </item>
     
     <item>
