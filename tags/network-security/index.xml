@@ -6,7 +6,38 @@
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Sep 2021 13:11:36 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Sep 2021 23:00:37 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Forensics for Pentesters - Hands-on Learning</title>
+      <link>/digital-forensics-for-pentesters-hands-on-learning/</link>
+      <pubDate>Tue, 07 Sep 2021 23:00:37 +0530</pubDate>
+      
+      <guid>/digital-forensics-for-pentesters-hands-on-learning/</guid>
+      <description>Digital forensics is becoming very important in Cyber Security to detect and backtrack Black Hat Criminals. It is essential to remove Hackers’ malicious backdoors/malware and trace them back to avoid possible future incidents. Digital forensics is becoming very important in Cyber Security to detect and backtrack Black Hat Criminals. Digital forensics is essential to remove Hackers’ malicious backdoors/malware and trace them back to avoid possible future incidents.
+This course acts as a digital forensics’ primer for pentesters and cybersecurity professionals wanting to expand their knowledge and add additional tools and skills to their resumes.</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking - Hands-On Training - Part I</title>
+      <link>/ethical-hacking-hands-on-training-part-i/</link>
+      <pubDate>Tue, 07 Sep 2021 20:19:47 +0530</pubDate>
+      
+      <guid>/ethical-hacking-hands-on-training-part-i/</guid>
+      <description>Course Overview
+This course provides learners with a basic level of competency using a hands-on approach to gaining practical experience as a penetration tester or an ethical hacker (white, grey, or black). This course provides a fundamental look at offensive security concepts and techniques using a virtual install of Kali Linux and three different target victims, Windows XP, Windows 7, Server 2008, and Linux (Metesploitable2). This course provides a 100% hands-on approach to learning to be an ethical hacker or a pentester.</description>
+    </item>
+    
+    <item>
+      <title>Intermediate Ethical Hacking Hands-on Training</title>
+      <link>/intermediate-ethical-hacking-hands-on-training/</link>
+      <pubDate>Tue, 07 Sep 2021 20:19:47 +0530</pubDate>
+      
+      <guid>/intermediate-ethical-hacking-hands-on-training/</guid>
+      <description>Alert -
+Intermediate Ethical Hacking Hands-on Training is a continuation of Ethical Hacking - Hands-on Training Part I. Before taking this course, students should have completed an introduction to an ethical hacking or pentesting course. Students should have completed Ethical Hacking - Hands-on Training Part I for best results before signing up for the intermediate course. 
+Intermediate Ethical Hacking Hands-on Training picks up where Part I leaves off. In Part I, students was taught the fundamentals of pentesting while being introduced to some basic skills.</description>
+    </item>
+    
     <item>
       <title>CheckPoint-NGFW Security : Basic Introduction</title>
       <link>/checkpoint-ngfw-security-basic-introduction/</link>
