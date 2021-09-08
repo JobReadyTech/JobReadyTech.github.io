@@ -6,7 +6,18 @@
     <description>Recent content in Mobile Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Sep 2021 17:46:02 +0530</lastBuildDate><atom:link href="/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android App Development Bootcamp with Kotlin - Masterclass</title>
+      <link>/android-app-development-bootcamp-with-kotlin-masterclass/</link>
+      <pubDate>Wed, 08 Sep 2021 17:46:02 +0530</pubDate>
+      
+      <guid>/android-app-development-bootcamp-with-kotlin-masterclass/</guid>
+      <description>*Printable online certificate available upon completion of course*
+Google considers Kotlin an official (first-class) android Developing Language
+Android has ruled the app market for the past decade, and developers are increasingly looking to start building their own Android apps. How to Build Android Apps with Kotlin starts with the building blocks of Android development, teaching you how to use Android Studio, the integrated development environment (IDE) for Android, with the programming language Kotlin for app development.</description>
+    </item>
+    
     <item>
       <title>Full Stack Mobile Application Development - Master Class</title>
       <link>/full-stack-mobile-application-development-master-class/</link>
