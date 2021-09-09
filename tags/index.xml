@@ -6,20 +6,11 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 09:53:56 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>3D &amp; Animation</title>
-      <link>/tags/3d-animation/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/3d-animation/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 09 Sep 2021 11:42:15 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
       <link>/tags/business/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
       
       <guid>/tags/business/</guid>
       <description></description>
@@ -28,7 +19,7 @@
     <item>
       <title>Business Strategy</title>
       <link>/tags/business-strategy/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
       
       <guid>/tags/business-strategy/</guid>
       <description></description>
@@ -37,9 +28,180 @@
     <item>
       <title>Career Development</title>
       <link>/tags/career-development/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
       
       <guid>/tags/career-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing</title>
+      <link>/tags/digital-marketing/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/digital-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-Commerce</title>
+      <link>/tags/e-commerce/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>/tags/engineering/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance &amp; Accounting</title>
+      <link>/tags/finance-accounting/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/finance-accounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Development</title>
+      <link>/tags/game-development/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/game-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investing &amp; Trading</title>
+      <link>/tags/investing-trading/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/investing-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>/tags/marketing/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/tags/music/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Software</title>
+      <link>/tags/music-software/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/music-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Teaching &amp; Academics</title>
+      <link>/tags/other-teaching-academics/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/other-teaching-academics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Development</title>
+      <link>/tags/personal-development/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/personal-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search Engine Optimization</title>
+      <link>/tags/search-engine-optimization/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/search-engine-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media Marketing</title>
+      <link>/tags/social-media-marketing/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/social-media-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Science</title>
+      <link>/tags/social-science/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/social-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress Management</title>
+      <link>/tags/stress-management/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/stress-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching &amp; Academics</title>
+      <link>/tags/teaching-academics/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/teaching-academics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>udemy free courses</title>
+      <link>/tags/udemy-free-courses/</link>
+      <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
+      
+      <guid>/tags/udemy-free-courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D &amp; Animation</title>
+      <link>/tags/3d-animation/</link>
+      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      
+      <guid>/tags/3d-animation/</guid>
       <description></description>
     </item>
     
@@ -62,65 +224,11 @@
     </item>
     
     <item>
-      <title>Development</title>
-      <link>/tags/development/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital Marketing</title>
-      <link>/tags/digital-marketing/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/digital-marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E-Commerce</title>
-      <link>/tags/e-commerce/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/e-commerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Engineering</title>
-      <link>/tags/engineering/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finance &amp; Accounting</title>
-      <link>/tags/finance-accounting/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/finance-accounting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fitness</title>
       <link>/tags/fitness/</link>
       <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
       
       <guid>/tags/fitness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game Development</title>
-      <link>/tags/game-development/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/game-development/</guid>
       <description></description>
     </item>
     
@@ -134,47 +242,11 @@
     </item>
     
     <item>
-      <title>Investing &amp; Trading</title>
-      <link>/tags/investing-trading/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/investing-trading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marketing</title>
-      <link>/tags/marketing/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Microsoft</title>
       <link>/tags/microsoft/</link>
       <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
       
       <guid>/tags/microsoft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>/tags/music/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music Software</title>
-      <link>/tags/music-software/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/music-software/</guid>
       <description></description>
     </item>
     
@@ -188,29 +260,11 @@
     </item>
     
     <item>
-      <title>Other Teaching &amp; Academics</title>
-      <link>/tags/other-teaching-academics/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/other-teaching-academics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Parenting &amp; Relationships</title>
       <link>/tags/parenting-relationships/</link>
       <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
       
       <guid>/tags/parenting-relationships/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Development</title>
-      <link>/tags/personal-development/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/personal-development/</guid>
       <description></description>
     </item>
     
@@ -224,15 +278,6 @@
     </item>
     
     <item>
-      <title>Search Engine Optimization</title>
-      <link>/tags/search-engine-optimization/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/search-engine-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Self Esteem &amp; Confidence</title>
       <link>/tags/self-esteem-confidence/</link>
       <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
@@ -242,56 +287,11 @@
     </item>
     
     <item>
-      <title>Social Media Marketing</title>
-      <link>/tags/social-media-marketing/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/social-media-marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Science</title>
-      <link>/tags/social-science/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/social-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Software Development Tools</title>
       <link>/tags/software-development-tools/</link>
       <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
       
       <guid>/tags/software-development-tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stress Management</title>
-      <link>/tags/stress-management/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/stress-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching &amp; Academics</title>
-      <link>/tags/teaching-academics/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/teaching-academics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>udemy free courses</title>
-      <link>/tags/udemy-free-courses/</link>
-      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
-      
-      <guid>/tags/udemy-free-courses/</guid>
       <description></description>
     </item>
     
