@@ -6,11 +6,31 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 15:50:17 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 18:05:48 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics of Database Design &amp; Development</title>
+      <link>/basics-of-database-design-development/</link>
+      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
+      
+      <guid>/basics-of-database-design-development/</guid>
+      <description>Database design is the process of producing a detailed data model of a database. This data model contains all the needed logical and physical design choices and physical storage parameters needed to generate a design. Through this tutorial we will try to teach the basis components of database design and explains how to make a good database design.
+Designing a database is in fact fairly easy, but there are a few rules to stick to.</description>
+    </item>
+    
+    <item>
+      <title>Java for Beginners - Learn all the Basics of Java</title>
+      <link>/java-for-beginners-learn-all-the-basics-of-java/</link>
+      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
+      
+      <guid>/java-for-beginners-learn-all-the-basics-of-java/</guid>
+      <description>Learning the how to program in any programming language can be very complicated especially if you never did any programming before. Programming in java is not different, but this course is here to help master this programming language. If you : - Need to learn the basics of this programming language for work - Are in school and need to understand certain Java concepts
+- Want to create various projects with this programming language - Simply are curious about this topic</description>
+    </item>
+    
     <item>
       <title>Learn HTML5 In-Depth - With Real-World Examples</title>
       <link>/learn-html5-in-depth-with-real-world-examples/</link>
-      <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
+      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
       
       <guid>/learn-html5-in-depth-with-real-world-examples/</guid>
       <description>HTML is the main markup language for web pages. 
@@ -26,6 +46,29 @@ You will learn HTML5 elements including images, videos, lists, tables, forms, If
     </item>
     
     <item>
+      <title>Server Infrastructure</title>
+      <link>/server-infrastructure/</link>
+      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
+      
+      <guid>/server-infrastructure/</guid>
+      <description>SO, YOU’RE LOOKING FOR A COURSE THAT WILL TEACH YOU SERVER INFRASTRUCTURE &amp;amp; IN A FUN MANNER?
+I’ve got just the course for you!
+Welcome, my name is Josh Werner with Learn Tech Plus and I’ve put this course together to help people just like you quickly master Server Infrastructure...Whether you’re a beginner or experienced with Server Infrastructure!
+If your goal is to become a user of Server Infrastructure, then this course is perfect for you.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Analysis &amp; Geospatial Data Science in Python</title>
+      <link>/spatial-analysis-geospatial-data-science-in-python/</link>
+      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
+      
+      <guid>/spatial-analysis-geospatial-data-science-in-python/</guid>
+      <description>Geospatial data science is a subset of data science that focuses on spatial data and its unique techniques. In this, we are going to perform spatial analysis and trying to find insights from spatial data. In this course, we lay the foundation for a career in Geospatial Data Science. You will get hands-on Geopy, Plotly etc.. the workhorse of Geospatial data science Python libraries.
+
+The topics covered in this course widely touch on some of the most used spatial technique in Geospatial data science.</description>
+    </item>
+    
+    <item>
       <title>Python Programming Beginner to Advance &#43; Machine Learning</title>
       <link>/python-programming-beginner-to-advance-machine-learning/</link>
       <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
@@ -35,37 +78,6 @@ You will learn HTML5 elements including images, videos, lists, tables, forms, If
 Go from beginner to advance in Python Programming! Apply your knowledge in Machine Learning Data Science &amp;amp; Data Analysis in this intensive course!
 Python is the most widely used programming language on the planet. In the United States, the average pay for a Python developer is $116k. That&#39;s almost $30k more than the competition!
 This course (Python Programming Beginner to Advance + Machine Learning) will help you reach your dreams!</description>
-    </item>
-    
-    <item>
-      <title>Basics of Database Design &amp; Development</title>
-      <link>/basics-of-database-design-development/</link>
-      <pubDate>Thu, 09 Sep 2021 15:50:16 +0530</pubDate>
-      
-      <guid>/basics-of-database-design-development/</guid>
-      <description>Database design is the process of producing a detailed data model of a database. This data model contains all the needed logical and physical design choices and physical storage parameters needed to generate a design. Through this tutorial we will try to teach the basis components of database design and explains how to make a good database design.
-Designing a database is in fact fairly easy, but there are a few rules to stick to.</description>
-    </item>
-    
-    <item>
-      <title>Java for Beginners - Learn all the Basics of Java</title>
-      <link>/java-for-beginners-learn-all-the-basics-of-java/</link>
-      <pubDate>Thu, 09 Sep 2021 15:50:16 +0530</pubDate>
-      
-      <guid>/java-for-beginners-learn-all-the-basics-of-java/</guid>
-      <description>Learning the how to program in any programming language can be very complicated especially if you never did any programming before. Programming in java is not different, but this course is here to help master this programming language. If you : - Need to learn the basics of this programming language for work - Are in school and need to understand certain Java concepts
-- Want to create various projects with this programming language - Simply are curious about this topic</description>
-    </item>
-    
-    <item>
-      <title>Spatial Analysis &amp; Geospatial Data Science in Python</title>
-      <link>/spatial-analysis-geospatial-data-science-in-python/</link>
-      <pubDate>Thu, 09 Sep 2021 15:50:16 +0530</pubDate>
-      
-      <guid>/spatial-analysis-geospatial-data-science-in-python/</guid>
-      <description>Geospatial data science is a subset of data science that focuses on spatial data and its unique techniques. In this, we are going to perform spatial analysis and trying to find insights from spatial data. In this course, we lay the foundation for a career in Geospatial Data Science. You will get hands-on Geopy, Plotly etc.. the workhorse of Geospatial data science Python libraries.
-
-The topics covered in this course widely touch on some of the most used spatial technique in Geospatial data science.</description>
     </item>
     
     <item>
