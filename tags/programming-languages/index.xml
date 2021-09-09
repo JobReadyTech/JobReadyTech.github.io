@@ -6,7 +6,19 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Sep 2021 18:43:42 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 09:53:56 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python for Absolute Beginners® | Zero to Expert 2021</title>
+      <link>/python-for-absolute-beginners-zero-to-expert-2021/</link>
+      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      
+      <guid>/python-for-absolute-beginners-zero-to-expert-2021/</guid>
+      <description>Are you tired of checking multiple courses on Python and not found even one which meets your actual requirements?
+
+Most beginners study core part of the programming easily but actual programming starts after core programming is finished, since most of real world problems are solved by using programming paradigms such as iteration, recursion, comprehension, object oriented programming etc. 
+Most of the preceding topics are heavily influenced by fundamental mathematics, I will try to teach you fundamental mathematics through these programming paradigm such as iteration and recursion through this course.</description>
+    </item>
+    
     <item>
       <title>Project Development Using JAVA for Beginners - 2021</title>
       <link>/project-development-using-java-for-beginners-2021/</link>

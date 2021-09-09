@@ -6,7 +6,18 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Sep 2021 17:46:02 +0530</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 09:53:56 +0530</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build a To-Do List App with Node, Express, React and MongoDB</title>
+      <link>/build-a-to-do-list-app-with-node-express-react-and-mongodb/</link>
+      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      
+      <guid>/build-a-to-do-list-app-with-node-express-react-and-mongodb/</guid>
+      <description>React is the most popular JavaScript library of the last five years, and the job market is still hotter than ever. Companies large and small hire engineers who understand React, and salaries for engineers are high all the time. So, it&#39;s a great time to learn React! This course starts with zero knowledge assumed! All you need is basic web development and JavaScript knowledge.
+
+In this course, you&#39;ll start with the basics of React and React Hooks and then expand your knowledge by building a fun to-do list app, both the front-end and the back-end, which puts you in a state of learning in a practical way.</description>
+    </item>
+    
     <item>
       <title>jQuery for Absolute Beginners : From Beginning to Advanced</title>
       <link>/jquery-for-absolute-beginners-from-beginning-to-advanced/</link>

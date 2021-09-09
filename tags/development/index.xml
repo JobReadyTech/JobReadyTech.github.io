@@ -6,7 +6,58 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Sep 2021 18:43:42 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 09:53:56 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build a To-Do List App with Node, Express, React and MongoDB</title>
+      <link>/build-a-to-do-list-app-with-node-express-react-and-mongodb/</link>
+      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      
+      <guid>/build-a-to-do-list-app-with-node-express-react-and-mongodb/</guid>
+      <description>React is the most popular JavaScript library of the last five years, and the job market is still hotter than ever. Companies large and small hire engineers who understand React, and salaries for engineers are high all the time. So, it&#39;s a great time to learn React! This course starts with zero knowledge assumed! All you need is basic web development and JavaScript knowledge.
+
+In this course, you&#39;ll start with the basics of React and React Hooks and then expand your knowledge by building a fun to-do list app, both the front-end and the back-end, which puts you in a state of learning in a practical way.</description>
+    </item>
+    
+    <item>
+      <title>Jira Essentials</title>
+      <link>/jira-essentials/</link>
+      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      
+      <guid>/jira-essentials/</guid>
+      <description>More than 65 000 companies use Jira nowadays and the number is growing. Whether you are already working in one of these companies and need to step up in your Jira game, or are planning a career change and need to add &#34;Jira expertise&#34; to your CV to increase your chances, this course is for you! After completing this course you will be able to confidently set up Jira projects, create and modify issues, set up filters, Scrum and Kanban boards and dashboards.</description>
+    </item>
+    
+    <item>
+      <title>Python for Absolute Beginners® | Zero to Expert 2021</title>
+      <link>/python-for-absolute-beginners-zero-to-expert-2021/</link>
+      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      
+      <guid>/python-for-absolute-beginners-zero-to-expert-2021/</guid>
+      <description>Are you tired of checking multiple courses on Python and not found even one which meets your actual requirements?
+
+Most beginners study core part of the programming easily but actual programming starts after core programming is finished, since most of real world problems are solved by using programming paradigms such as iteration, recursion, comprehension, object oriented programming etc. 
+Most of the preceding topics are heavily influenced by fundamental mathematics, I will try to teach you fundamental mathematics through these programming paradigm such as iteration and recursion through this course.</description>
+    </item>
+    
+    <item>
+      <title>Python for Data Science &amp; Machine Learning from A-Z</title>
+      <link>/python-for-data-science-machine-learning-from-a-z/</link>
+      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      
+      <guid>/python-for-data-science-machine-learning-from-a-z/</guid>
+      <description>Learn Python for Data Science &amp;amp; Machine Learning from A-Z
+In this practical, hands-on course you’ll learn how to program using Python for Data Science and Machine Learning. This includes data analysis, visualization, and how to make use of that data in a practical manner. Our main objective is to give you the education not just to understand the ins and outs of the Python programming language for Data Science and Machine Learning, but also to learn exactly how to become a professional Data Scientist with Python and land your first job.</description>
+    </item>
+    
+    <item>
+      <title>Unity 3D Make A Complete Racing Game</title>
+      <link>/unity-3d-make-a-complete-racing-game/</link>
+      <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
+      
+      <guid>/unity-3d-make-a-complete-racing-game/</guid>
+      <description>Learn Unity Game engine and C# by making a complete racing game. What can be more fun way of learning programming by making your own racing game? In this course we will start from scratch and at the end we will have a complete racing game developed. We will develop AI which will compete with players. You will learn how to make a virtual currency system in your game to buy and unlock cars.</description>
+    </item>
+    
     <item>
       <title>Android App Development Bootcamp with Kotlin - Masterclass</title>
       <link>/android-app-development-bootcamp-with-kotlin-masterclass/</link>
