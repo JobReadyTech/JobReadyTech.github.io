@@ -6,7 +6,18 @@
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Sep 2021 18:43:42 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 15:50:17 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultimate Ethical Hacking Course</title>
+      <link>/ultimate-ethical-hacking-course/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
+      
+      <guid>/ultimate-ethical-hacking-course/</guid>
+      <description>What is ethical hacking?
+Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers. This practice helps to identify security vulnerabilities which can then be resolved before a malicious attacker has the opportunity to exploit them.
+Also known as “white hats,” ethical hackers are security experts that perform these assessments. The proactive work they do helps to improve an organization’s security posture.</description>
+    </item>
+    
     <item>
       <title>Reverse Engineering, Debugging and Malware Analysis - 2021</title>
       <link>/reverse-engineering-debugging-and-malware-analysis-2021/</link>

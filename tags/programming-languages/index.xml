@@ -6,7 +6,29 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 09:53:56 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 15:50:17 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Programming Beginner to Advance &#43; Machine Learning</title>
+      <link>/python-programming-beginner-to-advance-machine-learning/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
+      
+      <guid>/python-programming-beginner-to-advance-machine-learning/</guid>
+      <description>Looking to master Python for your job or as a career enhancement?
+Go from beginner to advance in Python Programming! Apply your knowledge in Machine Learning Data Science &amp;amp; Data Analysis in this intensive course!
+Python is the most widely used programming language on the planet. In the United States, the average pay for a Python developer is $116k. That&#39;s almost $30k more than the competition!
+This course (Python Programming Beginner to Advance + Machine Learning) will help you reach your dreams!</description>
+    </item>
+    
+    <item>
+      <title>Java for Beginners - Learn all the Basics of Java</title>
+      <link>/java-for-beginners-learn-all-the-basics-of-java/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:16 +0530</pubDate>
+      
+      <guid>/java-for-beginners-learn-all-the-basics-of-java/</guid>
+      <description>Learning the how to program in any programming language can be very complicated especially if you never did any programming before. Programming in java is not different, but this course is here to help master this programming language. If you : - Need to learn the basics of this programming language for work - Are in school and need to understand certain Java concepts
+- Want to create various projects with this programming language - Simply are curious about this topic</description>
+    </item>
+    
     <item>
       <title>Python for Absolute Beginners® | Zero to Expert 2021</title>
       <link>/python-for-absolute-beginners-zero-to-expert-2021/</link>
@@ -232,20 +254,6 @@ Playing with Exception events and analyzing Errors.</description>
       <description>Welcome to The Python Programming For Everyone Immersive Training Course for Beginners.
 This Immersive Masterclass covers all the essential&amp;nbsp;topics to become a Professional Python developer from the ground up Topics like: variables, data types, Strings, data structures,&amp;nbsp; functional programming, different types of modules, files handling, object-oriented programming and many more.
 You&#39;ll get A demonstration of each point in this training and an explanation of all theoretical and practical aspects in an easy way and in an easy language for anyone.</description>
-    </item>
-    
-    <item>
-      <title>Complete Python Course : from Beginner to Intermediate</title>
-      <link>/complete-python-course-from-beginner-to-intermediate/</link>
-      <pubDate>Sat, 28 Aug 2021 15:04:35 +0530</pubDate>
-      
-      <guid>/complete-python-course-from-beginner-to-intermediate/</guid>
-      <description>Looking to mater Python for your job or as a career enhancement?
-Python is the most widely used programming language on the planet. In the United States, the average pay for a Python developer is $116k. That&#39;s almost $30k more than the competition!
-
-Python is utilized by large corporations like as Google, Facebook, Dropbox, Reddit, Spotify, Quora, and others.
-
-Its clear and beautiful syntax appeals to mathematicians, scientists, engineers, and developers.</description>
     </item>
     
   </channel>

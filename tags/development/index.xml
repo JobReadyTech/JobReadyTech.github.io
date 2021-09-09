@@ -6,7 +6,68 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 11:42:15 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 15:50:17 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn HTML5 In-Depth - With Real-World Examples</title>
+      <link>/learn-html5-in-depth-with-real-world-examples/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
+      
+      <guid>/learn-html5-in-depth-with-real-world-examples/</guid>
+      <description>HTML is the main markup language for web pages. 
+HTML elements are the basic building-blocks of web pages. 
+Learning HTML is your first step to become a web developer. 
+HTML concepts will help you learn other web development technologies faster.
+
+In this course you will learn how to create web pages using HTML5.
+
+Which is foundation for web development.
+
+You will learn HTML5 elements including images, videos, lists, tables, forms, Iframes and much more with Real-world Examples.</description>
+    </item>
+    
+    <item>
+      <title>Python Programming Beginner to Advance &#43; Machine Learning</title>
+      <link>/python-programming-beginner-to-advance-machine-learning/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
+      
+      <guid>/python-programming-beginner-to-advance-machine-learning/</guid>
+      <description>Looking to master Python for your job or as a career enhancement?
+Go from beginner to advance in Python Programming! Apply your knowledge in Machine Learning Data Science &amp;amp; Data Analysis in this intensive course!
+Python is the most widely used programming language on the planet. In the United States, the average pay for a Python developer is $116k. That&#39;s almost $30k more than the competition!
+This course (Python Programming Beginner to Advance + Machine Learning) will help you reach your dreams!</description>
+    </item>
+    
+    <item>
+      <title>Basics of Database Design &amp; Development</title>
+      <link>/basics-of-database-design-development/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:16 +0530</pubDate>
+      
+      <guid>/basics-of-database-design-development/</guid>
+      <description>Database design is the process of producing a detailed data model of a database. This data model contains all the needed logical and physical design choices and physical storage parameters needed to generate a design. Through this tutorial we will try to teach the basis components of database design and explains how to make a good database design.
+Designing a database is in fact fairly easy, but there are a few rules to stick to.</description>
+    </item>
+    
+    <item>
+      <title>Java for Beginners - Learn all the Basics of Java</title>
+      <link>/java-for-beginners-learn-all-the-basics-of-java/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:16 +0530</pubDate>
+      
+      <guid>/java-for-beginners-learn-all-the-basics-of-java/</guid>
+      <description>Learning the how to program in any programming language can be very complicated especially if you never did any programming before. Programming in java is not different, but this course is here to help master this programming language. If you : - Need to learn the basics of this programming language for work - Are in school and need to understand certain Java concepts
+- Want to create various projects with this programming language - Simply are curious about this topic</description>
+    </item>
+    
+    <item>
+      <title>Spatial Analysis &amp; Geospatial Data Science in Python</title>
+      <link>/spatial-analysis-geospatial-data-science-in-python/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:16 +0530</pubDate>
+      
+      <guid>/spatial-analysis-geospatial-data-science-in-python/</guid>
+      <description>Geospatial data science is a subset of data science that focuses on spatial data and its unique techniques. In this, we are going to perform spatial analysis and trying to find insights from spatial data. In this course, we lay the foundation for a career in Geospatial Data Science. You will get hands-on Geopy, Plotly etc.. the workhorse of Geospatial data science Python libraries.
+
+The topics covered in this course widely touch on some of the most used spatial technique in Geospatial data science.</description>
+    </item>
+    
     <item>
       <title>Unity 3D Make A Complete Racing Game</title>
       <link>/unity-3d-make-a-complete-racing-game/</link>
@@ -179,17 +240,6 @@ CSS Selectors, properties and attributes ID Selectors Class Selectors Element Se
       <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
 - Are in school and want to learn how to program in python
 - Need to learn this programming language for work</description>
-    </item>
-    
-    <item>
-      <title>Spatial Analysis &amp; Geospatial Data Science in Python</title>
-      <link>/spatial-analysis-geospatial-data-science-in-python/</link>
-      <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
-      
-      <guid>/spatial-analysis-geospatial-data-science-in-python/</guid>
-      <description>Geospatial data science is a subset of data science that focuses on spatial data and its unique techniques. In this, we are going to perform spatial analysis and trying to find insights from spatial data. In this course, we lay the foundation for a career in Geospatial Data Science. You will get hands-on Geopy, Plotly etc.. the workhorse of Geospatial data science Python libraries.
-
-The topics covered in this course widely touch on some of the most used spatial technique in Geospatial data science.</description>
     </item>
     
     <item>
@@ -572,24 +622,6 @@ We focus on teaching you only what you need to know and keeping the videos short
     </item>
     
     <item>
-      <title>Learn HTML5 In-Depth - With Real-World Examples</title>
-      <link>/learn-html5-in-depth-with-real-world-examples/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/learn-html5-in-depth-with-real-world-examples/</guid>
-      <description>HTML is the main markup language for web pages. 
-HTML elements are the basic building-blocks of web pages. 
-Learning HTML is your first step to become a web developer. 
-HTML concepts will help you learn other web development technologies faster.
-
-In this course you will learn how to create web pages using HTML5.
-
-Which is foundation for web development.
-
-You will learn HTML5 elements including images, videos, lists, tables, forms, Iframes and much more with Real-world Examples.</description>
-    </item>
-    
-    <item>
       <title>Learn Unity Shaders from Scratch</title>
       <link>/learn-unity-shaders-from-scratch/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
@@ -785,20 +817,6 @@ You&#39;ll get A demonstration of each point in this training and an explanation
       <guid>/web-development-with-bootstrap-python-django/</guid>
       <description>Hello there, Welcome to Web Development with Bootstrap, Python &amp;amp; Django course.
 This course will be your gateway to learn web design with blank HTML, CSS, and Bootstrap files with a step-by-step approach.&amp;nbsp; We can assure you that only this course will enough for you to learn web development from scratch to intermediate. Then you will learn Python Programming step-by-step. I made Python 3 programming simple and easy with exercises, challenges, and lots of real-life examples.</description>
-    </item>
-    
-    <item>
-      <title>Complete Python Course : from Beginner to Intermediate</title>
-      <link>/complete-python-course-from-beginner-to-intermediate/</link>
-      <pubDate>Sat, 28 Aug 2021 15:04:35 +0530</pubDate>
-      
-      <guid>/complete-python-course-from-beginner-to-intermediate/</guid>
-      <description>Looking to mater Python for your job or as a career enhancement?
-Python is the most widely used programming language on the planet. In the United States, the average pay for a Python developer is $116k. That&#39;s almost $30k more than the competition!
-
-Python is utilized by large corporations like as Google, Facebook, Dropbox, Reddit, Spotify, Quora, and others.
-
-Its clear and beautiful syntax appeals to mathematicians, scientists, engineers, and developers.</description>
     </item>
     
     <item>

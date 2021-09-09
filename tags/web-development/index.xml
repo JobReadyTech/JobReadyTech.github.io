@@ -6,7 +6,25 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 09:53:56 +0530</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 15:50:17 +0530</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn HTML5 In-Depth - With Real-World Examples</title>
+      <link>/learn-html5-in-depth-with-real-world-examples/</link>
+      <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
+      
+      <guid>/learn-html5-in-depth-with-real-world-examples/</guid>
+      <description>HTML is the main markup language for web pages. 
+HTML elements are the basic building-blocks of web pages. 
+Learning HTML is your first step to become a web developer. 
+HTML concepts will help you learn other web development technologies faster.
+
+In this course you will learn how to create web pages using HTML5.
+
+Which is foundation for web development.
+
+You will learn HTML5 elements including images, videos, lists, tables, forms, Iframes and much more with Real-world Examples.</description>
+    </item>
+    
     <item>
       <title>Build a To-Do List App with Node, Express, React and MongoDB</title>
       <link>/build-a-to-do-list-app-with-node-express-react-and-mongodb/</link>
@@ -309,24 +327,6 @@ Students will gain hands-on experience with the registration process using popul
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you.
 
 We focus on teaching you only what you need to know and keeping the videos short. The main focus of this course is to teach the basics of HTML, CSS, Javascript, Typescript, and Vue JS. By the end of this course, you should be able to create a basic website, understand how styling a website works and how to get data from a server.</description>
-    </item>
-    
-    <item>
-      <title>Learn HTML5 In-Depth - With Real-World Examples</title>
-      <link>/learn-html5-in-depth-with-real-world-examples/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/learn-html5-in-depth-with-real-world-examples/</guid>
-      <description>HTML is the main markup language for web pages. 
-HTML elements are the basic building-blocks of web pages. 
-Learning HTML is your first step to become a web developer. 
-HTML concepts will help you learn other web development technologies faster.
-
-In this course you will learn how to create web pages using HTML5.
-
-Which is foundation for web development.
-
-You will learn HTML5 elements including images, videos, lists, tables, forms, Iframes and much more with Real-world Examples.</description>
     </item>
     
     <item>
