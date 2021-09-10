@@ -6,7 +6,18 @@
     <description>Recent content in Mobile Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Sep 2021 18:43:42 +0530</lastBuildDate><atom:link href="/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 22:45:16 +0530</lastBuildDate><atom:link href="/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginners guide to Android App Development (Step by Step)</title>
+      <link>/beginners-guide-to-android-app-development-step-by-step/</link>
+      <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
+      
+      <guid>/beginners-guide-to-android-app-development-step-by-step/</guid>
+      <description>Welcome to our course &#34;A beginners guide to Android App Development (step by step)&#34;.
+A Beginner&#39;s Guide to Android App Development
+Looking to launch your own app on Google Play Store but don&#39;t know where to begin? Then here&#39;s your chance to learn the basics and build your skills in Android development. Before you read further, it is an essential prerequisite for a student to have a good understanding of Java (OOPs and Threads, in particular) The Android development course is a collection of Android Application Development tutorial videos.</description>
+    </item>
+    
     <item>
       <title>Android App Development Bootcamp with Kotlin - Masterclass</title>
       <link>/android-app-development-bootcamp-with-kotlin-masterclass/</link>
