@@ -6,7 +6,62 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Sep 2021 13:08:47 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 17:21:16 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create own Artificial Neural Network in Python</title>
+      <link>/create-own-artificial-neural-network-in-python/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/create-own-artificial-neural-network-in-python/</guid>
+      <description>Artificial neural networks (ANNs), also known as neural networks (NNs), are computer systems that are modelled after the biological neural networks that make up animal brains.
+In this course ,we will learn to create our own neural networks with python.
+Details are:
+Introduction to artificial neural network
+Python basics
+Let&#39;s understand algorithm
+Implement ANN in python
+Wrapping up
+
+Introduction to artificial neural network: Artificial neural networks simulates the functioning of human brain .</description>
+    </item>
+    
+    <item>
+      <title>Linkerd - Service mesh for Kubernetes - 2021</title>
+      <link>/linkerd-service-mesh-for-kubernetes-2021/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/linkerd-service-mesh-for-kubernetes-2021/</guid>
+      <description>A different kind of service mesh
+Ultra light, ultra simple, ultra powerful. Linkerd adds security, observability, and reliability to Kubernetes, without the complexity. CNCF-hosted and 100% open source.
+
+Instant platform health metrics
+Instantly track success rates, latencies, and request volumes for every meshed workload, without changes or config.
+Simpler than any other mesh
+Minimalist, Kubernetes-native design. No hidden magic, as little YAML and as few CRDs as possible.
+Zero-config mutual TLS</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Server 2012 R2 - Hands-on Training Part I</title>
+      <link>/microsoft-server-2012-r2-hands-on-training-part-i/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/microsoft-server-2012-r2-hands-on-training-part-i/</guid>
+      <description>About this course: 
+This is Part I of a two-part series for learning Windows Server 2012 r2. Part I is for those needing to become familiar with Server 2012, virtualization, and configuring a Microsoft network from the ground up. In this first part, students will learn how to install and configure Server 2012 r2 just as they would as network administrators or networking consultants.
+Part one of the course trains the student on installing, configuring, and managing the most common roles and features found on a Microsoft network.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Server 2012 R2 - Intermediate Hands-on Training</title>
+      <link>/microsoft-server-2012-r2-intermediate-hands-on-training/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/microsoft-server-2012-r2-intermediate-hands-on-training/</guid>
+      <description>Please do not enroll in this course until you have completed the first building of your virtual lab environment. If you cannot create a virtual install of Server 2012, r2 using a Hypervisor, you will not partake in the lab exercises. 
+This course picks up where Windows Server 2012r2 - Hands-on Training Part I leaves off. In part I of the course, we looked at installing and configuring a Windows Server 2012 r2 domain.</description>
+    </item>
+    
     <item>
       <title>CSS And Javascript Crash Course</title>
       <link>/css-and-javascript-crash-course/</link>
@@ -71,22 +126,6 @@ You will learn all the required topics as given below for HELM - The Package Man
       
       <guid>/kubernetes-cka/ckad-production-grade-course-for-2021/</guid>
       <description>In this Course you are going to learn most of the things which everyone is looking for. This course will help you in understading production environment and i have capture most of the things in the course which you going to face in the Interview and while working in production. Like what are the options we can use to create a cluster, Like Kubeadm, KOPS, Rancher, K3s, EKS . Have almost covered from the Installation to deploying the applications and securing them.</description>
-    </item>
-    
-    <item>
-      <title>Linkerd - Service mesh for Kubernetes - 2021</title>
-      <link>/linkerd-service-mesh-for-kubernetes-2021/</link>
-      <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
-      
-      <guid>/linkerd-service-mesh-for-kubernetes-2021/</guid>
-      <description>A different kind of service mesh
-Ultra light, ultra simple, ultra powerful. Linkerd adds security, observability, and reliability to Kubernetes, without the complexity. CNCF-hosted and 100% open source.
-
-Instant platform health metrics
-Instantly track success rates, latencies, and request volumes for every meshed workload, without changes or config.
-Simpler than any other mesh
-Minimalist, Kubernetes-native design. No hidden magic, as little YAML and as few CRDs as possible.
-Zero-config mutual TLS</description>
     </item>
     
     <item>

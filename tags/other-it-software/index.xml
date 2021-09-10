@@ -6,7 +6,41 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Sep 2021 13:08:47 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 17:21:16 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create own Artificial Neural Network in Python</title>
+      <link>/create-own-artificial-neural-network-in-python/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/create-own-artificial-neural-network-in-python/</guid>
+      <description>Artificial neural networks (ANNs), also known as neural networks (NNs), are computer systems that are modelled after the biological neural networks that make up animal brains.
+In this course ,we will learn to create our own neural networks with python.
+Details are:
+Introduction to artificial neural network
+Python basics
+Let&#39;s understand algorithm
+Implement ANN in python
+Wrapping up
+
+Introduction to artificial neural network: Artificial neural networks simulates the functioning of human brain .</description>
+    </item>
+    
+    <item>
+      <title>Linkerd - Service mesh for Kubernetes - 2021</title>
+      <link>/linkerd-service-mesh-for-kubernetes-2021/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/linkerd-service-mesh-for-kubernetes-2021/</guid>
+      <description>A different kind of service mesh
+Ultra light, ultra simple, ultra powerful. Linkerd adds security, observability, and reliability to Kubernetes, without the complexity. CNCF-hosted and 100% open source.
+
+Instant platform health metrics
+Instantly track success rates, latencies, and request volumes for every meshed workload, without changes or config.
+Simpler than any other mesh
+Minimalist, Kubernetes-native design. No hidden magic, as little YAML and as few CRDs as possible.
+Zero-config mutual TLS</description>
+    </item>
+    
     <item>
       <title>Docker - Almost Complete Guide with Hands-On for 2021</title>
       <link>/docker-almost-complete-guide-with-hands-on-for-2021/</link>
@@ -45,22 +79,6 @@ You will learn all the required topics as given below for HELM - The Package Man
       
       <guid>/kubernetes-cka/ckad-production-grade-course-for-2021/</guid>
       <description>In this Course you are going to learn most of the things which everyone is looking for. This course will help you in understading production environment and i have capture most of the things in the course which you going to face in the Interview and while working in production. Like what are the options we can use to create a cluster, Like Kubeadm, KOPS, Rancher, K3s, EKS . Have almost covered from the Installation to deploying the applications and securing them.</description>
-    </item>
-    
-    <item>
-      <title>Linkerd - Service mesh for Kubernetes - 2021</title>
-      <link>/linkerd-service-mesh-for-kubernetes-2021/</link>
-      <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
-      
-      <guid>/linkerd-service-mesh-for-kubernetes-2021/</guid>
-      <description>A different kind of service mesh
-Ultra light, ultra simple, ultra powerful. Linkerd adds security, observability, and reliability to Kubernetes, without the complexity. CNCF-hosted and 100% open source.
-
-Instant platform health metrics
-Instantly track success rates, latencies, and request volumes for every meshed workload, without changes or config.
-Simpler than any other mesh
-Minimalist, Kubernetes-native design. No hidden magic, as little YAML and as few CRDs as possible.
-Zero-config mutual TLS</description>
     </item>
     
     <item>

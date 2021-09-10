@@ -6,7 +6,28 @@
     <description>Recent content in Operating Systems &amp; Servers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 04 Sep 2021 14:39:46 +0530</lastBuildDate><atom:link href="/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 17:21:16 +0530</lastBuildDate><atom:link href="/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Server 2012 R2 - Hands-on Training Part I</title>
+      <link>/microsoft-server-2012-r2-hands-on-training-part-i/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/microsoft-server-2012-r2-hands-on-training-part-i/</guid>
+      <description>About this course: 
+This is Part I of a two-part series for learning Windows Server 2012 r2. Part I is for those needing to become familiar with Server 2012, virtualization, and configuring a Microsoft network from the ground up. In this first part, students will learn how to install and configure Server 2012 r2 just as they would as network administrators or networking consultants.
+Part one of the course trains the student on installing, configuring, and managing the most common roles and features found on a Microsoft network.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Server 2012 R2 - Intermediate Hands-on Training</title>
+      <link>/microsoft-server-2012-r2-intermediate-hands-on-training/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/microsoft-server-2012-r2-intermediate-hands-on-training/</guid>
+      <description>Please do not enroll in this course until you have completed the first building of your virtual lab environment. If you cannot create a virtual install of Server 2012, r2 using a Hypervisor, you will not partake in the lab exercises. 
+This course picks up where Windows Server 2012r2 - Hands-on Training Part I leaves off. In part I of the course, we looked at installing and configuring a Windows Server 2012 r2 domain.</description>
+    </item>
+    
     <item>
       <title>Linux Command Line Terminal Basic for Beginners (In Hindi)</title>
       <link>/linux-command-line-terminal-basic-for-beginners-in-hindi/</link>

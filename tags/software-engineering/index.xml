@@ -6,7 +6,16 @@
     <description>Recent content in Software Engineering on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Sep 2021 13:11:36 +0530</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 17:21:16 +0530</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Quantum Computing</title>
+      <link>/introduction-to-quantum-computing/</link>
+      <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
+      
+      <guid>/introduction-to-quantum-computing/</guid>
+      <description>Understanding what quantum computing is is definitely not an easy task. Indeed, since this is a new science there is a few places where you can find a quality introduction course about this topic. Indeed, usually all the course are either to advanced or simply does not cover properly the topic of quantum computing. But, this course is designed to give you all the basic knowledge about the topic. If you :</description>
+    </item>
+    
     <item>
       <title>Data Structures and Algorithms for Coding Interview</title>
       <link>/data-structures-and-algorithms-for-coding-interview/</link>
