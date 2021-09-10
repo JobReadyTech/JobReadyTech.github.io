@@ -3,24 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/business/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/business-strategy/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/communication/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/cross-cultural-management-made-easy/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/css-and-javascript-crash-course/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/data-analytics-real-world-projects-in-python/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/development/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/digital-marketing/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/docker-almost-complete-guide-with-hands-on-for-2021/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/facebook-ads-b2b-facebook-advertising-facebook-ads-for-b2b/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/fundamental-question-on-digital-marketing/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/gaming/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/gatsby-js-build-a-personal-blog-using-gatsbyjs/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/google-analytics-for-beginners/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/helm-3-package-manager-for-kubernetes-for-2021/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/human-resources/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/it-software/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/it-certifications/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/kubernetes-cka/ckad-production-grade-course-for-2021/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/language-learning/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/learn-egyptian-arabic-through-cartoon-movie/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/lifestyle/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/linkerd-service-mesh-for-kubernetes-2021/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/management-consulting-essential-training/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/management-consulting-presentation-essential-training/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/management-consulting-skills-mastery/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/marketing/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/mern-stack-with-blog-project/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/online-education/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/other-it-software/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/poker-mastery-get-the-mental-edge-in-your-poker-game/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/python-complete-course-for-beginners/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/social-media-marketing/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/teaching-academics/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/udemy-free-courses/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/categories/udemy-free-courses/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
+  </url><url>
+    <loc>/tags/web-development/</loc>
+    <lastmod>2021-09-10T13:08:47+05:30</lastmod>
   </url><url>
     <loc>/2021-armed-services-vocational-aptitude-battery-asvab-tests/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
-    <loc>/tags/business/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/business-strategy/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
     <loc>/c#-full-course-in-5-hours-in-arabic/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/communication/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
     <loc>/corso-completo-di-teatro-per-bambini-4-6-anni/</loc>
@@ -29,37 +137,13 @@
     <loc>/criminology-fundamentals-of-criminal-psychology-and-law/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
-    <loc>/cross-cultural-management-made-easy/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
     <loc>/tags/design/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
     <loc>/deutsch-klare-kommunikation-a2-c1/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
-    <loc>/tags/development/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/digital-marketing/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/docker-almost-complete-guide-with-hands-on-for-2021/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
     <loc>/tags/entrepreneurship/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/facebook-ads-b2b-facebook-advertising-facebook-ads-for-b2b/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/fundamental-question-on-digital-marketing/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/gatsby-js-build-a-personal-blog-using-gatsbyjs/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/google-analytics-for-beginners/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
     <loc>/tags/graphic-design-illustration/</loc>
@@ -68,43 +152,7 @@
     <loc>/graphic-design-bulletproof-freelance-business/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
-    <loc>/helm-3-package-manager-for-kubernetes-for-2021/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/human-resources/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
     <loc>/insight-to-post-pandemic-importance-of-lean-six-sigma/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/it-software/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/it-certifications/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/kubernetes-cka/ckad-production-grade-course-for-2021/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/language-learning/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/learn-egyptian-arabic-through-cartoon-movie/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/linkerd-service-mesh-for-kubernetes-2021/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/management-consulting-presentation-essential-training/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/management-consulting-skills-mastery/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/marketing/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/mern-stack-with-blog-project/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
     <loc>/tags/microsoft/</loc>
@@ -113,19 +161,7 @@
     <loc>/tags/office-productivity/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
-    <loc>/tags/online-education/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/other-it-software/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
     <loc>/tags/other-teaching-academics/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/social-media-marketing/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
     <loc>/tags/social-science/</loc>
@@ -134,25 +170,10 @@
     <loc>/startup-marketing-0-to-1-million-startup-entrepeneur-revenue/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
     <loc>/tags/teacher-training/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
-    <loc>/tags/teaching-academics/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
     <loc>/tags/test-prep/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/udemy-free-courses/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/categories/udemy-free-courses/</loc>
-    <lastmod>2021-09-10T09:16:32+05:30</lastmod>
-  </url><url>
-    <loc>/tags/web-development/</loc>
     <lastmod>2021-09-10T09:16:32+05:30</lastmod>
   </url><url>
     <loc>/zero-to-hero-in-microsoft-excel-complete-excel-guide-2021/</loc>
@@ -747,9 +768,6 @@
     <lastmod>2021-09-07T16:12:05+05:30</lastmod>
   </url><url>
     <loc>/high-school-organic-chemistry-1/</loc>
-    <lastmod>2021-09-07T16:12:05+05:30</lastmod>
-  </url><url>
-    <loc>/tags/lifestyle/</loc>
     <lastmod>2021-09-07T16:12:05+05:30</lastmod>
   </url><url>
     <loc>/tags/operations/</loc>
@@ -1467,9 +1485,6 @@
     <lastmod>2021-08-29T00:48:31+05:30</lastmod>
   </url><url>
     <loc>/make-money-online-with-digital-product-launch/</loc>
-    <lastmod>2021-08-29T00:48:31+05:30</lastmod>
-  </url><url>
-    <loc>/management-consulting-essential-training/</loc>
     <lastmod>2021-08-29T00:48:31+05:30</lastmod>
   </url><url>
     <loc>/tags/marketing-analytics-automation/</loc>
