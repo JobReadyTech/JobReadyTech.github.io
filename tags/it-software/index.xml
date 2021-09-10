@@ -6,7 +6,74 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 20:12:17 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 09:16:32 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C# Full Course in 5 Hours [in Arabic]</title>
+      <link>/c#-full-course-in-5-hours-in-arabic/</link>
+      <pubDate>Fri, 10 Sep 2021 09:16:32 +0530</pubDate>
+      
+      <guid>/c#-full-course-in-5-hours-in-arabic/</guid>
+      <description>*هذا الكورس لكل من يريد البدء بلغة سي شارب الجميلة من الصفر و*
+-ستتعلم الكثير من الأشياء في هذا الكورس بالتفصيل الذي يجعلك تفهم حتى ولو نسبة قليلة ,المهم أن تجرب وتحلل العديد من المشاكل في ابرمجة -ستتعلم في الكورس المبادئ من تحت الصفر حتى , ستصل الى نقطة يمكنك اختيار المجال الذي يريجك فأنت تعرف كل ما تريد معرفته بعد انهاء الكورس لتتخصص وتبدع في مجال معين .
+ستتعلم الأساسيات بالتفصيل</description>
+    </item>
+    
+    <item>
+      <title>Docker - Almost Complete Guide with Hands-On for 2021</title>
+      <link>/docker-almost-complete-guide-with-hands-on-for-2021/</link>
+      <pubDate>Fri, 10 Sep 2021 09:16:32 +0530</pubDate>
+      
+      <guid>/docker-almost-complete-guide-with-hands-on-for-2021/</guid>
+      <description>Are you ready to take your DevOps skills and career to the next level, take this course now!
+You will go from zero to Docker hero in couple of hours.
+Why choosing this course?
+This course is very hands on, Himanshu has put lots effort to provide you with not only the theory but also real-life examples of developing Docker applications that you can try out on your own laptop.</description>
+    </item>
+    
+    <item>
+      <title>Helm 3 - Package Manager For Kubernetes for 2021</title>
+      <link>/helm-3-package-manager-for-kubernetes-for-2021/</link>
+      <pubDate>Fri, 10 Sep 2021 09:16:32 +0530</pubDate>
+      
+      <guid>/helm-3-package-manager-for-kubernetes-for-2021/</guid>
+      <description>What you&#39;ll learn
+Working with Helm Charts and Releases
+Helm Architecture and concepts
+Create custom Helm Charts and Deploy applications to Kubernetes using Helm
+Working with Stable and Custom Helm Charts
+Create Automated Kubernetes Deployments with Helm
+Helm package manager installation and configuration
+Working with Chartmuseum Repository
+Expert Secrets from Industry - master troubleshooting tricks that you won’t find anywhere else
+Description
+You will learn all the required topics as given below for HELM - The Package Manager for Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes: CKA/CKAD, Production Grade Course for 2021</title>
+      <link>/kubernetes-cka/ckad-production-grade-course-for-2021/</link>
+      <pubDate>Fri, 10 Sep 2021 09:16:32 +0530</pubDate>
+      
+      <guid>/kubernetes-cka/ckad-production-grade-course-for-2021/</guid>
+      <description>In this Course you are going to learn most of the things which everyone is looking for. This course will help you in understading production environment and i have capture most of the things in the course which you going to face in the Interview and while working in production. Like what are the options we can use to create a cluster, Like Kubeadm, KOPS, Rancher, K3s, EKS . Have almost covered from the Installation to deploying the applications and securing them.</description>
+    </item>
+    
+    <item>
+      <title>Linkerd - Service mesh for Kubernetes - 2021</title>
+      <link>/linkerd-service-mesh-for-kubernetes-2021/</link>
+      <pubDate>Fri, 10 Sep 2021 09:16:32 +0530</pubDate>
+      
+      <guid>/linkerd-service-mesh-for-kubernetes-2021/</guid>
+      <description>A different kind of service mesh
+Ultra light, ultra simple, ultra powerful. Linkerd adds security, observability, and reliability to Kubernetes, without the complexity. CNCF-hosted and 100% open source.
+
+Instant platform health metrics
+Instantly track success rates, latencies, and request volumes for every meshed workload, without changes or config.
+Simpler than any other mesh
+Minimalist, Kubernetes-native design. No hidden magic, as little YAML and as few CRDs as possible.
+Zero-config mutual TLS</description>
+    </item>
+    
     <item>
       <title>480 Questions: Scrum Master Certification &amp; 2 Practice Tests</title>
       <link>/480-questions-scrum-master-certification-2-practice-tests/</link>

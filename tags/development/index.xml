@@ -6,7 +6,29 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 22:42:45 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 09:16:32 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gatsby JS | Build a personal blog using gatsbyJS</title>
+      <link>/gatsby-js-build-a-personal-blog-using-gatsbyjs/</link>
+      <pubDate>Fri, 10 Sep 2021 09:16:32 +0530</pubDate>
+      
+      <guid>/gatsby-js-build-a-personal-blog-using-gatsbyjs/</guid>
+      <description>Learn to build blazing fast apps and websites with React using Gatsby, a static PWA (Progressive Web App) generator! Starting from scratch, you’ll learn to build a full blog app
+Gatsby is a React-based, GraphQL powered static site generator. It combines together the best parts of React, webpack, react-router, GraphQL, and other front end tools to provide excellent developer experience. Gatsby is far more than typical static site generator though. You can think of it more like a modern front-end framework.</description>
+    </item>
+    
+    <item>
+      <title>MERN Stack with Blog Project</title>
+      <link>/mern-stack-with-blog-project/</link>
+      <pubDate>Fri, 10 Sep 2021 09:16:32 +0530</pubDate>
+      
+      <guid>/mern-stack-with-blog-project/</guid>
+      <description>Welcome to &#34;MERN Stack with Blog Project&#34;. In this course, we will be building an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full-stack application. This course includes...
+Building an extensive backend API with Node.js &amp;amp; Express
+Extensive API testing with Postman
+Integrating React with our backend in an elegant way, creating a great workflow</description>
+    </item>
+    
     <item>
       <title>Java for Beginners - Learn all the Basics of Java</title>
       <link>/java-for-beginners-learn-all-the-basics-of-java/</link>
