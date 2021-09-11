@@ -6,7 +6,27 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 22:42:45 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 12:13:34 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
+      <link>/build-a-search-engine-with-python-computer-science-python/</link>
+      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      
+      <guid>/build-a-search-engine-with-python-computer-science-python/</guid>
+      <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
+Introduction
+WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but not the theory/way of thinking behind it why would we choose a while but not a for loop, why should we pass 2 parameters to a function but not only one? This course will teach you how to think about solving coding problems throughout quizzes, there are 112 video format quizzes that aim to keep you engaged with the course and teach you the Python fundamentals in an easy to follow manner</description>
+    </item>
+    
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>/java-socket-programming-simplified/</link>
+      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      
+      <guid>/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
     <item>
       <title>Java for Beginners - Learn all the Basics of Java</title>
       <link>/java-for-beginners-learn-all-the-basics-of-java/</link>
@@ -83,17 +103,6 @@ In this course, you will be taught the fundamentals of Python through high quali
       <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
 - Are in school and want to learn how to program in python
 - Need to learn this programming language for work</description>
-    </item>
-    
-    <item>
-      <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
-      <link>/build-a-search-engine-with-python-computer-science-python/</link>
-      <pubDate>Sun, 29 Aug 2021 22:24:58 +0530</pubDate>
-      
-      <guid>/build-a-search-engine-with-python-computer-science-python/</guid>
-      <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
-Introduction
-WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but not the theory/way of thinking behind it why would we choose a while but not a for loop, why should we pass 2 parameters to a function but not only one? This course will teach you how to think about solving coding problems throughout quizzes, there are 112 video format quizzes that aim to keep you engaged with the course and teach you the Python fundamentals in an easy to follow manner</description>
     </item>
     
     <item>

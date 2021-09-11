@@ -6,7 +6,27 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Sep 2021 22:45:16 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 12:13:34 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitcoin blockchain - Under the hood for beginners.</title>
+      <link>/bitcoin-blockchain-under-the-hood-for-beginners./</link>
+      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      
+      <guid>/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
+      <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
+Topics you will learn are :
+Bitcoin Introduction
+Addresses - Private key and public address
+How to generate addresses.
+Who are miners?
+Proof of work
+What makes blockchain so secure.
+Ways to buy and sell bitcoin.
+Merits and demerits of using online exchanges
+Other Applications of blockchain.
+Analysis of latest block of bitcoin blockchain.</description>
+    </item>
+    
     <item>
       <title>DevOps Fundamentals</title>
       <link>/devops-fundamentals/</link>
