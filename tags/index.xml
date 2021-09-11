@@ -6,11 +6,11 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 12:13:34 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 17:04:39 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advertising</title>
       <link>/tags/advertising/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/tags/advertising/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Business</title>
       <link>/tags/business/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/tags/business/</guid>
       <description></description>
@@ -28,25 +28,70 @@
     <item>
       <title>Business Strategy</title>
       <link>/tags/business-strategy/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/tags/business-strategy/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Content Marketing</title>
+      <link>/tags/content-marketing/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/content-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Creativity</title>
       <link>/tags/creativity/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/tags/creativity/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Data Science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database Design &amp; Development</title>
+      <link>/tags/database-design-development/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/database-design-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/tags/design/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Tools</title>
+      <link>/tags/design-tools/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/design-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development</title>
       <link>/tags/development/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/tags/development/</guid>
       <description></description>
@@ -55,7 +100,7 @@
     <item>
       <title>E-Commerce</title>
       <link>/tags/e-commerce/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/tags/e-commerce/</guid>
       <description></description>
@@ -64,18 +109,225 @@
     <item>
       <title>Finance &amp; Accounting</title>
       <link>/tags/finance-accounting/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/tags/finance-accounting/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Financial Modeling &amp; Analysis</title>
+      <link>/tags/financial-modeling-analysis/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/financial-modeling-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphic Design &amp; Illustration</title>
+      <link>/tags/graphic-design-illustration/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/graphic-design-illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investing &amp; Trading</title>
+      <link>/tags/investing-trading/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/investing-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IT &amp; Software</title>
       <link>/tags/it-software/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/tags/it-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT Certifications</title>
+      <link>/tags/it-certifications/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/it-certifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>/tags/marketing/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network &amp; Security</title>
+      <link>/tags/network-security/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/network-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office Productivity</title>
+      <link>/tags/office-productivity/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/office-productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other IT &amp; Software</title>
+      <link>/tags/other-it-software/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/other-it-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Teaching &amp; Academics</title>
+      <link>/tags/other-teaching-academics/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/other-teaching-academics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Development</title>
+      <link>/tags/personal-development/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/personal-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Productivity</title>
+      <link>/tags/personal-productivity/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/personal-productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography &amp; Video</title>
+      <link>/tags/photography-video/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/photography-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography Tools</title>
+      <link>/tags/photography-tools/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/photography-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Languages</title>
+      <link>/tags/programming-languages/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/programming-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>/tags/sales/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/sales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAP</title>
+      <link>/tags/sap/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/sap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search Engine Optimization</title>
+      <link>/tags/search-engine-optimization/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/search-engine-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>/tags/software-engineering/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching &amp; Academics</title>
+      <link>/tags/teaching-academics/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/teaching-academics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Prep</title>
+      <link>/tags/test-prep/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/test-prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>udemy free courses</title>
+      <link>/tags/udemy-free-courses/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/udemy-free-courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Design</title>
+      <link>/tags/video-design/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/video-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/tags/web-development/</guid>
       <description></description>
     </item>
     
@@ -89,146 +341,11 @@
     </item>
     
     <item>
-      <title>Marketing</title>
-      <link>/tags/marketing/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network &amp; Security</title>
-      <link>/tags/network-security/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/network-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Office Productivity</title>
-      <link>/tags/office-productivity/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/office-productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Other Finance &amp; Accounting</title>
       <link>/tags/other-finance-accounting/</link>
       <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
       
       <guid>/tags/other-finance-accounting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other IT &amp; Software</title>
-      <link>/tags/other-it-software/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/other-it-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other Teaching &amp; Academics</title>
-      <link>/tags/other-teaching-academics/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/other-teaching-academics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Development</title>
-      <link>/tags/personal-development/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/personal-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Productivity</title>
-      <link>/tags/personal-productivity/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/personal-productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Languages</title>
-      <link>/tags/programming-languages/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/programming-languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SAP</title>
-      <link>/tags/sap/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/sap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search Engine Optimization</title>
-      <link>/tags/search-engine-optimization/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/search-engine-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Engineering</title>
-      <link>/tags/software-engineering/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/software-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching &amp; Academics</title>
-      <link>/tags/teaching-academics/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/teaching-academics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test Prep</title>
-      <link>/tags/test-prep/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/test-prep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>udemy free courses</title>
-      <link>/tags/udemy-free-courses/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/udemy-free-courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>/tags/web-development/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/tags/web-development/</guid>
       <description></description>
     </item>
     
@@ -242,38 +359,11 @@
     </item>
     
     <item>
-      <title>Data Science</title>
-      <link>/tags/data-science/</link>
-      <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
-      
-      <guid>/tags/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design</title>
-      <link>/tags/design/</link>
-      <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
-      
-      <guid>/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Digital Marketing</title>
       <link>/tags/digital-marketing/</link>
       <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
       
       <guid>/tags/digital-marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graphic Design &amp; Illustration</title>
-      <link>/tags/graphic-design-illustration/</link>
-      <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
-      
-      <guid>/tags/graphic-design-illustration/</guid>
       <description></description>
     </item>
     
@@ -328,15 +418,6 @@
       <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
       
       <guid>/tags/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography &amp; Video</title>
-      <link>/tags/photography-video/</link>
-      <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
-      
-      <guid>/tags/photography-video/</guid>
       <description></description>
     </item>
     
@@ -418,15 +499,6 @@
       <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
       
       <guid>/tags/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT Certifications</title>
-      <link>/tags/it-certifications/</link>
-      <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
-      
-      <guid>/tags/it-certifications/</guid>
       <description></description>
     </item>
     
@@ -548,33 +620,6 @@
     </item>
     
     <item>
-      <title>Video Design</title>
-      <link>/tags/video-design/</link>
-      <pubDate>Thu, 09 Sep 2021 22:42:45 +0530</pubDate>
-      
-      <guid>/tags/video-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Database Design &amp; Development</title>
-      <link>/tags/database-design-development/</link>
-      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
-      
-      <guid>/tags/database-design-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investing &amp; Trading</title>
-      <link>/tags/investing-trading/</link>
-      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
-      
-      <guid>/tags/investing-trading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Management</title>
       <link>/tags/management/</link>
       <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
@@ -683,15 +728,6 @@
     </item>
     
     <item>
-      <title>Financial Modeling &amp; Analysis</title>
-      <link>/tags/financial-modeling-analysis/</link>
-      <pubDate>Wed, 08 Sep 2021 18:43:41 +0530</pubDate>
-      
-      <guid>/tags/financial-modeling-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>General Health</title>
       <link>/tags/general-health/</link>
       <pubDate>Wed, 08 Sep 2021 18:43:41 +0530</pubDate>
@@ -706,15 +742,6 @@
       <pubDate>Wed, 08 Sep 2021 18:43:41 +0530</pubDate>
       
       <guid>/tags/money-management-tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography Tools</title>
-      <link>/tags/photography-tools/</link>
-      <pubDate>Wed, 08 Sep 2021 18:43:41 +0530</pubDate>
-      
-      <guid>/tags/photography-tools/</guid>
       <description></description>
     </item>
     
@@ -764,29 +791,11 @@
     </item>
     
     <item>
-      <title>Content Marketing</title>
-      <link>/tags/content-marketing/</link>
-      <pubDate>Tue, 07 Sep 2021 23:00:37 +0530</pubDate>
-      
-      <guid>/tags/content-marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Motivation</title>
       <link>/tags/motivation/</link>
       <pubDate>Tue, 07 Sep 2021 23:00:37 +0530</pubDate>
       
       <guid>/tags/motivation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sales</title>
-      <link>/tags/sales/</link>
-      <pubDate>Tue, 07 Sep 2021 23:00:37 +0530</pubDate>
-      
-      <guid>/tags/sales/</guid>
       <description></description>
     </item>
     
@@ -823,15 +832,6 @@
       <pubDate>Tue, 07 Sep 2021 16:12:05 +0530</pubDate>
       
       <guid>/tags/operations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design Tools</title>
-      <link>/tags/design-tools/</link>
-      <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
-      
-      <guid>/tags/design-tools/</guid>
       <description></description>
     </item>
     

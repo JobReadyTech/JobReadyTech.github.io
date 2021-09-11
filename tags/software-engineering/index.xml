@@ -6,7 +6,20 @@
     <description>Recent content in Software Engineering on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 12:13:34 +0530</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 17:04:39 +0530</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Programlama Dili</title>
+      <link>/go-programlama-dili/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/go-programlama-dili/</guid>
+      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+
+&#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}Bu kurs Go(Golang) programlama dilini anlatmayı hedeflemektedir.
+Bu kurs ile birlikte açıklayacağımız konular aşağıdaki gibidir;
+- Go Programlama Dilini Detaylı İncelemek- Çalışma Ortamı ve Editörler- Değişkenler, Türler, Go Diline Özgü Söz Dizimi ve Kurallar- Akış Kontrol Mekanizmaları- Döngüler- Hata Yönetimi- Diziler- Slice (Dilimler)- Maps- Paket Yönetimi- Struct (Yapılar)- Interface (Arayüzler)- Fonksiyonlar- Metodlar- İşaretçiler- Nesne Yönelimli Programlama- Eş Zamanlılık (Concurrency)- Test- Reflection- Go Paketleri- Veri Formatı ve Dosya İşlemleri- Go ile Veritabanı Programlama- Go ile RESTful API ve Web Programlama (Örnek Uygulamalar)- Algoritmalar</description>
+    </item>
+    
     <item>
       <title>Introduction to Quantum Computing</title>
       <link>/introduction-to-quantum-computing/</link>

@@ -6,7 +6,37 @@
     <description>Recent content in Database Design &amp; Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Sep 2021 18:05:48 +0530</lastBuildDate><atom:link href="/tags/database-design-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 17:04:39 +0530</lastBuildDate><atom:link href="/tags/database-design-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oracle Veritabanı Programlama : SQL, PL/SQL, Oracle Mimarisi</title>
+      <link>/oracle-veritaban%C4%B1-programlama-sql-pl/sql-oracle-mimarisi/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/oracle-veritaban%C4%B1-programlama-sql-pl/sql-oracle-mimarisi/</guid>
+      <description>Önemli Not : Bu kurs Türkiye&#39;nin ve Udemy&#39;nin ilk Oracle PL/SQL Programlama kursudur. 2011 yılında çekildi ve halen daha bu kadar kapsamlı başka bir Oracle kursu bulunmamaktadır. SQL ve PL/SQL dil özellikleri bilinenin aksine çok hızlı değişmez ve onlarca yıldır sektörde kullanılan bu dillerin özellikleri yok olmaz. Yeni Oracle versiyonlarında genellikle sadece yeni özellikler gelir(kullanıcı arayüzlerine ve dil özelliklerine). Yani bu kurs ilk ama halen günceldir. Bu kurs içerikleriyle hızlı şekilde dil ve genel mantığa hakim olduktan sonra zaman içinde gelen yeni özellikler için ayrıca güncel kitap ya da kurslar(kaliteli TR içerik yok, sadece İngilizce bulabilirsiniz) ile kendinizi daha da geliştirebilirsiniz.</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL Veritabanı Programlama (Part 1) - Temeller ve SQL</title>
+      <link>/postgresql-veritaban%C4%B1-programlama-part-1-temeller-ve-sql/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/postgresql-veritaban%C4%B1-programlama-part-1-temeller-ve-sql/</guid>
+      <description>DeepLab.University organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+Kurs İçeriği
+SQL Server ve Oracle veritabanı yönetim sistemleri için hazırladığım derinlemesine anlatım yapan iki ayrı kurstan sonra, şimdi de uzun zamandır takipçilerimin beklediği PostgreSQL veritabanı yönetim sistemi eğitimi serisinin ilk kursunu yayına hazırladık.
+ÖNEMLİ : PostgreSQL Veritabanı Programlama eğitimi iki farklı kurstan oluşuyor. Şuan incelediğiniz bu kurs, bu serinin ilk kursu olmakla birlikte, PostgreSQL&#39;in temellerini doğru ve hızlı bir şekilde anlatmayı hedeflemektedir.</description>
+    </item>
+    
+    <item>
+      <title>SQLite Veritabanı Programlama</title>
+      <link>/sqlite-veritaban%C4%B1-programlama/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/sqlite-veritaban%C4%B1-programlama/</guid>
+      <description>Veritabanı teknolojileri, sektörel olarak farklı birçok sorunu çözmek için hazırlanmış birçok farklı marka ve girişime sahiptir. Bu kadar çeşit olmasının nedeni iş ve teknoloji dünyasında veri ile ilgili çözülmesi gereken sorunların çeşitlilik göstermesidir. Klasik veri depolama gibi ihtiyaçları çözmek için, onlarca yıldır Oracle, SQL Server, PostgreSQL, MySQL vb. gibi gelişmiş VTYS&#39;ler kullanılmaya devam ediliyor. Ancak günümüz teknolojilerinin çok daha karmaşık ihtiyaçlara sahip olması nedeniyle bu veritabanı teknolojileri artık yeterli değildir. Bu nedenle NoSQL kategorisi altında MongoDB, Redis, Cassandra ve daha farklı onlarca alt veritabanı teknolojisi geliştirilmiştir.</description>
+    </item>
+    
     <item>
       <title>Basics of Database Design &amp; Development</title>
       <link>/basics-of-database-design-development/</link>

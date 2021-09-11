@@ -6,7 +6,29 @@
     <description>Recent content in Financial Modeling &amp; Analysis on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Sep 2021 18:43:41 +0530</lastBuildDate><atom:link href="/tags/financial-modeling-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 17:04:39 +0530</lastBuildDate><atom:link href="/tags/financial-modeling-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data science for algorithmic trading</title>
+      <link>/data-science-for-algorithmic-trading/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/data-science-for-algorithmic-trading/</guid>
+      <description>It is with pride that I offer this data science course for algorithmic trading. It is the fruit of several years of work in the field to truly understand all the subtleties of the world of quantitative finance.
+
+Using libraries will allow you to do complex mathematical calculations applied to finance in just a few lines of code. We will see how to create an algorithm for trading from data import to automatic positions.</description>
+    </item>
+    
+    <item>
+      <title>Data science pour le trading algorithmique (2020)</title>
+      <link>/data-science-pour-le-trading-algorithmique-2020/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/data-science-pour-le-trading-algorithmique-2020/</guid>
+      <description>C&#39;est avec plaisir que je vous offre ce cours de data science pour le trading algorithmique. C&#39;est le fuit de plusieurs années de travail dans de nombreux domaines pour comprendre les subtilités du monde de la finance quantitative.
+
+Nous utiliserons des librairies python qui nous permettrons de faire facilement des algorithmes mathématiques très complexes appliqués à la finance avec peu de code. Le fil conducteur de cette formation sera la création d&#39;un algorithme profitable avec plus de 50% de gain annuel sur me NASDAQ 100.</description>
+    </item>
+    
     <item>
       <title>Corporate Finance #11 Capital Budgeting</title>
       <link>/corporate-finance-#11-capital-budgeting/</link>

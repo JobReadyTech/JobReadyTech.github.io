@@ -6,11 +6,11 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 12:13:34 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 17:04:39 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
       <link>/build-a-search-engine-with-python-computer-science-python/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/build-a-search-engine-with-python-computer-science-python/</guid>
       <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
@@ -19,9 +19,33 @@ WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but n
     </item>
     
     <item>
+      <title>C# Programlama Dili : Temel, Orta, İleri Seviye</title>
+      <link>/c#-programlama-dili-temel-orta-ileri-seviye/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/c#-programlama-dili-temel-orta-ileri-seviye/</guid>
+      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+
+&#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}
+Bu kurs C# programlama dilini öğretmeyi ve C# ile yazılım geliştirmeyi öğretmeyi hedeflemektedir.
+Bu kurs C# Programlama dilini anlatmaktadır. Diğer gördüğünüz tüm başlıklar eğitmen tarafından öğrencilerinin daha çeşitli çevre teknolojileri hakkında bilgi sahibi olması için eklenmiştir.</description>
+    </item>
+    
+    <item>
+      <title>Go Programlama Dili : Standart Kütüphane</title>
+      <link>/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</guid>
+      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+Kurs İçeriği
+Go programlama dilinin geliştirici ekibi tarafından hazırlanan ve Go geliştiricilerinin kullanımına sunulan Standard Library(Kütüphane) kütüphanesi etkili bir şekilde kullanmak sizin daha az kod yazarak daha performanslı ve etkili projeler geliştirebilmenizde yardımcı olur. C, C++, Java, Python ve C# gibi tüm popüler programlama dillerinin kendisine ait bir küçük ya da geniş kod kütüphaneleri bulunur.</description>
+    </item>
+    
+    <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>

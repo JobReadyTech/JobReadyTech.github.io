@@ -6,7 +6,29 @@
     <description>Recent content in Data Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Sep 2021 22:45:16 +0530</lastBuildDate><atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 17:04:39 +0530</lastBuildDate><atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning pour le trading de A à Z</title>
+      <link>/machine-learning-pour-le-trading-de-a-%C3%A0-z/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/machine-learning-pour-le-trading-de-a-%C3%A0-z/</guid>
+      <description>Cette formation vous propose un large choix d&#39;algorithme permettant d&#39;appréhender les variations des marchés financier, nous créerons également un robot trader à l&#39;aide d&#39;un algorithme de Deep Reinforcement Learning.
+
+La data science est en pleine expansion est s&#39;insère jour après jour dans tous les secteurs. La finance est l&#39;un des secteurs les plus enclins à l&#39;arrivée de la data science car depuis la crise de 2008 le secteur financier à un besoin croissant de quantifier les risques, mais aussi de pricer (prévoir les variations des actifs financiers) les différents actifs sur lesquelles les acteurs de la finance investissent.</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning (application en finance)</title>
+      <link>/reinforcement-learning-application-en-finance/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/reinforcement-learning-application-en-finance/</guid>
+      <description>Cette formation vous propose un cours complet concernant les algorithmes de Depp Q Learning. Vous aborderez la théorie dans un premier temps qui vous permettra d&#39;appréhendez au mieux la seconde plus appliquée.
+
+L&#39;apprentissage par renforcement est une discipline de plus en plus utilisée dans le monde réelle. C&#39;est pourquoi, la formation met l&#39;accent sur les aspects intuitifs, les principales librairies du renforcement learning et notamment Open AI Gym.</description>
+    </item>
+    
     <item>
       <title>Artificial Intelligence in Digital Marketing - Gold Edition</title>
       <link>/artificial-intelligence-in-digital-marketing-gold-edition/</link>

@@ -6,7 +6,178 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 12:13:34 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 17:04:39 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
+      <link>/build-a-search-engine-with-python-computer-science-python/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/build-a-search-engine-with-python-computer-science-python/</guid>
+      <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
+Introduction
+WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but not the theory/way of thinking behind it why would we choose a while but not a for loop, why should we pass 2 parameters to a function but not only one? This course will teach you how to think about solving coding problems throughout quizzes, there are 112 video format quizzes that aim to keep you engaged with the course and teach you the Python fundamentals in an easy to follow manner</description>
+    </item>
+    
+    <item>
+      <title>C# Programlama Dili : Temel, Orta, İleri Seviye</title>
+      <link>/c#-programlama-dili-temel-orta-ileri-seviye/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/c#-programlama-dili-temel-orta-ileri-seviye/</guid>
+      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+
+&#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}
+Bu kurs C# programlama dilini öğretmeyi ve C# ile yazılım geliştirmeyi öğretmeyi hedeflemektedir.
+Bu kurs C# Programlama dilini anlatmaktadır. Diğer gördüğünüz tüm başlıklar eğitmen tarafından öğrencilerinin daha çeşitli çevre teknolojileri hakkında bilgi sahibi olması için eklenmiştir.</description>
+    </item>
+    
+    <item>
+      <title>cssSelector Tutorial from basic to advance level.</title>
+      <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
+      <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
+    </item>
+    
+    <item>
+      <title>Go ile RESTful API Programlama</title>
+      <link>/go-ile-restful-api-programlama/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/go-ile-restful-api-programlama/</guid>
+      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+Kurs İçeriği
+Yazılım teknolojilerinin gelişmesiyle birlikte ortaya çıkan en güçlü ve performans programlama dillerinden birisi olan Golang ile web uygulamalar geliştirebilmek hem Türkiye hem de global olarak büyük bir kariyer adımı olacaktır.
+Google, SpaceX, Tesla, Docker, Kubernetes, Koding, Dropbox, Apple ve daha birçok küresel çaptaki girişim ve firmanın altyapısını Go ile geliştirdiğini biliyor muydunuz?</description>
+    </item>
+    
+    <item>
+      <title>Go Programlama Dili</title>
+      <link>/go-programlama-dili/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/go-programlama-dili/</guid>
+      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+
+&#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}Bu kurs Go(Golang) programlama dilini anlatmayı hedeflemektedir.
+Bu kurs ile birlikte açıklayacağımız konular aşağıdaki gibidir;
+- Go Programlama Dilini Detaylı İncelemek- Çalışma Ortamı ve Editörler- Değişkenler, Türler, Go Diline Özgü Söz Dizimi ve Kurallar- Akış Kontrol Mekanizmaları- Döngüler- Hata Yönetimi- Diziler- Slice (Dilimler)- Maps- Paket Yönetimi- Struct (Yapılar)- Interface (Arayüzler)- Fonksiyonlar- Metodlar- İşaretçiler- Nesne Yönelimli Programlama- Eş Zamanlılık (Concurrency)- Test- Reflection- Go Paketleri- Veri Formatı ve Dosya İşlemleri- Go ile Veritabanı Programlama- Go ile RESTful API ve Web Programlama (Örnek Uygulamalar)- Algoritmalar</description>
+    </item>
+    
+    <item>
+      <title>Go Programlama Dili : Standart Kütüphane</title>
+      <link>/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</guid>
+      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+Kurs İçeriği
+Go programlama dilinin geliştirici ekibi tarafından hazırlanan ve Go geliştiricilerinin kullanımına sunulan Standard Library(Kütüphane) kütüphanesi etkili bir şekilde kullanmak sizin daha az kod yazarak daha performanslı ve etkili projeler geliştirebilmenizde yardımcı olur. C, C++, Java, Python ve C# gibi tüm popüler programlama dillerinin kendisine ait bir küçük ya da geniş kod kütüphaneleri bulunur.</description>
+    </item>
+    
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>/java-socket-programming-simplified/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning pour le trading de A à Z</title>
+      <link>/machine-learning-pour-le-trading-de-a-%C3%A0-z/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/machine-learning-pour-le-trading-de-a-%C3%A0-z/</guid>
+      <description>Cette formation vous propose un large choix d&#39;algorithme permettant d&#39;appréhender les variations des marchés financier, nous créerons également un robot trader à l&#39;aide d&#39;un algorithme de Deep Reinforcement Learning.
+
+La data science est en pleine expansion est s&#39;insère jour après jour dans tous les secteurs. La finance est l&#39;un des secteurs les plus enclins à l&#39;arrivée de la data science car depuis la crise de 2008 le secteur financier à un besoin croissant de quantifier les risques, mais aussi de pricer (prévoir les variations des actifs financiers) les différents actifs sur lesquelles les acteurs de la finance investissent.</description>
+    </item>
+    
+    <item>
+      <title>NGINX, Apache, SSL Encryption - Certification Course</title>
+      <link>/nginx-apache-ssl-encryption-certification-course/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/nginx-apache-ssl-encryption-certification-course/</guid>
+      <description>Welcome to our latest course, which will guide you through the process of installing, securing, and configuring NGINX or Apache on an Ubuntu web server. You will also learn to encrypt all web traffic, using a Free SSL certificate from Let’s Encrypt.
+APACHE Section:
+This course begins with exploring the most widely used web server technology available, Apache. Statistics show that Apache is used to run over 65% of all web servers around the world.</description>
+    </item>
+    
+    <item>
+      <title>Oracle Veritabanı Programlama : SQL, PL/SQL, Oracle Mimarisi</title>
+      <link>/oracle-veritaban%C4%B1-programlama-sql-pl/sql-oracle-mimarisi/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/oracle-veritaban%C4%B1-programlama-sql-pl/sql-oracle-mimarisi/</guid>
+      <description>Önemli Not : Bu kurs Türkiye&#39;nin ve Udemy&#39;nin ilk Oracle PL/SQL Programlama kursudur. 2011 yılında çekildi ve halen daha bu kadar kapsamlı başka bir Oracle kursu bulunmamaktadır. SQL ve PL/SQL dil özellikleri bilinenin aksine çok hızlı değişmez ve onlarca yıldır sektörde kullanılan bu dillerin özellikleri yok olmaz. Yeni Oracle versiyonlarında genellikle sadece yeni özellikler gelir(kullanıcı arayüzlerine ve dil özelliklerine). Yani bu kurs ilk ama halen günceldir. Bu kurs içerikleriyle hızlı şekilde dil ve genel mantığa hakim olduktan sonra zaman içinde gelen yeni özellikler için ayrıca güncel kitap ya da kurslar(kaliteli TR içerik yok, sadece İngilizce bulabilirsiniz) ile kendinizi daha da geliştirebilirsiniz.</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL Veritabanı Programlama (Part 1) - Temeller ve SQL</title>
+      <link>/postgresql-veritaban%C4%B1-programlama-part-1-temeller-ve-sql/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/postgresql-veritaban%C4%B1-programlama-part-1-temeller-ve-sql/</guid>
+      <description>DeepLab.University organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+Kurs İçeriği
+SQL Server ve Oracle veritabanı yönetim sistemleri için hazırladığım derinlemesine anlatım yapan iki ayrı kurstan sonra, şimdi de uzun zamandır takipçilerimin beklediği PostgreSQL veritabanı yönetim sistemi eğitimi serisinin ilk kursunu yayına hazırladık.
+ÖNEMLİ : PostgreSQL Veritabanı Programlama eğitimi iki farklı kurstan oluşuyor. Şuan incelediğiniz bu kurs, bu serinin ilk kursu olmakla birlikte, PostgreSQL&#39;in temellerini doğru ve hızlı bir şekilde anlatmayı hedeflemektedir.</description>
+    </item>
+    
+    <item>
+      <title>React Redux Toolkit complete guide</title>
+      <link>/react-redux-toolkit-complete-guide/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/react-redux-toolkit-complete-guide/</guid>
+      <description>Course description:
+This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
+What will you build?
+To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning (application en finance)</title>
+      <link>/reinforcement-learning-application-en-finance/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/reinforcement-learning-application-en-finance/</guid>
+      <description>Cette formation vous propose un cours complet concernant les algorithmes de Depp Q Learning. Vous aborderez la théorie dans un premier temps qui vous permettra d&#39;appréhendez au mieux la seconde plus appliquée.
+
+L&#39;apprentissage par renforcement est une discipline de plus en plus utilisée dans le monde réelle. C&#39;est pourquoi, la formation met l&#39;accent sur les aspects intuitifs, les principales librairies du renforcement learning et notamment Open AI Gym.</description>
+    </item>
+    
+    <item>
+      <title>Setup a Virtual Web Server using Linode or Digital Ocean</title>
+      <link>/setup-a-virtual-web-server-using-linode-or-digital-ocean/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/setup-a-virtual-web-server-using-linode-or-digital-ocean/</guid>
+      <description>This course offers an in-depth, hands-on overview of setting up and configuring a production web server, using Linode or Digital Ocean. Virtual Cloud Servers have become the industry standard for hosting web applications of all sizes and complexity. This includes small static web pages, to dynamic, database driven web sites that handle thousands of simultaneous processes. Regardless of the project, virtual servers offer a solution that provides web developers a scalable infrastructure that can easily adapt to a changing environment.</description>
+    </item>
+    
+    <item>
+      <title>SQLite Veritabanı Programlama</title>
+      <link>/sqlite-veritaban%C4%B1-programlama/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/sqlite-veritaban%C4%B1-programlama/</guid>
+      <description>Veritabanı teknolojileri, sektörel olarak farklı birçok sorunu çözmek için hazırlanmış birçok farklı marka ve girişime sahiptir. Bu kadar çeşit olmasının nedeni iş ve teknoloji dünyasında veri ile ilgili çözülmesi gereken sorunların çeşitlilik göstermesidir. Klasik veri depolama gibi ihtiyaçları çözmek için, onlarca yıldır Oracle, SQL Server, PostgreSQL, MySQL vb. gibi gelişmiş VTYS&#39;ler kullanılmaya devam ediliyor. Ancak günümüz teknolojilerinin çok daha karmaşık ihtiyaçlara sahip olması nedeniyle bu veritabanı teknolojileri artık yeterli değildir. Bu nedenle NoSQL kategorisi altında MongoDB, Redis, Cassandra ve daha farklı onlarca alt veritabanı teknolojisi geliştirilmiştir.</description>
+    </item>
+    
     <item>
       <title>Bootstrap &amp; jQuery - Certification Course for Beginners</title>
       <link>/bootstrap-jquery-certification-course-for-beginners/</link>
@@ -14,17 +185,6 @@
       
       <guid>/bootstrap-jquery-certification-course-for-beginners/</guid>
       <description>Welcome to the Bootstrap &amp;amp; jQuery – Certification Course for BeginnersWith over 64% of the world using mobile devices to browse web pages, it’s no surprise that Bootstrap and jQuery have become the industry leaders in front-end scripting languages.This course starts right from the foundational concepts and gradually progresses to intermediate topics. Through a project-style learning approach, students will have the opportunity to build mobile-responsive web pages, complete with animation and interactivity.</description>
-    </item>
-    
-    <item>
-      <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
-      <link>/build-a-search-engine-with-python-computer-science-python/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/build-a-search-engine-with-python-computer-science-python/</guid>
-      <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
-Introduction
-WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but not the theory/way of thinking behind it why would we choose a while but not a for loop, why should we pass 2 parameters to a function but not only one? This course will teach you how to think about solving coding problems throughout quizzes, there are 112 video format quizzes that aim to keep you engaged with the course and teach you the Python fundamentals in an easy to follow manner</description>
     </item>
     
     <item>
@@ -90,53 +250,12 @@ Students will gain hands-on experience with the registration process using popul
     </item>
     
     <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>/java-socket-programming-simplified/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
-    </item>
-    
-    <item>
       <title>JavaScript &amp; jQuery - Certification Course for Beginners</title>
       <link>/javascript-jquery-certification-course-for-beginners/</link>
       <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
       
       <guid>/javascript-jquery-certification-course-for-beginners/</guid>
       <description>Welcome to the JavaScript &amp;amp; jQuery – Certification Course for BeginnersThis course offers a comprehensive guide into the fundamentals of coding using JavaScript and jQuery. These powerful languages can be used to add animated, dynamic client-side functionality to any web page.The JavaScript section of the course takes students on a journey that starts right from the basics. This includes JavaScript placement, and embedding External JavaScript code. From there, we move into variable declaration and operators for performing arithmetic.</description>
-    </item>
-    
-    <item>
-      <title>NGINX, Apache, SSL Encryption - Certification Course</title>
-      <link>/nginx-apache-ssl-encryption-certification-course/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/nginx-apache-ssl-encryption-certification-course/</guid>
-      <description>Welcome to our latest course, which will guide you through the process of installing, securing, and configuring NGINX or Apache on an Ubuntu web server. You will also learn to encrypt all web traffic, using a Free SSL certificate from Let’s Encrypt.
-APACHE Section:
-This course begins with exploring the most widely used web server technology available, Apache. Statistics show that Apache is used to run over 65% of all web servers around the world.</description>
-    </item>
-    
-    <item>
-      <title>React Redux Toolkit complete guide</title>
-      <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/react-redux-toolkit-complete-guide/</guid>
-      <description>Course description:
-This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
-What will you build?
-To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
-    </item>
-    
-    <item>
-      <title>Setup a Virtual Web Server using Linode or Digital Ocean</title>
-      <link>/setup-a-virtual-web-server-using-linode-or-digital-ocean/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/setup-a-virtual-web-server-using-linode-or-digital-ocean/</guid>
-      <description>This course offers an in-depth, hands-on overview of setting up and configuring a production web server, using Linode or Digital Ocean. Virtual Cloud Servers have become the industry standard for hosting web applications of all sizes and complexity. This includes small static web pages, to dynamic, database driven web sites that handle thousands of simultaneous processes. Regardless of the project, virtual servers offer a solution that provides web developers a scalable infrastructure that can easily adapt to a changing environment.</description>
     </item>
     
     <item>
