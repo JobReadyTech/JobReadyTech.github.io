@@ -6,22 +6,11 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 17:04:39 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
-      <link>/build-a-search-engine-with-python-computer-science-python/</link>
-      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
-      
-      <guid>/build-a-search-engine-with-python-computer-science-python/</guid>
-      <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
-Introduction
-WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but not the theory/way of thinking behind it why would we choose a while but not a for loop, why should we pass 2 parameters to a function but not only one? This course will teach you how to think about solving coding problems throughout quizzes, there are 112 video format quizzes that aim to keep you engaged with the course and teach you the Python fundamentals in an easy to follow manner</description>
-    </item>
-    
+    <lastBuildDate>Sat, 11 Sep 2021 19:07:10 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C# Programlama Dili : Temel, Orta, İleri Seviye</title>
       <link>/c#-programlama-dili-temel-orta-ileri-seviye/</link>
-      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
       <guid>/c#-programlama-dili-temel-orta-ileri-seviye/</guid>
       <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
@@ -34,7 +23,7 @@ Bu kurs C# Programlama dilini anlatmaktadır. Diğer gördüğünüz tüm başl�
     <item>
       <title>Go Programlama Dili : Standart Kütüphane</title>
       <link>/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</link>
-      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
       <guid>/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</guid>
       <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
@@ -45,10 +34,21 @@ Go programlama dilinin geliştirici ekibi tarafından hazırlanan ve Go gelişti
     <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      <pubDate>Sat, 11 Sep 2021 19:07:09 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
+      <link>/build-a-search-engine-with-python-computer-science-python/</link>
+      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
+      
+      <guid>/build-a-search-engine-with-python-computer-science-python/</guid>
+      <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
+Introduction
+WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but not the theory/way of thinking behind it why would we choose a while but not a for loop, why should we pass 2 parameters to a function but not only one? This course will teach you how to think about solving coding problems throughout quizzes, there are 112 video format quizzes that aim to keep you engaged with the course and teach you the Python fundamentals in an easy to follow manner</description>
     </item>
     
     <item>
