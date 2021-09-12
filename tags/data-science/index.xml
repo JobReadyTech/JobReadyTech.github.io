@@ -6,7 +6,18 @@
     <description>Recent content in Data Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 19:07:10 +0530</lastBuildDate><atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 16:52:26 +0530</lastBuildDate><atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natural Language Processing [ Building Real World Projects]</title>
+      <link>/natural-language-processing-building-real-world-projects/</link>
+      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
+      
+      <guid>/natural-language-processing-building-real-world-projects/</guid>
+      <description>Welcome to your first steps into the world of Natural Language Processing!
+This course will guide you through the world of Natural Language Processing through hands-on tutorials with real world examples.
+We will start off with the basics of Natural Language Processing, and work towards developing our very own application. By the end of this course, we will build an application that predicts what people think of any topic based on what people have said about it on Twitter.</description>
+    </item>
+    
     <item>
       <title>Machine Learning pour le trading de A à Z</title>
       <link>/machine-learning-pour-le-trading-de-a-%C3%A0-z/</link>

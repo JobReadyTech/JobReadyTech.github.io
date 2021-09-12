@@ -6,7 +6,30 @@
     <description>Recent content in IT Certifications on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Sep 2021 10:31:50 +0530</lastBuildDate><atom:link href="/tags/it-certifications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 16:52:26 +0530</lastBuildDate><atom:link href="/tags/it-certifications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest DP-900 Azure Data Fundamentals Practice Tests</title>
+      <link>/latest-dp-900-azure-data-fundamentals-practice-tests/</link>
+      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
+      
+      <guid>/latest-dp-900-azure-data-fundamentals-practice-tests/</guid>
+      <description>Azure Data Fundamentals can be used to prepare for other Azure role-based certifications like Azure Database Administrator Associate or Azure Data Engineer Associate, but it’s not a prerequisite for any of them.
+Course questions incudes questions from this categories:
+Describe core data concepts (15-20%)
+Describe how to work with relational data on Azure (25-30%)
+Describe how to work with non-relational data on Azure (25-30%)
+Describe an analytics workload on Azure (25-30%)</description>
+    </item>
+    
+    <item>
+      <title>PMP® Practice Test: Project Management Professional 2021</title>
+      <link>/pmp-practice-test-project-management-professional-2021/</link>
+      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
+      
+      <guid>/pmp-practice-test-project-management-professional-2021/</guid>
+      <description>The PMP® certification is the most widely and globally recognized project management certification in 2021. It validates your experience and knowledge of Project Management. Unfortunately PMP® Exam content outline has changed in 2021, Hence old mock test preparations can not completely prepare you to take the challenge. This course can align your preparation to the new expectation of PMI from its students. Each practice test covers a deep understanding to carry out project management responsibilities.</description>
+    </item>
+    
     <item>
       <title>AI-900/AZ-900Microsoft Azure Practice Test Updated April2021</title>
       <link>/ai-900/az-900microsoft-azure-practice-test-updated-april2021/</link>
@@ -26,29 +49,6 @@ Azure AI Fundamentals can be used to prepare for other Azure role-based certific
       <guid>/css-crash-course-for-beginners/</guid>
       <description>Learn CSS Crash Course
 Ever wonder how the latest website designs are made? Cascading Style Sheets (CSS) are the main coding files used to layout a website and its design. CSS 3 is the latest in styling standards, and it brings several new properties and declarations you can use to make your website design more easily created. CSS is currently the only standard in website design that plugs directly into your HTML, even the latest HTML 5 standards.</description>
-    </item>
-    
-    <item>
-      <title>Latest DP-900 Azure Data Fundamentals Practice Tests</title>
-      <link>/latest-dp-900-azure-data-fundamentals-practice-tests/</link>
-      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
-      
-      <guid>/latest-dp-900-azure-data-fundamentals-practice-tests/</guid>
-      <description>Azure Data Fundamentals can be used to prepare for other Azure role-based certifications like Azure Database Administrator Associate or Azure Data Engineer Associate, but it’s not a prerequisite for any of them.
-Course questions incudes questions from this categories:
-Describe core data concepts (15-20%)
-Describe how to work with relational data on Azure (25-30%)
-Describe how to work with non-relational data on Azure (25-30%)
-Describe an analytics workload on Azure (25-30%)</description>
-    </item>
-    
-    <item>
-      <title>PMP® Practice Test: Project Management Professional 2021</title>
-      <link>/pmp-practice-test-project-management-professional-2021/</link>
-      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
-      
-      <guid>/pmp-practice-test-project-management-professional-2021/</guid>
-      <description>The PMP® certification is the most widely and globally recognized project management certification in 2021. It validates your experience and knowledge of Project Management. Unfortunately PMP® Exam content outline has changed in 2021, Hence old mock test preparations can not completely prepare you to take the challenge. This course can align your preparation to the new expectation of PMI from its students. Each practice test covers a deep understanding to carry out project management responsibilities.</description>
     </item>
     
     <item>

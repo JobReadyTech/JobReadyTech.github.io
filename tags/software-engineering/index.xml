@@ -6,7 +6,18 @@
     <description>Recent content in Software Engineering on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 19:07:10 +0530</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 16:52:26 +0530</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functional Programming &#43; Lambdas, Method References, Streams</title>
+      <link>/functional-programming-lambdas-method-references-streams/</link>
+      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
+      
+      <guid>/functional-programming-lambdas-method-references-streams/</guid>
+      <description>From this course you can learn Functional Programming in Java with Lambda expressions (anonymous functions), Method references and Stream API. 
+There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding exercises 
+To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will have different practical tasks which will help you learn and understand Java better.</description>
+    </item>
+    
     <item>
       <title>Go Programlama Dili</title>
       <link>/go-programlama-dili/</link>

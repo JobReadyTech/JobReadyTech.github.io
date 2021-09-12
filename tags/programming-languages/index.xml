@@ -6,14 +6,25 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Sep 2021 10:31:50 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 16:52:26 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
+      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>R Studio: Empieza desde cero</title>
+      <link>/r-studio-empieza-desde-cero/</link>
+      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
+      
+      <guid>/r-studio-empieza-desde-cero/</guid>
+      <description>¿Te gustaría aprender a programar en R pero no sabes por donde empezar?
+En este curso iremos paso a paso desde lo más sencillo hasta lo más complejo. Después de cada video, aprendes un nuevo concepto valioso que puedes aplicar de inmediato. Y la mejor parte es que aprendes a través de ejemplos en vivo. Este curso te proporcionará las bases del lenguaje de programación estadística R. 
+Si eres un estudiante o profesionista que quiere potenciar su carrera profesional te tengo una buena noticia:</description>
     </item>
     
     <item>
