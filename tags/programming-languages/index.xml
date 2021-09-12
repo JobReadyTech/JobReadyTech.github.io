@@ -6,7 +6,16 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 19:07:10 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 10:31:50 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>/java-socket-programming-simplified/</link>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
+      
+      <guid>/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
     <item>
       <title>C# Programlama Dili : Temel, Orta, İleri Seviye</title>
       <link>/c#-programlama-dili-temel-orta-ileri-seviye/</link>
@@ -29,15 +38,6 @@ Bu kurs C# Programlama dilini anlatmaktadır. Diğer gördüğünüz tüm başl�
       <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
 Kurs İçeriği
 Go programlama dilinin geliştirici ekibi tarafından hazırlanan ve Go geliştiricilerinin kullanımına sunulan Standard Library(Kütüphane) kütüphanesi etkili bir şekilde kullanmak sizin daha az kod yazarak daha performanslı ve etkili projeler geliştirebilmenizde yardımcı olur. C, C++, Java, Python ve C# gibi tüm popüler programlama dillerinin kendisine ait bir küçük ya da geniş kod kütüphaneleri bulunur.</description>
-    </item>
-    
-    <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>/java-socket-programming-simplified/</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:09 +0530</pubDate>
-      
-      <guid>/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
     </item>
     
     <item>

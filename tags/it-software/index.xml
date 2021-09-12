@@ -6,11 +6,22 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Sep 2021 19:07:10 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 10:31:50 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-900/AZ-900Microsoft Azure Practice Test Updated April2021</title>
+      <link>/ai-900/az-900microsoft-azure-practice-test-updated-april2021/</link>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
+      
+      <guid>/ai-900/az-900microsoft-azure-practice-test-updated-april2021/</guid>
+      <description>This AI900 is an opportunity to demonstrate knowledge of common ML and AI workloads and how to implement them on Azure.
+This exam (AI900) is intended for candidates with both technical and non-technical backgrounds. Data science and software engineering experience are not required; however, some general programming knowledge or experience would be beneficial.
+Azure AI Fundamentals can be used to prepare for other Azure role-based certifications like Azure Data Scientist Associate or Azure AI Engineer Associate,</description>
+    </item>
+    
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
       
       <guid>/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -28,18 +39,42 @@ Analysis of latest block of bitcoin blockchain.</description>
     </item>
     
     <item>
-      <title>Python Bootcamp 2021 Build 15 working Applications and Games</title>
-      <link>/python-bootcamp-2021-build-15-working-applications-and-games/</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
+      <title>CSS Crash Course For Beginners</title>
+      <link>/css-crash-course-for-beginners/</link>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
       
-      <guid>/python-bootcamp-2021-build-15-working-applications-and-games/</guid>
-      <description>Are you tired of getting videos and lectures on just python basics and syntaxes or just strucked in college studies and hello world program. so I guess you have to give a try to this course this course is designed after analysing what a student need to study python. After analysing what they required and what they want in a course, how they can easily start any course but didn&#39;t able to finish it.</description>
+      <guid>/css-crash-course-for-beginners/</guid>
+      <description>Learn CSS Crash Course
+Ever wonder how the latest website designs are made? Cascading Style Sheets (CSS) are the main coding files used to layout a website and its design. CSS 3 is the latest in styling standards, and it brings several new properties and declarations you can use to make your website design more easily created. CSS is currently the only standard in website design that plugs directly into your HTML, even the latest HTML 5 standards.</description>
+    </item>
+    
+    <item>
+      <title>Latest DP-900 Azure Data Fundamentals Practice Tests</title>
+      <link>/latest-dp-900-azure-data-fundamentals-practice-tests/</link>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
+      
+      <guid>/latest-dp-900-azure-data-fundamentals-practice-tests/</guid>
+      <description>Azure Data Fundamentals can be used to prepare for other Azure role-based certifications like Azure Database Administrator Associate or Azure Data Engineer Associate, but it’s not a prerequisite for any of them.
+Course questions incudes questions from this categories:
+Describe core data concepts (15-20%)
+Describe how to work with relational data on Azure (25-30%)
+Describe how to work with non-relational data on Azure (25-30%)
+Describe an analytics workload on Azure (25-30%)</description>
+    </item>
+    
+    <item>
+      <title>PMP® Practice Test: Project Management Professional 2021</title>
+      <link>/pmp-practice-test-project-management-professional-2021/</link>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
+      
+      <guid>/pmp-practice-test-project-management-professional-2021/</guid>
+      <description>The PMP® certification is the most widely and globally recognized project management certification in 2021. It validates your experience and knowledge of Project Management. Unfortunately PMP® Exam content outline has changed in 2021, Hence old mock test preparations can not completely prepare you to take the challenge. This course can align your preparation to the new expectation of PMI from its students. Each practice test covers a deep understanding to carry out project management responsibilities.</description>
     </item>
     
     <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
       <link>/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
       
       <guid>/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
@@ -49,12 +84,31 @@ Welcome to this course on SQL injection attacks! In this course, we explore one
     <item>
       <title>Starting Python 3 Programming for the Absolute Beginner</title>
       <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
       
       <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
       <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
 For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
 Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
+    </item>
+    
+    <item>
+      <title>Uncle Rat&#39;s XXE Handbook</title>
+      <link>/uncle-rats-xxe-handbook/</link>
+      <pubDate>Sun, 12 Sep 2021 10:31:50 +0530</pubDate>
+      
+      <guid>/uncle-rats-xxe-handbook/</guid>
+      <description>Who am i?
+An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
+    </item>
+    
+    <item>
+      <title>Python Bootcamp 2021 Build 15 working Applications and Games</title>
+      <link>/python-bootcamp-2021-build-15-working-applications-and-games/</link>
+      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
+      
+      <guid>/python-bootcamp-2021-build-15-working-applications-and-games/</guid>
+      <description>Are you tired of getting videos and lectures on just python basics and syntaxes or just strucked in college studies and hello world program. so I guess you have to give a try to this course this course is designed after analysing what a student need to study python. After analysing what they required and what they want in a course, how they can easily start any course but didn&#39;t able to finish it.</description>
     </item>
     
     <item>
@@ -68,16 +122,6 @@ Or are you a seasoned AI practitioner who want to take your career to the next l
 Or are you an aspiring data scientist who wants to get Hands-on Data Science and Time Series Analysis?
 
 If the answer is yes to any of these questions, then this course is for you!</description>
-    </item>
-    
-    <item>
-      <title>Uncle Rat&#39;s XXE Handbook</title>
-      <link>/uncle-rats-xxe-handbook/</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:09 +0530</pubDate>
-      
-      <guid>/uncle-rats-xxe-handbook/</guid>
-      <description>Who am i?
-An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
     </item>
     
     <item>
@@ -648,15 +692,6 @@ Kanban is a popular framework used to implement agile and DevOps software develo
       
       <guid>/ibm-big-data-engineer-certification-2021/</guid>
       <description>This certification is intended for IBM Big Data Engineers. The Big Data Engineer works directly with the Data Architect and hands-on Developers to convert the architect&#39;s Big Data vision and blueprint into a Big Data reality. The Data Engineer possesses a deep level of technical knowledge and experience across a wide array of products and technologies. A Data Engineer understands how to apply technologies to solve big data problems, and has the ability to build large-scale data processing systems for the enterprise.</description>
-    </item>
-    
-    <item>
-      <title>PMP® Practice Test: Project Management Professional 2021</title>
-      <link>/pmp-practice-test-project-management-professional-2021/</link>
-      <pubDate>Sun, 29 Aug 2021 22:24:58 +0530</pubDate>
-      
-      <guid>/pmp-practice-test-project-management-professional-2021/</guid>
-      <description>The PMP® certification is the most widely and globally recognized project management certification in 2021. It validates your experience and knowledge of Project Management. Unfortunately PMP® Exam content outline has changed in 2021, Hence old mock test preparations can not completely prepare you to take the challenge. This course can align your preparation to the new expectation of PMI from its students. Each practice test covers a deep understanding to carry out project management responsibilities.</description>
     </item>
     
     <item>
