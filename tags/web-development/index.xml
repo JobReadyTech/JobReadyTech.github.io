@@ -6,29 +6,51 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Sep 2021 12:05:21 +0530</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 20:22:08 +0530</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
       
       <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
     </item>
     
     <item>
+      <title>How to Install a Free SSL Certificate using Let&#39;s Encrypt</title>
+      <link>/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</link>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
+      
+      <guid>/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</guid>
+      <description>In the modern internet age, delivering web content over a secure protocol has become essential. Since January 2017, Google attaches a warning label to any website that does not secure sensitive web page content by delivering it using HTTPS. This includes web pages that contain forms asking for usernames, passwords, credit cards and other sensitive information. In the near future Google plans to roll out a requirement for all web pages to be secured.</description>
+    </item>
+    
+    <item>
       <title>PHP Crash Course For Absolute Beginners 2021</title>
       <link>/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
       
       <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
       <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>
+      <title>Practical MongoDB &#43; PHP: For Absolute Beginners</title>
+      <link>/practical-mongodb-php-for-absolute-beginners/</link>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
+      
+      <guid>/practical-mongodb-php-for-absolute-beginners/</guid>
+      <description>=== Students&#39; reviews&#39; regarding this course ===
+&#34;In-depth explanations, good examples, knowledgeable instructor!&#34; -- Gordon Stanley
+&#34;Really very good course to start learning Mongodb.&#34; -- Saifaldeen
+&#34;Simply awesome. The instructor is explaining every line of code that he is typing it on the console and explains straight to the point. I got to learn many new things in this course as a beginner.&#34; -- Saurabh Mirajkar
+&#34;Great course. Loved the style of the instructor and the way things are presented.</description>
+    </item>
+    
+    <item>
       <title>React Redux Toolkit complete guide</title>
       <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
       
       <guid>/react-redux-toolkit-complete-guide/</guid>
       <description>Course description:
@@ -40,7 +62,7 @@ To get the most from this course we will demonstrate a redux toolkit by building
     <item>
       <title>SVG Ultimate Course</title>
       <link>/svg-ultimate-course/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
       
       <guid>/svg-ultimate-course/</guid>
       <description>Have you always wanted to learn how to code but don&#39;t know where to start?
@@ -48,6 +70,16 @@ Would you like to make amazing websites and bring your ideas to life?
 Then SVG Ultimate Course is for you!
 Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
 Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>Web Development Masterclass - Complete Certificate Course</title>
+      <link>/web-development-masterclass-complete-certificate-course/</link>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
+      
+      <guid>/web-development-masterclass-complete-certificate-course/</guid>
+      <description>This course is fully compatible with the latest versions of Ubuntu (20.04 LTS, 18.04 LTS). You can also continue using 14.04 LTS or 16.04 LTS if you prefer, as the content is compatible with all versions.
+This course offers a comprehensive look into the entire web development process - from local server configuration using WAMP and MAMP (Apache, MySQL, PHP) to production deployment using the latest web technologies including: LAMP Stack (Linux, Apache, PHP and MySQL) for Ubuntu, HTML5, CSS, Bootstrap, JavaScript, jQuery, XML, and AJAX.</description>
     </item>
     
     <item>
@@ -506,16 +538,6 @@ This course will be your gateway to learn web design with blank HTML, CSS, and B
       
       <guid>/the-ultimate-wordpress-quiz-for-beginners-and-advanced-users/</guid>
       <description>WordPress has surely come a long way since it was first released long back&amp;nbsp; — so too do the WordPress numbers (stats, basically) that serve to characterize this popular tech platform. Because of its user-friendly interface, WordPress users can easily publish their content on the Internet - meaning it simplifies the website building efforts of designers and developers using the platform. A significant segment of the WordPress user community needs to learn more about the platform so that they can not only publish content but also design, customize, and manipulate their WordPress themes to make their websites look amazing.</description>
-    </item>
-    
-    <item>
-      <title>Web Development Masterclass - Complete Certificate Course</title>
-      <link>/web-development-masterclass-complete-certificate-course/</link>
-      <pubDate>Sat, 28 Aug 2021 15:04:35 +0530</pubDate>
-      
-      <guid>/web-development-masterclass-complete-certificate-course/</guid>
-      <description>This course is fully compatible with the latest versions of Ubuntu (20.04 LTS, 18.04 LTS). You can also continue using 14.04 LTS or 16.04 LTS if you prefer, as the content is compatible with all versions.
-This course offers a comprehensive look into the entire web development process - from local server configuration using WAMP and MAMP (Apache, MySQL, PHP)&amp;nbsp;to production deployment using the latest web technologies including: LAMP Stack (Linux, Apache, PHP and MySQL) for Ubuntu, HTML5, CSS, Bootstrap, JavaScript, jQuery, XML, and AJAX.</description>
     </item>
     
   </channel>

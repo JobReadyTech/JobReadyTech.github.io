@@ -6,20 +6,11 @@
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Sep 2021 12:05:21 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2021 Beginner&#39;s guide to Cyber Security</title>
-      <link>/2021-beginners-guide-to-cyber-security/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
-      
-      <guid>/2021-beginners-guide-to-cyber-security/</guid>
-      <description>Why should you enroll? Since we&#39;ve been working in this field for over 15 years, we wanted to share part of what we&#39;ve learned in all these years with people that are completely new to Cyber Security, or people that would like to understand the 2021 basics in this field. You will find the general information mixed with real-life scenarios and real tips &amp;amp; tricks on how to protect from different threats.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 13 Sep 2021 20:22:08 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
       <link>/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
       
       <guid>/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
@@ -29,11 +20,20 @@ Welcome to this course on SQL injection attacks! In this course, we explore one
     <item>
       <title>Uncle Rat&#39;s XXE Handbook</title>
       <link>/uncle-rats-xxe-handbook/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
       
       <guid>/uncle-rats-xxe-handbook/</guid>
       <description>Who am i?
 An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
+    </item>
+    
+    <item>
+      <title>2021 Beginner&#39;s guide to Cyber Security</title>
+      <link>/2021-beginners-guide-to-cyber-security/</link>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      
+      <guid>/2021-beginners-guide-to-cyber-security/</guid>
+      <description>Why should you enroll? Since we&#39;ve been working in this field for over 15 years, we wanted to share part of what we&#39;ve learned in all these years with people that are completely new to Cyber Security, or people that would like to understand the 2021 basics in this field. You will find the general information mixed with real-life scenarios and real tips &amp;amp; tricks on how to protect from different threats.</description>
     </item>
     
     <item>
