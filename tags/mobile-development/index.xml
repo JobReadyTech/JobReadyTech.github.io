@@ -6,7 +6,42 @@
     <description>Recent content in Mobile Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Sep 2021 22:45:16 +0530</lastBuildDate><atom:link href="/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 08:36:56 +0530</lastBuildDate><atom:link href="/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Android-Kotlin Development Guide [Arabic Edition]</title>
+      <link>/the-android-kotlin-development-guide-arabic-edition/</link>
+      <pubDate>Mon, 13 Sep 2021 08:36:56 +0530</pubDate>
+      
+      <guid>/the-android-kotlin-development-guide-arabic-edition/</guid>
+      <description>هذه الدورة المفصلة في المستوى الاول والثاني من الاندرويد بأستخدام كوتلن حيث افترض الشخص الذي امامي لا يعرف اي شي عن الاندرويد ستوديو
+ ستتمكن من خلال هذه الدورة من الدخول الى عالم تطوير تطبيقات الاندرويد تتميز هذه الدورة بأنها مفصلة ولكن ليس فيها تشعبات وتفاصيل غير اساسية
+
+لقد غطيت في هذه الدورة العديد من المواضيع مثل
+Layouts
+Res Files
+Toast
+View
+SetOnClickListener
+Intent
+WebView
+Ic Icon Luncher</description>
+    </item>
+    
+    <item>
+      <title>The Complete Flutter Development Guide [Arabic Edition]</title>
+      <link>/the-complete-flutter-development-guide-arabic-edition/</link>
+      <pubDate>Mon, 13 Sep 2021 08:36:56 +0530</pubDate>
+      
+      <guid>/the-complete-flutter-development-guide-arabic-edition/</guid>
+      <description>Notice: The Maximilian[Academind] course was adopted as a primary reference for this course ...
+ملاحظة: تم اعتماد دورة ماكس كمرجع اساسي لهذه الدورة...
+
+في هذه الدورة المتكاملة فلاتر [المرجع الشامل] افترض الشخص اللي امامي لا يعرف اي شيء عن الفلاتر وعن البرمجة التطبيقات اصلا
+سأخذك خطوة بخطوة من الصفر الى انشاء تطبيقات حقيقية للاندرويد والايفون
+
+Join the most comprehensive &amp;amp; bestselling Flutter course and learn how to build amazing iOS and Android apps!</description>
+    </item>
+    
     <item>
       <title>Beginners guide to Android App Development (Step by Step)</title>
       <link>/beginners-guide-to-android-app-development-step-by-step/</link>
