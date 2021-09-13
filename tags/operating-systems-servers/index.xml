@@ -6,7 +6,26 @@
     <description>Recent content in Operating Systems &amp; Servers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Sep 2021 17:21:16 +0530</lastBuildDate><atom:link href="/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 12:05:21 +0530</lastBuildDate><atom:link href="/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Command Line Terminal Basic for Beginners (In Hindi)</title>
+      <link>/linux-command-line-terminal-basic-for-beginners-in-hindi/</link>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      
+      <guid>/linux-command-line-terminal-basic-for-beginners-in-hindi/</guid>
+      <description>Become an effective Linux user and advance your Career. Learning the Linux Command Line will take you FAR!
+
+Learn to appreciate the power of the Linux command line.
+
+Understand the structure of the Linux File System.
+
+Learn how to navigate your Linux File System using few simple commands!
+
+Learn how to create, modify, and process files.
+
+This course is aimed at IT professionals or people who wish to become familiar with Linux.</description>
+    </item>
+    
     <item>
       <title>Microsoft Server 2012 R2 - Hands-on Training Part I</title>
       <link>/microsoft-server-2012-r2-hands-on-training-part-i/</link>
@@ -26,26 +45,6 @@ Part one of the course trains the student on installing, configuring, and managi
       <guid>/microsoft-server-2012-r2-intermediate-hands-on-training/</guid>
       <description>Please do not enroll in this course until you have completed the first building of your virtual lab environment. If you cannot create a virtual install of Server 2012, r2 using a Hypervisor, you will not partake in the lab exercises. 
 This course picks up where Windows Server 2012r2 - Hands-on Training Part I leaves off. In part I of the course, we looked at installing and configuring a Windows Server 2012 r2 domain.</description>
-    </item>
-    
-    <item>
-      <title>Linux Command Line Terminal Basic for Beginners (In Hindi)</title>
-      <link>/linux-command-line-terminal-basic-for-beginners-in-hindi/</link>
-      <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
-      
-      <guid>/linux-command-line-terminal-basic-for-beginners-in-hindi/</guid>
-      <description>Become an effective Linux user and advance your Career. Learning the Linux Command Line will take you FAR!
-
-
-Learn to appreciate the power of the Linux command line.
-
-Understand the structure of the Linux File System.
-
-Learn how to navigate your Linux File System using few simple commands!
-
-Learn how to create, modify, and process files.
-
-यह पाठ्यक्रम आईटी पेशेवरों या ऐसे लोगों के लिए लक्षित है जो लिनक्स से परिचित होना चाहते हैं। और यह दर्शकों को वह जानकारी देने के लिए है जो उन्हें कमांड-लाइन के साथ आरंभ करने के लिए जानना आवश्यक है और इसकी मदद से Linux manage कैसे करें।</description>
     </item>
     
     <item>

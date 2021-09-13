@@ -6,11 +6,11 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Sep 2021 09:03:23 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 12:05:21 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
@@ -19,7 +19,7 @@
     <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
@@ -28,7 +28,7 @@
     <item>
       <title>Jira Essentials</title>
       <link>/jira-essentials/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/jira-essentials/</guid>
       <description>More than 65 000 companies use Jira nowadays and the number is growing. Whether you are already working in one of these companies and need to step up in your Jira game, or are planning a career change and need to add &#34;Jira expertise&#34; to your CV to increase your chances, this course is for you! After completing this course you will be able to confidently set up Jira projects, create and modify issues, set up filters, Scrum and Kanban boards and dashboards.</description>
@@ -37,7 +37,7 @@
     <item>
       <title>PHP Crash Course For Absolute Beginners 2021</title>
       <link>/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
       <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
@@ -46,7 +46,7 @@
     <item>
       <title>React Redux Toolkit complete guide</title>
       <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/react-redux-toolkit-complete-guide/</guid>
       <description>Course description:
@@ -56,9 +56,22 @@ To get the most from this course we will demonstrate a redux toolkit by building
     </item>
     
     <item>
+      <title>SVG Ultimate Course</title>
+      <link>/svg-ultimate-course/</link>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      
+      <guid>/svg-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then SVG Ultimate Course is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
       <title>The Android-Kotlin Development Guide [Arabic Edition]</title>
       <link>/the-android-kotlin-development-guide-arabic-edition/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/the-android-kotlin-development-guide-arabic-edition/</guid>
       <description>هذه الدورة المفصلة في المستوى الاول والثاني من الاندرويد بأستخدام كوتلن حيث افترض الشخص الذي امامي لا يعرف اي شي عن الاندرويد ستوديو
@@ -78,7 +91,7 @@ Ic Icon Luncher</description>
     <item>
       <title>The Complete Flutter Development Guide [Arabic Edition]</title>
       <link>/the-complete-flutter-development-guide-arabic-edition/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/the-complete-flutter-development-guide-arabic-edition/</guid>
       <description>Notice: The Maximilian[Academind] course was adopted as a primary reference for this course ...
@@ -91,6 +104,18 @@ Join the most comprehensive &amp;amp; bestselling Flutter course and learn how t
     </item>
     
     <item>
+      <title>Three.js</title>
+      <link>/three.js/</link>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      
+      <guid>/three.js/</guid>
+      <description>SO, YOU’RE LOOKING FOR A COURSE THAT WILL TEACH YOU THREEJS &amp;amp; IN A FUN MANNER?
+I’ve got just the course for you!
+Welcome, my name is Josh Werner with Learn Tech Plus and I’ve put this course together to help people just like you quickly master ThreeJS...Whether you’re a beginner or experienced with ThreeJS!
+If your goal is to become a user of ThreeJS, then this course is perfect for you.</description>
+    </item>
+    
+    <item>
       <title>The Kotlin Learning Guide [Arabic Edition]</title>
       <link>/the-kotlin-learning-guide-arabic-edition/</link>
       <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
@@ -98,18 +123,6 @@ Join the most comprehensive &amp;amp; bestselling Flutter course and learn how t
       <guid>/the-kotlin-learning-guide-arabic-edition/</guid>
       <description>هذه الدورة المفصلة في المستوى الاول والثاني من الكوتلن حيث افترض الشخص الذي امامي لا يعرف اي شي عن عالم البرمجة ستتمكن من خلال هذه الدورة من الدخول الى عالم البرمجة وفهم اساسيات اللغات البرمجية لا تحتاج الى اي مؤهلات للدخول الى هذه الدورة ،تتميز هذه الدورة بأنها مفصلة ولكن ليس فيها تشعبات وتفاصيل غير اساسية
 Kotlin remains one of the most widely used and fastest-growing programming languages in recent years.</description>
-    </item>
-    
-    <item>
-      <title>Three.js</title>
-      <link>/three.js/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
-      
-      <guid>/three.js/</guid>
-      <description>SO, YOU’RE LOOKING FOR A COURSE THAT WILL TEACH YOU THREEJS &amp;amp; IN A FUN MANNER?
-I’ve got just the course for you!
-Welcome, my name is Josh Werner with Learn Tech Plus and I’ve put this course together to help people just like you quickly master ThreeJS...Whether you’re a beginner or experienced with ThreeJS!
-If your goal is to become a user of ThreeJS, then this course is perfect for you.</description>
     </item>
     
     <item>

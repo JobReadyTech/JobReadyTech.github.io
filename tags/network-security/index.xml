@@ -6,11 +6,20 @@
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Sep 2021 09:03:23 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 12:05:21 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 Beginner&#39;s guide to Cyber Security</title>
+      <link>/2021-beginners-guide-to-cyber-security/</link>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      
+      <guid>/2021-beginners-guide-to-cyber-security/</guid>
+      <description>Why should you enroll? Since we&#39;ve been working in this field for over 15 years, we wanted to share part of what we&#39;ve learned in all these years with people that are completely new to Cyber Security, or people that would like to understand the 2021 basics in this field. You will find the general information mixed with real-life scenarios and real tips &amp;amp; tricks on how to protect from different threats.</description>
+    </item>
+    
     <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
       <link>/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
@@ -20,7 +29,7 @@ Welcome to this course on SQL injection attacks! In this course, we explore one
     <item>
       <title>Uncle Rat&#39;s XXE Handbook</title>
       <link>/uncle-rats-xxe-handbook/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
+      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
       <guid>/uncle-rats-xxe-handbook/</guid>
       <description>Who am i?
