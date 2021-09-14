@@ -6,49 +6,82 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Sep 2021 13:19:24 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 18:00:33 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Android Widgets from Scratch ( Learn 8 Widgets)</title>
+      <link>/building-android-widgets-from-scratch-learn-8-widgets/</link>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
+      
+      <guid>/building-android-widgets-from-scratch-learn-8-widgets/</guid>
+      <description>Welcome to our course 
+Learn How to build 8 Android Widgets right from scratch in just 2 hours
+If you are an Android developer who has a good understanding of the application basics, then here&#39;s your chance to expand your Android knowledge and move to the next-level in Android development.
+In this course, you will learn how to build 8 commonly-used widgets on Android all on your own. The Instructor has opted for a hands-on approach to teaching these concepts.</description>
+    </item>
+    
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
       
       <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
     </item>
     
     <item>
+      <title>Introduction to Microservices</title>
+      <link>/introduction-to-microservices/</link>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
+      
+      <guid>/introduction-to-microservices/</guid>
+      <description>Microservices architecture provides a modern way of building highly scalable applications. Normally in building cloud-native applications microservices-based architecture is used. In this course, I have explained microservices in the simplest possible way. We start with the explanation of traditional architecture such as Monolithic Architecture, then we discuss how it evolved via service-oriented architecture (SOA) to finally microservices architecture. We talk about the benefits and the challenges of these architectures.</description>
+    </item>
+    
+    <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
     </item>
     
     <item>
+      <title>Modern JavaScript for React JS - ES6.</title>
+      <link>/modern-javascript-for-react-js-es6./</link>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
+      
+      <guid>/modern-javascript-for-react-js-es6./</guid>
+      <description>Are you looking to extend your knowledge in Javascript programming by learning the concepts of modern javascript - ES6?If you want to start your journey to become a React or Angular developer, then this is the perfect course for you. 
+What&#39;s this course about?This course is specifically designed for those who want to get a quick start with Modern Javascript, especially ES6 concepts. It covers all the basic concepts of ES6: how the javascript has evolved, how to use its latest features that come under ES6 topics, what is babel, and how it is used to compile the ES6 code to make it browser compatible.</description>
+    </item>
+    
+    <item>
       <title>PHP Crash Course For Absolute Beginners 2021</title>
       <link>/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
       
       <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
       <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>
-      <title>Python Programming From A-Z: Beginner To Expert Course</title>
-      <link>/python-programming-from-a-z-beginner-to-expert-course/</link>
-      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      <title>Practical Database Course for Beginners : 6 courses in 1</title>
+      <link>/practical-database-course-for-beginners-6-courses-in-1/</link>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
       
-      <guid>/python-programming-from-a-z-beginner-to-expert-course/</guid>
-      <description>Welcome to the Learn Python Programming From A-Z: Beginner To Expert Course
-Where you’re going to learn how to become a professional Python Developer and create programs, apps, scripts, games and so much more...
-In this practical, hands-on course our main objective is to give you the education not just to understand the ins and outs of Python Programming, but also to learn exactly how the software development industry works, the different roles within a team, and how to land a Python Programming job without a degree.</description>
+      <guid>/practical-database-course-for-beginners-6-courses-in-1/</guid>
+      <description>What our students says regarding this course! ---
+&#34;I am a beginner with Databases and SQL and this course has been very informative and easy to follow.&#34; -- Eve Grant
+&#34;The Course is very efficient i would highly recommend this course to all the newbies who are willing to learn Databases&#34; -- Ikram Khizer
+&#34;Lovely! Compact course with proper guideline.&#34; -- Pensee Chouinard
+&#34;Good information to get started.&#34; -- Debashish Majumda</description>
     </item>
     
     <item>
       <title>React Redux Toolkit complete guide</title>
       <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
       
       <guid>/react-redux-toolkit-complete-guide/</guid>
       <description>Course description:
@@ -60,11 +93,22 @@ To get the most from this course we will demonstrate a redux toolkit by building
     <item>
       <title>The Complete Introduction to C&#43;&#43; Programming</title>
       <link>/the-complete-introduction-to-c-programming/</link>
-      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      <pubDate>Tue, 14 Sep 2021 18:00:33 +0530</pubDate>
       
       <guid>/the-complete-introduction-to-c-programming/</guid>
       <description>Learning the basics of programmation can be very complicated no matter the programming language espescially if you never did any programming before. Being able to program in C++ is not different. This is why this course is here to help you learn everything you need to know about C++ and master this programming language. If you :
 - Want to create various projects with this programming language - Are in school and need to understand certain notions and concepts in C++</description>
+    </item>
+    
+    <item>
+      <title>Python Programming From A-Z: Beginner To Expert Course</title>
+      <link>/python-programming-from-a-z-beginner-to-expert-course/</link>
+      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      
+      <guid>/python-programming-from-a-z-beginner-to-expert-course/</guid>
+      <description>Welcome to the Learn Python Programming From A-Z: Beginner To Expert Course
+Where you’re going to learn how to become a professional Python Developer and create programs, apps, scripts, games and so much more...
+In this practical, hands-on course our main objective is to give you the education not just to understand the ins and outs of Python Programming, but also to learn exactly how the software development industry works, the different roles within a team, and how to land a Python Programming job without a degree.</description>
     </item>
     
     <item>
@@ -1142,17 +1186,6 @@ Unity ShaderLab is how you create custom shaders.</description>
       
       <guid>/matplotlib-for-python-developers-advanced/</guid>
       <description>We will be covering all the advanced level concepts in the course by the virtue of the sample questions which have been included to help the trainees on getting a precise view of the topics. You will get to learn about all the advanced-level topics and will also learn how to leverage them to draft solutions for plotting-based problems. Once you are done with this unit, you will be able to work proficiently with all the aspects of Matplotlib.</description>
-    </item>
-    
-    <item>
-      <title>Modern JavaScript for React JS - ES6.</title>
-      <link>/modern-javascript-for-react-js-es6./</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/modern-javascript-for-react-js-es6./</guid>
-      <description>Are you looking to extend your knowledge in Javascript programming by learning the concepts of modern javascript - ES6?
-If you want to start your journey to become a React or Angular developer, then this is the perfect course for you. What&#39;s this course about?
-This course is specifically designed for those who want to get a quick start with Modern Javascript, especially ES6 concepts. It covers all the basic concepts of ES6: how the javascript has evolved, how to use its latest features that come under ES6 topics, what is babel, and how it is used to compile the ES6 code to make it browser compatible.</description>
     </item>
     
     <item>
