@@ -6,24 +6,35 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Sep 2021 09:34:41 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 13:19:24 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>/java-socket-programming-simplified/</link>
+      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      
+      <guid>/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Python Programming From A-Z: Beginner To Expert Course</title>
+      <link>/python-programming-from-a-z-beginner-to-expert-course/</link>
+      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
+      
+      <guid>/python-programming-from-a-z-beginner-to-expert-course/</guid>
+      <description>Welcome to the Learn Python Programming From A-Z: Beginner To Expert Course
+Where you’re going to learn how to become a professional Python Developer and create programs, apps, scripts, games and so much more...
+In this practical, hands-on course our main objective is to give you the education not just to understand the ins and outs of Python Programming, but also to learn exactly how the software development industry works, the different roles within a team, and how to land a Python Programming job without a degree.</description>
+    </item>
+    
     <item>
       <title>The Complete Introduction to C&#43;&#43; Programming</title>
       <link>/the-complete-introduction-to-c-programming/</link>
-      <pubDate>Tue, 14 Sep 2021 09:34:41 +0530</pubDate>
+      <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
       
       <guid>/the-complete-introduction-to-c-programming/</guid>
       <description>Learning the basics of programmation can be very complicated no matter the programming language espescially if you never did any programming before. Being able to program in C++ is not different. This is why this course is here to help you learn everything you need to know about C++ and master this programming language. If you :
 - Want to create various projects with this programming language - Are in school and need to understand certain notions and concepts in C++</description>
-    </item>
-    
-    <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>/java-socket-programming-simplified/</link>
-      <pubDate>Tue, 14 Sep 2021 09:34:40 +0530</pubDate>
-      
-      <guid>/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
     </item>
     
     <item>
