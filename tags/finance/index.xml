@@ -6,11 +6,11 @@
     <description>Recent content in Finance on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Sep 2021 12:58:25 +0530</lastBuildDate><atom:link href="/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 15:46:17 +0530</lastBuildDate><atom:link href="/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chargeback Reason Codes in Card Payments</title>
       <link>/chargeback-reason-codes-in-card-payments/</link>
-      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
       
       <guid>/chargeback-reason-codes-in-card-payments/</guid>
       <description>THE CHARGEBACK WAY OF LIFE
@@ -22,9 +22,21 @@ Each chargeback is usually represent by something called the &#34;</description>
     </item>
     
     <item>
+      <title>Consumer Lending Risk Management Fundamentals</title>
+      <link>/consumer-lending-risk-management-fundamentals/</link>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      
+      <guid>/consumer-lending-risk-management-fundamentals/</guid>
+      <description>Have you wondered what a consumer lending risk management professional does on a daily basis? Do you want to explore the world of consumer lending, which is closely tied with millions of people&#39;s lives? This introductory course, Consumer Lending Risk Management Fundamentals - A Beginner&#39;s Guide, will walk you through: Consumer lending products and ecosystem
+Risk management types and framework
+Risk management practices in consumer lending
+Risk management throughout credit life cycle</description>
+    </item>
+    
+    <item>
       <title>Introduction to Payment Dispute Resolution</title>
       <link>/introduction-to-payment-dispute-resolution/</link>
-      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
       
       <guid>/introduction-to-payment-dispute-resolution/</guid>
       <description>WHY DISPUTE RESOLUTION?
@@ -61,18 +73,6 @@ Current asset classes we will consider include cash, accounts receivable, invent
       
       <guid>/introduction-to-finance/</guid>
       <description>Welcome to the Introduction to Finance Course by TSI! This is a course that is designed for complete beginners— no experience is required. If you are interested in finance, then you have come to the right place. We start off by introducing finance as well as clearing up a lot of the common misconceptions people have regarding the field. We then cover money and inflation. Then we cover loans and interest.</description>
-    </item>
-    
-    <item>
-      <title>Consumer Lending Risk Management Fundamentals</title>
-      <link>/consumer-lending-risk-management-fundamentals/</link>
-      <pubDate>Fri, 03 Sep 2021 13:11:36 +0530</pubDate>
-      
-      <guid>/consumer-lending-risk-management-fundamentals/</guid>
-      <description>Have you wondered what a consumer lending risk management professional does on a daily basis? Do you want to explore the world of consumer lending, which is closely tied with millions of people&#39;s lives? This introductory course, Consumer Lending Risk Management Fundamentals - A Beginner&#39;s Guide, will walk you through: Consumer lending products and ecosystem
-Risk management types and framework
-Risk management practices in consumer lending
-Risk management throughout credit life cycle</description>
     </item>
     
   </channel>

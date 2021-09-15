@@ -6,7 +6,16 @@
     <description>Recent content in Data Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Sep 2021 12:58:25 +0530</lastBuildDate><atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 15:46:17 +0530</lastBuildDate><atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python-Introduction to Data Science and Machine learning A-Z</title>
+      <link>/python-introduction-to-data-science-and-machine-learning-a-z/</link>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      
+      <guid>/python-introduction-to-data-science-and-machine-learning-a-z/</guid>
+      <description>Learning how to program in Python is not always easy especially if you want to use it for Data science. Indeed, there are many of different tools that have to be learned to be able to properly use Python for Data science and machine learning and each of those tools is not always easy to learn. But, this course will give all the basics you need no matter for what objective you want to use it so if you :</description>
+    </item>
+    
     <item>
       <title>Data Analysis Real world use-cases- Hands on Python</title>
       <link>/data-analysis-real-world-use-cases-hands-on-python/</link>
@@ -20,15 +29,6 @@ Can you start right now?
 A frequently asked question of Python Beginners is: &#34;Do I need to become an expert in Python coding before I can start working on Data Analysis Projects?&#34;
 The clear answer is: &#34;No!
 You just require some Python Basics like data types, simple operations/operators, lists and numpy arrays that you can learn from my Free Python course &#39;Basics Of Python&#39;</description>
-    </item>
-    
-    <item>
-      <title>Python-Introduction to Data Science and Machine learning A-Z</title>
-      <link>/python-introduction-to-data-science-and-machine-learning-a-z/</link>
-      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
-      
-      <guid>/python-introduction-to-data-science-and-machine-learning-a-z/</guid>
-      <description>Learning how to program in Python is not always easy especially if you want to use it for Data science. Indeed, there are many of different tools that have to be learned to be able to properly use Python for Data science and machine learning and each of those tools is not always easy to learn. But, this course will give all the basics you need no matter for what objective you want to use it so if you :</description>
     </item>
     
     <item>

@@ -6,7 +6,27 @@
     <description>Recent content in Business Analytics &amp; Intelligence on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Sep 2021 16:52:26 +0530</lastBuildDate><atom:link href="/tags/business-analytics-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 15:46:17 +0530</lastBuildDate><atom:link href="/tags/business-analytics-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cadena de suministro y análisis de datos con Excel</title>
+      <link>/cadena-de-suministro-y-an%C3%A1lisis-de-datos-con-excel/</link>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      
+      <guid>/cadena-de-suministro-y-an%C3%A1lisis-de-datos-con-excel/</guid>
+      <description>Existen muchas funciones y herramientas en Excel para analizar y trabajar con la información, algunas de las mas usadas son las siguientes:
+Función BuscarV, BuscarH
+Función Indice combinado con la funcion coincidir
+Función Si, SiError
+Funciones de Texto (Extrae, Izquierda, Derecha, Remplazar)
+Función Contara, ContarSi, ContarSiConjunto
+Función SumarSi, SumarSiConjunto
+Funciones matematicas (sumar, restar, promedios, subtotales, redondear, redondear.mas, redondear.menosetc)
+Formatos Condicionales
+Tablas dinámicas
+Creación de diferentes tipos gráficos
+Combinación de funciones, tablas y graficas dinámicas</description>
+    </item>
+    
     <item>
       <title>Tableau: Empieza desde cero</title>
       <link>/tableau-empieza-desde-cero/</link>

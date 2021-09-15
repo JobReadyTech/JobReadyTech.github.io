@@ -6,11 +6,21 @@
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Sep 2021 12:58:25 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 15:46:17 +0530</lastBuildDate><atom:link href="/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pentesting and Securing Web Applications (Ethical Hacking)</title>
+      <link>/pentesting-and-securing-web-applications-ethical-hacking/</link>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      
+      <guid>/pentesting-and-securing-web-applications-ethical-hacking/</guid>
+      <description>Computer security is one of the biggest job gaps in history, with a shortage of 3.5 million skilled workers needing to tackle a problem estimated to be worth $6 trillion. This is one of the biggest opportunities in history.
+When I was at university I did a lot of security courses and to be honest I was pretty frustrated at how they were taught. The concepts and their importance captured my imagination but I knew it could be taught in a better way.</description>
+    </item>
+    
     <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
       <link>/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
       
       <guid>/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
@@ -20,7 +30,7 @@ Welcome to this course on SQL injection attacks! In this course, we explore one
     <item>
       <title>Uncle Rat&#39;s XXE Handbook</title>
       <link>/uncle-rats-xxe-handbook/</link>
-      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
       
       <guid>/uncle-rats-xxe-handbook/</guid>
       <description>Who am i?
