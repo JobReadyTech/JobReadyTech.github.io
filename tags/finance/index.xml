@@ -6,11 +6,25 @@
     <description>Recent content in Finance on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Sep 2021 09:01:53 +0530</lastBuildDate><atom:link href="/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 12:58:25 +0530</lastBuildDate><atom:link href="/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chargeback Reason Codes in Card Payments</title>
+      <link>/chargeback-reason-codes-in-card-payments/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/chargeback-reason-codes-in-card-payments/</guid>
+      <description>THE CHARGEBACK WAY OF LIFE
+You may know that a merchant (or their bank, the acquirer/merchant bank), chargebacks are a nightmare.
+In short, a credit card owner claims they should obtain their money back due to something that went wrong in a transaction.
+Fraud, disputes over the goods, authorization errors, and many other types come in here.
+Chargebacks represent difficult obstacles for both acquiring and issuing bank.
+Each chargeback is usually represent by something called the &#34;</description>
+    </item>
+    
     <item>
       <title>Introduction to Payment Dispute Resolution</title>
       <link>/introduction-to-payment-dispute-resolution/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:53 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/introduction-to-payment-dispute-resolution/</guid>
       <description>WHY DISPUTE RESOLUTION?

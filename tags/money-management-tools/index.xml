@@ -6,22 +6,22 @@
     <description>Recent content in Money Management Tools on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Sep 2021 16:52:26 +0530</lastBuildDate><atom:link href="/tags/money-management-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 12:58:25 +0530</lastBuildDate><atom:link href="/tags/money-management-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Personal Capital Free Financial Planner Application</title>
-      <link>/personal-capital-free-financial-planner-application/</link>
-      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
+      <title>Corporate Finance #4 Leverage &amp; Break-Even Analysis</title>
+      <link>/corporate-finance-#4-leverage-break-even-analysis/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
-      <guid>/personal-capital-free-financial-planner-application/</guid>
-      <description>Personal Capital is currently a free software that can connect to financial institutions, pulling in financial asset and liability balances, as well as transaction detail, into one location.
-The strong areas of benefit of using Personal Capital software are its ability to provide net worth or balance sheet information, investment management information, and planning tools such as retirement planning and other large planning goals.
-The Personal Capital software also downloads transaction detail and allows for the categorization or assigning of accounts and tags that can then be used to generate an income statement.</description>
+      <guid>/corporate-finance-#4-leverage-break-even-analysis/</guid>
+      <description>In this course we will cover the concepts of leverage and break-even analysis from a corporate finance perspective.
+Leverage is a critical component of decision making in corporate finance and is an area of debate as to the optimal amount of leverage. Finding the best level of leverage may allow a business to grow much faster.
+We will discuss the concepts of operating leverage, financial leverage, and combined leverage and include practical practice problems related to these critical concepts.</description>
     </item>
     
     <item>
       <title>Managerial Accounting / Cost Accounting</title>
       <link>/managerial-accounting-/-cost-accounting/</link>
-      <pubDate>Wed, 08 Sep 2021 18:43:41 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/managerial-accounting-/-cost-accounting/</guid>
       <description>Comprehensive managerial and cost accounting course. Topics include:
@@ -41,11 +41,22 @@ This course will go into detail about each topic. We will include”
     <item>
       <title>Personal Finance</title>
       <link>/personal-finance/</link>
-      <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/personal-finance/</guid>
       <description>This course will cover personal finance concepts, starting from the basics, and moving to complex topics. We will cover each step thoroughly.
 We will include many example problems, both in the format of presentations and Excel worksheet problems. The Excel worksheet presentations will include a downloadable Excel workbook with at least two tabs, one with the answer, the second with a preformatted worksheet that can be completed in a step-by-step process along with the instructional videos.</description>
+    </item>
+    
+    <item>
+      <title>Personal Capital Free Financial Planner Application</title>
+      <link>/personal-capital-free-financial-planner-application/</link>
+      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
+      
+      <guid>/personal-capital-free-financial-planner-application/</guid>
+      <description>Personal Capital is currently a free software that can connect to financial institutions, pulling in financial asset and liability balances, as well as transaction detail, into one location.
+The strong areas of benefit of using Personal Capital software are its ability to provide net worth or balance sheet information, investment management information, and planning tools such as retirement planning and other large planning goals.
+The Personal Capital software also downloads transaction detail and allows for the categorization or assigning of accounts and tags that can then be used to generate an income statement.</description>
     </item>
     
   </channel>

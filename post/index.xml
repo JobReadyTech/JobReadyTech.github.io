@@ -6,23 +6,23 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Sep 2021 09:01:53 +0530</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 12:58:25 +0530</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction to Payment Dispute Resolution</title>
-      <link>/introduction-to-payment-dispute-resolution/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:53 +0530</pubDate>
+      <title>Advanced Financial Accounting</title>
+      <link>/advanced-financial-accounting/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
-      <guid>/introduction-to-payment-dispute-resolution/</guid>
-      <description>WHY DISPUTE RESOLUTION?
-Payment disputes are an important issue to solve, either as a merchant, cardholder or bank.
-There are many reasons for disputes, and multiple methods for dispute resolution. All of these can affect the results of a dispute for the different parties involved.
-In order to be effective at dispute resolution, it&#39;s important to understand not just the reasons for disputes, but also the mechanisms for their resolution, and the consequences of each.</description>
+      <guid>/advanced-financial-accounting/</guid>
+      <description>Advanced financial accounting will focus heavily on intercorporate acquisitions and investments in other entities.
+Why learn advanced accounting?
+Even if we do not work in an area that applies advanced accounting concepts directly, learning them is very useful, because it refines our skills on the understanding of double-entry accounting, its concepts, and practical application.
+Advanced financial accounting is also a standardized topic often found on exams like the CPA exam.</description>
     </item>
     
     <item>
       <title>Amazo Quickstart: Amazing No-Risk No-Capital Amazon Selling</title>
       <link>/amazo-quickstart-amazing-no-risk-no-capital-amazon-selling/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/amazo-quickstart-amazing-no-risk-no-capital-amazon-selling/</guid>
       <description>It&#39;s Amazing...
@@ -32,7 +32,7 @@ Everyone dreams of selling products on the world biggest eCommerce platform: Ama
     <item>
       <title>Basics of Proofreading</title>
       <link>/basics-of-proofreading/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/basics-of-proofreading/</guid>
       <description>Proofreaders are normally the members of the publishing team that make sure that documents look and read their best before they are sent to print. Along with being able to recognize errors in written materials, proofreaders must be able to correctly mark the documents for corrections.
@@ -45,7 +45,7 @@ Proofreaders can charge around $20-$50 per hour</description>
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -63,9 +63,23 @@ Analysis of latest block of bitcoin blockchain.</description>
     </item>
     
     <item>
+      <title>Chargeback Reason Codes in Card Payments</title>
+      <link>/chargeback-reason-codes-in-card-payments/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/chargeback-reason-codes-in-card-payments/</guid>
+      <description>THE CHARGEBACK WAY OF LIFE
+You may know that a merchant (or their bank, the acquirer/merchant bank), chargebacks are a nightmare.
+In short, a credit card owner claims they should obtain their money back due to something that went wrong in a transaction.
+Fraud, disputes over the goods, authorization errors, and many other types come in here.
+Chargebacks represent difficult obstacles for both acquiring and issuing bank.
+Each chargeback is usually represent by something called the &#34;</description>
+    </item>
+    
+    <item>
       <title>Conversion Optimization Mastery 2021</title>
       <link>/conversion-optimization-mastery-2021/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/conversion-optimization-mastery-2021/</guid>
       <description>Increasing your website’s traffic is already a time-consuming task that will take up enough of your time. So, you need to make sure that traffic converts into sales, right?
@@ -74,9 +88,50 @@ The conversion boosting hacks featured in this report are ones that you can easi
     </item>
     
     <item>
+      <title>Corporate Finance #1 Introduction &amp; Financial Statements</title>
+      <link>/corporate-finance-#1-introduction-financial-statements/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/corporate-finance-#1-introduction-financial-statements/</guid>
+      <description>This course will cover the core concepts of corporate finance.
+You will know the differences and similarities between the field of finance, accounting, and economics. Accounting is generally using past data to construct the financial statements in accordance with accounting standards. The financial statements are critical to the field of corporate finance but the the focus is different. Corporate finance will generally use data from the financial statements to make forecasts about future performance driving decision making.</description>
+    </item>
+    
+    <item>
+      <title>Corporate Finance #2 Financial Ratios</title>
+      <link>/corporate-finance-#2-financial-ratios/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/corporate-finance-#2-financial-ratios/</guid>
+      <description>We will learn how to use ratio analysis to help with decision making from a corporate finance perspective. The financial statements, including the balance sheet and income statement, are the primary tools used for ratio analysis. The financial statements help us understand past performance and where the organization stands at this time. Ratio analysis helps us project future performance and where the organization may stand in the future. This course will demonstrate concepts using many practice problems, including problems using Microsoft Excel.</description>
+    </item>
+    
+    <item>
+      <title>Corporate Finance #3 Forecasting &amp; Budgeting</title>
+      <link>/corporate-finance-#3-forecasting-budgeting/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/corporate-finance-#3-forecasting-budgeting/</guid>
+      <description>This course will cover the concepts of forecasting and budgeting from a finance perspective.
+The course includes many example problems, both in presentation form, and many using Excel worksheets. Each Excel worksheet problem will include a downloadable Excel worksheet that has at least two tabs, one having the answer, the second including a preformatted worksheet that can be populated in a step-by-step process along with the instructional video.
+To forecast and budget we need to make predictions and projections about the future.</description>
+    </item>
+    
+    <item>
+      <title>Corporate Finance #4 Leverage &amp; Break-Even Analysis</title>
+      <link>/corporate-finance-#4-leverage-break-even-analysis/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/corporate-finance-#4-leverage-break-even-analysis/</guid>
+      <description>In this course we will cover the concepts of leverage and break-even analysis from a corporate finance perspective.
+Leverage is a critical component of decision making in corporate finance and is an area of debate as to the optimal amount of leverage. Finding the best level of leverage may allow a business to grow much faster.
+We will discuss the concepts of operating leverage, financial leverage, and combined leverage and include practical practice problems related to these critical concepts.</description>
+    </item>
+    
+    <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
@@ -85,7 +140,7 @@ The conversion boosting hacks featured in this report are ones that you can easi
     <item>
       <title>Data Analysis Real world use-cases- Hands on Python</title>
       <link>/data-analysis-real-world-use-cases-hands-on-python/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/data-analysis-real-world-use-cases-hands-on-python/</guid>
       <description>This is the first course that gives hands-on Data Analysis Projects using Python..
@@ -98,12 +153,297 @@ You just require some Python Basics like data types, simple operations/operators
     </item>
     
     <item>
+      <title>Digital Marketing Course for Fitness Professionals</title>
+      <link>/digital-marketing-course-for-fitness-professionals/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/digital-marketing-course-for-fitness-professionals/</guid>
+      <description>To succeed in the fitness industry or field, your company must stand out from the crowd and competition. That means developing and implementing a solid and proven digital marketing strategy that is powered by Artificial Intelligence (AI). Social media marketing allows you to showcase your skills and expertise while also allowing people to learn about your company. It&#39;s a great, low-cost way to get more customers. But manual implementation of the same takes a lot of time, effort and resources.</description>
+    </item>
+    
+    <item>
+      <title>Facebook Page &amp; Facebook Ads Made as FUN: 10 DAYS Challenge</title>
+      <link>/facebook-page-facebook-ads-made-as-fun-10-days-challenge/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/facebook-page-facebook-ads-made-as-fun-10-days-challenge/</guid>
+      <description>Step by step Facebook ads &amp;amp; Instagram ads course for beginners (ready for ios 14.5+ restrictions) - Accept our 10 days challenge and learn how to set up Facebook business page &amp;amp; Facebook business manager. Install Facebook Pixel ready for iOS 14.5+ restrictions. Use Facebook Creator studio. Launch your first Facebook read ads &amp;amp; Facebook engagement campaigns. Generate leads with Facebook lead generation ads. This Facebook ads course includes essential info so you can prep for the Facebook Pixel API for iOS14.</description>
+    </item>
+    
+    <item>
       <title>Game Development with PyGame  | Real World Games</title>
       <link>/game-development-with-pygame-real-world-games/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
       
       <guid>/game-development-with-pygame-real-world-games/</guid>
       <description>Learn PyGame by developing fun games from scratch. This course is for everyone who has desire to learn Python and PyGame. The game complexity increases with every section and you will be able to rise your knowledge throughout the course. You will develop amazing games and you will see how PyGame works moving things on screen and objects interaction. You will also create and import pictures used in the games and get familiar with creating randomly movable enemies, animating the game characters and playing music and sounds while playing the game.</description>
+    </item>
+    
+    <item>
+      <title>How Manipulation Works</title>
+      <link>/how-manipulation-works/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/how-manipulation-works/</guid>
+      <description>A MATTER OF MANIPULATION
+Manipulation is, no doubt, dangerous in the world of today.
+It&#39;s important to be able to identify it so that you can stop it in its tracks.
+You can be manipulated:
+At work, by your manager or coworkers;
+In business relationships, by partners or suppliers;
+In relationships or friendships, through emotion or even bullying;
+By politicians, the media or others, with false numbers;
+By any type of person that wants to drive you to a specific type of action;</description>
+    </item>
+    
+    <item>
+      <title>How to Build a Tech Startup 102 - Managing Human Resources</title>
+      <link>/how-to-build-a-tech-startup-102-managing-human-resources/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/how-to-build-a-tech-startup-102-managing-human-resources/</guid>
+      <description>Have you ever wanted to build your own technology Startup? But you had no idea where to start? Maybe you are from a software engineering background and have no idea what to do next. No problem!
+Course Content
+The course is structured as follows:
+Basics of Human Resource Management
+Why it is important to build teams
+How to hire people on a budget
+Developing job descriptions, interviewing people How to on-board people and train them</description>
+    </item>
+    
+    <item>
+      <title>How to Make Passive Income With Bitcoin Lending</title>
+      <link>/how-to-make-passive-income-with-bitcoin-lending/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/how-to-make-passive-income-with-bitcoin-lending/</guid>
+      <description>Passive Income Course Covering Everything You Need To Passively Earn Money From Bitcoin Lending!
+******************************************************************************************
+Discover How to Make Passive Income Online Using A 6-Step Bitcoin Lending System:
+- A step-by-step video for each of the 6-Steps in the Automated System!
+- Inside look at my personal accounts!
+- Unlimited earnings, with a small upfront investment!
+- How to do all of this without any Fees!
+- This course is about results!</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Marketing</title>
+      <link>/introduction-to-marketing/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/introduction-to-marketing/</guid>
+      <description>The Storyboard Initiative presents our Introduction to Marketing course, an introductory course that focuses on the basics and essentials of marketing. We cover a wide range of topics relating to marketing, from the marketing mix to color theory, go into the essentials and format of a marketing plan, and cover topics related to digital marketing in the modern world.
+ Ratings: 4.01/5
+Enrollments: 1363
+Coupon Code: A2A3F5E3B0FD785DA0AB
+Current Price: FREE</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Payment Dispute Resolution</title>
+      <link>/introduction-to-payment-dispute-resolution/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/introduction-to-payment-dispute-resolution/</guid>
+      <description>WHY DISPUTE RESOLUTION?
+Payment disputes are an important issue to solve, either as a merchant, cardholder or bank.
+There are many reasons for disputes, and multiple methods for dispute resolution. All of these can affect the results of a dispute for the different parties involved.
+In order to be effective at dispute resolution, it&#39;s important to understand not just the reasons for disputes, but also the mechanisms for their resolution, and the consequences of each.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Song Tantra - Songwriting from the Soul!</title>
+      <link>/introduction-to-song-tantra-songwriting-from-the-soul/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/introduction-to-song-tantra-songwriting-from-the-soul/</guid>
+      <description>In this course I teach you a special vocal technique that opens the voice and creative flow! My technique connects you to the creative energy from your soul, so you can create beautiful music that will entrance audiences to you and your music. 
+I have personally have studied singing and sung professionally for over 20 years, graduated cum la mentored with pro- songwriters who write for celebrities and learn their songwriting techniques.</description>
+    </item>
+    
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>/java-socket-programming-simplified/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Learn Carnatic Flute | Intermediate Level | Varnams Volume 6</title>
+      <link>/learn-carnatic-flute-intermediate-level-varnams-volume-6/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/learn-carnatic-flute-intermediate-level-varnams-volume-6/</guid>
+      <description>Varṇam is a type of composition in the Carnatic music system consisting of short metric pieces which encapsulate the main features (patterns of notes) of a raga.Varnams capture the raga bhavam, ranjaka prayogas visesha sancharas, etc. Dhatu and Janta prayogas (phrase usage) are usually part of a Varnam. Understanding of these aspects is key to developing manodharma sangeetham (ie., improvisation aspects of Carnatic music such as raga aalapana, swara kalpana, neraval etc)</description>
+    </item>
+    
+    <item>
+      <title>Learn Wordpress Now: Wordpress for Beginners</title>
+      <link>/learn-wordpress-now-wordpress-for-beginners/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/learn-wordpress-now-wordpress-for-beginners/</guid>
+      <description>Have you ever wanted to start a website or blog on Wordpress but didn&#39;t know where to start? Felt overwhelmed by all the technical lingo or steps? Not to worry! With my Learn Wordpress Now: Wordpress for Beginners course, I take your hand and guide you step-by-step from the very beginning to show you how to get started and become familiar with the Wordpress platform in order to have your own blog or website setup in under an hour!</description>
+    </item>
+    
+    <item>
+      <title>Linux Crash Course for Beginners - 2021</title>
+      <link>/linux-crash-course-for-beginners-2021/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/linux-crash-course-for-beginners-2021/</guid>
+      <description>This course is for someone who needs basic training in Linux, someone who is already in IT and wants to add a new skill. It is specifically designed for those who have been really busy with their work and don&#39;t have enough time. Now you don&#39;t have to stay awake at night or sneak out of your lunch break. You will learn so many Linux commands in just 2 days. Sounds unreal?</description>
+    </item>
+    
+    <item>
+      <title>Managerial Accounting / Cost Accounting</title>
+      <link>/managerial-accounting-/-cost-accounting/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/managerial-accounting-/-cost-accounting/</guid>
+      <description>Comprehensive managerial and cost accounting course. Topics include:
+· Job order costing
+· Process costing
+· Cost volume profit analysis
+· Master Budgets
+· Flexible Budgets
+· Responsibility accounting
+· Relevant costs
+· Time value of money
+This course will go into detail about each topic. We will include”
+· Practice Excel files with both an answer tab and a practice tab
+· Lecture PDF files that can be downloaded and reviewed without internet access</description>
+    </item>
+    
+    <item>
+      <title>Personal Finance</title>
+      <link>/personal-finance/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/personal-finance/</guid>
+      <description>This course will cover personal finance concepts, starting from the basics, and moving to complex topics. We will cover each step thoroughly.
+We will include many example problems, both in the format of presentations and Excel worksheet problems. The Excel worksheet presentations will include a downloadable Excel workbook with at least two tabs, one with the answer, the second with a preformatted worksheet that can be completed in a step-by-step process along with the instructional videos.</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
+    </item>
+    
+    <item>
+      <title>Python-Introduction to Data Science and Machine learning A-Z</title>
+      <link>/python-introduction-to-data-science-and-machine-learning-a-z/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/python-introduction-to-data-science-and-machine-learning-a-z/</guid>
+      <description>Learning how to program in Python is not always easy especially if you want to use it for Data science. Indeed, there are many of different tools that have to be learned to be able to properly use Python for Data science and machine learning and each of those tools is not always easy to learn. But, this course will give all the basics you need no matter for what objective you want to use it so if you :</description>
+    </item>
+    
+    <item>
+      <title>QuickBooks Desktop Not for Profit Organizations</title>
+      <link>/quickbooks-desktop-not-for-profit-organizations/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/quickbooks-desktop-not-for-profit-organizations/</guid>
+      <description>QuickBooks Desktop Not for Profit Organizations will provide the tools to enter data into QuickBooks for a not for profit organization.
+This QuickBooks course will consist of three comprehensive practice problems. One problem will be for a charitable organization, one for a health care organization, and one for a not for profit school.
+We will learn how to set up a QuickBooks file for a not for profit organization.
+The course will show how to create a chart of accounts and items list for a not for profit organization.</description>
+    </item>
+    
+    <item>
+      <title>QuickBooks Online 2021 &amp; 2020 Start to Finish</title>
+      <link>/quickbooks-online-2021-2020-start-to-finish/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/quickbooks-online-2021-2020-start-to-finish/</guid>
+      <description>QuickBooks Online 2021 updates are being prepared. The current course community will have access to the updates as we create them.
+We will update this course each year at no additional cost, so the course community has access to the latest look and feel of QuickBooks Online and can also look back to see the changes that have been made.
+We have received a lot of positive feedback and suggestions for improvements that we will put into place as we update.</description>
+    </item>
+    
+    <item>
+      <title>React Redux Toolkit complete guide</title>
+      <link>/react-redux-toolkit-complete-guide/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/react-redux-toolkit-complete-guide/</guid>
+      <description>Course description:
+This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
+What will you build?
+To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
+    </item>
+    
+    <item>
+      <title>SQL Injection Attacks: The 2021 Guide</title>
+      <link>/sql-injection-attacks-the-2021-guide/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/sql-injection-attacks-the-2021-guide/</guid>
+      <description>About the course:
+Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Starting Python 3 Programming for the Absolute Beginner</title>
+      <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
+      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
+For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
+Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
+    </item>
+    
+    <item>
+      <title>Study Skills for Success in IT Industry: How to Learn IT</title>
+      <link>/study-skills-for-success-in-it-industry-how-to-learn-it/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/study-skills-for-success-in-it-industry-how-to-learn-it/</guid>
+      <description>&#34;My expectations were low having been disappointed by other &#34;how to learn&#34; courses. Really wanted practical &#34;meat&#34; on learning how to become a better programmer. WOW this course has blown me away. If you&#39;re looking for specific guidance for IT learning especially where hands-on practice is essential – this is it.&#34;, Rick Sline
+&#34;Really interesting concepts and to the point. I thought, &#34;what could I really learn in less than 2 hours?</description>
+    </item>
+    
+    <item>
+      <title>Swing Trading Ninja: 12 Hour Complete Swing Trading Strategy</title>
+      <link>/swing-trading-ninja-12-hour-complete-swing-trading-strategy/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/swing-trading-ninja-12-hour-complete-swing-trading-strategy/</guid>
+      <description>*** Course access includes quizzes &amp;amp; homework exercises, 1-on-1 instructor support and LIFETIME access! ***
+This is best strategy I ever find in my life for swing trader. This is incredible. This milloin dollar startegy. I can say here &#34;knowledge is power&#34;.
+-Suhit Kalubarme
+it was a great match . I am learning a lot and enjoying class. Working on paper trades as class goes on and see things that I am learning daily.</description>
+    </item>
+    
+    <item>
+      <title>Uncle Rat&#39;s XXE Handbook</title>
+      <link>/uncle-rats-xxe-handbook/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/uncle-rats-xxe-handbook/</guid>
+      <description>Who am i?
+An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
+    </item>
+    
+    <item>
+      <title>Wave Accounting</title>
+      <link>/wave-accounting/</link>
+      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
+      
+      <guid>/wave-accounting/</guid>
+      <description>This course will use free accounting software which is an excellent tool to practice with.
+This course will jump right into bank feeds and how to use them.
+Many accounting software courses will spend a lot of time talking about how a full-service accounting system works. We do recommend spending time learning the full accounting process, and we do have courses that do just that.
+However, many small businesses want to get right down to data input as fast as possible, and others already have a good understanding of the system and want to focus specifically on bank feeds.</description>
     </item>
     
     <item>
@@ -119,74 +459,6 @@ It doesn&#39;t matter how far along you are in your creative arts business, how 
     </item>
     
     <item>
-      <title>How to Build a Tech Startup 102 - Managing Human Resources</title>
-      <link>/how-to-build-a-tech-startup-102-managing-human-resources/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/how-to-build-a-tech-startup-102-managing-human-resources/</guid>
-      <description>Have you ever wanted to build your own technology Startup? But you had no idea where to start? Maybe you are from a software engineering background and have no idea what to do next. No problem!
-Course Content
-The course is structured as follows:
-Basics of Human Resource Management
-Why it is important to build teams
-How to hire people on a budget
-Developing job descriptions, interviewing people How to on-board people and train them</description>
-    </item>
-    
-    <item>
-      <title>How to Make Passive Income With Bitcoin Lending</title>
-      <link>/how-to-make-passive-income-with-bitcoin-lending/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/how-to-make-passive-income-with-bitcoin-lending/</guid>
-      <description>Passive Income Course Covering Everything You Need To Passively Earn Money From Bitcoin Lending!
-******************************************************************************************
-Discover How to Make Passive Income Online Using A 6-Step Bitcoin Lending System:
-- A step-by-step video for each of the 6-Steps in the Automated System!
-- Inside look at my personal accounts!
-- Unlimited earnings, with a small upfront investment!
-- How to do all of this without any Fees!
-- This course is about results!</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Song Tantra - Songwriting from the Soul!</title>
-      <link>/introduction-to-song-tantra-songwriting-from-the-soul/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/introduction-to-song-tantra-songwriting-from-the-soul/</guid>
-      <description>In this course I teach you a special vocal technique that opens the voice and creative flow! My technique connects you to the creative energy from your soul, so you can create beautiful music that will entrance audiences to you and your music. 
-I have personally have studied singing and sung professionally for over 20 years, graduated cum la mentored with pro- songwriters who write for celebrities and learn their songwriting techniques.</description>
-    </item>
-    
-    <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>/java-socket-programming-simplified/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
-    </item>
-    
-    <item>
-      <title>Learn Carnatic Flute | Intermediate Level | Varnams Volume 6</title>
-      <link>/learn-carnatic-flute-intermediate-level-varnams-volume-6/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/learn-carnatic-flute-intermediate-level-varnams-volume-6/</guid>
-      <description>Varṇam is a type of composition in the Carnatic music system consisting of short metric pieces which encapsulate the main features (patterns of notes) of a raga.Varnams capture the raga bhavam, ranjaka prayogas visesha sancharas, etc. Dhatu and Janta prayogas (phrase usage) are usually part of a Varnam. Understanding of these aspects is key to developing manodharma sangeetham (ie., improvisation aspects of Carnatic music such as raga aalapana, swara kalpana, neraval etc)</description>
-    </item>
-    
-    <item>
-      <title>Linux Crash Course for Beginners - 2021</title>
-      <link>/linux-crash-course-for-beginners-2021/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/linux-crash-course-for-beginners-2021/</guid>
-      <description>This course is for someone who needs basic training in Linux, someone who is already in IT and wants to add a new skill. It is specifically designed for those who have been really busy with their work and don&#39;t have enough time. Now you don&#39;t have to stay awake at night or sneak out of your lunch break. You will learn so many Linux commands in just 2 days. Sounds unreal?</description>
-    </item>
-    
-    <item>
       <title>Microsoft Excel - Learn MS EXCEL For DATA Analysis</title>
       <link>/microsoft-excel-learn-ms-excel-for-data-analysis/</link>
       <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
@@ -198,79 +470,6 @@ I have personally have studied singing and sung professionally for over 20 years
 - Learn how to create different Excel Apps
 - Just grow your Knowledge about this amazing Microsoft App
 Or any other reason, this course is definitely for you. The way this class have been designed was to offer to the student an easy way to learn Microsoft Excel and the basics of Data analysis at the same time.</description>
-    </item>
-    
-    <item>
-      <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
-      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
-    </item>
-    
-    <item>
-      <title>Python-Introduction to Data Science and Machine learning A-Z</title>
-      <link>/python-introduction-to-data-science-and-machine-learning-a-z/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/python-introduction-to-data-science-and-machine-learning-a-z/</guid>
-      <description>Learning how to program in Python is not always easy especially if you want to use it for Data science. Indeed, there are many of different tools that have to be learned to be able to properly use Python for Data science and machine learning and each of those tools is not always easy to learn. But, this course will give all the basics you need no matter for what objective you want to use it so if you :</description>
-    </item>
-    
-    <item>
-      <title>React Redux Toolkit complete guide</title>
-      <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/react-redux-toolkit-complete-guide/</guid>
-      <description>Course description:
-This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
-What will you build?
-To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
-    </item>
-    
-    <item>
-      <title>SQL Injection Attacks: The 2021 Guide</title>
-      <link>/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/sql-injection-attacks-the-2021-guide/</guid>
-      <description>About the course:
-Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
-    </item>
-    
-    <item>
-      <title>Starting Python 3 Programming for the Absolute Beginner</title>
-      <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
-      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
-For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
-Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
-    </item>
-    
-    <item>
-      <title>Swing Trading Ninja: 12 Hour Complete Swing Trading Strategy</title>
-      <link>/swing-trading-ninja-12-hour-complete-swing-trading-strategy/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/swing-trading-ninja-12-hour-complete-swing-trading-strategy/</guid>
-      <description>*** Course access includes quizzes &amp;amp; homework exercises, 1-on-1 instructor support and LIFETIME access! ***
-This is best strategy I ever find in my life for swing trader. This is incredible. This milloin dollar startegy. I can say here &#34;knowledge is power&#34;.
--Suhit Kalubarme
-it was a great match . I am learning a lot and enjoying class. Working on paper trades as class goes on and see things that I am learning daily.</description>
-    </item>
-    
-    <item>
-      <title>Uncle Rat&#39;s XXE Handbook</title>
-      <link>/uncle-rats-xxe-handbook/</link>
-      <pubDate>Wed, 15 Sep 2021 09:01:52 +0530</pubDate>
-      
-      <guid>/uncle-rats-xxe-handbook/</guid>
-      <description>Who am i?
-An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
     </item>
     
     <item>
@@ -3335,17 +3534,6 @@ The curriculum is going to be very hands-on as we walk you from start to finish 
     </item>
     
     <item>
-      <title>QuickBooks Online 2021 &amp; 2020 Start to Finish</title>
-      <link>/quickbooks-online-2021-2020-start-to-finish/</link>
-      <pubDate>Wed, 08 Sep 2021 18:43:42 +0530</pubDate>
-      
-      <guid>/quickbooks-online-2021-2020-start-to-finish/</guid>
-      <description>QuickBooks Online 2021 updates are being prepared. The current course community will have access to the updates as we create them.
-We will update this course each year at no additional cost, so the course community has access to the latest look and feel of QuickBooks Online and can also look back to see the changes that have been made.
-We have received a lot of positive feedback and suggestions for improvements that we will put into place as we update.</description>
-    </item>
-    
-    <item>
       <title>Reverse Engineering, Debugging and Malware Analysis - 2021</title>
       <link>/reverse-engineering-debugging-and-malware-analysis-2021/</link>
       <pubDate>Wed, 08 Sep 2021 18:43:42 +0530</pubDate>
@@ -3447,26 +3635,6 @@ Mit meinem GIMP 2.10 für Anfänger - Grundkurs für jeden Einsteiger! lernt jed
       <description>Learn Python, a programming language with a wide variety of well-paying jobs in many fields, including data science and web development.
 It is relatively easy to learn when compared to pretty much any other programming language since most of the time, using Python to do something will take less lines of code than with another programming language.
 In this course, you will be taught the fundamentals of Python through high quality video and audio lectures.</description>
-    </item>
-    
-    <item>
-      <title>Managerial Accounting / Cost Accounting</title>
-      <link>/managerial-accounting-/-cost-accounting/</link>
-      <pubDate>Wed, 08 Sep 2021 18:43:41 +0530</pubDate>
-      
-      <guid>/managerial-accounting-/-cost-accounting/</guid>
-      <description>Comprehensive managerial and cost accounting course. Topics include:
-· Job order costing
-· Process costing
-· Cost volume profit analysis
-· Master Budgets
-· Flexible Budgets
-· Responsibility accounting
-· Relevant costs
-· Time value of money
-This course will go into detail about each topic. We will include”
-· Practice Excel files with both an answer tab and a practice tab
-· Lecture PDF files that can be downloaded and reviewed without internet access</description>
     </item>
     
     <item>
@@ -4373,16 +4541,6 @@ Choosing your card deck is the first step on a fun, magical and often amazing jo
     </item>
     
     <item>
-      <title>Personal Finance</title>
-      <link>/personal-finance/</link>
-      <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
-      
-      <guid>/personal-finance/</guid>
-      <description>This course will cover personal finance concepts, starting from the basics, and moving to complex topics. We will cover each step thoroughly.
-We will include many example problems, both in the format of presentations and Excel worksheet problems. The Excel worksheet presentations will include a downloadable Excel workbook with at least two tabs, one with the answer, the second with a preformatted worksheet that can be completed in a step-by-step process along with the instructional videos.</description>
-    </item>
-    
-    <item>
       <title>PMP Practice Test Exam 2021-PMBOK6</title>
       <link>/pmp-practice-test-exam-2021-pmbok6/</link>
       <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
@@ -4983,15 +5141,6 @@ Working with IDs, Classes, and Divisions.
 CSS Text Properties, Borders and Backgrounds
 Styling Images and Links
 CSS Display Properties</description>
-    </item>
-    
-    <item>
-      <title>Digital Marketing Course for Fitness Professionals</title>
-      <link>/digital-marketing-course-for-fitness-professionals/</link>
-      <pubDate>Thu, 02 Sep 2021 22:17:33 +0530</pubDate>
-      
-      <guid>/digital-marketing-course-for-fitness-professionals/</guid>
-      <description>To succeed in the fitness industry or field, your company must stand out from the crowd and competition. That means developing and implementing a solid and proven digital marketing strategy that is powered by Artificial Intelligence (AI). Social media marketing allows you to showcase your skills and expertise while also allowing people to learn about your company. It&#39;s a great, low-cost way to get more customers. But manual implementation of the same takes a lot of time, effort and resources.</description>
     </item>
     
     <item>
@@ -5886,15 +6035,6 @@ In the security software industry, an exploit is a piece of software, a chunk of
       <guid>/face-recognition-web-app-with-machine-learning-in-flask/</guid>
       <description>Face Recognition Web Project using Machine Learning in Flask Python
 Face recognition is one of the most widely used in my application. If at all you want to develop and deploy the application on the web only knowledge of machine learning or deep learning is not enough. You also need to know the creation of pipeline architecture and call it from the client-side, HTTP request, and many more. While doing so you might face many challenges while developing the app.</description>
-    </item>
-    
-    <item>
-      <title>Facebook Page &amp; Facebook Ads Made as FUN: 10 DAYS Challenge</title>
-      <link>/facebook-page-facebook-ads-made-as-fun-10-days-challenge/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/facebook-page-facebook-ads-made-as-fun-10-days-challenge/</guid>
-      <description>Step by step Facebook ads &amp;amp; Instagram ads course for beginners (ready for ios 14.5+ restrictions) - Accept our 10 days challenge and learn how to set up Facebook business page &amp;amp; Facebook business manager. Install Facebook Pixel ready for iOS 14.5+ restrictions. Use Facebook Creator studio. Launch your first Facebook read ads &amp;amp; Facebook engagement campaigns. Generate leads with Facebook lead generation ads. This Facebook ads course includes essential info so you can prep for the Facebook Pixel API for iOS14.</description>
     </item>
     
     <item>
