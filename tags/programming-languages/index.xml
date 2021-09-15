@@ -6,14 +6,27 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Sep 2021 15:46:17 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 22:31:53 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Python Demonstrations For Practice Course</title>
+      <link>/python-demonstrations-for-practice-course/</link>
+      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
+      
+      <guid>/python-demonstrations-for-practice-course/</guid>
+      <description>Learn Python From Beginner To Advanced Level By Demonstrations
+The course is created thorough, extensive, but easy to follow content which you’ll easily understand and absorb.
+ The course starts with the basics, including Python fundamentals, programming, and user interaction.
+
+The curriculum is going to be very hands-on as we walk you from start to finish becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real-life practice and be ready for the real world.</description>
     </item>
     
     <item>
@@ -273,19 +286,6 @@ Documentation
 What is Python
 Getting Started with Python Documentation
 Cover Summary of Python Beginner&#39;s Documentation</description>
-    </item>
-    
-    <item>
-      <title>Python Demonstrations For Practice Course</title>
-      <link>/python-demonstrations-for-practice-course/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/python-demonstrations-for-practice-course/</guid>
-      <description>Learn Python From Beginner To Advanced Level By Demonstrations
-The course is created thorough, extensive, but easy to follow content which you’ll easily understand and absorb.
- The course starts with the basics, including Python fundamentals, programming, and user interaction.
-
-The curriculum is going to be very hands-on as we walk you from start to finish becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real-life practice and be ready for the real world.</description>
     </item>
     
     <item>

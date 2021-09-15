@@ -6,11 +6,11 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Sep 2021 15:46:17 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 22:31:53 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
       
       <guid>/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -30,26 +30,16 @@ Analysis of latest block of bitcoin blockchain.</description>
     <item>
       <title>Linux Crash Course for Beginners - 2021</title>
       <link>/linux-crash-course-for-beginners-2021/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
       
       <guid>/linux-crash-course-for-beginners-2021/</guid>
       <description>This course is for someone who needs basic training in Linux, someone who is already in IT and wants to add a new skill. It is specifically designed for those who have been really busy with their work and don&#39;t have enough time. Now you don&#39;t have to stay awake at night or sneak out of your lunch break. You will learn so many Linux commands in just 2 days. Sounds unreal?</description>
     </item>
     
     <item>
-      <title>Pentesting and Securing Web Applications (Ethical Hacking)</title>
-      <link>/pentesting-and-securing-web-applications-ethical-hacking/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
-      
-      <guid>/pentesting-and-securing-web-applications-ethical-hacking/</guid>
-      <description>Computer security is one of the biggest job gaps in history, with a shortage of 3.5 million skilled workers needing to tackle a problem estimated to be worth $6 trillion. This is one of the biggest opportunities in history.
-When I was at university I did a lot of security courses and to be honest I was pretty frustrated at how they were taught. The concepts and their importance captured my imagination but I knew it could be taught in a better way.</description>
-    </item>
-    
-    <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
       <link>/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
       
       <guid>/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
@@ -59,7 +49,7 @@ Welcome to this course on SQL injection attacks! In this course, we explore one
     <item>
       <title>Starting Python 3 Programming for the Absolute Beginner</title>
       <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
       
       <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
       <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
@@ -70,11 +60,21 @@ Searching for good material online often takes hours and hours and this course i
     <item>
       <title>Uncle Rat&#39;s XXE Handbook</title>
       <link>/uncle-rats-xxe-handbook/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
       
       <guid>/uncle-rats-xxe-handbook/</guid>
       <description>Who am i?
 An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
+    </item>
+    
+    <item>
+      <title>Pentesting and Securing Web Applications (Ethical Hacking)</title>
+      <link>/pentesting-and-securing-web-applications-ethical-hacking/</link>
+      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
+      
+      <guid>/pentesting-and-securing-web-applications-ethical-hacking/</guid>
+      <description>Computer security is one of the biggest job gaps in history, with a shortage of 3.5 million skilled workers needing to tackle a problem estimated to be worth $6 trillion. This is one of the biggest opportunities in history.
+When I was at university I did a lot of security courses and to be honest I was pretty frustrated at how they were taught. The concepts and their importance captured my imagination but I knew it could be taught in a better way.</description>
     </item>
     
     <item>
