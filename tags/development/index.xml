@@ -6,20 +6,41 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Sep 2021 22:31:53 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Sep 2021 10:29:20 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
       
       <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
     </item>
     
     <item>
+      <title>HTML &amp; CSS - Certification Course for Beginners</title>
+      <link>/html-css-certification-course-for-beginners/</link>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
+      
+      <guid>/html-css-certification-course-for-beginners/</guid>
+      <description>Welcome to the HTML &amp;amp; CSS – Certification Course for BeginnersThis two-part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start by exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms.</description>
+    </item>
+    
+    <item>
+      <title>Intermediate Python Immersive Training | Boost your career</title>
+      <link>/intermediate-python-immersive-training-boost-your-career/</link>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
+      
+      <guid>/intermediate-python-immersive-training-boost-your-career/</guid>
+      <description>Welcome to The Intermediate Python Immersive Training | Boost your career
+In this course, you will learn in depth the most important Python language topics for the intermediate level.
+Once you have completed this course, you will be able to use all these techniques, which we will list in detail.
+There is a wonderful feature in this course, as it explains in important detail all you need in these topics in a direct and practical way that saves you valuable time and effort.</description>
+    </item>
+    
+    <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
@@ -28,10 +49,57 @@
     <item>
       <title>PHP Crash Course For Absolute Beginners 2021</title>
       <link>/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
       
       <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
       <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
+    </item>
+    
+    <item>
+      <title>Python and Data Handling for Everyone 2021 Mastery Bootcamp</title>
+      <link>/python-and-data-handling-for-everyone-2021-mastery-bootcamp/</link>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
+      
+      <guid>/python-and-data-handling-for-everyone-2021-mastery-bootcamp/</guid>
+      <description>Hello and welcome to the Python and Data Handling for Everyone 2021 Mastery Bootcamp.
+Data science is a huge field, and one of the promising fields that is spreading in a fast way, also, it is one of the very rewarding, and it is increasing in expansion day by day, due to its great importance and benefits, as it is the future.
+Data science enables companies to measure, track, and record performance metrics for facilitating and enhancing decision making.</description>
+    </item>
+    
+    <item>
+      <title>Python for beginners - Learn all the basics of python</title>
+      <link>/python-for-beginners-learn-all-the-basics-of-python/</link>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
+      
+      <guid>/python-for-beginners-learn-all-the-basics-of-python/</guid>
+      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
+- Are in school and want to learn how to program in python
+- Need to learn this programming language for work</description>
+    </item>
+    
+    <item>
+      <title>React Redux Toolkit complete guide</title>
+      <link>/react-redux-toolkit-complete-guide/</link>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
+      
+      <guid>/react-redux-toolkit-complete-guide/</guid>
+      <description>Course description:
+This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
+What will you build?
+To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
+    </item>
+    
+    <item>
+      <title>The Python Programming A-Z Definitive Diploma in 2021</title>
+      <link>/the-python-programming-a-z-definitive-diploma-in-2021/</link>
+      <pubDate>Thu, 16 Sep 2021 10:29:20 +0530</pubDate>
+      
+      <guid>/the-python-programming-a-z-definitive-diploma-in-2021/</guid>
+      <description>Hi, Welcome to The Python Programming A-Z Definitive Diploma in 2021.
+Your complete Guide to Python Programming.
+Almost Python is currently used for everything in Software Engineering.
+Although it is very easy to learn, but, it is very useful and powerful.
+Its fields are so many, and by learning python, it will be very easy for you to get higher Jobs in the largest companies such as Google, Dropbox, Spotify and many more.</description>
     </item>
     
     <item>
@@ -45,18 +113,6 @@ The course is created thorough, extensive, but easy to follow content which you�
  The course starts with the basics, including Python fundamentals, programming, and user interaction.
 
 The curriculum is going to be very hands-on as we walk you from start to finish becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real-life practice and be ready for the real world.</description>
-    </item>
-    
-    <item>
-      <title>React Redux Toolkit complete guide</title>
-      <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
-      
-      <guid>/react-redux-toolkit-complete-guide/</guid>
-      <description>Course description:
-This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
-What will you build?
-To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
     </item>
     
     <item>
@@ -892,15 +948,6 @@ This realistic course covers “How to get started with Java for Automation Test
     </item>
     
     <item>
-      <title>HTML &amp; CSS - Certification Course for Beginners</title>
-      <link>/html-css-certification-course-for-beginners/</link>
-      <pubDate>Tue, 07 Sep 2021 20:19:47 +0530</pubDate>
-      
-      <guid>/html-css-certification-course-for-beginners/</guid>
-      <description>Welcome to the HTML &amp;amp; CSS – Certification Course for BeginnersThis two-part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start by exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms.</description>
-    </item>
-    
-    <item>
       <title>Learn Python By building Games in Python</title>
       <link>/learn-python-by-building-games-in-python/</link>
       <pubDate>Tue, 07 Sep 2021 20:19:47 +0530</pubDate>
@@ -910,17 +957,6 @@ This realistic course covers “How to get started with Java for Automation Test
 What you will learn in this course ?
 Learn Python by doing 5 Python Games Projects.
 In this course you will learn how to Install Python 3.</description>
-    </item>
-    
-    <item>
-      <title>Python for beginners - Learn all the basics of python</title>
-      <link>/python-for-beginners-learn-all-the-basics-of-python/</link>
-      <pubDate>Tue, 07 Sep 2021 20:19:47 +0530</pubDate>
-      
-      <guid>/python-for-beginners-learn-all-the-basics-of-python/</guid>
-      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
-- Are in school and want to learn how to program in python
-- Need to learn this programming language for work</description>
     </item>
     
     <item>
@@ -1165,18 +1201,6 @@ Full-stack mobile app development lies at the nexus of content and technology. B
     </item>
     
     <item>
-      <title>Intermediate Python Immersive Training | Boost your career</title>
-      <link>/intermediate-python-immersive-training-boost-your-career/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/intermediate-python-immersive-training-boost-your-career/</guid>
-      <description>Welcome to The Intermediate Python Immersive Training | Boost your career
-In this course, you will learn in depth the most important Python language topics for the intermediate level.
-Once you have completed this course, you will be able to use all these techniques, which we will list in detail.
-There is a wonderful feature in this course, as it explains in important detail all you need in these topics in a direct and practical way that saves you valuable time and effort.</description>
-    </item>
-    
-    <item>
       <title>Introduction to Domain Names &amp; Web Hosting(Free Domain Name)</title>
       <link>/introduction-to-domain-names-web-hostingfree-domain-name/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
@@ -1330,19 +1354,6 @@ You&#39;ll become a Certified Python Developer and Coding Rockstar in no time. T
 How to Program with Modern Python
 The clean Python code
 The core Python concepts needed to become A Dev Professional</description>
-    </item>
-    
-    <item>
-      <title>The Python Programming A-Z Definitive Diploma in 2021</title>
-      <link>/the-python-programming-a-z-definitive-diploma-in-2021/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/the-python-programming-a-z-definitive-diploma-in-2021/</guid>
-      <description>Hi, Welcome to The Python Programming A-Z Definitive Diploma in 2021.
-Your complete Guide to Python Programming.
-Almost Python is currently used for everything in Software Engineering.
-Although it is very easy to learn, but, it is very useful and powerful.
-Its fields are so many, and by learning python, it will be very easy for you to get higher Jobs in the largest companies such as Google, Dropbox, Spotify and many more.</description>
     </item>
     
     <item>
