@@ -6,7 +6,31 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Sep 2021 16:04:01 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Sep 2021 22:23:21 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>/java-socket-programming-simplified/</link>
+      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      
+      <guid>/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Python 3 Master Course for 2021</title>
+      <link>/python-3-master-course-for-2021/</link>
+      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      
+      <guid>/python-3-master-course-for-2021/</guid>
+      <description>Do you want to Master Python? Then this is the course for you where I will take you from complete beginner to Advanced Python Programmer. Let me walk you through a detailed step by step process that will help you accomplish your goals and have fun learning on the way we will cover the following in detail:
+
+Introduction
+Documentation
+What is Python
+Getting Started with Python Documentation
+Cover Summary of Python Beginner&#39;s Documentation</description>
+    </item>
+    
     <item>
       <title>Intermediate Python Immersive Training | Boost your career</title>
       <link>/intermediate-python-immersive-training-boost-your-career/</link>
@@ -17,15 +41,6 @@
 In this course, you will learn in depth the most important Python language topics for the intermediate level.
 Once you have completed this course, you will be able to use all these techniques, which we will list in detail.
 There is a wonderful feature in this course, as it explains in important detail all you need in these topics in a direct and practical way that saves you valuable time and effort.</description>
-    </item>
-    
-    <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>/java-socket-programming-simplified/</link>
-      <pubDate>Thu, 16 Sep 2021 16:04:01 +0530</pubDate>
-      
-      <guid>/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
     </item>
     
     <item>
@@ -298,21 +313,6 @@ Top Frequently Asked Interview Question - Part 2
 Top Frequently Asked Interview Question - Part 3
 
 Topics Covered in Questions</description>
-    </item>
-    
-    <item>
-      <title>Python 3 Master Course for 2021</title>
-      <link>/python-3-master-course-for-2021/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/python-3-master-course-for-2021/</guid>
-      <description>Do you want to Master Python?&amp;nbsp; Then this is the course for you where I will take you from complete beginner to Advanced Python Programmer.&amp;nbsp; Let me walk you through a detailed step by step process that will help you accomplish your goals and have fun learning on the way we will cover the following in detail:
-
-Introduction
-Documentation
-What is Python
-Getting Started with Python Documentation
-Cover Summary of Python Beginner&#39;s Documentation</description>
     </item>
     
     <item>

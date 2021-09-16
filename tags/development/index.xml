@@ -6,14 +6,72 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Sep 2021 16:04:01 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Sep 2021 22:23:21 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Thu, 16 Sep 2021 16:04:01 +0530</pubDate>
+      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
       
       <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
+    </item>
+    
+    <item>
+      <title>GitLab</title>
+      <link>/gitlab/</link>
+      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      
+      <guid>/gitlab/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then GitLab Ultimate Course is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>/java-socket-programming-simplified/</link>
+      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      
+      <guid>/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      
+      <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
+    </item>
+    
+    <item>
+      <title>Python 3 Master Course for 2021</title>
+      <link>/python-3-master-course-for-2021/</link>
+      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      
+      <guid>/python-3-master-course-for-2021/</guid>
+      <description>Do you want to Master Python? Then this is the course for you where I will take you from complete beginner to Advanced Python Programmer. Let me walk you through a detailed step by step process that will help you accomplish your goals and have fun learning on the way we will cover the following in detail:
+
+Introduction
+Documentation
+What is Python
+Getting Started with Python Documentation
+Cover Summary of Python Beginner&#39;s Documentation</description>
+    </item>
+    
+    <item>
+      <title>React Redux Toolkit complete guide</title>
+      <link>/react-redux-toolkit-complete-guide/</link>
+      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      
+      <guid>/react-redux-toolkit-complete-guide/</guid>
+      <description>Course description:
+This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
+What will you build?
+To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
     </item>
     
     <item>
@@ -26,36 +84,6 @@
 In this course, you will learn in depth the most important Python language topics for the intermediate level.
 Once you have completed this course, you will be able to use all these techniques, which we will list in detail.
 There is a wonderful feature in this course, as it explains in important detail all you need in these topics in a direct and practical way that saves you valuable time and effort.</description>
-    </item>
-    
-    <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>/java-socket-programming-simplified/</link>
-      <pubDate>Thu, 16 Sep 2021 16:04:01 +0530</pubDate>
-      
-      <guid>/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
-    </item>
-    
-    <item>
-      <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Thu, 16 Sep 2021 16:04:01 +0530</pubDate>
-      
-      <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
-      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
-    </item>
-    
-    <item>
-      <title>React Redux Toolkit complete guide</title>
-      <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Thu, 16 Sep 2021 16:04:01 +0530</pubDate>
-      
-      <guid>/react-redux-toolkit-complete-guide/</guid>
-      <description>Course description:
-This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
-What will you build?
-To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
     </item>
     
     <item>
@@ -1314,21 +1342,6 @@ Top Frequently Asked Interview Question - Part 2
 Top Frequently Asked Interview Question - Part 3
 
 Topics Covered in Questions</description>
-    </item>
-    
-    <item>
-      <title>Python 3 Master Course for 2021</title>
-      <link>/python-3-master-course-for-2021/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/python-3-master-course-for-2021/</guid>
-      <description>Do you want to Master Python?&amp;nbsp; Then this is the course for you where I will take you from complete beginner to Advanced Python Programmer.&amp;nbsp; Let me walk you through a detailed step by step process that will help you accomplish your goals and have fun learning on the way we will cover the following in detail:
-
-Introduction
-Documentation
-What is Python
-Getting Started with Python Documentation
-Cover Summary of Python Beginner&#39;s Documentation</description>
     </item>
     
     <item>
