@@ -6,14 +6,63 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Sep 2021 14:28:37 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 19:52:12 +0530</lastBuildDate><atom:link href="/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript for Beginners - The Complete introduction to JS</title>
+      <link>/javascript-for-beginners-the-complete-introduction-to-js/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/javascript-for-beginners-the-complete-introduction-to-js/</guid>
+      <description>Learning how to properly program in any programming language can be very complicated espescially if you never did any programming before. having the capacity to program in JavaScript is not different. This is why, this course have been created, to helpyou learn, properly program and understand everything you need to know about JavaScript to be able to master this programming language. If you:
+- Need to learn the basics of JavaScript for work</description>
+    </item>
+    
+    <item>
+      <title>SQL- The Complete Introduction to SQL programming</title>
+      <link>/sql-the-complete-introduction-to-sql-programming/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/sql-the-complete-introduction-to-sql-programming/</guid>
+      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of how to properly program with SQL. If you :
+- Are in school and want to learn how to program in SQL
+- Need to learn this programming language for work</description>
+    </item>
+    
+    <item>
+      <title>The Python Programming Comprehensive Bootcamp</title>
+      <link>/the-python-programming-comprehensive-bootcamp/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/the-python-programming-comprehensive-bootcamp/</guid>
+      <description>Welcome to The Python Programming Comprehensive Bootcamp.
+In this Complete Bootcamp, we’ll teach you everything you need to know to become a Professional Python developer.
+Variables, Representing Data Types, and using Computational Power.
+Data Structure for data organization, management and storage formatting.
+Practical Flow control and Iterable aspects.
+Building software by composing pure functions process.
+Object-Oriented Programming model to organize software design.
+Application containers and Handling all files.
+Playing with Exception events and analyzing Errors.</description>
+    </item>
+    
+    <item>
+      <title>The Python Programming For Everyone Immersive Training</title>
+      <link>/the-python-programming-for-everyone-immersive-training/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/the-python-programming-for-everyone-immersive-training/</guid>
+      <description>Welcome to The Python Programming For Everyone Immersive Training Course for Beginners.
+This Immersive Masterclass covers all the essential topics to become a Professional Python developer from the ground up Topics like: variables, data types, Strings, data structures, functional programming, different types of modules, files handling, object-oriented programming and many more.
+You&#39;ll get A demonstration of each point in this training and an explanation of all theoretical and practical aspects in an easy way and in an easy language for anyone.</description>
     </item>
     
     <item>
@@ -313,34 +362,6 @@ Top Frequently Asked Interview Question - Part 2
 Top Frequently Asked Interview Question - Part 3
 
 Topics Covered in Questions</description>
-    </item>
-    
-    <item>
-      <title>The Python Programming Comprehensive Bootcamp</title>
-      <link>/the-python-programming-comprehensive-bootcamp/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/the-python-programming-comprehensive-bootcamp/</guid>
-      <description>Welcome to The Python Programming Comprehensive Bootcamp.
-In this Complete Bootcamp, we’ll teach you everything you need to know to become a Professional Python developer.
-Variables, Representing Data Types, and using Computational Power.
-Data Structure for data organization, management and storage formatting.
-Practical Flow control and Iterable aspects.
-Building software by composing pure functions process.
-Object-Oriented Programming model to organize software design.
-Application containers and Handling all files.
-Playing with Exception events and analyzing Errors.</description>
-    </item>
-    
-    <item>
-      <title>The Python Programming For Everyone Immersive Training</title>
-      <link>/the-python-programming-for-everyone-immersive-training/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/the-python-programming-for-everyone-immersive-training/</guid>
-      <description>Welcome to The Python Programming For Everyone Immersive Training Course for Beginners.
-This Immersive Masterclass covers all the essential&amp;nbsp;topics to become a Professional Python developer from the ground up Topics like: variables, data types, Strings, data structures,&amp;nbsp; functional programming, different types of modules, files handling, object-oriented programming and many more.
-You&#39;ll get A demonstration of each point in this training and an explanation of all theoretical and practical aspects in an easy way and in an easy language for anyone.</description>
     </item>
     
   </channel>

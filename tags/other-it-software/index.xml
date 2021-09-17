@@ -6,11 +6,11 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Sep 2021 14:28:37 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 19:52:12 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -28,6 +28,17 @@ Analysis of latest block of bitcoin blockchain.</description>
     </item>
     
     <item>
+      <title>Starting Python 3 Programming for the Absolute Beginner</title>
+      <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
+      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
+For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
+Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing Real-World Projects in Python</title>
       <link>/natural-language-processing-real-world-projects-in-python/</link>
       <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
@@ -39,17 +50,6 @@ Or are you an aspiring data scientist who wants to get Hands-on Data Science an
 
 If the answer is yes to any of these questions, then this course is for you!
 Data Science is one of the hottest tech fields to be in right now!</description>
-    </item>
-    
-    <item>
-      <title>Starting Python 3 Programming for the Absolute Beginner</title>
-      <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
-      
-      <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
-      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
-For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
-Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
     </item>
     
     <item>

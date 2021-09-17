@@ -6,11 +6,11 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Sep 2021 14:28:37 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 19:52:12 +0530</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap &amp; jQuery - Certification Course for Beginners</title>
       <link>/bootstrap-jquery-certification-course-for-beginners/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/bootstrap-jquery-certification-course-for-beginners/</guid>
       <description>Welcome to the Bootstrap &amp;amp; jQuery – Certification Course for BeginnersWith over 64% of the world using mobile devices to browse web pages, it’s no surprise that Bootstrap and jQuery have become the industry leaders in front-end scripting languages.This course starts right from the foundational concepts and gradually progresses to intermediate topics. Through a project-style learning approach, students will have the opportunity to build mobile-responsive web pages, complete with animation and interactivity.</description>
@@ -19,16 +19,25 @@
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
     </item>
     
     <item>
+      <title>How the Internet Works &amp; the Web Development Process</title>
+      <link>/how-the-internet-works-the-web-development-process/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/how-the-internet-works-the-web-development-process/</guid>
+      <description>This course explores how the internet works, including the composition and transmission of data packets over both Local and Wide Area Networks. We take a look at the HTTP and HTTPS protocols as applicable to client and server side communications - including DNS Lookups. This course will also teach students how email exchange works over SMTP and IMAP. The role of Network Ports and Firewalls are also introduced.The course comes complete with two bonus sections which offer a quick guide for aspiring Web Developers.</description>
+    </item>
+    
+    <item>
       <title>HTML, CSS, &amp; JavaScript - Certification Course for Beginners</title>
       <link>/html-css-javascript-certification-course-for-beginners/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/html-css-javascript-certification-course-for-beginners/</guid>
       <description>Welcome to the HTML, CSS, &amp;amp; JavaScript - Certification Course for Beginners.
@@ -38,16 +47,27 @@ If you are interested in mastering the art of front-end development, look no fur
     <item>
       <title>HTML, JavaScript, &amp; Bootstrap - Certification Course</title>
       <link>/html-javascript-bootstrap-certification-course/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/html-javascript-bootstrap-certification-course/</guid>
       <description>Welcome to the HTML, JavaScript, &amp;amp; Bootstrap – Certification Course for BeginnersThis course gives students the knowledge necessary to take their front-end development skills to the next level. This course, is meant for beginners who have little, to no experience with coding. We start right from the foundational concepts and work our way up to intermediate level topics. By the end of this course, students will be able to create stunning, mobile responsive web pages using the latest scripting languages.</description>
     </item>
     
     <item>
+      <title>Introduction to Domain Names and Web Hosting - Quick Guide</title>
+      <link>/introduction-to-domain-names-and-web-hosting-quick-guide/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/introduction-to-domain-names-and-web-hosting-quick-guide/</guid>
+      <description>Domain Names Section:
+We provide an overview of the domain name registration process. This includes the role of registrars and TLD (Top Level Domain) administration by ICANN. ccTLD&#39;s (Country Code Top Level Domains) are also explored.
+Students will gain hands-on experience with the registration process using popular domain registrars. We will provide a comparison of different registrars and register a sample domain name using GoDaddy. Other topics of discussion will include: domain name privacy and administration, auto-renewal, domain forwarding, and name server assignment.</description>
+    </item>
+    
+    <item>
       <title>Java: Socket Programming Simplified</title>
       <link>/java-socket-programming-simplified/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
@@ -56,16 +76,55 @@ If you are interested in mastering the art of front-end development, look no fur
     <item>
       <title>JavaScript &amp; jQuery - Certification Course for Beginners</title>
       <link>/javascript-jquery-certification-course-for-beginners/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/javascript-jquery-certification-course-for-beginners/</guid>
       <description>Welcome to the JavaScript &amp;amp; jQuery – Certification Course for BeginnersThis course offers a comprehensive guide into the fundamentals of coding using JavaScript and jQuery. These powerful languages can be used to add animated, dynamic client-side functionality to any web page.The JavaScript section of the course takes students on a journey that starts right from the basics. This includes JavaScript placement, and embedding External JavaScript code. From there, we move into variable declaration and operators for performing arithmetic.</description>
     </item>
     
     <item>
+      <title>JavaScript for Beginners - The Complete introduction to JS</title>
+      <link>/javascript-for-beginners-the-complete-introduction-to-js/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/javascript-for-beginners-the-complete-introduction-to-js/</guid>
+      <description>Learning how to properly program in any programming language can be very complicated espescially if you never did any programming before. having the capacity to program in JavaScript is not different. This is why, this course have been created, to helpyou learn, properly program and understand everything you need to know about JavaScript to be able to master this programming language. If you:
+- Need to learn the basics of JavaScript for work</description>
+    </item>
+    
+    <item>
+      <title>JavaScript, Bootstrap, &amp; PHP - Certification for Beginners</title>
+      <link>/javascript-bootstrap-php-certification-for-beginners/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/javascript-bootstrap-php-certification-for-beginners/</guid>
+      <description>Welcome to the JavaScript, Bootstrap, &amp;amp; PHP - Certification Course for Beginners.
+This course offers an excellent introduction into three of the most widely used programming languages available for both front-end and back-end development.
+Students will start with adding client-side interactivity to web pages using JavaScript. JavaScript is a powerful language that can be used to add numerous functions to web pages, ranging from form validation to animated objects. By using the Document Object Model, students will manipulate individual html and css elements using JS.</description>
+    </item>
+    
+    <item>
+      <title>Learn HTML5 In-Depth - With Real-World Examples</title>
+      <link>/learn-html5-in-depth-with-real-world-examples/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/learn-html5-in-depth-with-real-world-examples/</guid>
+      <description>HTML is the main markup language for web pages. 
+HTML elements are the basic building-blocks of web pages. 
+Learning HTML is your first step to become a web developer. 
+HTML concepts will help you learn other web development technologies faster.
+
+In this course you will learn how to create web pages using HTML5.
+
+Which is foundation for web development.
+
+You will learn HTML5 elements including images, videos, lists, tables, forms, Iframes and much more with Real-world Examples.</description>
+    </item>
+    
+    <item>
       <title>NGINX, Apache, SSL Encryption - Certification Course</title>
       <link>/nginx-apache-ssl-encryption-certification-course/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/nginx-apache-ssl-encryption-certification-course/</guid>
       <description>Welcome to our latest course, which will guide you through the process of installing, securing, and configuring NGINX or Apache on an Ubuntu web server. You will also learn to encrypt all web traffic, using a Free SSL certificate from Let’s Encrypt.
@@ -76,7 +135,7 @@ This course begins with exploring the most widely used web server technology ava
     <item>
       <title>PHP Crash Course For Absolute Beginners 2021</title>
       <link>/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
       <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
@@ -85,7 +144,7 @@ This course begins with exploring the most widely used web server technology ava
     <item>
       <title>React Redux Toolkit complete guide</title>
       <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/react-redux-toolkit-complete-guide/</guid>
       <description>Course description:
@@ -97,10 +156,58 @@ To get the most from this course we will demonstrate a redux toolkit by building
     <item>
       <title>Scrum Fundamentals for Scrum Master and Agile Projects- 2021</title>
       <link>/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</link>
-      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
       
       <guid>/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</guid>
       <description>This course provides a comprehensive overview of the Scrum framework for agile project management. You’ll learn the basics of Scrum and the Scrum lifecycle, how to organize a Scrum team and set up a project, and how to implement a Scrum, from releases and sprints to enterprise transformation. This course is for anyone involved in product delivery using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.</description>
+    </item>
+    
+    <item>
+      <title>Setup a Virtual Web Server using Linode or Digital Ocean</title>
+      <link>/setup-a-virtual-web-server-using-linode-or-digital-ocean/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/setup-a-virtual-web-server-using-linode-or-digital-ocean/</guid>
+      <description>This course offers an in-depth, hands-on overview of setting up and configuring a production web server, using Linode or Digital Ocean. Virtual Cloud Servers have become the industry standard for hosting web applications of all sizes and complexity. This includes small static web pages, to dynamic, database driven web sites that handle thousands of simultaneous processes. Regardless of the project, virtual servers offer a solution that provides web developers a scalable infrastructure that can easily adapt to a changing environment.</description>
+    </item>
+    
+    <item>
+      <title>SQL- The Complete Introduction to SQL programming</title>
+      <link>/sql-the-complete-introduction-to-sql-programming/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/sql-the-complete-introduction-to-sql-programming/</guid>
+      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of how to properly program with SQL. If you :
+- Are in school and want to learn how to program in SQL
+- Need to learn this programming language for work</description>
+    </item>
+    
+    <item>
+      <title>The Python Programming Comprehensive Bootcamp</title>
+      <link>/the-python-programming-comprehensive-bootcamp/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/the-python-programming-comprehensive-bootcamp/</guid>
+      <description>Welcome to The Python Programming Comprehensive Bootcamp.
+In this Complete Bootcamp, we’ll teach you everything you need to know to become a Professional Python developer.
+Variables, Representing Data Types, and using Computational Power.
+Data Structure for data organization, management and storage formatting.
+Practical Flow control and Iterable aspects.
+Building software by composing pure functions process.
+Object-Oriented Programming model to organize software design.
+Application containers and Handling all files.
+Playing with Exception events and analyzing Errors.</description>
+    </item>
+    
+    <item>
+      <title>The Python Programming For Everyone Immersive Training</title>
+      <link>/the-python-programming-for-everyone-immersive-training/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/the-python-programming-for-everyone-immersive-training/</guid>
+      <description>Welcome to The Python Programming For Everyone Immersive Training Course for Beginners.
+This Immersive Masterclass covers all the essential topics to become a Professional Python developer from the ground up Topics like: variables, data types, Strings, data structures, functional programming, different types of modules, files handling, object-oriented programming and many more.
+You&#39;ll get A demonstration of each point in this training and an explanation of all theoretical and practical aspects in an easy way and in an easy language for anyone.</description>
     </item>
     
     <item>
@@ -619,15 +726,6 @@ SQL Server ve Oracle veritabanı yönetim sistemleri için hazırladığım deri
     </item>
     
     <item>
-      <title>Setup a Virtual Web Server using Linode or Digital Ocean</title>
-      <link>/setup-a-virtual-web-server-using-linode-or-digital-ocean/</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
-      
-      <guid>/setup-a-virtual-web-server-using-linode-or-digital-ocean/</guid>
-      <description>This course offers an in-depth, hands-on overview of setting up and configuring a production web server, using Linode or Digital Ocean. Virtual Cloud Servers have become the industry standard for hosting web applications of all sizes and complexity. This includes small static web pages, to dynamic, database driven web sites that handle thousands of simultaneous processes. Regardless of the project, virtual servers offer a solution that provides web developers a scalable infrastructure that can easily adapt to a changing environment.</description>
-    </item>
-    
-    <item>
       <title>SQLite Veritabanı Programlama</title>
       <link>/sqlite-veritaban%C4%B1-programlama/</link>
       <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
@@ -673,26 +771,6 @@ Working with Session Variables – Login/Logout Functionality</description>
     </item>
     
     <item>
-      <title>How the Internet Works &amp; the Web Development Process</title>
-      <link>/how-the-internet-works-the-web-development-process/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/how-the-internet-works-the-web-development-process/</guid>
-      <description>This course explores how the internet works, including the composition and transmission of data packets over both Local and Wide Area Networks. We take a look at the HTTP and HTTPS protocols as applicable to client and server side communications - including DNS Lookups. This course will also teach students how email exchange works over SMTP and IMAP. The role of Network Ports and Firewalls are also introduced.The course comes complete with two bonus sections which offer a quick guide for aspiring Web Developers.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Domain Names and Web Hosting - Quick Guide</title>
-      <link>/introduction-to-domain-names-and-web-hosting-quick-guide/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/introduction-to-domain-names-and-web-hosting-quick-guide/</guid>
-      <description>Domain Names Section:
-We provide an overview of the domain name registration process. This includes the role of registrars and TLD (Top Level Domain) administration by ICANN. ccTLD&#39;s (Country Code Top Level Domains) are also explored.
-Students will gain hands-on experience with the registration process using popular domain registrars. We will provide a comparison of different registrars and register a sample domain name using GoDaddy. Other topics of discussion will include: domain name privacy and administration, auto-renewal, domain forwarding, and name server assignment.</description>
-    </item>
-    
-    <item>
       <title>Introduction to Quantum Computing</title>
       <link>/introduction-to-quantum-computing/</link>
       <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
@@ -730,17 +808,6 @@ Looking to launch your own app on Google Play Store but don&#39;t know where to 
       
       <guid>/docker-course-for-beginners/</guid>
       <description>Containerization of the applications is going on in the full swing across the IT industry. Docker&#39;s course covers the fundamental concepts of Docker containers. Along with the concepts it also covers the most useful commands related to container management, image management, and Dockerfile. After studying this course one would be ready to dive deeper into the world of container orchestration. Docker&#39;s course becomes the necessary prerequisite for learning Docker Swarm and Kubernetes.</description>
-    </item>
-    
-    <item>
-      <title>JavaScript, Bootstrap, &amp; PHP - Certification for Beginners</title>
-      <link>/javascript-bootstrap-php-certification-for-beginners/</link>
-      <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
-      
-      <guid>/javascript-bootstrap-php-certification-for-beginners/</guid>
-      <description>Welcome to the JavaScript, Bootstrap, &amp;amp; PHP - Certification Course for Beginners.
-This course offers an excellent introduction into three of the most widely used programming languages available for both front-end and back-end development.
-Students will start with adding client-side interactivity to web pages using JavaScript. JavaScript is a powerful language that can be used to add numerous functions to web pages, ranging from form validation to animated objects. By using the Document Object Model, students will manipulate individual html and css elements using JS.</description>
     </item>
     
     <item>
@@ -843,24 +910,6 @@ Integrating React with our backend in an elegant way, creating a great workflow<
       <guid>/basics-of-database-design-development/</guid>
       <description>Database design is the process of producing a detailed data model of a database. This data model contains all the needed logical and physical design choices and physical storage parameters needed to generate a design. Through this tutorial we will try to teach the basis components of database design and explains how to make a good database design.
 Designing a database is in fact fairly easy, but there are a few rules to stick to.</description>
-    </item>
-    
-    <item>
-      <title>Learn HTML5 In-Depth - With Real-World Examples</title>
-      <link>/learn-html5-in-depth-with-real-world-examples/</link>
-      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
-      
-      <guid>/learn-html5-in-depth-with-real-world-examples/</guid>
-      <description>HTML is the main markup language for web pages. 
-HTML elements are the basic building-blocks of web pages. 
-Learning HTML is your first step to become a web developer. 
-HTML concepts will help you learn other web development technologies faster.
-
-In this course you will learn how to create web pages using HTML5.
-
-Which is foundation for web development.
-
-You will learn HTML5 elements including images, videos, lists, tables, forms, Iframes and much more with Real-world Examples.</description>
     </item>
     
     <item>
@@ -1376,34 +1425,6 @@ Topics Covered in Questions</description>
       <guid>/the-complete-solidity-course-blockchain-zero-to-expert/</guid>
       <description>Solidity is the most popular blockchain language in the world designed to build DApplications (Smart Contracts). It powers Ethereum and there is an in demand exponential growth of high-paying jobs all over the world which is changing the way we conduct business.
 Learning Solidity can be likened to learning web development languages years ago - You are very much ahead of the game starting today -and that&#39;s why you want to learn Solidity too.</description>
-    </item>
-    
-    <item>
-      <title>The Python Programming Comprehensive Bootcamp</title>
-      <link>/the-python-programming-comprehensive-bootcamp/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/the-python-programming-comprehensive-bootcamp/</guid>
-      <description>Welcome to The Python Programming Comprehensive Bootcamp.
-In this Complete Bootcamp, we’ll teach you everything you need to know to become a Professional Python developer.
-Variables, Representing Data Types, and using Computational Power.
-Data Structure for data organization, management and storage formatting.
-Practical Flow control and Iterable aspects.
-Building software by composing pure functions process.
-Object-Oriented Programming model to organize software design.
-Application containers and Handling all files.
-Playing with Exception events and analyzing Errors.</description>
-    </item>
-    
-    <item>
-      <title>The Python Programming For Everyone Immersive Training</title>
-      <link>/the-python-programming-for-everyone-immersive-training/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>/the-python-programming-for-everyone-immersive-training/</guid>
-      <description>Welcome to The Python Programming For Everyone Immersive Training Course for Beginners.
-This Immersive Masterclass covers all the essential&amp;nbsp;topics to become a Professional Python developer from the ground up Topics like: variables, data types, Strings, data structures,&amp;nbsp; functional programming, different types of modules, files handling, object-oriented programming and many more.
-You&#39;ll get A demonstration of each point in this training and an explanation of all theoretical and practical aspects in an easy way and in an easy language for anyone.</description>
     </item>
     
     <item>
