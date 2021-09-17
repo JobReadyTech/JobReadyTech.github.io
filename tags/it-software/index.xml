@@ -6,11 +6,11 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Sep 2021 22:23:21 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 09:14:03 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
       
       <guid>/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -28,6 +28,60 @@ Analysis of latest block of bitcoin blockchain.</description>
     </item>
     
     <item>
+      <title>Create AI Voice Assistant (JARVIS) With Python</title>
+      <link>/create-ai-voice-assistant-jarvis-with-python/</link>
+      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      
+      <guid>/create-ai-voice-assistant-jarvis-with-python/</guid>
+      <description>In this course, you will learn how you can make one Artificial Intelligence Assistant (JARVIS) using Python Programming Language.
+This course you will Teach how you can create a basic Artificial Intelligence VOICE Assistant and add basic features to it like sending emails, playing songs, searching on Google etc.
+It is a Beginner level course and more following courses will be coming up soon.
+No specific skills are required, just passion to learn something new.</description>
+    </item>
+    
+    <item>
+      <title>CSS And Javascript Crash Course</title>
+      <link>/css-and-javascript-crash-course/</link>
+      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      
+      <guid>/css-and-javascript-crash-course/</guid>
+      <description>CSS And Javascript Crash Course
+1) Learn CSS Crash Course
+This course shows you how to create CSS classes from a beginner&#39;s level. It starts off with basic HTML declarations, properties, values, and how to include a CSS style sheet with your HTML code. For those of you who are new to CSS and HTML, we show you step-by-step how to create a CSS file and include it in your HTML code, even if you use a cloud server for your hosting.</description>
+    </item>
+    
+    <item>
+      <title>SQL Injection Attacks: The 2021 Guide</title>
+      <link>/sql-injection-attacks-the-2021-guide/</link>
+      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      
+      <guid>/sql-injection-attacks-the-2021-guide/</guid>
+      <description>About the course:
+Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Starting Python 3 Programming for the Absolute Beginner</title>
+      <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
+      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      
+      <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
+      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
+For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
+Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
+    </item>
+    
+    <item>
+      <title>Uncle Rat&#39;s XXE Handbook</title>
+      <link>/uncle-rats-xxe-handbook/</link>
+      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      
+      <guid>/uncle-rats-xxe-handbook/</guid>
+      <description>Who am i?
+An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
+    </item>
+    
+    <item>
       <title>OBS Studio - Ultimate Livestreaming Guide to OBS Studio</title>
       <link>/obs-studio-ultimate-livestreaming-guide-to-obs-studio/</link>
       <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
@@ -39,37 +93,6 @@ In this course, you will learn how to start using Open Broadcaster Software (OB
 In this course You Will Learn:
 Which version of OBS Studio (Open Broadcaster Software) You need to use;
 How to download OBS Studio;</description>
-    </item>
-    
-    <item>
-      <title>SQL Injection Attacks: The 2021 Guide</title>
-      <link>/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
-      
-      <guid>/sql-injection-attacks-the-2021-guide/</guid>
-      <description>About the course:
-Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
-    </item>
-    
-    <item>
-      <title>Starting Python 3 Programming for the Absolute Beginner</title>
-      <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
-      
-      <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
-      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
-For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
-Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
-    </item>
-    
-    <item>
-      <title>Uncle Rat&#39;s XXE Handbook</title>
-      <link>/uncle-rats-xxe-handbook/</link>
-      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
-      
-      <guid>/uncle-rats-xxe-handbook/</guid>
-      <description>Who am i?
-An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
     </item>
     
     <item>
@@ -375,17 +398,6 @@ Part one of the course trains the student on installing, configuring, and managi
       <guid>/microsoft-server-2012-r2-intermediate-hands-on-training/</guid>
       <description>Please do not enroll in this course until you have completed the first building of your virtual lab environment. If you cannot create a virtual install of Server 2012, r2 using a Hypervisor, you will not partake in the lab exercises. 
 This course picks up where Windows Server 2012r2 - Hands-on Training Part I leaves off. In part I of the course, we looked at installing and configuring a Windows Server 2012 r2 domain.</description>
-    </item>
-    
-    <item>
-      <title>CSS And Javascript Crash Course</title>
-      <link>/css-and-javascript-crash-course/</link>
-      <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
-      
-      <guid>/css-and-javascript-crash-course/</guid>
-      <description>CSS And Javascript Crash Course
-1) Learn CSS Crash Course
-This course shows you how to create CSS classes from a beginner&#39;s level. It starts off with basic HTML declarations, properties, values, and how to include a CSS style sheet with your HTML code. For those of you who are new to CSS and HTML, we show you step-by-step how to create a CSS file and include it in your HTML code, even if you use a cloud server for your hosting.</description>
     </item>
     
     <item>
