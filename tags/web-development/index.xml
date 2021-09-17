@@ -6,20 +6,68 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Sep 2021 09:14:03 +0530</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 14:28:37 +0530</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap &amp; jQuery - Certification Course for Beginners</title>
+      <link>/bootstrap-jquery-certification-course-for-beginners/</link>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      
+      <guid>/bootstrap-jquery-certification-course-for-beginners/</guid>
+      <description>Welcome to the Bootstrap &amp;amp; jQuery – Certification Course for BeginnersWith over 64% of the world using mobile devices to browse web pages, it’s no surprise that Bootstrap and jQuery have become the industry leaders in front-end scripting languages.This course starts right from the foundational concepts and gradually progresses to intermediate topics. Through a project-style learning approach, students will have the opportunity to build mobile-responsive web pages, complete with animation and interactivity.</description>
+    </item>
+    
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
       
       <guid>/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
     </item>
     
     <item>
+      <title>HTML, CSS, &amp; JavaScript - Certification Course for Beginners</title>
+      <link>/html-css-javascript-certification-course-for-beginners/</link>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      
+      <guid>/html-css-javascript-certification-course-for-beginners/</guid>
+      <description>Welcome to the HTML, CSS, &amp;amp; JavaScript - Certification Course for Beginners.
+If you are interested in mastering the art of front-end development, look no further. This course is the complete beginners guide to developing cutting-edge web pages that are fully mobile responsive. The course branches into three sections. We start by exploring HTML5, students learn the composition of a web page and how a web browser interprets html code to display the visual elements of a page.</description>
+    </item>
+    
+    <item>
+      <title>HTML, JavaScript, &amp; Bootstrap - Certification Course</title>
+      <link>/html-javascript-bootstrap-certification-course/</link>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      
+      <guid>/html-javascript-bootstrap-certification-course/</guid>
+      <description>Welcome to the HTML, JavaScript, &amp;amp; Bootstrap – Certification Course for BeginnersThis course gives students the knowledge necessary to take their front-end development skills to the next level. This course, is meant for beginners who have little, to no experience with coding. We start right from the foundational concepts and work our way up to intermediate level topics. By the end of this course, students will be able to create stunning, mobile responsive web pages using the latest scripting languages.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript &amp; jQuery - Certification Course for Beginners</title>
+      <link>/javascript-jquery-certification-course-for-beginners/</link>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      
+      <guid>/javascript-jquery-certification-course-for-beginners/</guid>
+      <description>Welcome to the JavaScript &amp;amp; jQuery – Certification Course for BeginnersThis course offers a comprehensive guide into the fundamentals of coding using JavaScript and jQuery. These powerful languages can be used to add animated, dynamic client-side functionality to any web page.The JavaScript section of the course takes students on a journey that starts right from the basics. This includes JavaScript placement, and embedding External JavaScript code. From there, we move into variable declaration and operators for performing arithmetic.</description>
+    </item>
+    
+    <item>
+      <title>NGINX, Apache, SSL Encryption - Certification Course</title>
+      <link>/nginx-apache-ssl-encryption-certification-course/</link>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      
+      <guid>/nginx-apache-ssl-encryption-certification-course/</guid>
+      <description>Welcome to our latest course, which will guide you through the process of installing, securing, and configuring NGINX or Apache on an Ubuntu web server. You will also learn to encrypt all web traffic, using a Free SSL certificate from Let’s Encrypt.
+APACHE Section:
+This course begins with exploring the most widely used web server technology available, Apache. Statistics show that Apache is used to run over 65% of all web servers around the world.</description>
+    </item>
+    
+    <item>
       <title>PHP Crash Course For Absolute Beginners 2021</title>
       <link>/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
       
       <guid>/php-crash-course-for-absolute-beginners-2021/</guid>
       <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
@@ -28,7 +76,7 @@
     <item>
       <title>React Redux Toolkit complete guide</title>
       <link>/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
       
       <guid>/react-redux-toolkit-complete-guide/</guid>
       <description>Course description:
@@ -145,26 +193,6 @@ Google, SpaceX, Tesla, Docker, Kubernetes, Koding, Dropbox, Apple ve daha birço
     </item>
     
     <item>
-      <title>NGINX, Apache, SSL Encryption - Certification Course</title>
-      <link>/nginx-apache-ssl-encryption-certification-course/</link>
-      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
-      
-      <guid>/nginx-apache-ssl-encryption-certification-course/</guid>
-      <description>Welcome to our latest course, which will guide you through the process of installing, securing, and configuring NGINX or Apache on an Ubuntu web server. You will also learn to encrypt all web traffic, using a Free SSL certificate from Let’s Encrypt.
-APACHE Section:
-This course begins with exploring the most widely used web server technology available, Apache. Statistics show that Apache is used to run over 65% of all web servers around the world.</description>
-    </item>
-    
-    <item>
-      <title>Bootstrap &amp; jQuery - Certification Course for Beginners</title>
-      <link>/bootstrap-jquery-certification-course-for-beginners/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/bootstrap-jquery-certification-course-for-beginners/</guid>
-      <description>Welcome to the Bootstrap &amp;amp; jQuery – Certification Course for BeginnersWith over 64% of the world using mobile devices to browse web pages, it’s no surprise that Bootstrap and jQuery have become the industry leaders in front-end scripting languages.This course starts right from the foundational concepts and gradually progresses to intermediate topics. Through a project-style learning approach, students will have the opportunity to build mobile-responsive web pages, complete with animation and interactivity.</description>
-    </item>
-    
-    <item>
       <title>Create a Members Only Blog using PHP, MySQL, &amp; AJAX</title>
       <link>/create-a-members-only-blog-using-php-mysql-ajax/</link>
       <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
@@ -188,25 +216,6 @@ Working with Session Variables – Login/Logout Functionality</description>
     </item>
     
     <item>
-      <title>HTML, CSS, &amp; JavaScript - Certification Course for Beginners</title>
-      <link>/html-css-javascript-certification-course-for-beginners/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/html-css-javascript-certification-course-for-beginners/</guid>
-      <description>Welcome to the HTML, CSS, &amp;amp; JavaScript - Certification Course for Beginners.
-If you are interested in mastering the art of front-end development, look no further. This course is the complete beginners guide to developing cutting-edge web pages that are fully mobile responsive. The course branches into three sections. We start by exploring HTML5, students learn the composition of a web page and how a web browser interprets html code to display the visual elements of a page.</description>
-    </item>
-    
-    <item>
-      <title>HTML, JavaScript, &amp; Bootstrap - Certification Course</title>
-      <link>/html-javascript-bootstrap-certification-course/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/html-javascript-bootstrap-certification-course/</guid>
-      <description>Welcome to the HTML, JavaScript, &amp;amp; Bootstrap – Certification Course for BeginnersThis course gives students the knowledge necessary to take their front-end development skills to the next level. This course, is meant for beginners who have little, to no experience with coding. We start right from the foundational concepts and work our way up to intermediate level topics. By the end of this course, students will be able to create stunning, mobile responsive web pages using the latest scripting languages.</description>
-    </item>
-    
-    <item>
       <title>Introduction to Domain Names and Web Hosting - Quick Guide</title>
       <link>/introduction-to-domain-names-and-web-hosting-quick-guide/</link>
       <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
@@ -215,15 +224,6 @@ If you are interested in mastering the art of front-end development, look no fur
       <description>Domain Names Section:
 We provide an overview of the domain name registration process. This includes the role of registrars and TLD (Top Level Domain) administration by ICANN. ccTLD&#39;s (Country Code Top Level Domains) are also explored.
 Students will gain hands-on experience with the registration process using popular domain registrars. We will provide a comparison of different registrars and register a sample domain name using GoDaddy. Other topics of discussion will include: domain name privacy and administration, auto-renewal, domain forwarding, and name server assignment.</description>
-    </item>
-    
-    <item>
-      <title>JavaScript &amp; jQuery - Certification Course for Beginners</title>
-      <link>/javascript-jquery-certification-course-for-beginners/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>/javascript-jquery-certification-course-for-beginners/</guid>
-      <description>Welcome to the JavaScript &amp;amp; jQuery – Certification Course for BeginnersThis course offers a comprehensive guide into the fundamentals of coding using JavaScript and jQuery. These powerful languages can be used to add animated, dynamic client-side functionality to any web page.The JavaScript section of the course takes students on a journey that starts right from the basics. This includes JavaScript placement, and embedding External JavaScript code. From there, we move into variable declaration and operators for performing arithmetic.</description>
     </item>
     
     <item>

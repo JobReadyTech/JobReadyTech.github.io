@@ -6,11 +6,11 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Sep 2021 09:14:03 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 14:28:37 +0530</lastBuildDate><atom:link href="/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
       
       <guid>/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -28,9 +28,23 @@ Analysis of latest block of bitcoin blockchain.</description>
     </item>
     
     <item>
+      <title>Natural Language Processing Real-World Projects in Python</title>
+      <link>/natural-language-processing-real-world-projects-in-python/</link>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
+      
+      <guid>/natural-language-processing-real-world-projects-in-python/</guid>
+      <description>Are you looking to land a top-paying job in Data Science , AI &amp;amp; Natural Language Processing?
+Or are you a seasoned AI practitioner who want to take your career to the next level?
+Or are you an aspiring data scientist who wants to get Hands-on Data Science and Artificial Intelligence?
+
+If the answer is yes to any of these questions, then this course is for you!
+Data Science is one of the hottest tech fields to be in right now!</description>
+    </item>
+    
+    <item>
       <title>Starting Python 3 Programming for the Absolute Beginner</title>
       <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Fri, 17 Sep 2021 09:14:03 +0530</pubDate>
+      <pubDate>Fri, 17 Sep 2021 14:28:37 +0530</pubDate>
       
       <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
       <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
@@ -238,20 +252,6 @@ AI, AI, AI Everywhere! If you don’t do something about AI, you will be left b
       <guid>/devops-foundation/</guid>
       <description>If you are new to DevOps, this course will give you the basic information about DevOps, including key concepts and the terminologies. This course covers the DevOps Full Stack: People and Culture, Processes and Practices, Technology and Automation. People and Culture:
 You will be able to summarize the cultural, structural, and technological barriers that IT faces, when attempting to deliver services at the right quality, speed, and cost, and why challenges are faced when implementing DevOps in today’s organizations.</description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing Real-World Projects in Python</title>
-      <link>/natural-language-processing-real-world-projects-in-python/</link>
-      <pubDate>Fri, 03 Sep 2021 13:11:36 +0530</pubDate>
-      
-      <guid>/natural-language-processing-real-world-projects-in-python/</guid>
-      <description>Are you looking to land a top-paying job in Data Science , AI &amp;amp; Natural Language Processing?
-Or are you a seasoned AI practitioner who want to take your career to the next level?
-Or are you an aspiring data scientist who wants to get Hands-on Data Science and Artificial Intelligence?
-
-If the answer is yes to any of these questions, then this course is for you!
-Data Science is one of the hottest tech fields to be in right now!</description>
     </item>
     
     <item>
