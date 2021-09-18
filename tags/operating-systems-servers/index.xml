@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Operating Systems &amp; Servers on </title>
-    <link>/tags/operating-systems-servers/</link>
+    <link>https://www.jobready.ml/tags/operating-systems-servers/</link>
     <description>Recent content in Operating Systems &amp; Servers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Sep 2021 12:19:19 +0530</lastBuildDate><atom:link href="/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 12:19:19 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Excel Pivot-Tabellen für Einsteiger</title>
-      <link>/excel-pivot-tabellen-f%C3%BCr-einsteiger/</link>
+      <link>https://www.jobready.ml/excel-pivot-tabellen-f%C3%BCr-einsteiger/</link>
       <pubDate>Sat, 18 Sep 2021 12:19:19 +0530</pubDate>
       
-      <guid>/excel-pivot-tabellen-f%C3%BCr-einsteiger/</guid>
+      <guid>https://www.jobready.ml/excel-pivot-tabellen-f%C3%BCr-einsteiger/</guid>
       <description>ALLGEMEIN
 Bei Excel-Auswertungen ist es nicht selten, dass große Datenmengen analysiert werden müssen. Nicht jeder kennt alle erforderlichen Excel-Formeln und hat die Zeit, die Daten aufwendig professionell aufzubereiten.
 Hier kann eine Pivot-Tabelle weiterhelfen
@@ -32,19 +32,19 @@ Hinweis: Die Übungen wurden mit Excel 2016 erstellt.</description>
     
     <item>
       <title>Linux Crash Course for Beginners - 2021</title>
-      <link>/linux-crash-course-for-beginners-2021/</link>
+      <link>https://www.jobready.ml/linux-crash-course-for-beginners-2021/</link>
       <pubDate>Thu, 16 Sep 2021 16:04:01 +0530</pubDate>
       
-      <guid>/linux-crash-course-for-beginners-2021/</guid>
+      <guid>https://www.jobready.ml/linux-crash-course-for-beginners-2021/</guid>
       <description>This course is for someone who needs basic training in Linux, someone who is already in IT and wants to add a new skill. It is specifically designed for those who have been really busy with their work and don&#39;t have enough time. Now you don&#39;t have to stay awake at night or sneak out of your lunch break. You will learn so many Linux commands in just 2 days. Sounds unreal?</description>
     </item>
     
     <item>
       <title>Linux Command Line Terminal Basic for Beginners (In Hindi)</title>
-      <link>/linux-command-line-terminal-basic-for-beginners-in-hindi/</link>
+      <link>https://www.jobready.ml/linux-command-line-terminal-basic-for-beginners-in-hindi/</link>
       <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
-      <guid>/linux-command-line-terminal-basic-for-beginners-in-hindi/</guid>
+      <guid>https://www.jobready.ml/linux-command-line-terminal-basic-for-beginners-in-hindi/</guid>
       <description>Become an effective Linux user and advance your Career. Learning the Linux Command Line will take you FAR!
 
 Learn to appreciate the power of the Linux command line.
@@ -60,10 +60,10 @@ This course is aimed at IT professionals or people who wish to become familiar w
     
     <item>
       <title>Microsoft Server 2012 R2 - Hands-on Training Part I</title>
-      <link>/microsoft-server-2012-r2-hands-on-training-part-i/</link>
+      <link>https://www.jobready.ml/microsoft-server-2012-r2-hands-on-training-part-i/</link>
       <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
       
-      <guid>/microsoft-server-2012-r2-hands-on-training-part-i/</guid>
+      <guid>https://www.jobready.ml/microsoft-server-2012-r2-hands-on-training-part-i/</guid>
       <description>About this course: 
 This is Part I of a two-part series for learning Windows Server 2012 r2. Part I is for those needing to become familiar with Server 2012, virtualization, and configuring a Microsoft network from the ground up. In this first part, students will learn how to install and configure Server 2012 r2 just as they would as network administrators or networking consultants.
 Part one of the course trains the student on installing, configuring, and managing the most common roles and features found on a Microsoft network.</description>
@@ -71,20 +71,20 @@ Part one of the course trains the student on installing, configuring, and managi
     
     <item>
       <title>Microsoft Server 2012 R2 - Intermediate Hands-on Training</title>
-      <link>/microsoft-server-2012-r2-intermediate-hands-on-training/</link>
+      <link>https://www.jobready.ml/microsoft-server-2012-r2-intermediate-hands-on-training/</link>
       <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
       
-      <guid>/microsoft-server-2012-r2-intermediate-hands-on-training/</guid>
+      <guid>https://www.jobready.ml/microsoft-server-2012-r2-intermediate-hands-on-training/</guid>
       <description>Please do not enroll in this course until you have completed the first building of your virtual lab environment. If you cannot create a virtual install of Server 2012, r2 using a Hypervisor, you will not partake in the lab exercises. 
 This course picks up where Windows Server 2012r2 - Hands-on Training Part I leaves off. In part I of the course, we looked at installing and configuring a Windows Server 2012 r2 domain.</description>
     </item>
     
     <item>
       <title>Windows Command Line (cmd) &amp; Batch Script Management</title>
-      <link>/windows-command-line-cmd-batch-script-management/</link>
+      <link>https://www.jobready.ml/windows-command-line-cmd-batch-script-management/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>/windows-command-line-cmd-batch-script-management/</guid>
+      <guid>https://www.jobready.ml/windows-command-line-cmd-batch-script-management/</guid>
       <description>One of the many tools that administrators use on a daily basis is the Windows Command Line / Prompt. Over this course, you&#39;ll learn the following skills, which are often used in the real world:
 
 * How to create, rename, move and delete files and directories.

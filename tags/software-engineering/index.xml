@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering on </title>
-    <link>/tags/software-engineering/</link>
+    <link>https://www.jobready.ml/tags/software-engineering/</link>
     <description>Recent content in Software Engineering on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Sep 2021 16:39:37 +0530</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 21:56:25 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GoF Design Patterns - Complete Course with Java Examples</title>
-      <link>/gof-design-patterns-complete-course-with-java-examples/</link>
-      <pubDate>Sat, 18 Sep 2021 16:39:37 +0530</pubDate>
+      <link>https://www.jobready.ml/gof-design-patterns-complete-course-with-java-examples/</link>
+      <pubDate>Sat, 18 Sep 2021 21:56:25 +0530</pubDate>
       
-      <guid>/gof-design-patterns-complete-course-with-java-examples/</guid>
+      <guid>https://www.jobready.ml/gof-design-patterns-complete-course-with-java-examples/</guid>
       <description>From this course you can learn GoF Design Patterns with detailed Java examples.
 There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
 To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
@@ -20,10 +20,10 @@ To learn programming it is not enough just watching videos and reading books. Yo
     
     <item>
       <title>Functional Programming &#43; Lambdas, Method References, Streams</title>
-      <link>/functional-programming-lambdas-method-references-streams/</link>
+      <link>https://www.jobready.ml/functional-programming-lambdas-method-references-streams/</link>
       <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
       
-      <guid>/functional-programming-lambdas-method-references-streams/</guid>
+      <guid>https://www.jobready.ml/functional-programming-lambdas-method-references-streams/</guid>
       <description>From this course you can learn Functional Programming in Java with Lambda expressions (anonymous functions), Method references and Stream API. 
 There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding exercises 
 To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will have different practical tasks which will help you learn and understand Java better.</description>
@@ -31,10 +31,10 @@ To learn programming it is not enough just watching videos and reading books. Yo
     
     <item>
       <title>Go Programlama Dili</title>
-      <link>/go-programlama-dili/</link>
+      <link>https://www.jobready.ml/go-programlama-dili/</link>
       <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
-      <guid>/go-programlama-dili/</guid>
+      <guid>https://www.jobready.ml/go-programlama-dili/</guid>
       <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
 
 &#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}Bu kurs Go(Golang) programlama dilini anlatmayı hedeflemektedir.
@@ -44,19 +44,19 @@ Bu kurs ile birlikte açıklayacağımız konular aşağıdaki gibidir;
     
     <item>
       <title>Introduction to Quantum Computing</title>
-      <link>/introduction-to-quantum-computing/</link>
+      <link>https://www.jobready.ml/introduction-to-quantum-computing/</link>
       <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
       
-      <guid>/introduction-to-quantum-computing/</guid>
+      <guid>https://www.jobready.ml/introduction-to-quantum-computing/</guid>
       <description>Understanding what quantum computing is is definitely not an easy task. Indeed, since this is a new science there is a few places where you can find a quality introduction course about this topic. Indeed, usually all the course are either to advanced or simply does not cover properly the topic of quantum computing. But, this course is designed to give you all the basic knowledge about the topic. If you :</description>
     </item>
     
     <item>
       <title>Data Structures and Algorithms for Coding Interview</title>
-      <link>/data-structures-and-algorithms-for-coding-interview/</link>
+      <link>https://www.jobready.ml/data-structures-and-algorithms-for-coding-interview/</link>
       <pubDate>Fri, 03 Sep 2021 13:11:36 +0530</pubDate>
       
-      <guid>/data-structures-and-algorithms-for-coding-interview/</guid>
+      <guid>https://www.jobready.ml/data-structures-and-algorithms-for-coding-interview/</guid>
       <description>Welcome to &#34;Data Structures and Algorithms for Coding Interview&#34; course.
 Want to land a job at a great tech industry like Google, Microsoft, Facebook, Netflix, Amazon, or other industries but you are intimidated by the foundation of data structures and algorithms skills for the job? Many programmers who are &#34;self taught&#34;, feel that one of the main disadvantages they face compared to college educated graduates in computer science is the fact that they don&#39;t have knowledge about algorithms, data structures and the notorious Big-O Notation.</description>
     </item>

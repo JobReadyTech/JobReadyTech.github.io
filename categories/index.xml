@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>/categories/</link>
+    <link>https://www.jobready.ml/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Sep 2021 16:39:37 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 21:56:25 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>internship</title>
+      <link>https://www.jobready.ml/categories/internship/</link>
+      <pubDate>Sat, 18 Sep 2021 21:56:25 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/categories/internship/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>udemy free courses</title>
-      <link>/categories/udemy-free-courses/</link>
-      <pubDate>Sat, 18 Sep 2021 16:39:37 +0530</pubDate>
+      <link>https://www.jobready.ml/categories/udemy-free-courses/</link>
+      <pubDate>Sat, 18 Sep 2021 21:56:25 +0530</pubDate>
       
-      <guid>/categories/udemy-free-courses/</guid>
+      <guid>https://www.jobready.ml/categories/udemy-free-courses/</guid>
       <description></description>
     </item>
     
