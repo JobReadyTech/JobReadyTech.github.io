@@ -6,11 +6,11 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Sep 2021 19:52:12 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 07:41:34 +0530</lastBuildDate><atom:link href="/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
       
       <guid>/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -28,19 +28,43 @@ Analysis of latest block of bitcoin blockchain.</description>
     </item>
     
     <item>
-      <title>Master in Agile Scrum : Complete Training &amp; Best Practices</title>
-      <link>/master-in-agile-scrum-complete-training-best-practices/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      <title>Excel Pivot-Tabellen für Einsteiger</title>
+      <link>/excel-pivot-tabellen-f%C3%BCr-einsteiger/</link>
+      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
       
-      <guid>/master-in-agile-scrum-complete-training-best-practices/</guid>
-      <description>In this course, you will Understand The Agile Mindset &amp;amp; Scrum Framework. This course will help you to Prepare for Scrum Master Certification. You will get all the required Guidance About Agile Scrum Implementation in your organization. It has covered All Topics From Basic to Advance. Every Concept is Explained With an Example.
-This course is divided into 8 sections. Each section has covered unique elements about Agile and Scrum.</description>
+      <guid>/excel-pivot-tabellen-f%C3%BCr-einsteiger/</guid>
+      <description>ALLGEMEIN
+Bei Excel-Auswertungen ist es nicht selten, dass große Datenmengen analysiert werden müssen. Nicht jeder kennt alle erforderlichen Excel-Formeln und hat die Zeit, die Daten aufwendig professionell aufzubereiten.
+Hier kann eine Pivot-Tabelle weiterhelfen
+In diesem Kurs lernen Sie die wichtigsten Grundlagen, um Pivot-Tabellen und -Diagramme zu erstellen.
+
+INHALT
+Pivot-Erstellung
+Aufbau der Pivot-Tabelle
+Berechnungen
+Diagramme
+Daten ändern und aktualisieren
+Abweichungen
+mehrere Tabellen konsolidieren
+
+Hinweis: Die Übungen wurden mit Excel 2016 erstellt.</description>
+    </item>
+    
+    <item>
+      <title>Mastering The Complete Agile Scrum Master Workshop</title>
+      <link>/mastering-the-complete-agile-scrum-master-workshop/</link>
+      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
+      
+      <guid>/mastering-the-complete-agile-scrum-master-workshop/</guid>
+      <description>UPDATE FOR 2020 &amp;amp; 2021 with Tanmay&#39;s latest knowledge on Agile Scrum Master Certification!
+This course is about learning the latest Agile Scrum Methodology for the Software Development field. In this course, you will learn all other Agile methodologies along with detailed information on Scrum.
+This course helps the students in understanding the fundamental principles that form the foundation of Agile. The course also explores the Scrum framework in deep detail and also blends an overview of the key practices for Agile.</description>
     </item>
     
     <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
       <link>/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
       
       <guid>/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
@@ -50,7 +74,7 @@ Welcome to this course on SQL injection attacks! In this course, we explore one
     <item>
       <title>Starting Python 3 Programming for the Absolute Beginner</title>
       <link>/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
       
       <guid>/starting-python-3-programming-for-the-absolute-beginner/</guid>
       <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
@@ -61,11 +85,21 @@ Searching for good material online often takes hours and hours and this course i
     <item>
       <title>Uncle Rat&#39;s XXE Handbook</title>
       <link>/uncle-rats-xxe-handbook/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
       
       <guid>/uncle-rats-xxe-handbook/</guid>
       <description>Who am i?
 An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
+    </item>
+    
+    <item>
+      <title>Master in Agile Scrum : Complete Training &amp; Best Practices</title>
+      <link>/master-in-agile-scrum-complete-training-best-practices/</link>
+      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      
+      <guid>/master-in-agile-scrum-complete-training-best-practices/</guid>
+      <description>In this course, you will Understand The Agile Mindset &amp;amp; Scrum Framework. This course will help you to Prepare for Scrum Master Certification. You will get all the required Guidance About Agile Scrum Implementation in your organization. It has covered All Topics From Basic to Advance. Every Concept is Explained With an Example.
+This course is divided into 8 sections. Each section has covered unique elements about Agile and Scrum.</description>
     </item>
     
     <item>
@@ -563,17 +597,6 @@ Also known as “white hats,” ethical hackers are security experts that perfor
       
       <guid>/ms-word-for-novice-to-expert-2021-updated/</guid>
       <description>An ultimate course for novice who want to learn basic MS Word. This course will help you to have clear concept of using MS Word. After complete this course using of MS Word will be very easy and friendly to you. This course focused from beginner level to advance level and its covered up with almost every major part of MS Word for using in personal and business uses.  Ratings: 4.</description>
-    </item>
-    
-    <item>
-      <title>Mastering The Complete Agile Scrum Master Workshop</title>
-      <link>/mastering-the-complete-agile-scrum-master-workshop/</link>
-      <pubDate>Wed, 08 Sep 2021 18:43:42 +0530</pubDate>
-      
-      <guid>/mastering-the-complete-agile-scrum-master-workshop/</guid>
-      <description>UPDATE FOR 2020 &amp;amp; 2021 with Tanmay&#39;s latest knowledge on Agile Scrum Master Certification!
-This course is about learning the latest Agile Scrum Methodology for the Software Development field. In this course, you will learn all other Agile methodologies along with detailed information on Scrum.
-This course helps the students in understanding the fundamental principles that form the foundation of Agile. The course also explores the Scrum framework in deep detail and also blends an overview of the key practices for Agile.</description>
     </item>
     
     <item>

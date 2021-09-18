@@ -6,7 +6,30 @@
     <description>Recent content in Operating Systems &amp; Servers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Sep 2021 16:04:01 +0530</lastBuildDate><atom:link href="/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 07:41:34 +0530</lastBuildDate><atom:link href="/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excel Pivot-Tabellen für Einsteiger</title>
+      <link>/excel-pivot-tabellen-f%C3%BCr-einsteiger/</link>
+      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
+      
+      <guid>/excel-pivot-tabellen-f%C3%BCr-einsteiger/</guid>
+      <description>ALLGEMEIN
+Bei Excel-Auswertungen ist es nicht selten, dass große Datenmengen analysiert werden müssen. Nicht jeder kennt alle erforderlichen Excel-Formeln und hat die Zeit, die Daten aufwendig professionell aufzubereiten.
+Hier kann eine Pivot-Tabelle weiterhelfen
+In diesem Kurs lernen Sie die wichtigsten Grundlagen, um Pivot-Tabellen und -Diagramme zu erstellen.
+
+INHALT
+Pivot-Erstellung
+Aufbau der Pivot-Tabelle
+Berechnungen
+Diagramme
+Daten ändern und aktualisieren
+Abweichungen
+mehrere Tabellen konsolidieren
+
+Hinweis: Die Übungen wurden mit Excel 2016 erstellt.</description>
+    </item>
+    
     <item>
       <title>Linux Crash Course for Beginners - 2021</title>
       <link>/linux-crash-course-for-beginners-2021/</link>
