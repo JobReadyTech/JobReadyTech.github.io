@@ -6,7 +6,18 @@
     <description>Recent content in Software Testing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Sep 2021 19:52:12 +0530</lastBuildDate><atom:link href="/tags/software-testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 12:19:19 +0530</lastBuildDate><atom:link href="/tags/software-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JUnit 5, Mockito, PowerMock, TDD, BDD &amp; ATTD</title>
+      <link>/junit-5-mockito-powermock-tdd-bdd-attd/</link>
+      <pubDate>Sat, 18 Sep 2021 12:19:19 +0530</pubDate>
+      
+      <guid>/junit-5-mockito-powermock-tdd-bdd-attd/</guid>
+      <description>From this course you can learn Testing for software engineers that includes learning of JUnit 5, Mockito, PowerMock and TDD approach.
+There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
+To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+    </item>
+    
     <item>
       <title>Scrum Fundamentals for Scrum Master and Agile Projects- 2021</title>
       <link>/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</link>
