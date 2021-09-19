@@ -6,7 +6,80 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Sep 2021 22:18:36 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 10:04:32 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Kanban: Kanban for Software Development Teams</title>
+      <link>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</link>
+      <pubDate>Sun, 19 Sep 2021 10:04:32 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</guid>
+      <description>Kanban is not a software development lifecycle methodology or an approach to project management.
+It requires that some process is already in place so that Kanban can be applied to
+incrementally change the underlying process.
+—David Anderson, Kanban
+Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin blockchain - Under the hood for beginners.</title>
+      <link>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</link>
+      <pubDate>Sun, 19 Sep 2021 10:04:32 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
+      <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
+Topics you will learn are :
+Bitcoin Introduction
+Addresses - Private key and public address
+How to generate addresses.
+Who are miners?
+Proof of work
+What makes blockchain so secure.
+Ways to buy and sell bitcoin.
+Merits and demerits of using online exchanges
+Other Applications of blockchain.
+Analysis of latest block of bitcoin blockchain.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Fundamentals</title>
+      <link>https://www.jobready.ml/devops-fundamentals/</link>
+      <pubDate>Sun, 19 Sep 2021 10:04:32 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/devops-fundamentals/</guid>
+      <description>DevOps is not only a set of processes and tools but is more rightly represented by the culture of enhanced communication and collaboration between IT operation guys and Developers. DevOps culture is guided by principles of DevOps such as Automation, infrastructure as code, practices such as continuous integration, continuous delivery, and implemented by a large set of DevOps tools. In this course, DevOps concepts are explained in easy to understand language along with hands-on examples on basic tools of DevOps.</description>
+    </item>
+    
+    <item>
+      <title>SQL Injection Attacks: The 2021 Guide</title>
+      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
+      <pubDate>Sun, 19 Sep 2021 10:04:32 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
+      <description>About the course:
+Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Starting Python 3 Programming for the Absolute Beginner</title>
+      <link>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</link>
+      <pubDate>Sun, 19 Sep 2021 10:04:32 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</guid>
+      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
+For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
+Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
+    </item>
+    
+    <item>
+      <title>Uncle Rat&#39;s XXE Handbook</title>
+      <link>https://www.jobready.ml/uncle-rats-xxe-handbook/</link>
+      <pubDate>Sun, 19 Sep 2021 10:04:32 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/uncle-rats-xxe-handbook/</guid>
+      <description>Who am i?
+An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
+    </item>
+    
     <item>
       <title>AI-900 : Microsoft Azure AI Fundamentals Exam-&gt;Practice Test</title>
       <link>https://www.jobready.ml/ai-900-microsoft-azure-ai-fundamentals-exam-practice-test/</link>
@@ -38,62 +111,12 @@ These Questions Help you with Self-Study and Self-Assessment.</description>
     </item>
     
     <item>
-      <title>Bitcoin blockchain - Under the hood for beginners.</title>
-      <link>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
-      <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
-Topics you will learn are :
-Bitcoin Introduction
-Addresses - Private key and public address
-How to generate addresses.
-Who are miners?
-Proof of work
-What makes blockchain so secure.
-Ways to buy and sell bitcoin.
-Merits and demerits of using online exchanges
-Other Applications of blockchain.
-Analysis of latest block of bitcoin blockchain.</description>
-    </item>
-    
-    <item>
-      <title>DevOps Fundamentals</title>
-      <link>https://www.jobready.ml/devops-fundamentals/</link>
-      <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/devops-fundamentals/</guid>
-      <description>DevOps is not only a set of processes and tools but is more rightly represented by the culture of enhanced communication and collaboration between IT operation guys and Developers. DevOps culture is guided by principles of DevOps such as Automation, infrastructure as code, practices such as continuous integration, continuous delivery, and implemented by a large set of DevOps tools. In this course, DevOps concepts are explained in easy to understand language along with hands-on examples on basic tools of DevOps.</description>
-    </item>
-    
-    <item>
       <title>Google Certified Associate Cloud Engineer Practice Exam</title>
       <link>https://www.jobready.ml/google-certified-associate-cloud-engineer-practice-exam/</link>
       <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
       
       <guid>https://www.jobready.ml/google-certified-associate-cloud-engineer-practice-exam/</guid>
       <description>The Associate Cloud Engineer or as it’s also known, the Associate Cloud Engineer, like all tests, there is a bit of freedom on Google&#39;s part to exam an array of subjects. That means knowing the majority of Associate Cloud Engineer content is required because they test randomly on the many subjects available. Be aware too that experience requirements often exist because they have observed the average person and what is required.</description>
-    </item>
-    
-    <item>
-      <title>SQL Injection Attacks: The 2021 Guide</title>
-      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
-      <description>About the course:
-Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
-    </item>
-    
-    <item>
-      <title>Starting Python 3 Programming for the Absolute Beginner</title>
-      <link>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</guid>
-      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
-For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
-Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
     </item>
     
     <item>
@@ -109,16 +132,6 @@ In this course You Will Learn:
 What is SLOBS (Streamlabs OBS);
 How Streamlabs OBS is any different from OBS Studio;
 Streamlabs OBS Settings Walkthrough;</description>
-    </item>
-    
-    <item>
-      <title>Uncle Rat&#39;s XXE Handbook</title>
-      <link>https://www.jobready.ml/uncle-rats-xxe-handbook/</link>
-      <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/uncle-rats-xxe-handbook/</guid>
-      <description>Who am i?
-An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
     </item>
     
     <item>
@@ -950,19 +963,6 @@ What do we offer in our Developing solution Microsoft Azure training test?</desc
       
       <guid>https://www.jobready.ml/dp-900-azure-data-fundamental-practice-tests/</guid>
       <description>With the help of these DP-900 Practice Tests, you will be able to develop confidence inside you and these practice tests will help you develop an understanding of all the concepts of DP-900 to pass the AI-900 exam. If you are willing to instantly get DP-900 certified this practice test is for you. I am not including extra questions in these practice tests to save your time. This test contains only real exam questions.</description>
-    </item>
-    
-    <item>
-      <title>Agile Kanban: Kanban for Software Development Teams</title>
-      <link>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</link>
-      <pubDate>Sun, 29 Aug 2021 22:24:58 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</guid>
-      <description>Kanban is not a software development lifecycle methodology or an approach to project management.
-It requires that some process is already in place so that Kanban can be applied to
-incrementally change the underlying process.
-—David Anderson, Kanban
-Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.</description>
     </item>
     
     <item>
