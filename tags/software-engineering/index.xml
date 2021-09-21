@@ -6,11 +6,20 @@
     <description>Recent content in Software Engineering on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Sep 2021 10:04:32 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 09:40:06 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Quantum Computing</title>
+      <link>https://www.jobready.ml/introduction-to-quantum-computing/</link>
+      <pubDate>Mon, 20 Sep 2021 09:40:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/introduction-to-quantum-computing/</guid>
+      <description>Understanding what quantum computing is is definitely not an easy task. Indeed, since this is a new science there is a few places where you can find a quality introduction course about this topic. Indeed, usually all the course are either to advanced or simply does not cover properly the topic of quantum computing. But, this course is designed to give you all the basic knowledge about the topic. If you :</description>
+    </item>
+    
     <item>
       <title>Java Collections Framework &#43; Generics, Lambdas &amp; Stream API</title>
       <link>https://www.jobready.ml/java-collections-framework-generics-lambdas-stream-api/</link>
-      <pubDate>Sun, 19 Sep 2021 10:04:32 +0530</pubDate>
+      <pubDate>Sun, 19 Sep 2021 10:48:34 +0530</pubDate>
       
       <guid>https://www.jobready.ml/java-collections-framework-generics-lambdas-stream-api/</guid>
       <description>From this course you can learn Java Collections Framework, together with Generics, Lambda Functions, Method References and Stream API. 
@@ -51,15 +60,6 @@ To learn programming it is not enough just watching videos and reading books. Yo
 &#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}Bu kurs Go(Golang) programlama dilini anlatmayı hedeflemektedir.
 Bu kurs ile birlikte açıklayacağımız konular aşağıdaki gibidir;
 - Go Programlama Dilini Detaylı İncelemek- Çalışma Ortamı ve Editörler- Değişkenler, Türler, Go Diline Özgü Söz Dizimi ve Kurallar- Akış Kontrol Mekanizmaları- Döngüler- Hata Yönetimi- Diziler- Slice (Dilimler)- Maps- Paket Yönetimi- Struct (Yapılar)- Interface (Arayüzler)- Fonksiyonlar- Metodlar- İşaretçiler- Nesne Yönelimli Programlama- Eş Zamanlılık (Concurrency)- Test- Reflection- Go Paketleri- Veri Formatı ve Dosya İşlemleri- Go ile Veritabanı Programlama- Go ile RESTful API ve Web Programlama (Örnek Uygulamalar)- Algoritmalar</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Quantum Computing</title>
-      <link>https://www.jobready.ml/introduction-to-quantum-computing/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/introduction-to-quantum-computing/</guid>
-      <description>Understanding what quantum computing is is definitely not an easy task. Indeed, since this is a new science there is a few places where you can find a quality introduction course about this topic. Indeed, usually all the course are either to advanced or simply does not cover properly the topic of quantum computing. But, this course is designed to give you all the basic knowledge about the topic. If you :</description>
     </item>
     
     <item>

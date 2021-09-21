@@ -6,17 +6,28 @@
     <description>Recent content in Data Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Sep 2021 10:04:32 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 12:22:51 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning &amp; Deep Learning in Python &amp; R</title>
       <link>https://www.jobready.ml/machine-learning-deep-learning-in-python-r/</link>
-      <pubDate>Sun, 19 Sep 2021 10:04:32 +0530</pubDate>
+      <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
       
       <guid>https://www.jobready.ml/machine-learning-deep-learning-in-python-r/</guid>
       <description>You&#39;re looking for a complete Machine Learning and Deep Learning course that can help you launch a flourishing career in the field of Data Science, Machine Learning, Python, R or Deep Learning, right?
 You&#39;ve found the right Machine Learning course!
 After completing this course you will be able to:
 · Confidently build predictive Machine Learning and Deep Learning models using R, Python to solve business problems and create business strategy</description>
+    </item>
+    
+    <item>
+      <title>Spatial Analysis &amp; Geospatial Data Science in Python</title>
+      <link>https://www.jobready.ml/spatial-analysis-geospatial-data-science-in-python/</link>
+      <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/spatial-analysis-geospatial-data-science-in-python/</guid>
+      <description>Geospatial data science is a subset of data science that focuses on spatial data and its unique techniques. In this, we are going to perform spatial analysis and trying to find insights from spatial data. In this course, we lay the foundation for a career in Geospatial Data Science. You will get hands-on Geopy, Plotly etc.. the workhorse of Geospatial data science Python libraries.
+
+The topics covered in this course widely touch on some of the most used spatial technique in Geospatial data science.</description>
     </item>
     
     <item>
@@ -163,17 +174,6 @@ After completing this course you will be able to:
 Identify the Image Recognition problems which can be solved using CNN Models.
 Create CNN models in Python using Keras and Tensorflow libraries and analyze their results.
 Confidently practice, discuss and understand Deep Learning concepts</description>
-    </item>
-    
-    <item>
-      <title>Spatial Analysis &amp; Geospatial Data Science in Python</title>
-      <link>https://www.jobready.ml/spatial-analysis-geospatial-data-science-in-python/</link>
-      <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/spatial-analysis-geospatial-data-science-in-python/</guid>
-      <description>Geospatial data science is a subset of data science that focuses on spatial data and its unique techniques. In this, we are going to perform spatial analysis and trying to find insights from spatial data. In this course, we lay the foundation for a career in Geospatial Data Science. You will get hands-on Geopy, Plotly etc.. the workhorse of Geospatial data science Python libraries.
-
-The topics covered in this course widely touch on some of the most used spatial technique in Geospatial data science.</description>
     </item>
     
     <item>
