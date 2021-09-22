@@ -6,11 +6,11 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Sep 2021 09:46:27 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Sep 2021 14:40:11 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Wed, 22 Sep 2021 09:46:27 +0530</pubDate>
+      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
       
       <guid>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -30,16 +30,65 @@ Analysis of latest block of bitcoin blockchain.</description>
     <item>
       <title>Deep Web- The complete Introduction to the hidden web</title>
       <link>https://www.jobready.ml/deep-web-the-complete-introduction-to-the-hidden-web/</link>
-      <pubDate>Wed, 22 Sep 2021 09:46:27 +0530</pubDate>
+      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
       
       <guid>https://www.jobready.ml/deep-web-the-complete-introduction-to-the-hidden-web/</guid>
       <description>Have you heard many times about the deep/dark web but you never knew what it is. Or you you have an Idea of what is it but you never visited this part of the web. Then this course for you. You will learn all the basics of the deep/dark and how to access this part of the web. At the end of the course, you will be able to use the TOR browser as your default browser and surf on all the parts of the Web.</description>
     </item>
     
     <item>
+      <title>Digishock 1.0: Experience World-Changing Technologies</title>
+      <link>https://www.jobready.ml/digishock-1.0-experience-world-changing-technologies/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/digishock-1.0-experience-world-changing-technologies/</guid>
+      <description>Welcome to the exhaustive course series &#34;MBA in Programming and Trending Technologies&#34;. The first course in this series kickstarts with &#34;Digishock 1.0&#34;. Ready to know what it is all about? Let&#39;s dive right in. &#34;Digishock 1.0&#34; is the ultimate technology course in 2021 to make you a technology expert today. This is the first beginner&#39;s part course of getting involved with Machine Learning and the unique technologies associated with the field.</description>
+    </item>
+    
+    <item>
+      <title>Docker - Almost Complete Guide with Hands-On for 2021</title>
+      <link>https://www.jobready.ml/docker-almost-complete-guide-with-hands-on-for-2021/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/docker-almost-complete-guide-with-hands-on-for-2021/</guid>
+      <description>Are you ready to take your DevOps skills and career to the next level, take this course now!
+You will go from zero to Docker hero in couple of hours.
+Why choosing this course?
+This course is very hands on, Himanshu has put lots effort to provide you with not only the theory but also real-life examples of developing Docker applications that you can try out on your own laptop.</description>
+    </item>
+    
+    <item>
+      <title>Helm 3 - Package Manager For Kubernetes for 2021</title>
+      <link>https://www.jobready.ml/helm-3-package-manager-for-kubernetes-for-2021/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/helm-3-package-manager-for-kubernetes-for-2021/</guid>
+      <description>What you&#39;ll learn
+Working with Helm Charts and Releases
+Helm Architecture and concepts
+Create custom Helm Charts and Deploy applications to Kubernetes using Helm
+Working with Stable and Custom Helm Charts
+Create Automated Kubernetes Deployments with Helm
+Helm package manager installation and configuration
+Working with Chartmuseum Repository
+Expert Secrets from Industry - master troubleshooting tricks that you won’t find anywhere else
+Description
+You will learn all the required topics as given below for HELM - The Package Manager for Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes: CKA/CKAD, Production Grade Course for 2021</title>
+      <link>https://www.jobready.ml/kubernetes-cka/ckad-production-grade-course-for-2021/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/kubernetes-cka/ckad-production-grade-course-for-2021/</guid>
+      <description>In this Course you are going to learn most of the things which everyone is looking for. This course will help you in understading production environment and i have capture most of the things in the course which you going to face in the Interview and while working in production. Like what are the options we can use to create a cluster, Like Kubeadm, KOPS, Rancher, K3s, EKS . Have almost covered from the Installation to deploying the applications and securing them.</description>
+    </item>
+    
+    <item>
       <title>Starting Python 3 Programming for the Absolute Beginner</title>
       <link>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Wed, 22 Sep 2021 09:46:27 +0530</pubDate>
+      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
       
       <guid>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</guid>
       <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
@@ -183,46 +232,6 @@ Instantly track success rates, latencies, and request volumes for every meshed w
 Simpler than any other mesh
 Minimalist, Kubernetes-native design. No hidden magic, as little YAML and as few CRDs as possible.
 Zero-config mutual TLS</description>
-    </item>
-    
-    <item>
-      <title>Docker - Almost Complete Guide with Hands-On for 2021</title>
-      <link>https://www.jobready.ml/docker-almost-complete-guide-with-hands-on-for-2021/</link>
-      <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/docker-almost-complete-guide-with-hands-on-for-2021/</guid>
-      <description>Are you ready to take your DevOps skills and career to the next level, take this course now!
-You will go from zero to Docker hero in couple of hours.
-Why choosing this course?
-This course is very hands on, Himanshu has put lots effort to provide you with not only the theory but also real-life examples of developing Docker applications that you can try out on your own laptop.</description>
-    </item>
-    
-    <item>
-      <title>Helm 3 - Package Manager For Kubernetes for 2021</title>
-      <link>https://www.jobready.ml/helm-3-package-manager-for-kubernetes-for-2021/</link>
-      <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/helm-3-package-manager-for-kubernetes-for-2021/</guid>
-      <description>What you&#39;ll learn
-Working with Helm Charts and Releases
-Helm Architecture and concepts
-Create custom Helm Charts and Deploy applications to Kubernetes using Helm
-Working with Stable and Custom Helm Charts
-Create Automated Kubernetes Deployments with Helm
-Helm package manager installation and configuration
-Working with Chartmuseum Repository
-Expert Secrets from Industry - master troubleshooting tricks that you won’t find anywhere else
-Description
-You will learn all the required topics as given below for HELM - The Package Manager for Kubernetes.</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes: CKA/CKAD, Production Grade Course for 2021</title>
-      <link>https://www.jobready.ml/kubernetes-cka/ckad-production-grade-course-for-2021/</link>
-      <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/kubernetes-cka/ckad-production-grade-course-for-2021/</guid>
-      <description>In this Course you are going to learn most of the things which everyone is looking for. This course will help you in understading production environment and i have capture most of the things in the course which you going to face in the Interview and while working in production. Like what are the options we can use to create a cluster, Like Kubeadm, KOPS, Rancher, K3s, EKS . Have almost covered from the Installation to deploying the applications and securing them.</description>
     </item>
     
     <item>

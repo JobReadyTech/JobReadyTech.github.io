@@ -6,7 +6,20 @@
     <description>Recent content in Software Development Tools on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Sep 2021 12:22:51 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/software-development-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Sep 2021 14:40:11 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/software-development-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Azure DevOps CI/CD pipelines</title>
+      <link>https://www.jobready.ml/learn-azure-devops-ci/cd-pipelines/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/learn-azure-devops-ci/cd-pipelines/</guid>
+      <description>Are you a developer and you want to learn more about DevOps ?
+Are you looking for a practical guide to get you started with Continuous Integration and Continuous Deployment ?
+Are you working on Web, Mobile, Container or Database projects and you want to implement CI/CD ?
+This course will show you demos for how to create CI/CD pipelines for different type of projects.
+You will start with web applications: Java, .</description>
+    </item>
+    
     <item>
       <title>Introduction to Microservices</title>
       <link>https://www.jobready.ml/introduction-to-microservices/</link>
