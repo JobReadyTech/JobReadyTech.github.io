@@ -6,11 +6,11 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Sep 2021 21:16:28 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Sep 2021 08:39:12 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
+      <pubDate>Thu, 23 Sep 2021 08:39:12 +0530</pubDate>
       
       <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
@@ -19,34 +19,16 @@
     <item>
       <title>Java: Socket Programming Simplified</title>
       <link>https://www.jobready.ml/java-socket-programming-simplified/</link>
-      <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
+      <pubDate>Thu, 23 Sep 2021 08:39:12 +0530</pubDate>
       
       <guid>https://www.jobready.ml/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
     </item>
     
     <item>
-      <title>Natural Language Processing for Text Summarization</title>
-      <link>https://www.jobready.ml/natural-language-processing-for-text-summarization/</link>
-      <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/natural-language-processing-for-text-summarization/</guid>
-      <description>The area of ​​Natural Language Processing (NLP) is a subarea of ​​Artificial Intelligence that aims to make computers capable of understanding human language, both written and spoken. Some examples of practical applications are: translators between languages, translation from text to speech or speech to text, chatbots, automatic question and answer systems (Q&amp;amp;A), automatic generation of descriptions for images, generation of subtitles in videos, classification of sentiments in sentences, among many others!</description>
-    </item>
-    
-    <item>
-      <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
-      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
-    </item>
-    
-    <item>
       <title>React Redux Toolkit complete guide</title>
       <link>https://www.jobready.ml/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
+      <pubDate>Thu, 23 Sep 2021 08:39:12 +0530</pubDate>
       
       <guid>https://www.jobready.ml/react-redux-toolkit-complete-guide/</guid>
       <description>Course description:
@@ -58,13 +40,40 @@ To get the most from this course we will demonstrate a redux toolkit by building
     <item>
       <title>सीखें Javascript Programming हिन्दी में</title>
       <link>https://www.jobready.ml/%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%82-javascript-programming-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82/</link>
-      <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
+      <pubDate>Thu, 23 Sep 2021 08:39:12 +0530</pubDate>
       
       <guid>https://www.jobready.ml/%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%82-javascript-programming-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82/</guid>
       <description>नमस्कार दोस्तों!
 
 जावास्क्रिप्ट(Javascript) वह भाषा है जिसे आधुनिक डेवलपर्स को जानना, और अच्छी तरह से जानना होगा। वास्तव में जावास्क्रिप्ट जानने से आपको नौकरी मिल जाएगी, और आप quality web application का निर्माण करने में सक्षम होंगे।
 इस पाठ्यक्रम में, आप जावास्क्रिप्ट के मूल सिद्धांतों को सीखेंगे, variables, constants, conditionals, loop, function जैसे बुनियादी निर्णय प्रोग्रामिंग अवधारणाओं को सीखेंगे। आप इस भाषा की सुंदरता और शक्ति को सीखेंगे जो आज आधुनिक सॉफ्टवेयर विकास में सबसे आगे है।</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Thu, 23 Sep 2021 08:39:11 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
+    </item>
+    
+    <item>
+      <title>SQL Básico - Intermedio ¡Añade valor a tu CV en 2 horas!</title>
+      <link>https://www.jobready.ml/sql-b%C3%A1sico-intermedio-a%C3%B1ade-valor-a-tu-cv-en-2-horas/</link>
+      <pubDate>Thu, 23 Sep 2021 08:39:11 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/sql-b%C3%A1sico-intermedio-a%C3%B1ade-valor-a-tu-cv-en-2-horas/</guid>
+      <description>Aprenderás cómo leer y escribir consultas complejas en una base de datos usando una de las habilidades más demandadas. Estas habilidades también se aplican a cualquier otra base de datos como MySQL, Microsoft SQL Server, Oracle y mucho más. ¡Aprender SQL es una de las formas más rápidas de mejorar tus perspectivas profesionales ya que es una de las habilidades tecnológicas más demandadas! ¡En este curso aprenderás rápidamente y recibirás desafíos y pruebas en el camino para mejorar tu comprensión!</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing for Text Summarization</title>
+      <link>https://www.jobready.ml/natural-language-processing-for-text-summarization/</link>
+      <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/natural-language-processing-for-text-summarization/</guid>
+      <description>The area of ​​Natural Language Processing (NLP) is a subarea of ​​Artificial Intelligence that aims to make computers capable of understanding human language, both written and spoken. Some examples of practical applications are: translators between languages, translation from text to speech or speech to text, chatbots, automatic question and answer systems (Q&amp;amp;A), automatic generation of descriptions for images, generation of subtitles in videos, classification of sentiments in sentences, among many others!</description>
     </item>
     
     <item>
