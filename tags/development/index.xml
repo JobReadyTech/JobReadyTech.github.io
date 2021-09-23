@@ -6,23 +6,91 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Sep 2021 08:39:12 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Sep 2021 23:21:48 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build an Amazon Affiliate E-Commerce Store from Scratch</title>
+      <link>https://www.jobready.ml/build-an-amazon-affiliate-e-commerce-store-from-scratch/</link>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-an-amazon-affiliate-e-commerce-store-from-scratch/</guid>
+      <description>Thank you for tuning into our latest course. This time, we’ve teamed up with Developer, and pro affiliate marketer, Hemlata Singh, to show you how to build a complete Amazon Affiliate E-Commerce Store from scratch. By taking this course not only will you be able to build a complete e-commerce site, but you’ll also learn how to populate it with thousands of top rated Amazon products. You’ll earn a generous commission on each sale, through the Amazon Associate Affiliate program.</description>
+    </item>
+    
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Thu, 23 Sep 2021 08:39:12 +0530</pubDate>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
       
       <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
     </item>
     
     <item>
+      <title>How to Install a Free SSL Certificate using Let&#39;s Encrypt</title>
+      <link>https://www.jobready.ml/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</link>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</guid>
+      <description>In the modern internet age, delivering web content over a secure protocol has become essential. Since January 2017, Google attaches a warning label to any website that does not secure sensitive web page content by delivering it using HTTPS. This includes web pages that contain forms asking for usernames, passwords, credit cards and other sensitive information. In the near future Google plans to roll out a requirement for all web pages to be secured.</description>
+    </item>
+    
+    <item>
+      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
+      <link>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
+      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
+In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
+Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
+    </item>
+    
+    <item>
+      <title>Internet and Web Development Fundamentals</title>
+      <link>https://www.jobready.ml/internet-and-web-development-fundamentals/</link>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/internet-and-web-development-fundamentals/</guid>
+      <description>This course is part-one of the nine-part series that starts by taking an in-depth look at how the internet facilitates the movement of data packets across both LANs (Local Area Network) and WANs (Wide Area Network). Students learn how to interpret various protocols such as TCP/IP, HTTP, HTTPs, SMTP and FTP. We examine the entire flow and life-cycle of data-packet movement from origin to destination. The course examines the role of DNS and SMTP servers in routing internet traffic and email transmissions.</description>
+    </item>
+    
+    <item>
       <title>Java: Socket Programming Simplified</title>
       <link>https://www.jobready.ml/java-socket-programming-simplified/</link>
-      <pubDate>Thu, 23 Sep 2021 08:39:12 +0530</pubDate>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
       
       <guid>https://www.jobready.ml/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>MS SQL Server 2019. Programación de Bases de Datos con T-SQL</title>
+      <link>https://www.jobready.ml/ms-sql-server-2019.-programaci%C3%B3n-de-bases-de-datos-con-t-sql/</link>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/ms-sql-server-2019.-programaci%C3%B3n-de-bases-de-datos-con-t-sql/</guid>
+      <description>Con este curso de Microsoft SQL Server 2019, partiremos de cero, para mostrar este gestor de bases de datos, al mismo tiempo que nos formaremos con SQL y la extensión de funcionalidades del lenguaje que hace Microsoft, llamado Transact-SQL.
+Veremos todos los comandos y sentencias necesarios para poder trabajar con fluidez en un proyecto.
+Desarrollaremos proyectos de bases de datos para poder trabajar elaboración de informes completos o scripts que puedan ser integrados en otros framework&#39;s de desarrollo.</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
+    </item>
+    
+    <item>
+      <title>Web Development Masterclass - Complete Certificate Course</title>
+      <link>https://www.jobready.ml/web-development-masterclass-complete-certificate-course/</link>
+      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/web-development-masterclass-complete-certificate-course/</guid>
+      <description>This course is fully compatible with the latest versions of Ubuntu (20.04 LTS, 18.04 LTS). You can also continue using 14.04 LTS or 16.04 LTS if you prefer, as the content is compatible with all versions.
+This course offers a comprehensive look into the entire web development process - from local server configuration using WAMP and MAMP (Apache, MySQL, PHP) to production deployment using the latest web technologies including: LAMP Stack (Linux, Apache, PHP and MySQL) for Ubuntu, HTML5, CSS, Bootstrap, JavaScript, jQuery, XML, and AJAX.</description>
     </item>
     
     <item>
@@ -47,15 +115,6 @@ To get the most from this course we will demonstrate a redux toolkit by building
 
 जावास्क्रिप्ट(Javascript) वह भाषा है जिसे आधुनिक डेवलपर्स को जानना, और अच्छी तरह से जानना होगा। वास्तव में जावास्क्रिप्ट जानने से आपको नौकरी मिल जाएगी, और आप quality web application का निर्माण करने में सक्षम होंगे।
 इस पाठ्यक्रम में, आप जावास्क्रिप्ट के मूल सिद्धांतों को सीखेंगे, variables, constants, conditionals, loop, function जैसे बुनियादी निर्णय प्रोग्रामिंग अवधारणाओं को सीखेंगे। आप इस भाषा की सुंदरता और शक्ति को सीखेंगे जो आज आधुनिक सॉफ्टवेयर विकास में सबसे आगे है।</description>
-    </item>
-    
-    <item>
-      <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Thu, 23 Sep 2021 08:39:11 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
-      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>
@@ -743,24 +802,6 @@ In this practical, hands-on course our main objective is to give you the educati
     </item>
     
     <item>
-      <title>Build an Amazon Affiliate E-Commerce Store from Scratch</title>
-      <link>https://www.jobready.ml/build-an-amazon-affiliate-e-commerce-store-from-scratch/</link>
-      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/build-an-amazon-affiliate-e-commerce-store-from-scratch/</guid>
-      <description>Thank you for tuning into our latest course. This time, we’ve teamed up with Developer, and pro affiliate marketer, Hemlata Singh, to show you how to build a complete Amazon Affiliate E-Commerce Store from scratch. By taking this course not only will you be able to build a complete e-commerce site, but you’ll also learn how to populate it with thousands of top rated Amazon products. You’ll earn a generous commission on each sale, through the Amazon Associate Affiliate program.</description>
-    </item>
-    
-    <item>
-      <title>How to Install a Free SSL Certificate using Let&#39;s Encrypt</title>
-      <link>https://www.jobready.ml/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</link>
-      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</guid>
-      <description>In the modern internet age, delivering web content over a secure protocol has become essential. Since January 2017, Google attaches a warning label to any website that does not secure sensitive web page content by delivering it using HTTPS. This includes web pages that contain forms asking for usernames, passwords, credit cards and other sensitive information. In the near future Google plans to roll out a requirement for all web pages to be secured.</description>
-    </item>
-    
-    <item>
       <title>Practical MongoDB &#43; PHP: For Absolute Beginners</title>
       <link>https://www.jobready.ml/practical-mongodb-php-for-absolute-beginners/</link>
       <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
@@ -784,16 +825,6 @@ Would you like to make amazing websites and bring your ideas to life?
 Then SVG Ultimate Course is for you!
 Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
 Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
-    </item>
-    
-    <item>
-      <title>Web Development Masterclass - Complete Certificate Course</title>
-      <link>https://www.jobready.ml/web-development-masterclass-complete-certificate-course/</link>
-      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/web-development-masterclass-complete-certificate-course/</guid>
-      <description>This course is fully compatible with the latest versions of Ubuntu (20.04 LTS, 18.04 LTS). You can also continue using 14.04 LTS or 16.04 LTS if you prefer, as the content is compatible with all versions.
-This course offers a comprehensive look into the entire web development process - from local server configuration using WAMP and MAMP (Apache, MySQL, PHP) to production deployment using the latest web technologies including: LAMP Stack (Linux, Apache, PHP and MySQL) for Ubuntu, HTML5, CSS, Bootstrap, JavaScript, jQuery, XML, and AJAX.</description>
     </item>
     
     <item>
