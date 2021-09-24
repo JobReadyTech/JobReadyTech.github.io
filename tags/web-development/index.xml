@@ -6,14 +6,34 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Sep 2021 23:21:48 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 11:42:38 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
       <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
       
       <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
+    </item>
+    
+    <item>
+      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
+      <link>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
+      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
+      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
+In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
+Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>
@@ -26,32 +46,12 @@
     </item>
     
     <item>
-      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
-      <link>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
-      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
-In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
-Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
-    </item>
-    
-    <item>
       <title>Internet and Web Development Fundamentals</title>
       <link>https://www.jobready.ml/internet-and-web-development-fundamentals/</link>
       <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
       
       <guid>https://www.jobready.ml/internet-and-web-development-fundamentals/</guid>
       <description>This course is part-one of the nine-part series that starts by taking an in-depth look at how the internet facilitates the movement of data packets across both LANs (Local Area Network) and WANs (Wide Area Network). Students learn how to interpret various protocols such as TCP/IP, HTTP, HTTPs, SMTP and FTP. We examine the entire flow and life-cycle of data-packet movement from origin to destination. The course examines the role of DNS and SMTP servers in routing internet traffic and email transmissions.</description>
-    </item>
-    
-    <item>
-      <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
-      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>

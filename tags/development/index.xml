@@ -6,7 +6,45 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Sep 2021 23:21:48 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 11:42:38 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cssSelector Tutorial from basic to advance level.</title>
+      <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
+      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
+      <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
+    </item>
+    
+    <item>
+      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
+      <link>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
+      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
+      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
+In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
+Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
+    </item>
+    
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>https://www.jobready.ml/java-socket-programming-simplified/</link>
+      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
+    </item>
+    
     <item>
       <title>Build an Amazon Affiliate E-Commerce Store from Scratch</title>
       <link>https://www.jobready.ml/build-an-amazon-affiliate-e-commerce-store-from-scratch/</link>
@@ -14,15 +52,6 @@
       
       <guid>https://www.jobready.ml/build-an-amazon-affiliate-e-commerce-store-from-scratch/</guid>
       <description>Thank you for tuning into our latest course. This time, we’ve teamed up with Developer, and pro affiliate marketer, Hemlata Singh, to show you how to build a complete Amazon Affiliate E-Commerce Store from scratch. By taking this course not only will you be able to build a complete e-commerce site, but you’ll also learn how to populate it with thousands of top rated Amazon products. You’ll earn a generous commission on each sale, through the Amazon Associate Affiliate program.</description>
-    </item>
-    
-    <item>
-      <title>cssSelector Tutorial from basic to advance level.</title>
-      <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
-      <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
     </item>
     
     <item>
@@ -35,32 +64,12 @@
     </item>
     
     <item>
-      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
-      <link>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
-      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
-In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
-Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
-    </item>
-    
-    <item>
       <title>Internet and Web Development Fundamentals</title>
       <link>https://www.jobready.ml/internet-and-web-development-fundamentals/</link>
       <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
       
       <guid>https://www.jobready.ml/internet-and-web-development-fundamentals/</guid>
       <description>This course is part-one of the nine-part series that starts by taking an in-depth look at how the internet facilitates the movement of data packets across both LANs (Local Area Network) and WANs (Wide Area Network). Students learn how to interpret various protocols such as TCP/IP, HTTP, HTTPs, SMTP and FTP. We examine the entire flow and life-cycle of data-packet movement from origin to destination. The course examines the role of DNS and SMTP servers in routing internet traffic and email transmissions.</description>
-    </item>
-    
-    <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>https://www.jobready.ml/java-socket-programming-simplified/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
     </item>
     
     <item>
@@ -72,15 +81,6 @@ Whether you are an experienced web developer or new to the industry, you’ve li
       <description>Con este curso de Microsoft SQL Server 2019, partiremos de cero, para mostrar este gestor de bases de datos, al mismo tiempo que nos formaremos con SQL y la extensión de funcionalidades del lenguaje que hace Microsoft, llamado Transact-SQL.
 Veremos todos los comandos y sentencias necesarios para poder trabajar con fluidez en un proyecto.
 Desarrollaremos proyectos de bases de datos para poder trabajar elaboración de informes completos o scripts que puedan ser integrados en otros framework&#39;s de desarrollo.</description>
-    </item>
-    
-    <item>
-      <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
-      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>

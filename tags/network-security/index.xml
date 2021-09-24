@@ -6,7 +6,17 @@
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Sep 2021 23:21:48 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 11:42:38 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Injection Attacks: The 2021 Guide</title>
+      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
+      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
+      <description>About the course:
+Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
+    </item>
+    
     <item>
       <title>Fundamentals of Network Security</title>
       <link>https://www.jobready.ml/fundamentals-of-network-security/</link>
@@ -16,16 +26,6 @@
       <description>Dear Learners
 Are you Preparing for Interview in IT Industry? Don’t be stressed, take our Network Security Course and prepare yourself for your Interview
 We know that Network Security is the basic Requirement of IT Company, so it is necessary for every students on IT Industry that he learn the Basic Concept of Network Security. In this Course You Will Learn the fundamentals of Network Security and take the first leap to the world of IT Industry.</description>
-    </item>
-    
-    <item>
-      <title>SQL Injection Attacks: The 2021 Guide</title>
-      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
-      <description>About the course:
-Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
     </item>
     
     <item>
