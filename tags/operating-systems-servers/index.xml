@@ -6,7 +6,19 @@
     <description>Recent content in Operating Systems &amp; Servers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Sep 2021 12:19:19 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 21:26:49 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux for Network Engineers: Practical Linux with GNS3</title>
+      <link>https://www.jobready.ml/linux-for-network-engineers-practical-linux-with-gns3/</link>
+      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/linux-for-network-engineers-practical-linux-with-gns3/</guid>
+      <description>It is important for you as a network engineer to learn Linux!
+Why? There are many reasons including:
+1) A lot of network operating systems are based on Linux, or have a Linux shell you can access, or use Linux type commands. I&#39;ll show you an example using Cisco, Arista and Cumulus Linux.
+2) Network Automation tools such as Ansible don&#39;t run the command node on Windows. You are probably going to use Linux with tools such as Ansible, Netmkio, NAPALM and other network automation tools.</description>
+    </item>
+    
     <item>
       <title>Excel Pivot-Tabellen für Einsteiger</title>
       <link>https://www.jobready.ml/excel-pivot-tabellen-f%C3%BCr-einsteiger/</link>

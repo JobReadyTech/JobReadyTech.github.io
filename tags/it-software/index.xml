@@ -6,11 +6,11 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Sep 2021 11:42:38 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 21:26:49 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
       
       <guid>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -28,9 +28,45 @@ Analysis of latest block of bitcoin blockchain.</description>
     </item>
     
     <item>
+      <title>Fundamentals of Network Security</title>
+      <link>https://www.jobready.ml/fundamentals-of-network-security/</link>
+      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/fundamentals-of-network-security/</guid>
+      <description>Dear Learners
+Are you Preparing for Interview in IT Industry? Don’t be stressed, take our Network Security Course and prepare yourself for your Interview
+We know that Network Security is the basic Requirement of IT Company, so it is necessary for every students on IT Industry that he learn the Basic Concept of Network Security. In this Course You Will Learn the fundamentals of Network Security and take the first leap to the world of IT Industry.</description>
+    </item>
+    
+    <item>
+      <title>Linux for Network Engineers: Practical Linux with GNS3</title>
+      <link>https://www.jobready.ml/linux-for-network-engineers-practical-linux-with-gns3/</link>
+      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/linux-for-network-engineers-practical-linux-with-gns3/</guid>
+      <description>It is important for you as a network engineer to learn Linux!
+Why? There are many reasons including:
+1) A lot of network operating systems are based on Linux, or have a Linux shell you can access, or use Linux type commands. I&#39;ll show you an example using Cisco, Arista and Cumulus Linux.
+2) Network Automation tools such as Ansible don&#39;t run the command node on Windows. You are probably going to use Linux with tools such as Ansible, Netmkio, NAPALM and other network automation tools.</description>
+    </item>
+    
+    <item>
+      <title>Python And Flask Framework Complete Course For Beginners</title>
+      <link>https://www.jobready.ml/python-and-flask-framework-complete-course-for-beginners/</link>
+      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/python-and-flask-framework-complete-course-for-beginners/</guid>
+      <description>Learn Python From Scratch
+ I’ve created thorough, extensive, but easy to follow content which you’ll easily understand and absorb.
+ The course starts with the basics, including Python fundamentals, programming, and user interaction.
+
+The curriculum is going to be very hands-on as we walk you from start to finish becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real-life practice and be ready for the real world.</description>
+    </item>
+    
+    <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
       <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
       
       <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
@@ -40,7 +76,7 @@ Welcome to this course on SQL injection attacks! In this course, we explore one
     <item>
       <title>Starting Python 3 Programming for the Absolute Beginner</title>
       <link>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Fri, 24 Sep 2021 11:42:38 +0530</pubDate>
+      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
       
       <guid>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</guid>
       <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
@@ -49,14 +85,13 @@ Searching for good material online often takes hours and hours and this course i
     </item>
     
     <item>
-      <title>Fundamentals of Network Security</title>
-      <link>https://www.jobready.ml/fundamentals-of-network-security/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
+      <title>Teramind Employee Monitoring &amp; Data Loss Prevention</title>
+      <link>https://www.jobready.ml/teramind-employee-monitoring-data-loss-prevention/</link>
+      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamentals-of-network-security/</guid>
-      <description>Dear Learners
-Are you Preparing for Interview in IT Industry? Don’t be stressed, take our Network Security Course and prepare yourself for your Interview
-We know that Network Security is the basic Requirement of IT Company, so it is necessary for every students on IT Industry that he learn the Basic Concept of Network Security. In this Course You Will Learn the fundamentals of Network Security and take the first leap to the world of IT Industry.</description>
+      <guid>https://www.jobready.ml/teramind-employee-monitoring-data-loss-prevention/</guid>
+      <description>Teramind offers employee monitoring, insider threat detection, and data loss prevention (DLP) solutions. Teramind UAM monitors user activities on applications, websites, file systems, network, email, social media and more. Behavioral rules can be created to automatically warn, block, notify, lockout or take other actions when an anomaly is detected. Its session recording feature allows investigation of incidents with video and optional audio recordings of users&#39; desktop.
+Teramind DLP comes with all the features available in Teramind UAM plus: automated data discovery and classification with built-in support for many sensitive data types for personal information, health and financial information (PII/PHI/PFI).</description>
     </item>
     
     <item>
