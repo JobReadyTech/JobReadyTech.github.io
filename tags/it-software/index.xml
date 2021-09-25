@@ -6,11 +6,11 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Sep 2021 21:26:49 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Sep 2021 10:06:19 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
+      <pubDate>Sat, 25 Sep 2021 10:06:19 +0530</pubDate>
       
       <guid>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -25,6 +25,27 @@ Ways to buy and sell bitcoin.
 Merits and demerits of using online exchanges
 Other Applications of blockchain.
 Analysis of latest block of bitcoin blockchain.</description>
+    </item>
+    
+    <item>
+      <title>SQL Injection Attacks: The 2021 Guide</title>
+      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
+      <pubDate>Sat, 25 Sep 2021 10:06:19 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
+      <description>About the course:
+Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Starting Python 3 Programming for the Absolute Beginner</title>
+      <link>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</link>
+      <pubDate>Sat, 25 Sep 2021 10:06:19 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</guid>
+      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
+For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
+Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
     </item>
     
     <item>
@@ -61,27 +82,6 @@ Why? There are many reasons including:
  The course starts with the basics, including Python fundamentals, programming, and user interaction.
 
 The curriculum is going to be very hands-on as we walk you from start to finish becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real-life practice and be ready for the real world.</description>
-    </item>
-    
-    <item>
-      <title>SQL Injection Attacks: The 2021 Guide</title>
-      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
-      <description>About the course:
-Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
-    </item>
-    
-    <item>
-      <title>Starting Python 3 Programming for the Absolute Beginner</title>
-      <link>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</guid>
-      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
-For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
-Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
     </item>
     
     <item>
