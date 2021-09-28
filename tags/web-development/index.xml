@@ -6,21 +6,52 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Sep 2021 18:04:22 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 10:00:06 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Modern JavaScript for React JS - ES6.</title>
-      <link>https://www.jobready.ml/modern-javascript-for-react-js-es6./</link>
-      <pubDate>Mon, 27 Sep 2021 18:04:22 +0530</pubDate>
+      <title>Basics of PHP in 2 Hours</title>
+      <link>https://www.jobready.ml/basics-of-php-in-2-hours/</link>
+      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/modern-javascript-for-react-js-es6./</guid>
-      <description>Are you looking to extend your knowledge in Javascript programming by learning the concepts of modern javascript - ES6?If you want to start your journey to become a React or Angular developer, then this is the perfect course for you. 
-What&#39;s this course about?This course is specifically designed for those who want to get a quick start with Modern Javascript, especially ES6 concepts. It covers all the basic concepts of ES6: how the javascript has evolved, how to use its latest features that come under ES6 topics, what is babel, and how it is used to compile the ES6 code to make it browser compatible.</description>
+      <guid>https://www.jobready.ml/basics-of-php-in-2-hours/</guid>
+      <description>Basics in PHP in 2 Hours
+This course will help you master the basic concepts of PHP version 8 within just 2 hours. The Basics of PHP course covers, the concepts of PHP Scripting in 2 hours, and then you&#39;ll be creating your own applications, working with coding quizzes and challenges to excel what you learned.
+Why PHP?
+PHP (Hypertext Preprocessor) is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites.</description>
+    </item>
+    
+    <item>
+      <title>cssSelector Tutorial from basic to advance level.</title>
+      <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
+      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
+      <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
+    </item>
+    
+    <item>
+      <title>Learn CSS - For Beginners</title>
+      <link>https://www.jobready.ml/learn-css-for-beginners/</link>
+      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/learn-css-for-beginners/</guid>
+      <description>Course: Learn CSS - For BeginnersLearn to Work with Cascading Style Sheets
+Students learn to harness the true power of front-end development using CSS (Cascading Style Sheets). Through comprehensive, hands-on exercises, students will develop stylish, responsive web layouts using CSS properties and style definitions.
+We start with basic concepts such as the parts of a CSS rule and working with Classes, Divisions and IDs. Next we explore an intensive collection of style definition, from working with text, backgrounds and transparency, right to CSS positioning, link styling, and popular layout development techniques.</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>
       <title>React Redux Toolkit complete guide</title>
       <link>https://www.jobready.ml/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Mon, 27 Sep 2021 18:04:22 +0530</pubDate>
+      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
       
       <guid>https://www.jobready.ml/react-redux-toolkit-complete-guide/</guid>
       <description>Course description:
@@ -30,12 +61,13 @@ To get the most from this course we will demonstrate a redux toolkit by building
     </item>
     
     <item>
-      <title>cssSelector Tutorial from basic to advance level.</title>
-      <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Mon, 27 Sep 2021 18:04:21 +0530</pubDate>
+      <title>Modern JavaScript for React JS - ES6.</title>
+      <link>https://www.jobready.ml/modern-javascript-for-react-js-es6./</link>
+      <pubDate>Mon, 27 Sep 2021 18:04:22 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
-      <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
+      <guid>https://www.jobready.ml/modern-javascript-for-react-js-es6./</guid>
+      <description>Are you looking to extend your knowledge in Javascript programming by learning the concepts of modern javascript - ES6?If you want to start your journey to become a React or Angular developer, then this is the perfect course for you. 
+What&#39;s this course about?This course is specifically designed for those who want to get a quick start with Modern Javascript, especially ES6 concepts. It covers all the basic concepts of ES6: how the javascript has evolved, how to use its latest features that come under ES6 topics, what is babel, and how it is used to compile the ES6 code to make it browser compatible.</description>
     </item>
     
     <item>
@@ -48,15 +80,6 @@ To get the most from this course we will demonstrate a redux toolkit by building
 Around 60+ video content added 
  + 
 Bonus Sections: jQuery and ES6 for ReactJS In this JavaScript course - At the beginning of this JavaScript course, you will learn and understand : 1) All the basic concepts of JavaScript. 2) And the advanced topics like object-oriented programming where you will learn the OOPs concepts like data binding, inheritance, data encapsulation, etc. 3) The most used part in JavaScript - Functional Programming where we will cover the special functions like map, filter, reduce, and many more.</description>
-    </item>
-    
-    <item>
-      <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Mon, 27 Sep 2021 18:04:21 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
-      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>
@@ -463,16 +486,6 @@ Programming is the most in-demand skill in 2021.</description>
 The techniques explored in this course will ensure your web applications adhere to strict development standards to avoid cross-browser and cross-device compatibility issues.
 The course starts with the fundamental concepts, including embedding Bootstrap into web pages. We then explore the Bootstrap Grid system and popular mobile responsive web layouts.
 Students will gain a solid understanding of almost every Bootstrap component available, from typography, carousels, panels, drop-down menus, and collapsible nav-bars to forms, popovers, modals and tool tips.</description>
-    </item>
-    
-    <item>
-      <title>Learn CSS - For Beginners</title>
-      <link>https://www.jobready.ml/learn-css-for-beginners/</link>
-      <pubDate>Thu, 02 Sep 2021 22:17:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-css-for-beginners/</guid>
-      <description>Students learn to harness the true power of front-end development using CSS (Cascading Style Sheets). Through comprehensive, hands-on exercises, students will develop stylish, responsive web layouts using CSS properties and style definitions.
-We start with basic concepts such as the parts of a CSS rule and working with Classes, Divisions and IDs. Next we explore an intensive collection of style definition, from working with text, backgrounds and transparency, right to CSS positioning, link styling, and popular layout development techniques.</description>
     </item>
     
     <item>
