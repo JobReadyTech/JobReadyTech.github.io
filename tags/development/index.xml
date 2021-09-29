@@ -6,7 +6,59 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Sep 2021 10:00:06 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 11:41:03 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cssSelector Tutorial from basic to advance level.</title>
+      <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
+      <pubDate>Wed, 29 Sep 2021 11:41:03 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
+      <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
+    </item>
+    
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>https://www.jobready.ml/java-socket-programming-simplified/</link>
+      <pubDate>Wed, 29 Sep 2021 11:41:03 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Learn PHP - For Beginners</title>
+      <link>https://www.jobready.ml/learn-php-for-beginners/</link>
+      <pubDate>Wed, 29 Sep 2021 11:41:03 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/learn-php-for-beginners/</guid>
+      <description>Course: Learn PHP - For BeginnersLearn to create dynamic web applications using PHP
+Students learn to integrate client-server communication into web pages to create dynamic functionality using PHP.
+We start with the fundamentals, including PHP syntax and variable declaration. The course transitions into working with objects, arithmetic operators, conditional statements, loops, functions and arrays.
+Students will also learn to utilize server side form validation techniques to maintain data integrity.
+What you&#39;ll learn - Overview:</description>
+    </item>
+    
+    <item>
+      <title>PHP Crash Course For Absolute Beginners 2021</title>
+      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
+      <pubDate>Wed, 29 Sep 2021 11:41:03 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
+      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
+    </item>
+    
+    <item>
+      <title>React Redux Toolkit complete guide</title>
+      <link>https://www.jobready.ml/react-redux-toolkit-complete-guide/</link>
+      <pubDate>Wed, 29 Sep 2021 11:41:03 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/react-redux-toolkit-complete-guide/</guid>
+      <description>Course description:
+This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
+What will you build?
+To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
+    </item>
+    
     <item>
       <title>Basics of PHP in 2 Hours</title>
       <link>https://www.jobready.ml/basics-of-php-in-2-hours/</link>
@@ -17,24 +69,6 @@
 This course will help you master the basic concepts of PHP version 8 within just 2 hours. The Basics of PHP course covers, the concepts of PHP Scripting in 2 hours, and then you&#39;ll be creating your own applications, working with coding quizzes and challenges to excel what you learned.
 Why PHP?
 PHP (Hypertext Preprocessor) is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites.</description>
-    </item>
-    
-    <item>
-      <title>cssSelector Tutorial from basic to advance level.</title>
-      <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
-      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
-      <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
-    </item>
-    
-    <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>https://www.jobready.ml/java-socket-programming-simplified/</link>
-      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
     </item>
     
     <item>
@@ -57,27 +91,6 @@ We start with basic concepts such as the parts of a CSS rule and working with Cl
       <description>From this course you can learn everything you need to know to pass Oracle Certifications 1Z0-808 &amp;amp; 1Z0-811.
 There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
 To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
-    </item>
-    
-    <item>
-      <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
-      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
-      <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
-    </item>
-    
-    <item>
-      <title>React Redux Toolkit complete guide</title>
-      <link>https://www.jobready.ml/react-redux-toolkit-complete-guide/</link>
-      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/react-redux-toolkit-complete-guide/</guid>
-      <description>Course description:
-This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
-What will you build?
-To get the most from this course we will demonstrate a redux toolkit by building two apps</description>
     </item>
     
     <item>
@@ -1509,22 +1522,6 @@ The course includes several hands-on exercises to help students master this esse
  Ratings: 4.24/5
 Enrollments: 173172
 Coupon Code: YOUACCEL12105</description>
-    </item>
-    
-    <item>
-      <title>Learn PHP - For Beginners</title>
-      <link>https://www.jobready.ml/learn-php-for-beginners/</link>
-      <pubDate>Thu, 02 Sep 2021 22:17:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-php-for-beginners/</guid>
-      <description>Students learn to integrate client-server communication into web pages to create dynamic functionality using PHP.
-We start with the fundamentals, including PHP syntax and variable declaration. The course transitions into working with objects, arithmetic operators, conditional statements, loops, functions and arrays.
-Students will also learn to utilize server side form validation techniques to maintain data integrity.
- Ratings: 4.23/5
-Enrollments: 154451
-Coupon Code: YOUACCEL12105
-Current Price: FREE
-Enroll Now: Click Here  </description>
     </item>
     
     <item>
