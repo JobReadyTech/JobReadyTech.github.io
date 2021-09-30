@@ -6,14 +6,27 @@
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 Sep 2021 11:41:03 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Sep 2021 14:35:25 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java: Socket Programming Simplified</title>
       <link>https://www.jobready.ml/java-socket-programming-simplified/</link>
-      <pubDate>Wed, 29 Sep 2021 11:41:03 +0530</pubDate>
+      <pubDate>Thu, 30 Sep 2021 14:35:25 +0530</pubDate>
       
       <guid>https://www.jobready.ml/java-socket-programming-simplified/</guid>
       <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Python for Bioinformatics-Self Learning Course</title>
+      <link>https://www.jobready.ml/python-for-bioinformatics-self-learning-course/</link>
+      <pubDate>Thu, 30 Sep 2021 14:35:25 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/python-for-bioinformatics-self-learning-course/</guid>
+      <description>This course will cover algorithms for solving various biological problems along with a handful of programming challenges helping you implement these algorithms in Python.
+It offers a gently-paced introduction to our Bioinformatics Specialization preparing learners to take the first course in the Specialization.
+If you haven&#39;t programmed in Python before, not to worry, We are here to support you at every step.
+
+What will be taught in this course:</description>
     </item>
     
     <item>
