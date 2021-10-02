@@ -6,11 +6,20 @@
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Oct 2021 21:18:12 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Oct 2021 11:48:06 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CheckPoint-NGFW Security : Basic Introduction</title>
+      <link>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</link>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</guid>
+      <description>Learn all the Concepts about the Features of CheckPoint - Next Generation Firewall, Learn how to evaluate or Review a Firewall. Why are Firewalls needed and how its&#39; features justify the Deployment in modern Day networks in spite of ACLs on Router, Packet filters &amp;amp; Proxy based Firewalls. You will learn all the additional features they provide on top of other traditional Networking and legacy security solutions. Learn about Stateful Inspection and how it is Used in Firewall to provide security.</description>
+    </item>
+    
     <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
       <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
       
       <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
@@ -151,15 +160,6 @@ This course provides learners with a basic level of competency using a hands-on
       <description>Alert -
 Intermediate Ethical Hacking Hands-on Training is a continuation of Ethical Hacking - Hands-on Training Part I. Before taking this course, students should have completed an introduction to an ethical hacking or pentesting course. Students should have completed Ethical Hacking - Hands-on Training Part I for best results before signing up for the intermediate course. 
 Intermediate Ethical Hacking Hands-on Training picks up where Part I leaves off. In Part I, students was taught the fundamentals of pentesting while being introduced to some basic skills.</description>
-    </item>
-    
-    <item>
-      <title>CheckPoint-NGFW Security : Basic Introduction</title>
-      <link>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</link>
-      <pubDate>Fri, 03 Sep 2021 13:11:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</guid>
-      <description>Learn all the Concepts about the Features of CheckPoint - Next Generation Firewall, Learn how to evaluate or Review a Firewall. Why are Firewalls needed and how its&#39; features justify the Deployment in modern Day networks in spite of ACLs on Router, Packet filters &amp;amp; Proxy based Firewalls. You will learn all the additional features they provide on top of other traditional Networking and legacy security solutions. Learn about Stateful Inspection and how it is Used in Firewall to provide security.</description>
     </item>
     
     <item>

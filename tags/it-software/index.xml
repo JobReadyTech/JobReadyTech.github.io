@@ -6,11 +6,24 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Oct 2021 21:18:12 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Oct 2021 11:48:06 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Kanban: Kanban for Software Development Teams</title>
+      <link>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</link>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</guid>
+      <description>Kanban is not a software development lifecycle methodology or an approach to project management.
+It requires that some process is already in place so that Kanban can be applied to
+incrementally change the underlying process.
+—David Anderson, Kanban
+Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.</description>
+    </item>
+    
     <item>
       <title>Bitcoin blockchain - Under the hood for beginners.</title>
       <link>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</link>
-      <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
       
       <guid>https://www.jobready.ml/bitcoin-blockchain-under-the-hood-for-beginners./</guid>
       <description>In this course you will learn how bitcoin blockchain works internally and technical concepts which people generally don&#39;t know.
@@ -28,6 +41,59 @@ Analysis of latest block of bitcoin blockchain.</description>
     </item>
     
     <item>
+      <title>CheckPoint-NGFW Security : Basic Introduction</title>
+      <link>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</link>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</guid>
+      <description>Learn all the Concepts about the Features of CheckPoint - Next Generation Firewall, Learn how to evaluate or Review a Firewall. Why are Firewalls needed and how its&#39; features justify the Deployment in modern Day networks in spite of ACLs on Router, Packet filters &amp;amp; Proxy based Firewalls. You will learn all the additional features they provide on top of other traditional Networking and legacy security solutions. Learn about Stateful Inspection and how it is Used in Firewall to provide security.</description>
+    </item>
+    
+    <item>
+      <title>Exam C_SM100_7208 SAP Certified  Solution manager (7.2 SPS8)</title>
+      <link>https://www.jobready.ml/exam-c_sm100_7208-sap-certified-solution-manager-7.2-sps8/</link>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/exam-c_sm100_7208-sap-certified-solution-manager-7.2-sps8/</guid>
+      <description>Description
+The &#34;SAP Certified Technology Associate - SAP Solution Manager, Mandatory and Managed System Configuration (7.2 SPS8)&#34; certification exam validates that the candidate knows mandatory and managed system configuration of the SAP Solution Manager, including infrastructure. The exam also validates that the candidate can describe the various activities, functions and features that belong to the area of operations of the SAP Solution Manager solution.
+Topic Areas
+Please see below the list of topics that may be covered within this certification and the courses that cover them.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft AZ-120 Exam : Practice Tests 2021</title>
+      <link>https://www.jobready.ml/microsoft-az-120-exam-practice-tests-2021/</link>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/microsoft-az-120-exam-practice-tests-2021/</guid>
+      <description>Dear Friends,
+Are you Preparing for Microsoft AZ-120 Exam ? Don’t be stressed, Take our Microsoft AZ-120 Exam Based Practice Test and prepare yourself for the Exam. This Ultimate Exam Training Course for the Planning and Administering Microsoft Azure for SAP Workloads Expert Certification is packed with comprehensive questions &amp;amp; answers. If you want to clear the Microsoft AZ-120 Exam confidently, This Practice Tests helps you to do that.
+-----------------------------------------------------------------------------------------------------------------------------</description>
+    </item>
+    
+    <item>
+      <title>SQL Injection Attacks: The 2021 Guide</title>
+      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
+      <description>About the course:
+Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Starting Python 3 Programming for the Absolute Beginner</title>
+      <link>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</link>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</guid>
+      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
+For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
+Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
+    </item>
+    
+    <item>
       <title>MD-101: Managing Modern Desktops Exam -&gt; Practice Test 2021</title>
       <link>https://www.jobready.ml/md-101-managing-modern-desktops-exam-practice-test-2021/</link>
       <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
@@ -40,38 +106,6 @@ What you will get in These Practice Test ?
 It Contains Sample Questions which are likely to be asked in the Real Exam.
 These Questions Help you with Self-Study and Self-Assessment.
 These Practice Test Helps you check your Knowledge.</description>
-    </item>
-    
-    <item>
-      <title>Microsoft AZ-120 Exam : Practice Tests 2021</title>
-      <link>https://www.jobready.ml/microsoft-az-120-exam-practice-tests-2021/</link>
-      <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/microsoft-az-120-exam-practice-tests-2021/</guid>
-      <description>Dear Friends,
-Are you Preparing for Microsoft AZ-120 Exam ? Don’t be stressed, Take our Microsoft AZ-120 Exam Based Practice Test and prepare yourself for the Exam. This Ultimate Exam Training Course for the Planning and Administering Microsoft Azure for SAP Workloads Expert Certification is packed with comprehensive questions &amp;amp; answers. If you want to clear the Microsoft AZ-120 Exam confidently, This Practice Tests helps you to do that.
------------------------------------------------------------------------------------------------------------------------------</description>
-    </item>
-    
-    <item>
-      <title>SQL Injection Attacks: The 2021 Guide</title>
-      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
-      <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
-      <description>About the course:
-Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
-    </item>
-    
-    <item>
-      <title>Starting Python 3 Programming for the Absolute Beginner</title>
-      <link>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</link>
-      <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/starting-python-3-programming-for-the-absolute-beginner/</guid>
-      <description>Python is the fastest programming language out there!It is popular among developers, hobbyists, data scientists and is the language of choice of the big tech companies.
-For beginners that want to learn Python in a structured way, it can be confusing to find a great resource that teaches you Python step-by-step from the ground up covering fundamentals to give you a strong foundation to grow from.
-Searching for good material online often takes hours and hours and this course is meant to make it easy for you, save time and get you proficient in Python as quickly as possible in a hands-on way.</description>
     </item>
     
     <item>
@@ -502,19 +536,6 @@ Or are you a seasoned AI practitioner who want to take your career to the next l
 Or are you an aspiring data scientist who wants to get Hands-on Data Science and Time Series Analysis?
 
 If the answer is yes to any of these questions, then this course is for you!</description>
-    </item>
-    
-    <item>
-      <title>Agile Kanban: Kanban for Software Development Teams</title>
-      <link>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</link>
-      <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</guid>
-      <description>Kanban is not a software development lifecycle methodology or an approach to project management.
-It requires that some process is already in place so that Kanban can be applied to
-incrementally change the underlying process.
-—David Anderson, Kanban
-Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.</description>
     </item>
     
     <item>
@@ -1263,15 +1284,6 @@ Exam PL-600 candidate for the Power Platform Solution Architect Expert certifica
       <description>Microsoft Azure Developer Associate exam is tougher than compared to Azure Fundamentals. The exam will test your Azure knowledge on all the topics. It&#39;s highly recommended to take a practice test before taking the official exam.
 These Azure Developer Associate training practice papers are developed by the industry experts &amp;amp; are followed by multiple students. This set involves all the latest topics covered under AZ-204.
 What do we offer in our Developing solution Microsoft Azure training test?</description>
-    </item>
-    
-    <item>
-      <title>CheckPoint-NGFW Security : Basic Introduction</title>
-      <link>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</link>
-      <pubDate>Fri, 03 Sep 2021 13:11:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</guid>
-      <description>Learn all the Concepts about the Features of CheckPoint - Next Generation Firewall, Learn how to evaluate or Review a Firewall. Why are Firewalls needed and how its&#39; features justify the Deployment in modern Day networks in spite of ACLs on Router, Packet filters &amp;amp; Proxy based Firewalls. You will learn all the additional features they provide on top of other traditional Networking and legacy security solutions. Learn about Stateful Inspection and how it is Used in Firewall to provide security.</description>
     </item>
     
     <item>
