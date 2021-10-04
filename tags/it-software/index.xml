@@ -6,7 +6,40 @@
     <description>Recent content in IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Oct 2021 11:48:06 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Oct 2021 10:00:23 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Containerize Springboot CRUD App with Docker &amp; DockerCompose</title>
+      <link>https://www.jobready.ml/containerize-springboot-crud-app-with-docker-dockercompose/</link>
+      <pubDate>Mon, 04 Oct 2021 10:00:23 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/containerize-springboot-crud-app-with-docker-dockercompose/</guid>
+      <description>Learn everything about Docker &amp;amp; run your Springboot apps &amp;amp; Database inside containers using Docker &amp;amp; Docker Compose
+Following are the topics that you will learn in this course:
+What is the need to run applications inside the container
+What is Docker
+What is Image
+What is Container
+What is Docker hub
+What is Dockerfile
+Benefits of using Docker and running applications inside a container
+How to create your own Dockerfile</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Beginner Guide to Streamlabs OBS (OBS)</title>
+      <link>https://www.jobready.ml/ultimate-beginner-guide-to-streamlabs-obs-obs/</link>
+      <pubDate>Mon, 04 Oct 2021 10:00:22 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/ultimate-beginner-guide-to-streamlabs-obs-obs/</guid>
+      <description>Welcome to Ultimate Beginner Guide to Streamlabs OBS (OBS)!
+Nick Nyxson here, Your Instructor for this course.
+In this course, you will learn how to start using Streamlabs OBS which is live streaming software made by Streamlabs and is a modified version of Open Broadcaster Software (OBS).
+In this course You Will Learn:
+What is SLOBS (Streamlabs OBS);
+How Streamlabs OBS is any different from OBS Studio;
+Streamlabs OBS Settings Walkthrough;</description>
+    </item>
+    
     <item>
       <title>Agile Kanban: Kanban for Software Development Teams</title>
       <link>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</link>
@@ -554,21 +587,6 @@ If the answer is yes to any of these questions, then this course is for you!</de
       
       <guid>https://www.jobready.ml/google-certified-associate-cloud-engineer-practice-exam/</guid>
       <description>The Associate Cloud Engineer or as it’s also known, the Associate Cloud Engineer, like all tests, there is a bit of freedom on Google&#39;s part to exam an array of subjects. That means knowing the majority of Associate Cloud Engineer content is required because they test randomly on the many subjects available. Be aware too that experience requirements often exist because they have observed the average person and what is required.</description>
-    </item>
-    
-    <item>
-      <title>Ultimate Beginner Guide to Streamlabs OBS (OBS)</title>
-      <link>https://www.jobready.ml/ultimate-beginner-guide-to-streamlabs-obs-obs/</link>
-      <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/ultimate-beginner-guide-to-streamlabs-obs-obs/</guid>
-      <description>Welcome to Ultimate Beginner Guide to Streamlabs OBS (OBS)!
-Nick Nyxson here, Your Instructor for this course.
-In this course, you will learn how to start using Streamlabs OBS which is live streaming software made by Streamlabs and is a modified version of Open Broadcaster Software (OBS).
-In this course You Will Learn:
-What is SLOBS (Streamlabs OBS);
-How Streamlabs OBS is any different from OBS Studio;
-Streamlabs OBS Settings Walkthrough;</description>
     </item>
     
     <item>
