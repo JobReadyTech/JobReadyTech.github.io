@@ -6,7 +6,39 @@
     <description>Recent content in IT Certifications on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Oct 2021 11:48:06 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-certifications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 10:56:56 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/it-certifications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4A0-101 Nokia Interior Routing Protocols and High Exam</title>
+      <link>https://www.jobready.ml/4a0-101-nokia-interior-routing-protocols-and-high-exam/</link>
+      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/4a0-101-nokia-interior-routing-protocols-and-high-exam/</guid>
+      <description>Sample Questions:
+Q) What is another term to describe the default route for a client?
+A. Black hole
+B. Default gateway
+C. Gateway path
+D. Proxy ARP
+
+Q) Which of the following is not one of the MT topologies defined for IS-IS?
+A.IPv4 In-Band Management
+B. IPv6 Routing
+C. IPv4 Multicast Routing
+D. IPv6 Multicast Routing
+E. All of the above are MT topologies defined for IS-IS.
+
+Q) Which of the following commands can be used to display the number of SPF computations that have been performed on a router?</description>
+    </item>
+    
+    <item>
+      <title>Master Python With NumPy For Data Science &amp; Machine Learning</title>
+      <link>https://www.jobready.ml/master-python-with-numpy-for-data-science-machine-learning/</link>
+      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/master-python-with-numpy-for-data-science-machine-learning/</guid>
+      <description>Hi, welcome to the &#39;NumPy For Data Science &amp;amp; Machine Learning&#39; course. This forms the basis for everything else. The central object in Numpy is the Numpy array, on which you can do various operations. We know that the matrix and arrays play an important role in numerical computation and data analysis. Pandas and other ML or AI tools need tabular or array-like data to work efficiently, so using NumPy in Pandas and ML packages can reduce the time and improve the performance of the data computation.</description>
+    </item>
+    
     <item>
       <title>Exam C_SM100_7208 SAP Certified  Solution manager (7.2 SPS8)</title>
       <link>https://www.jobready.ml/exam-c_sm100_7208-sap-certified-solution-manager-7.2-sps8/</link>
@@ -909,15 +941,6 @@ Este curso forma parte de la serie que he creado de &#34;alcanza la certificaci√
       <guid>https://www.jobready.ml/face-recognition-web-app-with-machine-learning-in-flask/</guid>
       <description>Face Recognition Web Project using Machine Learning in Flask Python
 Face recognition is one of the most widely used in my application. If at all you want to develop and deploy the application on the web only knowledge of machine learning or deep learning is not enough. You also need to know the creation of pipeline architecture and call it from the client-side, HTTP request, and many more. While doing so you might face many challenges while developing the app.</description>
-    </item>
-    
-    <item>
-      <title>Master Python With NumPy For Data Science &amp; Machine Learning</title>
-      <link>https://www.jobready.ml/master-python-with-numpy-for-data-science-machine-learning/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/master-python-with-numpy-for-data-science-machine-learning/</guid>
-      <description>Hi, welcome to the &#39;NumPy For Data Science &amp;amp; Machine Learning&#39; course. This forms the basis for everything else. The central object in Numpy is the Numpy array, on which you can do various operations. We know that the matrix and arrays play an important role in numerical computation and data analysis. Pandas and other ML or AI tools need tabular or array-like data to work efficiently, so using NumPy in Pandas and ML packages can reduce the time and improve the performance of the data computation.</description>
     </item>
     
     <item>

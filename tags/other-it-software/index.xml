@@ -6,7 +6,22 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Oct 2021 10:01:23 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 10:56:56 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build and Deploy Dialogflow Chatbot Waitress Lilis</title>
+      <link>https://www.jobready.ml/build-and-deploy-dialogflow-chatbot-waitress-lilis/</link>
+      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-and-deploy-dialogflow-chatbot-waitress-lilis/</guid>
+      <description>This course provides a step-by-step guild to create a chatbot waitress Lilis who works at a coffee shop using Dialogflow.
+You will learn how to design the architecture of a chatbot
+the 7 Minimum-Viable-Product Features of a chatbot waiter
+modify Default Welcome and Fallback Intents for chatbot&#39;s purpose
+code fulfillment and webhook with javascript to handle intents for taking customer orders
+code fulfillment webhook for product availability check
+code follow-up intents to handle user responses: yes, no, or change</description>
+    </item>
+    
     <item>
       <title>Python Programming Full Course for Beginners 2021 ( Hindi )</title>
       <link>https://www.jobready.ml/python-programming-full-course-for-beginners-2021-hindi/</link>
