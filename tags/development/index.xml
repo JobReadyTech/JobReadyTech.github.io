@@ -6,7 +6,75 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Oct 2021 10:56:56 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Oct 2021 11:25:06 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build a TodoList Fast with Angular and ASP.NET Core API</title>
+      <link>https://www.jobready.ml/build-a-todolist-fast-with-angular-and-asp.net-core-api/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-a-todolist-fast-with-angular-and-asp.net-core-api/</guid>
+      <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use ASPNet Core and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
+    </item>
+    
+    <item>
+      <title>Build Twitter Bots With Python Django and Tweepy</title>
+      <link>https://www.jobready.ml/build-twitter-bots-with-python-django-and-tweepy/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-twitter-bots-with-python-django-and-tweepy/</guid>
+      <description>This course will equip you with skills in building twitter bots that will help you build a following on twitter for business or fun. You don&#39;t need any prior skills as I will take you through the process of creating twitter developer accounts, Installing python django framework, Installing tweepy library and using tweepy library to build bots on python django framework and postgresql database.
+I will show you how to build a like tweets bot based on two filter parameters: Good keywords and bad keywords.</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis Real world use-cases- Hands on Python</title>
+      <link>https://www.jobready.ml/data-analysis-real-world-use-cases-hands-on-python/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/data-analysis-real-world-use-cases-hands-on-python/</guid>
+      <description>This is the first course that gives hands-on Data Analysis Projects using Python..
+
+
+Can you start right now?
+A frequently asked question of Python Beginners is: &#34;Do I need to become an expert in Python coding before I can start working on Data Analysis Projects?&#34;
+The clear answer is: &#34;No!
+You just require some Python Basics like data types, simple operations/operators, lists and numpy arrays that you can learn from my Free Python course &#39;Basics Of Python&#39;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning &amp; Deep Learning in Python &amp; R</title>
+      <link>https://www.jobready.ml/machine-learning-deep-learning-in-python-r/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/machine-learning-deep-learning-in-python-r/</guid>
+      <description>You&#39;re looking for a complete Machine Learning and Deep Learning course that can help you launch a flourishing career in the field of Data Science, Machine Learning, Python, R or Deep Learning, right?
+You&#39;ve found the right Machine Learning course!
+After completing this course you will be able to:
+· Confidently build predictive Machine Learning and Deep Learning models using R, Python to solve business problems and create business strategy</description>
+    </item>
+    
+    <item>
+      <title>Linear Regression and Logistic Regression using R Studio</title>
+      <link>https://www.jobready.ml/linear-regression-and-logistic-regression-using-r-studio/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:05 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/linear-regression-and-logistic-regression-using-r-studio/</guid>
+      <description>You&#39;re looking for a complete Linear Regression and Logistic Regression course that teaches you everything you need to create a Linear or Logistic Regression model in R Studio, right?
+You&#39;ve found the right Linear Regression course!
+After completing this course you will be able to:
+Identify the business problem which can be solved using linear and logistic regression technique of Machine Learning.
+Create a linear regression and logistic regression model in R Studio and analyze its result.</description>
+    </item>
+    
+    <item>
+      <title>Scrum Fundamentals for Scrum Master and Agile Projects- 2021</title>
+      <link>https://www.jobready.ml/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:05 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</guid>
+      <description>This course provides a comprehensive overview of the Scrum framework for agile project management. You’ll learn the basics of Scrum and the Scrum lifecycle, how to organize a Scrum team and set up a project, and how to implement a Scrum, from releases and sprints to enterprise transformation. This course is for anyone involved in product delivery using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.</description>
+    </item>
+    
     <item>
       <title>Git &amp; GitHub A Practical Course: Beginner To Advanced Level</title>
       <link>https://www.jobready.ml/git-github-a-practical-course-beginner-to-advanced-level/</link>
@@ -676,15 +744,6 @@ This course begins with exploring the most widely used web server technology ava
     </item>
     
     <item>
-      <title>Scrum Fundamentals for Scrum Master and Agile Projects- 2021</title>
-      <link>https://www.jobready.ml/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</link>
-      <pubDate>Tue, 21 Sep 2021 19:26:43 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</guid>
-      <description>This course provides a comprehensive overview of the Scrum framework for agile project management. You’ll learn the basics of Scrum and the Scrum lifecycle, how to organize a Scrum team and set up a project, and how to implement a Scrum, from releases and sprints to enterprise transformation. This course is for anyone involved in product delivery using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.</description>
-    </item>
-    
-    <item>
       <title>Introduction to Quantum Computing</title>
       <link>https://www.jobready.ml/introduction-to-quantum-computing/</link>
       <pubDate>Mon, 20 Sep 2021 09:40:06 +0530</pubDate>
@@ -751,18 +810,6 @@ Developing User and Roles Management Interfaces and functions
 Using Utility Classes for cleaner code
 Developing Multi-Document Interface (MDI) Applications
 Applying Object Oriented Programming with C#</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning &amp; Deep Learning in Python &amp; R</title>
-      <link>https://www.jobready.ml/machine-learning-deep-learning-in-python-r/</link>
-      <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/machine-learning-deep-learning-in-python-r/</guid>
-      <description>You&#39;re looking for a complete Machine Learning and Deep Learning course that can help you launch a flourishing career in the field of Data Science, Machine Learning, Python, R or Deep Learning, right?
-You&#39;ve found the right Machine Learning course!
-After completing this course you will be able to:
-· Confidently build predictive Machine Learning and Deep Learning models using R, Python to solve business problems and create business strategy</description>
     </item>
     
     <item>
@@ -1110,21 +1157,6 @@ One of the most valuable technology skills is the ability to analyze huge data s
       
       <guid>https://www.jobready.ml/python-introduction-to-data-science-and-machine-learning-a-z/</guid>
       <description>Learning how to program in Python is not always easy especially if you want to use it for Data science. Indeed, there are many of different tools that have to be learned to be able to properly use Python for Data science and machine learning and each of those tools is not always easy to learn. But, this course will give all the basics you need no matter for what objective you want to use it so if you :</description>
-    </item>
-    
-    <item>
-      <title>Data Analysis Real world use-cases- Hands on Python</title>
-      <link>https://www.jobready.ml/data-analysis-real-world-use-cases-hands-on-python/</link>
-      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/data-analysis-real-world-use-cases-hands-on-python/</guid>
-      <description>This is the first course that gives hands-on Data Analysis Projects using Python..
-
-
-Can you start right now?
-A frequently asked question of Python Beginners is: &#34;Do I need to become an expert in Python coding before I can start working on Data Analysis Projects?&#34;
-The clear answer is: &#34;No!
-You just require some Python Basics like data types, simple operations/operators, lists and numpy arrays that you can learn from my Free Python course &#39;Basics Of Python&#39;</description>
     </item>
     
     <item>
