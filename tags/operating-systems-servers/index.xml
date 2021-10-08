@@ -6,7 +6,16 @@
     <description>Recent content in Operating Systems &amp; Servers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Sep 2021 21:26:49 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Oct 2021 10:23:46 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Forensics: Analyzing Data Streams in NTFS</title>
+      <link>https://www.jobready.ml/cyber-forensics-analyzing-data-streams-in-ntfs/</link>
+      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/cyber-forensics-analyzing-data-streams-in-ntfs/</guid>
+      <description>The course will help students to learn about the basics of Microsoft Windows File System (NTFS), the Master File Table (MFT) and how data is stored in data streams, both primary and alternate. Students will also get to differentiate between resident and non-resident data and learn how to hide data in the ADS. It would also enable students to analyze the data inside and outside of the MFT and to locate the specific cluster/sector on the hard disk where this data is actually stored.</description>
+    </item>
+    
     <item>
       <title>Linux for Network Engineers: Practical Linux with GNS3</title>
       <link>https://www.jobready.ml/linux-for-network-engineers-practical-linux-with-gns3/</link>
