@@ -6,31 +6,346 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Oct 2021 10:23:46 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 10:08:41 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Affiliate Marketing</title>
-      <link>https://www.jobready.ml/tags/affiliate-marketing/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
+      <title>Business</title>
+      <link>https://www.jobready.ml/tags/business/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/tags/affiliate-marketing/</guid>
+      <guid>https://www.jobready.ml/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>https://www.jobready.ml/tags/communication/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Marketing</title>
+      <link>https://www.jobready.ml/tags/content-marketing/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/content-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://www.jobready.ml/tags/data-science/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database Design &amp; Development</title>
+      <link>https://www.jobready.ml/tags/database-design-development/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/database-design-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://www.jobready.ml/tags/development/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-Commerce</title>
+      <link>https://www.jobready.ml/tags/e-commerce/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance &amp; Accounting</title>
+      <link>https://www.jobready.ml/tags/finance-accounting/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/finance-accounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internship opportunities</title>
+      <link>https://www.jobready.ml/tags/internship-opportunities/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/internship-opportunities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internships</title>
+      <link>https://www.jobready.ml/tags/internships/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/internships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investing &amp; Trading</title>
+      <link>https://www.jobready.ml/tags/investing-trading/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/investing-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT &amp; Software</title>
+      <link>https://www.jobready.ml/tags/it-software/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/it-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT Certifications</title>
+      <link>https://www.jobready.ml/tags/it-certifications/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/it-certifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>job ready</title>
+      <link>https://www.jobready.ml/tags/job-ready/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/job-ready/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jobs</title>
+      <link>https://www.jobready.ml/tags/jobs/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jobs for all</title>
+      <link>https://www.jobready.ml/tags/jobs-for-all/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/jobs-for-all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>https://www.jobready.ml/tags/marketing/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Business</title>
+      <link>https://www.jobready.ml/tags/other-business/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/other-business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other IT &amp; Software</title>
+      <link>https://www.jobready.ml/tags/other-it-software/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/other-it-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Development</title>
+      <link>https://www.jobready.ml/tags/personal-development/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/personal-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Transformation</title>
+      <link>https://www.jobready.ml/tags/personal-transformation/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/personal-transformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Languages</title>
+      <link>https://www.jobready.ml/tags/programming-languages/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/programming-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media Marketing</title>
+      <link>https://www.jobready.ml/tags/social-media-marketing/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/social-media-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development Tools</title>
+      <link>https://www.jobready.ml/tags/software-development-tools/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/software-development-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://www.jobready.ml/tags/software-engineering/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Testing</title>
+      <link>https://www.jobready.ml/tags/software-testing/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/software-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress Management</title>
+      <link>https://www.jobready.ml/tags/stress-management/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/stress-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>udemy free courses</title>
+      <link>https://www.jobready.ml/tags/udemy-free-courses/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/udemy-free-courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://www.jobready.ml/tags/web-development/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arts &amp; Crafts</title>
       <link>https://www.jobready.ml/tags/arts-crafts/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/arts-crafts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Business</title>
-      <link>https://www.jobready.ml/tags/business/</link>
+      <title>Entrepreneurship</title>
+      <link>https://www.jobready.ml/tags/entrepreneurship/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifestyle</title>
+      <link>https://www.jobready.ml/tags/lifestyle/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management</title>
+      <link>https://www.jobready.ml/tags/management/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paid Advertising</title>
+      <link>https://www.jobready.ml/tags/paid-advertising/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/paid-advertising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Productivity</title>
+      <link>https://www.jobready.ml/tags/personal-productivity/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/personal-productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography &amp; Video</title>
+      <link>https://www.jobready.ml/tags/photography-video/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/photography-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Design</title>
+      <link>https://www.jobready.ml/tags/video-design/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/video-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affiliate Marketing</title>
+      <link>https://www.jobready.ml/tags/affiliate-marketing/</link>
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/tags/business/</guid>
+      <guid>https://www.jobready.ml/tags/affiliate-marketing/</guid>
       <description></description>
     </item>
     
@@ -53,24 +368,6 @@
     </item>
     
     <item>
-      <title>Content Marketing</title>
-      <link>https://www.jobready.ml/tags/content-marketing/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/content-marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Science</title>
-      <link>https://www.jobready.ml/tags/data-science/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Design</title>
       <link>https://www.jobready.ml/tags/design/</link>
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
@@ -89,15 +386,6 @@
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://www.jobready.ml/tags/development/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Digital Marketing</title>
       <link>https://www.jobready.ml/tags/digital-marketing/</link>
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
@@ -107,101 +395,11 @@
     </item>
     
     <item>
-      <title>E-Commerce</title>
-      <link>https://www.jobready.ml/tags/e-commerce/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/e-commerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entrepreneurship</title>
-      <link>https://www.jobready.ml/tags/entrepreneurship/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/entrepreneurship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Esoteric Practices</title>
       <link>https://www.jobready.ml/tags/esoteric-practices/</link>
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/esoteric-practices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finance &amp; Accounting</title>
-      <link>https://www.jobready.ml/tags/finance-accounting/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/finance-accounting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>internship opportunities</title>
-      <link>https://www.jobready.ml/tags/internship-opportunities/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/internship-opportunities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>internships</title>
-      <link>https://www.jobready.ml/tags/internships/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/internships/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT &amp; Software</title>
-      <link>https://www.jobready.ml/tags/it-software/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/it-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT Certifications</title>
-      <link>https://www.jobready.ml/tags/it-certifications/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/it-certifications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>job ready</title>
-      <link>https://www.jobready.ml/tags/job-ready/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/job-ready/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jobs</title>
-      <link>https://www.jobready.ml/tags/jobs/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/jobs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jobs for all</title>
-      <link>https://www.jobready.ml/tags/jobs-for-all/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/jobs-for-all/</guid>
       <description></description>
     </item>
     
@@ -220,24 +418,6 @@
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lifestyle</title>
-      <link>https://www.jobready.ml/tags/lifestyle/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/lifestyle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marketing</title>
-      <link>https://www.jobready.ml/tags/marketing/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/marketing/</guid>
       <description></description>
     </item>
     
@@ -269,38 +449,11 @@
     </item>
     
     <item>
-      <title>Other IT &amp; Software</title>
-      <link>https://www.jobready.ml/tags/other-it-software/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/other-it-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Other Office Productivity</title>
       <link>https://www.jobready.ml/tags/other-office-productivity/</link>
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/other-office-productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Development</title>
-      <link>https://www.jobready.ml/tags/personal-development/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/personal-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography &amp; Video</title>
-      <link>https://www.jobready.ml/tags/photography-video/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/photography-video/</guid>
       <description></description>
     </item>
     
@@ -341,65 +494,11 @@
     </item>
     
     <item>
-      <title>Social Media Marketing</title>
-      <link>https://www.jobready.ml/tags/social-media-marketing/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/social-media-marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Testing</title>
-      <link>https://www.jobready.ml/tags/software-testing/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/software-testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stress Management</title>
-      <link>https://www.jobready.ml/tags/stress-management/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/stress-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teaching &amp; Academics</title>
       <link>https://www.jobready.ml/tags/teaching-academics/</link>
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/teaching-academics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>udemy free courses</title>
-      <link>https://www.jobready.ml/tags/udemy-free-courses/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/udemy-free-courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video Design</title>
-      <link>https://www.jobready.ml/tags/video-design/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/video-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>https://www.jobready.ml/tags/web-development/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/web-development/</guid>
       <description></description>
     </item>
     
@@ -440,15 +539,6 @@
     </item>
     
     <item>
-      <title>Programming Languages</title>
-      <link>https://www.jobready.ml/tags/programming-languages/</link>
-      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/programming-languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Real Estate</title>
       <link>https://www.jobready.ml/tags/real-estate/</link>
       <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
@@ -467,29 +557,11 @@
     </item>
     
     <item>
-      <title>Personal Transformation</title>
-      <link>https://www.jobready.ml/tags/personal-transformation/</link>
-      <pubDate>Thu, 07 Oct 2021 11:25:05 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/personal-transformation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Test Prep</title>
       <link>https://www.jobready.ml/tags/test-prep/</link>
       <pubDate>Thu, 07 Oct 2021 11:25:05 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/test-prep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Communication</title>
-      <link>https://www.jobready.ml/tags/communication/</link>
-      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/communication/</guid>
       <description></description>
     </item>
     
@@ -539,24 +611,6 @@
     </item>
     
     <item>
-      <title>Investing &amp; Trading</title>
-      <link>https://www.jobready.ml/tags/investing-trading/</link>
-      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/investing-trading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Management</title>
-      <link>https://www.jobready.ml/tags/management/</link>
-      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Motivation</title>
       <link>https://www.jobready.ml/tags/motivation/</link>
       <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
@@ -571,42 +625,6 @@
       <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/operations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other Business</title>
-      <link>https://www.jobready.ml/tags/other-business/</link>
-      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/other-business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paid Advertising</title>
-      <link>https://www.jobready.ml/tags/paid-advertising/</link>
-      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/paid-advertising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Productivity</title>
-      <link>https://www.jobready.ml/tags/personal-productivity/</link>
-      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/personal-productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Development Tools</title>
-      <link>https://www.jobready.ml/tags/software-development-tools/</link>
-      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/software-development-tools/</guid>
       <description></description>
     </item>
     
@@ -944,15 +962,6 @@
     </item>
     
     <item>
-      <title>Database Design &amp; Development</title>
-      <link>https://www.jobready.ml/tags/database-design-development/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/database-design-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Happiness</title>
       <link>https://www.jobready.ml/tags/happiness/</link>
       <pubDate>Thu, 23 Sep 2021 08:39:11 +0530</pubDate>
@@ -980,15 +989,6 @@
     </item>
     
     <item>
-      <title>Software Engineering</title>
-      <link>https://www.jobready.ml/tags/software-engineering/</link>
-      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/software-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>General Health</title>
       <link>https://www.jobready.ml/tags/general-health/</link>
       <pubDate>Mon, 20 Sep 2021 09:40:06 +0530</pubDate>
@@ -1003,15 +1003,6 @@
       <pubDate>Mon, 20 Sep 2021 09:40:06 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/other-personal-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advertising</title>
-      <link>https://www.jobready.ml/tags/advertising/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/tags/advertising/</guid>
       <description></description>
     </item>
     
@@ -1093,6 +1084,15 @@
       <pubDate>Wed, 08 Sep 2021 11:28:16 +0530</pubDate>
       
       <guid>https://www.jobready.ml/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advertising</title>
+      <link>https://www.jobready.ml/tags/advertising/</link>
+      <pubDate>Tue, 07 Sep 2021 23:00:37 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/tags/advertising/</guid>
       <description></description>
     </item>
     

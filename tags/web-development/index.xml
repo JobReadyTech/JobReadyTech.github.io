@@ -6,7 +6,60 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Oct 2021 10:23:46 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 10:08:41 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C# Console and Windows Forms Development with LINQ &amp; ADO.NET</title>
+      <link>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</guid>
+      <description>Overview
+In this course, you will learn C# programming for desktop applications. This journey will have you becoming proficient in
+Visual Studio Interface and Shortcuts
+Console Application Development with C#
+Data Driven Graphical User Interface Applications using Windows Forms 
+Managing Databases with SQL Server Management Studio
+Developing User and Roles Management Interfaces and functions
+Using Utility Classes for cleaner code
+Developing Multi-Document Interface (MDI) Applications
+Applying Object Oriented Programming with C#</description>
+    </item>
+    
+    <item>
+      <title>Modern PHP Web Development w/ MySQL, GitHub &amp; Heroku</title>
+      <link>https://www.jobready.ml/modern-php-web-development-w/-mysql-github-heroku/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/modern-php-web-development-w/-mysql-github-heroku/</guid>
+      <description>Overview
+This course is designed to equip students with the skills required for creating dynamic web pages using PHP and MySQL. It further equips students with the fundamentals of PHP programming, while providing them with advanced features of the language. Immerse yourself in an end-to-end full-stack development experience, as we explore user interface design, business logic and hosting activities. By the end of this course, you will be able to build an attractive PHP application; styled using Bootstrap 4; track and manage changes with GitHub and deploy a fully data-driven application to Heroku Cloud Hosting.</description>
+    </item>
+    
+    <item>
+      <title>Splunk Developer Certification Practice Tests 2021</title>
+      <link>https://www.jobready.ml/splunk-developer-certification-practice-tests-2021/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/splunk-developer-certification-practice-tests-2021/</guid>
+      <description>The Splunk Certified Developer exam is the final step towards completion of the
+Splunk Certified Developer certification. This highly technical certification
+behaviors and visualizations, building apps using the Splunk Web Framework, and REST endpoints.
+minutes. It is recommended that candidates for this certification complete the lecture, hands-on labs,
+and quizzes that are part of the Creating Dashboards with Splunk, Advanced Dashboards &amp;amp;
+Visualizations, Building Splunk Apps, and Developing with Splunk’s REST API courses in order to be</description>
+    </item>
+    
+    <item>
+      <title>Learn ASP.Net MVC and Entity Framework (Database First)</title>
+      <link>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</guid>
+      <description>Overview
+Using MVC, Entity Framework, and ASP.NET Scaffolding, we will go through building a small school management system while learning key concepts in ASP.NET MVC development. This course will show you how to leverage MVC&#39;s Scaffolding features to quickly construct data driven html pages and how to write queries to the database using .NET&#39;s famed Entity Framework with C#. UPDATED CONTENT 
+.NET Framework is nearing end of support from Microsoft.</description>
+    </item>
+    
     <item>
       <title>2-Second Website Speed Optimization In 1 Day - Technical SEO</title>
       <link>https://www.jobready.ml/2-second-website-speed-optimization-in-1-day-technical-seo/</link>
@@ -379,24 +432,6 @@ Students will gain hands-on experience with the registration process using popul
       
       <guid>https://www.jobready.ml/the-ultimate-mysql-crash-course-2021/</guid>
       <description>In this course you are going to learn everything you need to know to get started with MySQL in probably less than two hours, so you can actually consume this piece of content in one sitting. The course is surly intensively on using the SQL command line inside the PHPmyadmin tool and that&#39;s for teaching you just how SQL works and you can write your queries, not just in the SQL command, but also inside your backend apps and that&#39;s the best way to learn SQL in my opinion.</description>
-    </item>
-    
-    <item>
-      <title>C# Console and Windows Forms Development with LINQ &amp; ADO.NET</title>
-      <link>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
-      <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</guid>
-      <description>Overview
-In this course, you will learn C# programming for desktop applications. This journey will have you becoming proficient in
-Visual Studio Interface and Shortcuts
-Console Application Development with C#
-Data Driven Graphical User Interface Applications using Windows Forms 
-Managing Databases with SQL Server Management Studio
-Developing User and Roles Management Interfaces and functions
-Using Utility Classes for cleaner code
-Developing Multi-Document Interface (MDI) Applications
-Applying Object Oriented Programming with C#</description>
     </item>
     
     <item>
