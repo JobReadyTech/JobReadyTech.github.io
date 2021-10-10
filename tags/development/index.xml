@@ -6,7 +6,36 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Oct 2021 10:08:41 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 10:36:08 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build An NFT Marketplace From Scratch - Blockchain DApp</title>
+      <link>https://www.jobready.ml/build-an-nft-marketplace-from-scratch-blockchain-dapp/</link>
+      <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-an-nft-marketplace-from-scratch-blockchain-dapp/</guid>
+      <description>Learn full stack DApp Development by building out from scratch to completion an NFT Marketplace (for minting, buying and selling NFTs live with IPFS data hosting) onto Polygon as a layer 2 Ethereum Solution using the best modern tools and languages. Join in early on an exciting technology implementing global changes to multiple industries and businesses with DApps.This is the course you&#39;ve been looking for to get the full picture and functionality for DApp development and what it takes to succeed from testing to successful deployments and upgrades.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby JS | Build a personal blog using gatsbyJS</title>
+      <link>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</link>
+      <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</guid>
+      <description>Learn to build blazing fast apps and websites with React using Gatsby, a static PWA (Progressive Web App) generator! Starting from scratch, you’ll learn to build a full blog app
+Gatsby is a React-based, GraphQL powered static site generator. It combines together the best parts of React, webpack, react-router, GraphQL, and other front end tools to provide excellent developer experience. Gatsby is far more than typical static site generator though. You can think of it more like a modern front-end framework.</description>
+    </item>
+    
+    <item>
+      <title>The Complete Introduction to C&#43;&#43; Programming</title>
+      <link>https://www.jobready.ml/the-complete-introduction-to-c-programming/</link>
+      <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/the-complete-introduction-to-c-programming/</guid>
+      <description>Learning the basics of programmation can be very complicated no matter the programming language espescially if you never did any programming before. Being able to program in C++ is not different. This is why this course is here to help you learn everything you need to know about C++ and master this programming language. If you :
+- Want to create various projects with this programming language - Are in school and need to understand certain notions and concepts in C++</description>
+    </item>
+    
     <item>
       <title>C# Console and Windows Forms Development with LINQ &amp; ADO.NET</title>
       <link>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
@@ -838,16 +867,6 @@ Bonus Sections: jQuery and ES6 for ReactJS In this JavaScript course - At the be
     </item>
     
     <item>
-      <title>Gatsby JS | Build a personal blog using gatsbyJS</title>
-      <link>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</link>
-      <pubDate>Sun, 26 Sep 2021 10:47:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</guid>
-      <description>Learn to build blazing fast apps and websites with React using Gatsby, a static PWA (Progressive Web App) generator! Starting from scratch, you’ll learn to build a full blog app
-Gatsby is a React-based, GraphQL powered static site generator. It combines together the best parts of React, webpack, react-router, GraphQL, and other front end tools to provide excellent developer experience. Gatsby is far more than typical static site generator though. You can think of it more like a modern front-end framework.</description>
-    </item>
-    
-    <item>
       <title>Real time Automation&#43;Manual Interview Questions with Answers</title>
       <link>https://www.jobready.ml/real-time-automation-manual-interview-questions-with-answers/</link>
       <pubDate>Sun, 26 Sep 2021 10:47:34 +0530</pubDate>
@@ -1030,16 +1049,6 @@ You will start with web applications: Java, .</description>
       <description>Welcome to our latest course, which will guide you through the process of installing, securing, and configuring NGINX or Apache on an Ubuntu web server. You will also learn to encrypt all web traffic, using a Free SSL certificate from Let’s Encrypt.
 APACHE Section:
 This course begins with exploring the most widely used web server technology available, Apache. Statistics show that Apache is used to run over 65% of all web servers around the world.</description>
-    </item>
-    
-    <item>
-      <title>The Complete Introduction to C&#43;&#43; Programming</title>
-      <link>https://www.jobready.ml/the-complete-introduction-to-c-programming/</link>
-      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/the-complete-introduction-to-c-programming/</guid>
-      <description>Learning the basics of programmation can be very complicated no matter the programming language espescially if you never did any programming before. Being able to program in C++ is not different. This is why this course is here to help you learn everything you need to know about C++ and master this programming language. If you :
-- Want to create various projects with this programming language - Are in school and need to understand certain notions and concepts in C++</description>
     </item>
     
     <item>

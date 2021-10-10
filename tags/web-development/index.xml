@@ -6,7 +6,26 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Oct 2021 10:08:41 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 10:36:08 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build An NFT Marketplace From Scratch - Blockchain DApp</title>
+      <link>https://www.jobready.ml/build-an-nft-marketplace-from-scratch-blockchain-dapp/</link>
+      <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-an-nft-marketplace-from-scratch-blockchain-dapp/</guid>
+      <description>Learn full stack DApp Development by building out from scratch to completion an NFT Marketplace (for minting, buying and selling NFTs live with IPFS data hosting) onto Polygon as a layer 2 Ethereum Solution using the best modern tools and languages. Join in early on an exciting technology implementing global changes to multiple industries and businesses with DApps.This is the course you&#39;ve been looking for to get the full picture and functionality for DApp development and what it takes to succeed from testing to successful deployments and upgrades.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby JS | Build a personal blog using gatsbyJS</title>
+      <link>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</link>
+      <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</guid>
+      <description>Learn to build blazing fast apps and websites with React using Gatsby, a static PWA (Progressive Web App) generator! Starting from scratch, you’ll learn to build a full blog app
+Gatsby is a React-based, GraphQL powered static site generator. It combines together the best parts of React, webpack, react-router, GraphQL, and other front end tools to provide excellent developer experience. Gatsby is far more than typical static site generator though. You can think of it more like a modern front-end framework.</description>
+    </item>
+    
     <item>
       <title>C# Console and Windows Forms Development with LINQ &amp; ADO.NET</title>
       <link>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
@@ -315,16 +334,6 @@ What&#39;s this course about?This course is specifically designed for those who 
 Around 60+ video content added 
  + 
 Bonus Sections: jQuery and ES6 for ReactJS In this JavaScript course - At the beginning of this JavaScript course, you will learn and understand : 1) All the basic concepts of JavaScript. 2) And the advanced topics like object-oriented programming where you will learn the OOPs concepts like data binding, inheritance, data encapsulation, etc. 3) The most used part in JavaScript - Functional Programming where we will cover the special functions like map, filter, reduce, and many more.</description>
-    </item>
-    
-    <item>
-      <title>Gatsby JS | Build a personal blog using gatsbyJS</title>
-      <link>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</link>
-      <pubDate>Sun, 26 Sep 2021 10:47:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</guid>
-      <description>Learn to build blazing fast apps and websites with React using Gatsby, a static PWA (Progressive Web App) generator! Starting from scratch, you’ll learn to build a full blog app
-Gatsby is a React-based, GraphQL powered static site generator. It combines together the best parts of React, webpack, react-router, GraphQL, and other front end tools to provide excellent developer experience. Gatsby is far more than typical static site generator though. You can think of it more like a modern front-end framework.</description>
     </item>
     
     <item>
