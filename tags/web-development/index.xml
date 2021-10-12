@@ -6,7 +6,19 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Oct 2021 10:36:08 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 15:40:19 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typescript with React classes - quick start - Jest testing</title>
+      <link>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</link>
+      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</guid>
+      <description>THIS COURSE USES REACT CLASSES WITH PROPS AND STATE.
+Typescript is becoming more and more popular! And the beloved React framework has embraced it! But often making them work together can be tricky. Here it will work from the first try.
+React means act in response to something; respond in a particular way. This is the way you will make your UI behave.
+In this short course you will learn how you can use them together, by building a small project:</description>
+    </item>
+    
     <item>
       <title>Build An NFT Marketplace From Scratch - Blockchain DApp</title>
       <link>https://www.jobready.ml/build-an-nft-marketplace-from-scratch-blockchain-dapp/</link>

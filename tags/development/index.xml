@@ -6,11 +6,21 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Oct 2021 11:23:35 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 15:40:19 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Java programming with JavaFx: Write an email client</title>
+      <link>https://www.jobready.ml/advanced-java-programming-with-javafx-write-an-email-client/</link>
+      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/advanced-java-programming-with-javafx-write-an-email-client/</guid>
+      <description>Seeing a message printed on the console when you click a button can be rewarding, but at some point you need to go beyond the basics of JavaFX. Project based learning is the best approach to become a competent JavaFX programmer.
+Writing a calculator app is fun, but you know what is funnier? Getting a job as a programmer. You can&#39;t get there just by coding simple apps or watching presentations.</description>
+    </item>
+    
     <item>
       <title>Apache Spark In-Depth (Spark with Scala)</title>
       <link>https://www.jobready.ml/apache-spark-in-depth-spark-with-scala/</link>
-      <pubDate>Tue, 12 Oct 2021 11:23:35 +0530</pubDate>
+      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
       
       <guid>https://www.jobready.ml/apache-spark-in-depth-spark-with-scala/</guid>
       <description>Learn Apache Spark From Scratch To In-Depth
@@ -22,6 +32,42 @@ From Developing and Deploying Spark application to debugging.
 From Performance tuning, Optimization to Troubleshooting
 
 Contents all you need for in-depth study of Apache Spark and to clear Spark interviews.</description>
+    </item>
+    
+    <item>
+      <title>Complete PYTHON Programming for Beginners - 2021</title>
+      <link>https://www.jobready.ml/complete-python-programming-for-beginners-2021/</link>
+      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/complete-python-programming-for-beginners-2021/</guid>
+      <description>On successful completion of the course, you will be able to program in the professional object-oriented programming (OOP) paradigm in Python, which allows you to start your programmer career. All professional Python programmers develop applications the OOP way. You, too, will be able to write complex, scalable programs in Python on completion of this course.
+The course follows a practical approach where students learn by actively problem-solving towards the tangible goal of creating real-world Python programs.</description>
+    </item>
+    
+    <item>
+      <title>SQL Bootcamp with MySQL, PHP &amp; Python : 5 Courses in 1</title>
+      <link>https://www.jobready.ml/sql-bootcamp-with-mysql-php-python-5-courses-in-1/</link>
+      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/sql-bootcamp-with-mysql-php-python-5-courses-in-1/</guid>
+      <description>=== Our students&#39; reviews regarding this course ===
+&#34;it&#39;s good that the course focuses more on the application part rather than just giving some bookish theories or concepts which anyone can read for the plenty of textbooks.&#34; -- Deepanshu Kumar
+&#34;Very clear and straight forward.&#34; -- Chakri Muthyala
+&#34;really very explanatory and easy to understand&#34; -- Sekh
+&#34;simply the best&#34; -- Frederick Ekow
+&#34;Very Informative Course. Thank You&#34; -- Subrata Debnath</description>
+    </item>
+    
+    <item>
+      <title>Typescript with React classes - quick start - Jest testing</title>
+      <link>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</link>
+      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</guid>
+      <description>THIS COURSE USES REACT CLASSES WITH PROPS AND STATE.
+Typescript is becoming more and more popular! And the beloved React framework has embraced it! But often making them work together can be tricky. Here it will work from the first try.
+React means act in response to something; respond in a particular way. This is the way you will make your UI behave.
+In this short course you will learn how you can use them together, by building a small project:</description>
     </item>
     
     <item>
@@ -1586,20 +1632,6 @@ We will start off with the basics of Natural Language Processing, and work towar
       <description>¿Te gustaría aprender a programar en R pero no sabes por donde empezar?
 En este curso iremos paso a paso desde lo más sencillo hasta lo más complejo. Después de cada video, aprendes un nuevo concepto valioso que puedes aplicar de inmediato. Y la mejor parte es que aprendes a través de ejemplos en vivo. Este curso te proporcionará las bases del lenguaje de programación estadística R. 
 Si eres un estudiante o profesionista que quiere potenciar su carrera profesional te tengo una buena noticia:</description>
-    </item>
-    
-    <item>
-      <title>SQL Bootcamp with MySQL, PHP &amp; Python : 5 Courses in 1</title>
-      <link>https://www.jobready.ml/sql-bootcamp-with-mysql-php-python-5-courses-in-1/</link>
-      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/sql-bootcamp-with-mysql-php-python-5-courses-in-1/</guid>
-      <description>=== Our students&#39; reviews regarding this course ===
-&#34;it&#39;s good that the course focuses more on the application part rather than just giving some bookish theories or concepts which anyone can read for the plenty of textbooks.&#34; -- Deepanshu Kumar
-&#34;Very clear and straight forward.&#34; -- Chakri Muthyala
-&#34;really very explanatory and easy to understand&#34; -- Sekh
-&#34;simply the best&#34; -- Frederick Ekow
-&#34;Very Informative Course. Thank You&#34; -- Subrata Debnath</description>
     </item>
     
     <item>
