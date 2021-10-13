@@ -6,7 +6,67 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Oct 2021 15:40:19 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 12:30:29 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build A TodoList with Phoenix, Elixir and Angular</title>
+      <link>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-angular/</link>
+      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-angular/</guid>
+      <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Phoenix and Elixir. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
+    </item>
+    
+    <item>
+      <title>Build A TodoList with Phoenix, Elixir and React</title>
+      <link>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-react/</link>
+      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-react/</guid>
+      <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Phoenix and Elixir. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to a React Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
+    </item>
+    
+    <item>
+      <title>Build A TodoList with Phoenix, Elixir and Vue</title>
+      <link>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-vue/</link>
+      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-vue/</guid>
+      <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Phoenix and Elixir. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to a Vue Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
+    </item>
+    
+    <item>
+      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
+      <link>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
+      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
+      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
+In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
+Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
+    </item>
+    
+    <item>
+      <title>Internet and Web Development Fundamentals</title>
+      <link>https://www.jobready.ml/internet-and-web-development-fundamentals/</link>
+      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/internet-and-web-development-fundamentals/</guid>
+      <description>This course is part-one of the nine-part series that starts by taking an in-depth look at how the internet facilitates the movement of data packets across both LANs (Local Area Network) and WANs (Wide Area Network). Students learn how to interpret various protocols such as TCP/IP, HTTP, HTTPs, SMTP and FTP. We examine the entire flow and life-cycle of data-packet movement from origin to destination. The course examines the role of DNS and SMTP servers in routing internet traffic and email transmissions.</description>
+    </item>
+    
+    <item>
+      <title>Practical MongoDB &#43; PHP: For Absolute Beginners</title>
+      <link>https://www.jobready.ml/practical-mongodb-php-for-absolute-beginners/</link>
+      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/practical-mongodb-php-for-absolute-beginners/</guid>
+      <description>=== Students&#39; reviews&#39; regarding this course ===
+&#34;In-depth explanations, good examples, knowledgeable instructor!&#34; -- Gordon Stanley
+&#34;Really very good course to start learning Mongodb.&#34; -- Saifaldeen
+&#34;Simply awesome. The instructor is explaining every line of code that he is typing it on the console and explains straight to the point. I got to learn many new things in this course as a beginner.&#34; -- Saurabh Mirajkar
+&#34;Great course. Loved the style of the instructor and the way things are presented.</description>
+    </item>
+    
     <item>
       <title>Typescript with React classes - quick start - Jest testing</title>
       <link>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</link>
@@ -360,32 +420,12 @@ This section explores HTML. HTML is a key fundamental building block when learni
     </item>
     
     <item>
-      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
-      <link>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
-      <pubDate>Sat, 25 Sep 2021 10:06:19 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
-      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
-In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
-Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
-    </item>
-    
-    <item>
       <title>How to Install a Free SSL Certificate using Let&#39;s Encrypt</title>
       <link>https://www.jobready.ml/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</link>
       <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
       
       <guid>https://www.jobready.ml/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</guid>
       <description>In the modern internet age, delivering web content over a secure protocol has become essential. Since January 2017, Google attaches a warning label to any website that does not secure sensitive web page content by delivering it using HTTPS. This includes web pages that contain forms asking for usernames, passwords, credit cards and other sensitive information. In the near future Google plans to roll out a requirement for all web pages to be secured.</description>
-    </item>
-    
-    <item>
-      <title>Internet and Web Development Fundamentals</title>
-      <link>https://www.jobready.ml/internet-and-web-development-fundamentals/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/internet-and-web-development-fundamentals/</guid>
-      <description>This course is part-one of the nine-part series that starts by taking an in-depth look at how the internet facilitates the movement of data packets across both LANs (Local Area Network) and WANs (Wide Area Network). Students learn how to interpret various protocols such as TCP/IP, HTTP, HTTPs, SMTP and FTP. We examine the entire flow and life-cycle of data-packet movement from origin to destination. The course examines the role of DNS and SMTP servers in routing internet traffic and email transmissions.</description>
     </item>
     
     <item>
@@ -554,19 +594,6 @@ You will learn HTML5 elements including images, videos, lists, tables, forms, If
       
       <guid>https://www.jobready.ml/learn-wordpress-now-wordpress-for-beginners/</guid>
       <description>Have you ever wanted to start a website or blog on Wordpress but didn&#39;t know where to start? Felt overwhelmed by all the technical lingo or steps? Not to worry! With my Learn Wordpress Now: Wordpress for Beginners course, I take your hand and guide you step-by-step from the very beginning to show you how to get started and become familiar with the Wordpress platform in order to have your own blog or website setup in under an hour!</description>
-    </item>
-    
-    <item>
-      <title>Practical MongoDB &#43; PHP: For Absolute Beginners</title>
-      <link>https://www.jobready.ml/practical-mongodb-php-for-absolute-beginners/</link>
-      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/practical-mongodb-php-for-absolute-beginners/</guid>
-      <description>=== Students&#39; reviews&#39; regarding this course ===
-&#34;In-depth explanations, good examples, knowledgeable instructor!&#34; -- Gordon Stanley
-&#34;Really very good course to start learning Mongodb.&#34; -- Saifaldeen
-&#34;Simply awesome. The instructor is explaining every line of code that he is typing it on the console and explains straight to the point. I got to learn many new things in this course as a beginner.&#34; -- Saurabh Mirajkar
-&#34;Great course. Loved the style of the instructor and the way things are presented.</description>
     </item>
     
     <item>
