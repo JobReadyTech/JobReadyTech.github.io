@@ -6,7 +6,42 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Oct 2021 12:30:29 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 19:22:29 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps Fundamentals</title>
+      <link>https://www.jobready.ml/devops-fundamentals/</link>
+      <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/devops-fundamentals/</guid>
+      <description>DevOps is not only a set of processes and tools but is more rightly represented by the culture of enhanced communication and collaboration between IT operation guys and Developers. DevOps culture is guided by principles of DevOps such as Automation, infrastructure as code, practices such as continuous integration, continuous delivery, and implemented by a large set of DevOps tools. In this course, DevOps concepts are explained in easy to understand language along with hands-on examples on basic tools of DevOps.</description>
+    </item>
+    
+    <item>
+      <title>Lua&#39;s Core Syntax (Programming Language)</title>
+      <link>https://www.jobready.ml/luas-core-syntax-programming-language/</link>
+      <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/luas-core-syntax-programming-language/</guid>
+      <description>In this course, you&#39;ll learn about Lua&#39;s Core Syntax.
+In each lecture, I&#39;ll discuss a few lines of code explaining a concept. Over in the lecture resources, you&#39;ll be linked to the code, which you can fork, run, &amp;amp; alter to complete some easy exercises.
+I&#39;m using an online IDE called replit. This means that you can start coding right away and learn easily, even on your tablet or smartphone. Don’t waste time setting up your environment.</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Beginner Guide to Streamlabs OBS (OBS)</title>
+      <link>https://www.jobready.ml/ultimate-beginner-guide-to-streamlabs-obs-obs/</link>
+      <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/ultimate-beginner-guide-to-streamlabs-obs-obs/</guid>
+      <description>Welcome to Ultimate Beginner Guide to Streamlabs OBS (OBS)!
+Nick Nyxson here, Your Instructor for this course.
+In this course, you will learn how to start using Streamlabs OBS which is live streaming software made by Streamlabs and is a modified version of Open Broadcaster Software (OBS).
+In this course You Will Learn:
+What is SLOBS (Streamlabs OBS);
+How Streamlabs OBS is any different from OBS Studio;
+Streamlabs OBS Settings Walkthrough;</description>
+    </item>
+    
     <item>
       <title>Data Science Real World Projects in Python</title>
       <link>https://www.jobready.ml/data-science-real-world-projects-in-python/</link>
@@ -159,21 +194,6 @@ How to create your own Dockerfile</description>
     </item>
     
     <item>
-      <title>Ultimate Beginner Guide to Streamlabs OBS (OBS)</title>
-      <link>https://www.jobready.ml/ultimate-beginner-guide-to-streamlabs-obs-obs/</link>
-      <pubDate>Mon, 04 Oct 2021 10:00:22 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/ultimate-beginner-guide-to-streamlabs-obs-obs/</guid>
-      <description>Welcome to Ultimate Beginner Guide to Streamlabs OBS (OBS)!
-Nick Nyxson here, Your Instructor for this course.
-In this course, you will learn how to start using Streamlabs OBS which is live streaming software made by Streamlabs and is a modified version of Open Broadcaster Software (OBS).
-In this course You Will Learn:
-What is SLOBS (Streamlabs OBS);
-How Streamlabs OBS is any different from OBS Studio;
-Streamlabs OBS Settings Walkthrough;</description>
-    </item>
-    
-    <item>
       <title>Agile Kanban: Kanban for Software Development Teams</title>
       <link>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</link>
       <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
@@ -309,15 +329,6 @@ You will learn all the required topics as given below for HELM - The Package Man
       
       <guid>https://www.jobready.ml/angular-material-ultimate-course/</guid>
       <description>Have you always wanted to learn how to do use Angular Material but don&#39;t know where to start? Would you like to learn components and bring Angular Material Code to Life? Then Angular Material Ultimate Course is for you! Hi, I’m your instructor Josh Werner and I’ll be leading you through this course. Angular Material is an in-demand skill in 2021. The course begins with the basics. We&#39;ll Cover everything you need to know about Angular Material from scratch.</description>
-    </item>
-    
-    <item>
-      <title>DevOps Fundamentals</title>
-      <link>https://www.jobready.ml/devops-fundamentals/</link>
-      <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/devops-fundamentals/</guid>
-      <description>DevOps is not only a set of processes and tools but is more rightly represented by the culture of enhanced communication and collaboration between IT operation guys and Developers. DevOps culture is guided by principles of DevOps such as Automation, infrastructure as code, practices such as continuous integration, continuous delivery, and implemented by a large set of DevOps tools. In this course, DevOps concepts are explained in easy to understand language along with hands-on examples on basic tools of DevOps.</description>
     </item>
     
     <item>

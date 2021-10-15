@@ -6,7 +6,18 @@
     <description>Recent content in Operating Systems &amp; Servers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Oct 2021 16:10:21 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 19:22:29 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Google Colaboratory with Python</title>
+      <link>https://www.jobready.ml/introduction-to-google-colaboratory-with-python/</link>
+      <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/introduction-to-google-colaboratory-with-python/</guid>
+      <description>Google Colaboratory is a Google cloud-based service that replicates Jupyter Notebook in the cloud. You don’t have to install anything on your system to use it. In most respects, you use Colaboratory as you would a desktop installation of Jupyter Notebook. Google Colaboratory is primarily for those readers who use something other than a standard desktop setup to work.
+You&#39;ll learn about the all features of Google Colaboratory.
+The course is for you if you&#39;re a newcomer to Data Science and Python programming.</description>
+    </item>
+    
     <item>
       <title>Linux Operating System: A complete Linux guide for Beginners</title>
       <link>https://www.jobready.ml/linux-operating-system-a-complete-linux-guide-for-beginners/</link>
