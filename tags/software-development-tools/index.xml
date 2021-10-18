@@ -6,7 +6,26 @@
     <description>Recent content in Software Development Tools on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Oct 2021 10:08:41 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/software-development-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 13:24:04 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/software-development-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Microservices</title>
+      <link>https://www.jobready.ml/introduction-to-microservices/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/introduction-to-microservices/</guid>
+      <description>Microservices architecture provides a modern way of building highly scalable applications. Normally in building cloud-native applications microservices-based architecture is used. In this course, I have explained microservices in the simplest possible way. We start with the explanation of traditional architecture such as Monolithic Architecture, then we discuss how it evolved via service-oriented architecture (SOA) to finally microservices architecture. We talk about the benefits and the challenges of these architectures.</description>
+    </item>
+    
+    <item>
+      <title>Learn CI/CD YAML pipelines with Azure DevOps</title>
+      <link>https://www.jobready.ml/learn-ci/cd-yaml-pipelines-with-azure-devops/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/learn-ci/cd-yaml-pipelines-with-azure-devops/</guid>
+      <description>LEARN THE FUNDAMENTALS OF CI/CD AND CREATE A CI/CD PIPELINE FROM SCRATCH
+This is a unique course designed to help you to understand the CI/CD concept from the ground up. This means you do not need any upfront knowledge about CI/CD, DevOps or working with pipelines. I will explain everything in detail while I present it in practice. After learning basic knowledge, we create a fully automated CI/CD pipeline using Azure DevOps Pipelines to see how everything is implemented in practice.</description>
+    </item>
+    
     <item>
       <title>Git from Basics to Advanced: Practical Guide for Developers</title>
       <link>https://www.jobready.ml/git-from-basics-to-advanced-practical-guide-for-developers/</link>
@@ -62,15 +81,6 @@ good luck..
 thanks :)
 
  Ratings: 4.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Microservices</title>
-      <link>https://www.jobready.ml/introduction-to-microservices/</link>
-      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/introduction-to-microservices/</guid>
-      <description>Microservices architecture provides a modern way of building highly scalable applications. Normally in building cloud-native applications microservices-based architecture is used. In this course, I have explained microservices in the simplest possible way. We start with the explanation of traditional architecture such as Monolithic Architecture, then we discuss how it evolved via service-oriented architecture (SOA) to finally microservices architecture. We talk about the benefits and the challenges of these architectures.</description>
     </item>
     
     <item>

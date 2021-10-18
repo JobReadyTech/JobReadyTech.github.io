@@ -6,7 +6,20 @@
     <description>Recent content in Other IT &amp; Software on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Oct 2021 13:42:24 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 13:24:04 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/other-it-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Kanban: Kanban for Software Development Teams</title>
+      <link>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</guid>
+      <description>Kanban is not a software development lifecycle methodology or an approach to project management.
+It requires that some process is already in place so that Kanban can be applied to
+incrementally change the underlying process.
+—David Anderson, Kanban
+Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.</description>
+    </item>
+    
     <item>
       <title>Tout connaître sur PowerPoint</title>
       <link>https://www.jobready.ml/tout-conna%C3%AEtre-sur-powerpoint/</link>
@@ -201,19 +214,6 @@ What is Docker hub
 What is Dockerfile
 Benefits of using Docker and running applications inside a container
 How to create your own Dockerfile</description>
-    </item>
-    
-    <item>
-      <title>Agile Kanban: Kanban for Software Development Teams</title>
-      <link>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</link>
-      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/agile-kanban-kanban-for-software-development-teams/</guid>
-      <description>Kanban is not a software development lifecycle methodology or an approach to project management.
-It requires that some process is already in place so that Kanban can be applied to
-incrementally change the underlying process.
-—David Anderson, Kanban
-Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.</description>
     </item>
     
     <item>

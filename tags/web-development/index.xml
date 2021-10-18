@@ -6,7 +6,44 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Oct 2021 13:42:24 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 13:24:05 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React JS- Complete Guide for Frontend Web Development [2021]</title>
+      <link>https://www.jobready.ml/react-js-complete-guide-for-frontend-web-development-2021/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:05 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/react-js-complete-guide-for-frontend-web-development-2021/</guid>
+      <description>What&#39;s this course about?This course is a complete guide to become an expert front-end web developer. It contains all the tools and technologies that you should be proficient in work as a React Developer.
+We will go through the journey of learning HTML5, CSS3, Javascript, ES6, jQuery, and React JS.
+Each of these course modules has a project which you can work on. 
+Along with the project problem statement video, you will also find the solution video for that project.</description>
+    </item>
+    
+    <item>
+      <title>How to Develop REST Web API using ASP.NET MVC</title>
+      <link>https://www.jobready.ml/how-to-develop-rest-web-api-using-asp.net-mvc/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/how-to-develop-rest-web-api-using-asp.net-mvc/</guid>
+      <description>Web APIs are one of the essential component in the applications which involve data exchange in client-server machine architecture. In this course you will learn about development of REST web API using ASP.NET MVC platform from basic to advance level. This course outlines following topics i.e.
+
+What is REST Web API?
+How to setup basic REST Web API Project using ASP.NET MVC in Visual Studio?
+How to generate REST Web API Security Key for authorization?</description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript from Scratch: The Ultimate Beginners Course</title>
+      <link>https://www.jobready.ml/learn-javascript-from-scratch-the-ultimate-beginners-course/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/learn-javascript-from-scratch-the-ultimate-beginners-course/</guid>
+      <description>Welcome to the - Learn JavaScript from Scratch: The Ultimate Beginners Course
+This practical, hands-on course was created for newbies – that&#39;s to say, people with no prior training or knowledge with JavaScript or Web Development.
+In this practical, hands-on class you&#39;re going to learn how to use JavaScript and go from beginner to expert!
+Even if you already have some experience, or want to learn about the advanced features of JavaScript, this course is for you!</description>
+    </item>
+    
     <item>
       <title>Complete Responsive Web Development: 4 courses in 1</title>
       <link>https://www.jobready.ml/complete-responsive-web-development-4-courses-in-1/</link>
@@ -606,18 +643,6 @@ Students will gain hands-on experience with the registration process using popul
       
       <guid>https://www.jobready.ml/the-ultimate-mysql-crash-course-2021/</guid>
       <description>In this course you are going to learn everything you need to know to get started with MySQL in probably less than two hours, so you can actually consume this piece of content in one sitting. The course is surly intensively on using the SQL command line inside the PHPmyadmin tool and that&#39;s for teaching you just how SQL works and you can write your queries, not just in the SQL command, but also inside your backend apps and that&#39;s the best way to learn SQL in my opinion.</description>
-    </item>
-    
-    <item>
-      <title>React JS- Complete Guide for Frontend Web Development [2021]</title>
-      <link>https://www.jobready.ml/react-js-complete-guide-for-frontend-web-development-2021/</link>
-      <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/react-js-complete-guide-for-frontend-web-development-2021/</guid>
-      <description>What&#39;s this course about?This course is a complete guide to become an expert front-end web developer. It contains all the tools and technologies that you should be proficient in work as a React Developer.
-We will go through the journey of learning HTML5, CSS3, Javascript, ES6, jQuery, and React JS.
-Each of these course modules has a project which you can work on. 
-Along with the project problem statement video, you will also find the solution video for that project.</description>
     </item>
     
     <item>
