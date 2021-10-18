@@ -6,21 +6,78 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Oct 2021 13:24:05 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 21:05:38 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python for Data Science &amp; Machine Learning from A-Z</title>
-      <link>https://www.jobready.ml/python-for-data-science-machine-learning-from-a-z/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:05 +0530</pubDate>
+      <title>Artificial Intelligence and the Future of Work (2021)</title>
+      <link>https://www.jobready.ml/artificial-intelligence-and-the-future-of-work-2021/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-for-data-science-machine-learning-from-a-z/</guid>
-      <description>Learn Python for Data Science &amp;amp; Machine Learning from A-Z
-In this practical, hands-on course you’ll learn how to program using Python for Data Science and Machine Learning. This includes data analysis, visualization, and how to make use of that data in a practical manner. Our main objective is to give you the education not just to understand the ins and outs of the Python programming language for Data Science and Machine Learning, but also to learn exactly how to become a professional Data Scientist with Python and land your first job.</description>
+      <guid>https://www.jobready.ml/artificial-intelligence-and-the-future-of-work-2021/</guid>
+      <description>Welcome to the twelfth course in Term 1 as part of the series &#34;MBA in Artificial Intelligence Digital Marketing&#34;.
+Did you know? A great technological shift is on the verge of occurring very soon. Disruptive Artificial Intelligence technologies are going to change the world and human labour will be replaced by robot workers and the shift has in-fact started. This mind-blowing course introduces you to the concept of Artificial Intelligence usage in the workplace along with providing you practical examples of the different platforms that deploy the same for automation.</description>
+    </item>
+    
+    <item>
+      <title>Beginners guide to Android App Development (Step by Step)</title>
+      <link>https://www.jobready.ml/beginners-guide-to-android-app-development-step-by-step/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/beginners-guide-to-android-app-development-step-by-step/</guid>
+      <description>Welcome to our course &#34;A beginners guide to Android App Development (step by step)&#34;.
+A Beginner&#39;s Guide to Android App Development
+Looking to launch your own app on Google Play Store but don&#39;t know where to begin? Then here&#39;s your chance to learn the basics and build your skills in Android development. Before you read further, it is an essential prerequisite for a student to have a good understanding of Java (OOPs and Threads, in particular) The Android development course is a collection of Android Application Development tutorial videos.</description>
+    </item>
+    
+    <item>
+      <title>Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021</title>
+      <link>https://www.jobready.ml/complete-javascript-with-html5css3-from-zero-to-expert-2021/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/complete-javascript-with-html5css3-from-zero-to-expert-2021/</guid>
+      <description>Want to learn Web Design &amp;amp; Web Development Skills? Then this is the RIGHT course For you! Many languages came and disappear but JavaScript is language that is enjoying a high run and demand in the programming world. The very first things you need to learn HTML5, CSS3, JavaScript and JQuery to become a Web Developer and off-course some Web Design Guidelines. This course will exactly teach you all these New Skills to become a good Web Developer.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Microservices</title>
+      <link>https://www.jobready.ml/introduction-to-microservices/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/introduction-to-microservices/</guid>
+      <description>Microservices architecture provides a modern way of building highly scalable applications. Normally in building cloud-native applications microservices-based architecture is used. In this course, I have explained microservices in the simplest possible way. We start with the explanation of traditional architecture such as Monolithic Architecture, then we discuss how it evolved via service-oriented architecture (SOA) to finally microservices architecture. We talk about the benefits and the challenges of these architectures.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript &amp; jQuery - Certification Course for Beginners</title>
+      <link>https://www.jobready.ml/javascript-jquery-certification-course-for-beginners/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/javascript-jquery-certification-course-for-beginners/</guid>
+      <description>Welcome to the JavaScript &amp;amp; jQuery – Certification Course for BeginnersThis course offers a comprehensive guide into the fundamentals of coding using JavaScript and jQuery. These powerful languages can be used to add animated, dynamic client-side functionality to any web page.The JavaScript section of the course takes students on a journey that starts right from the basics. This includes JavaScript placement, and embedding External JavaScript code. From there, we move into variable declaration and operators for performing arithmetic.</description>
+    </item>
+    
+    <item>
+      <title>Learn Machine learning &amp; AI (Including Hands-on 3 Projects)</title>
+      <link>https://www.jobready.ml/learn-machine-learning-ai-including-hands-on-3-projects/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/learn-machine-learning-ai-including-hands-on-3-projects/</guid>
+      <description>Do you feel overwhelmed going through all the AI and Machine learning study materials? These Machine learning and AI projects will get you started with the implementation of a few very interesting projects from scratch. The first one, a Web application for Object Identification will teach you to deploy a simple machine learning application. The second one, Dog Breed Prediction will help you building &amp;amp; optimizing a model for dog breed prediction among 120 breeds of dogs.</description>
+    </item>
+    
+    <item>
+      <title>Python Programming Tutorial For The Absolute Beginner &#43; Code</title>
+      <link>https://www.jobready.ml/python-programming-tutorial-for-the-absolute-beginner-code/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/python-programming-tutorial-for-the-absolute-beginner-code/</guid>
+      <description>The creation of this course &#34;Python Programming Tutorial For The Absolute Beginner + Code&#34; has been for me an exciting personal journey in discovering how Python can be used today for procedural and object oriented programming, to develop applications and to provide online functionality.
+Example code listed in this course &#34;Python Programming Tutorial For The Absolute Beginner + Code&#34; describes how to produce Python programs. I sincerely hope you enjoy discovering the exciting possibilities of Python, and have as much fun with it as I did in recording this course.</description>
     </item>
     
     <item>
       <title>React JS- Complete Guide for Frontend Web Development [2021]</title>
       <link>https://www.jobready.ml/react-js-complete-guide-for-frontend-web-development-2021/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:05 +0530</pubDate>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
       
       <guid>https://www.jobready.ml/react-js-complete-guide-for-frontend-web-development-2021/</guid>
       <description>What&#39;s this course about?This course is a complete guide to become an expert front-end web developer. It contains all the tools and technologies that you should be proficient in work as a React Developer.
@@ -30,14 +87,31 @@ Along with the project problem statement video, you will also find the solution 
     </item>
     
     <item>
-      <title>Beginners guide to Android App Development (Step by Step)</title>
-      <link>https://www.jobready.ml/beginners-guide-to-android-app-development-step-by-step/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      <title>Scrum Fundamentals for Scrum Master and Agile Projects- 2021</title>
+      <link>https://www.jobready.ml/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/beginners-guide-to-android-app-development-step-by-step/</guid>
-      <description>Welcome to our course &#34;A beginners guide to Android App Development (step by step)&#34;.
-A Beginner&#39;s Guide to Android App Development
-Looking to launch your own app on Google Play Store but don&#39;t know where to begin? Then here&#39;s your chance to learn the basics and build your skills in Android development. Before you read further, it is an essential prerequisite for a student to have a good understanding of Java (OOPs and Threads, in particular) The Android development course is a collection of Android Application Development tutorial videos.</description>
+      <guid>https://www.jobready.ml/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</guid>
+      <description>This course provides a comprehensive overview of the Scrum framework for agile project management. You’ll learn the basics of Scrum and the Scrum lifecycle, how to organize a Scrum team and set up a project, and how to implement a Scrum, from releases and sprints to enterprise transformation. This course is for anyone involved in product delivery using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate MySQL Crash Course 2021</title>
+      <link>https://www.jobready.ml/the-ultimate-mysql-crash-course-2021/</link>
+      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/the-ultimate-mysql-crash-course-2021/</guid>
+      <description>In this course you are going to learn everything you need to know to get started with MySQL in probably less than two hours, so you can actually consume this piece of content in one sitting. The course is surly intensively on using the SQL command line inside the PHPmyadmin tool and that&#39;s for teaching you just how SQL works and you can write your queries, not just in the SQL command, but also inside your backend apps and that&#39;s the best way to learn SQL in my opinion.</description>
+    </item>
+    
+    <item>
+      <title>Python for Data Science &amp; Machine Learning from A-Z</title>
+      <link>https://www.jobready.ml/python-for-data-science-machine-learning-from-a-z/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:05 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/python-for-data-science-machine-learning-from-a-z/</guid>
+      <description>Learn Python for Data Science &amp;amp; Machine Learning from A-Z
+In this practical, hands-on course you’ll learn how to program using Python for Data Science and Machine Learning. This includes data analysis, visualization, and how to make use of that data in a practical manner. Our main objective is to give you the education not just to understand the ins and outs of the Python programming language for Data Science and Machine Learning, but also to learn exactly how to become a professional Data Scientist with Python and land your first job.</description>
     </item>
     
     <item>
@@ -61,15 +135,6 @@ In this practical, hands-on course you’ll learn how to program in R and how to
 What is REST Web API?
 How to setup basic REST Web API Project using ASP.NET MVC in Visual Studio?
 How to generate REST Web API Security Key for authorization?</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Microservices</title>
-      <link>https://www.jobready.ml/introduction-to-microservices/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/introduction-to-microservices/</guid>
-      <description>Microservices architecture provides a modern way of building highly scalable applications. Normally in building cloud-native applications microservices-based architecture is used. In this course, I have explained microservices in the simplest possible way. We start with the explanation of traditional architecture such as Monolithic Architecture, then we discuss how it evolved via service-oriented architecture (SOA) to finally microservices architecture. We talk about the benefits and the challenges of these architectures.</description>
     </item>
     
     <item>
@@ -105,15 +170,6 @@ Even if you already have some experience, or want to learn about the advanced fe
     </item>
     
     <item>
-      <title>Learn Machine learning &amp; AI (Including Hands-on 3 Projects)</title>
-      <link>https://www.jobready.ml/learn-machine-learning-ai-including-hands-on-3-projects/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-machine-learning-ai-including-hands-on-3-projects/</guid>
-      <description>Do you feel overwhelmed going through all the AI and Machine learning study materials? These Machine learning and AI projects will get you started with the implementation of a few very interesting projects from scratch. The first one, a Web application for Object Identification will teach you to deploy a simple machine learning application. The second one, Dog Breed Prediction will help you building &amp;amp; optimizing a model for dog breed prediction among 120 breeds of dogs.</description>
-    </item>
-    
-    <item>
       <title>Machine Learning- From Basics to Advanced</title>
       <link>https://www.jobready.ml/machine-learning-from-basics-to-advanced/</link>
       <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
@@ -135,15 +191,6 @@ Or are you a seasoned AI practitioner who want to take your career to the next l
 Or are you an aspiring data scientist who wants to get Hands-on Natural Language Processing and Machine Lrarning?
 
 Welcome to the course of Real world use-cases on Natural Language Processing ! This course is specifically designed to be ready for Job perspective in Natural Language Processing domain using Python programming language.</description>
-    </item>
-    
-    <item>
-      <title>Scrum Fundamentals for Scrum Master and Agile Projects- 2021</title>
-      <link>https://www.jobready.ml/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/scrum-fundamentals-for-scrum-master-and-agile-projects-2021/</guid>
-      <description>This course provides a comprehensive overview of the Scrum framework for agile project management. You’ll learn the basics of Scrum and the Scrum lifecycle, how to organize a Scrum team and set up a project, and how to implement a Scrum, from releases and sprints to enterprise transformation. This course is for anyone involved in product delivery using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.</description>
     </item>
     
     <item>
@@ -1458,15 +1505,6 @@ This course begins with exploring the most widely used web server technology ava
     </item>
     
     <item>
-      <title>Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021</title>
-      <link>https://www.jobready.ml/complete-javascript-with-html5css3-from-zero-to-expert-2021/</link>
-      <pubDate>Wed, 22 Sep 2021 09:46:27 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/complete-javascript-with-html5css3-from-zero-to-expert-2021/</guid>
-      <description>Want to learn Web Design &amp;amp; Web Development Skills? Then this is the RIGHT course For you! Many languages came and disappear but JavaScript is language that is enjoying a high run and demand in the programming world. The very first things you need to learn HTML5, CSS3, JavaScript and JQuery to become a Web Developer and off-course some Web Design Guidelines. This course will exactly teach you all these New Skills to become a good Web Developer.</description>
-    </item>
-    
-    <item>
       <title>Drupal For Absolute Beginners (2021)</title>
       <link>https://www.jobready.ml/drupal-for-absolute-beginners-2021/</link>
       <pubDate>Tue, 21 Sep 2021 19:26:43 +0530</pubDate>
@@ -1518,15 +1556,6 @@ The curriculum is going to be very hands-on as we walk you from start to finish 
     </item>
     
     <item>
-      <title>The Ultimate MySQL Crash Course 2021</title>
-      <link>https://www.jobready.ml/the-ultimate-mysql-crash-course-2021/</link>
-      <pubDate>Sun, 19 Sep 2021 21:40:45 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/the-ultimate-mysql-crash-course-2021/</guid>
-      <description>In this course you are going to learn everything you need to know to get started with MySQL in probably less than two hours, so you can actually consume this piece of content in one sitting. The course is surly intensively on using the SQL command line inside the PHPmyadmin tool and that&#39;s for teaching you just how SQL works and you can write your queries, not just in the SQL command, but also inside your backend apps and that&#39;s the best way to learn SQL in my opinion.</description>
-    </item>
-    
-    <item>
       <title>Spatial Analysis &amp; Geospatial Data Science in Python</title>
       <link>https://www.jobready.ml/spatial-analysis-geospatial-data-science-in-python/</link>
       <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
@@ -1566,15 +1595,6 @@ Python is one of the world&#39;s top 3 programming languages, and it&#39;s the m
       <guid>https://www.jobready.ml/java-for-beginners-learn-all-the-basics-of-java/</guid>
       <description>Learning the how to program in any programming language can be very complicated especially if you never did any programming before. Programming in java is not different, but this course is here to help master this programming language. If you : - Need to learn the basics of this programming language for work - Are in school and need to understand certain Java concepts
 - Want to create various projects with this programming language - Simply are curious about this topic</description>
-    </item>
-    
-    <item>
-      <title>JavaScript &amp; jQuery - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/javascript-jquery-certification-course-for-beginners/</link>
-      <pubDate>Sat, 18 Sep 2021 12:19:19 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/javascript-jquery-certification-course-for-beginners/</guid>
-      <description>Welcome to the JavaScript &amp;amp; jQuery – Certification Course for BeginnersThis course offers a comprehensive guide into the fundamentals of coding using JavaScript and jQuery. These powerful languages can be used to add animated, dynamic client-side functionality to any web page.The JavaScript section of the course takes students on a journey that starts right from the basics. This includes JavaScript placement, and embedding External JavaScript code. From there, we move into variable declaration and operators for performing arithmetic.</description>
     </item>
     
     <item>
