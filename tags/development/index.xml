@@ -6,7 +6,18 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Oct 2021 12:26:02 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 19:42:17 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL- The Complete Introduction to SQL programming</title>
+      <link>https://www.jobready.ml/sql-the-complete-introduction-to-sql-programming/</link>
+      <pubDate>Tue, 19 Oct 2021 19:42:17 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/sql-the-complete-introduction-to-sql-programming/</guid>
+      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of how to properly program with SQL. If you :
+- Are in school and want to learn how to program in SQL
+- Need to learn this programming language for work</description>
+    </item>
+    
     <item>
       <title>Introduction to Microservices</title>
       <link>https://www.jobready.ml/introduction-to-microservices/</link>
@@ -14,17 +25,6 @@
       
       <guid>https://www.jobready.ml/introduction-to-microservices/</guid>
       <description>Microservices architecture provides a modern way of building highly scalable applications. Normally in building cloud-native applications microservices-based architecture is used. In this course, I have explained microservices in the simplest possible way. We start with the explanation of traditional architecture such as Monolithic Architecture, then we discuss how it evolved via service-oriented architecture (SOA) to finally microservices architecture. We talk about the benefits and the challenges of these architectures.</description>
-    </item>
-    
-    <item>
-      <title>SQL- The Complete Introduction to SQL programming</title>
-      <link>https://www.jobready.ml/sql-the-complete-introduction-to-sql-programming/</link>
-      <pubDate>Tue, 19 Oct 2021 12:26:02 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/sql-the-complete-introduction-to-sql-programming/</guid>
-      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of how to properly program with SQL. If you :
-- Are in school and want to learn how to program in SQL
-- Need to learn this programming language for work</description>
     </item>
     
     <item>
