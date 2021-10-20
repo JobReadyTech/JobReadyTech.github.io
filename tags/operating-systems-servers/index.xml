@@ -6,7 +6,32 @@
     <description>Recent content in Operating Systems &amp; Servers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Oct 2021 13:42:24 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 13:13:33 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/operating-systems-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT &amp; Desktop Computer Support - Real World Troubleshooting</title>
+      <link>https://www.jobready.ml/it-desktop-computer-support-real-world-troubleshooting/</link>
+      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/it-desktop-computer-support-real-world-troubleshooting/</guid>
+      <description>Over this course we&#39;ll be covering some real world issues that can often appear when troubleshooting computer systems. Some of the topics covered are as follows:
+
+* An overview of physical and logical troubleshooting, explaining the differences between the two and how these issues can be identified
+* Troubleshooting steps to take in the case of a suspected hard disk failure
+* How to identify and troubleshoot memory issues, such as insufficient and/or faulty RAM.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Linux on  VirtualBox quick setup</title>
+      <link>https://www.jobready.ml/ubuntu-linux-on-virtualbox-quick-setup/</link>
+      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/ubuntu-linux-on-virtualbox-quick-setup/</guid>
+      <description>Running Linux on a virtual machine has many advantages: easy and secure setup, complete control over the machine, easy backUp and folder sharing.
+Do you want to quickly start using Linux Ubuntu?
+In this course you will learn how to easily set it up on a virtual machine using VirtualBox.
+You will be able to fix the errors that might come along and set up a complete coding environment.  Ratings: 4.</description>
+    </item>
+    
     <item>
       <title>Linux Operating System: A complete Linux guide for Beginners</title>
       <link>https://www.jobready.ml/linux-operating-system-a-complete-linux-guide-for-beginners/</link>
@@ -28,18 +53,6 @@ Every time you use Google or Facebook or any other major Internet site, you are 
       <description>Google Colaboratory is a Google cloud-based service that replicates Jupyter Notebook in the cloud. You don’t have to install anything on your system to use it. In most respects, you use Colaboratory as you would a desktop installation of Jupyter Notebook. Google Colaboratory is primarily for those readers who use something other than a standard desktop setup to work.
 You&#39;ll learn about the all features of Google Colaboratory.
 The course is for you if you&#39;re a newcomer to Data Science and Python programming.</description>
-    </item>
-    
-    <item>
-      <title>Ubuntu Linux on  VirtualBox quick setup</title>
-      <link>https://www.jobready.ml/ubuntu-linux-on-virtualbox-quick-setup/</link>
-      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/ubuntu-linux-on-virtualbox-quick-setup/</guid>
-      <description>Running Linux on a virtual machine has many advantages: easy and secure setup, complete control over the machine, easy backUp and folder sharing.
-Do you want to quickly start using Linux Ubuntu?
-In this course you will learn how to easily set it up on a virtual machine using VirtualBox.
-You will be able to fix the errors that might come along and set up a complete coding environment.  Ratings: 4.</description>
     </item>
     
     <item>

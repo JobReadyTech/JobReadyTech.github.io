@@ -6,7 +6,62 @@
     <description>Recent content in Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Oct 2021 19:42:17 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 13:13:33 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Java programming with JavaFx: Write an email client</title>
+      <link>https://www.jobready.ml/advanced-java-programming-with-javafx-write-an-email-client/</link>
+      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/advanced-java-programming-with-javafx-write-an-email-client/</guid>
+      <description>Seeing a message printed on the console when you click a button can be rewarding, but at some point you need to go beyond the basics of JavaFX. Project based learning is the best approach to become a competent JavaFX programmer.
+Writing a calculator app is fun, but you know what is funnier? Getting a job as a programmer. You can&#39;t get there just by coding simple apps or watching presentations.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Programming Masterclass: Build Real Project</title>
+      <link>https://www.jobready.ml/javascript-programming-masterclass-build-real-project/</link>
+      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/javascript-programming-masterclass-build-real-project/</guid>
+      <description>Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript:
+Javascript is the most popular programming language in the world and that makes it a programmer’s great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.</description>
+    </item>
+    
+    <item>
+      <title>MERN Stack with Blog Project</title>
+      <link>https://www.jobready.ml/mern-stack-with-blog-project/</link>
+      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/mern-stack-with-blog-project/</guid>
+      <description>Welcome to &#34;MERN Stack with Blog Project&#34;. In this course, we will be building an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full-stack application. This course includes...
+Building an extensive backend API with Node.js &amp;amp; Express
+Extensive API testing with Postman
+Integrating React with our backend in an elegant way, creating a great workflow</description>
+    </item>
+    
+    <item>
+      <title>Python for beginners - Learn all the basics of python</title>
+      <link>https://www.jobready.ml/python-for-beginners-learn-all-the-basics-of-python/</link>
+      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/python-for-beginners-learn-all-the-basics-of-python/</guid>
+      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
+- Are in school and want to learn how to program in python
+- Need to learn this programming language for work</description>
+    </item>
+    
+    <item>
+      <title>Typescript with React classes - quick start - Jest testing</title>
+      <link>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</link>
+      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</guid>
+      <description>THIS COURSE USES REACT CLASSES WITH PROPS AND STATE.
+Typescript is becoming more and more popular! And the beloved React framework has embraced it! But often making them work together can be tricky. Here it will work from the first try.
+React means act in response to something; respond in a particular way. This is the way you will make your UI behave.
+In this short course you will learn how you can use them together, by building a small project:</description>
+    </item>
+    
     <item>
       <title>SQL- The Complete Introduction to SQL programming</title>
       <link>https://www.jobready.ml/sql-the-complete-introduction-to-sql-programming/</link>
@@ -513,16 +568,6 @@ Whether you are an experienced web developer or new to the industry, you’ve li
     </item>
     
     <item>
-      <title>Advanced Java programming with JavaFx: Write an email client</title>
-      <link>https://www.jobready.ml/advanced-java-programming-with-javafx-write-an-email-client/</link>
-      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/advanced-java-programming-with-javafx-write-an-email-client/</guid>
-      <description>Seeing a message printed on the console when you click a button can be rewarding, but at some point you need to go beyond the basics of JavaFX. Project based learning is the best approach to become a competent JavaFX programmer.
-Writing a calculator app is fun, but you know what is funnier? Getting a job as a programmer. You can&#39;t get there just by coding simple apps or watching presentations.</description>
-    </item>
-    
-    <item>
       <title>Apache Spark In-Depth (Spark with Scala)</title>
       <link>https://www.jobready.ml/apache-spark-in-depth-spark-with-scala/</link>
       <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
@@ -564,18 +609,6 @@ The course follows a practical approach where students learn by actively problem
     </item>
     
     <item>
-      <title>Typescript with React classes - quick start - Jest testing</title>
-      <link>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</link>
-      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</guid>
-      <description>THIS COURSE USES REACT CLASSES WITH PROPS AND STATE.
-Typescript is becoming more and more popular! And the beloved React framework has embraced it! But often making them work together can be tricky. Here it will work from the first try.
-React means act in response to something; respond in a particular way. This is the way you will make your UI behave.
-In this short course you will learn how you can use them together, by building a small project:</description>
-    </item>
-    
-    <item>
       <title>Object Oriented Programming in C&#43;&#43;  &amp;  Interview Preparation</title>
       <link>https://www.jobready.ml/object-oriented-programming-in-c-interview-preparation/</link>
       <pubDate>Tue, 12 Oct 2021 11:23:35 +0530</pubDate>
@@ -595,17 +628,6 @@ Top Frequently Asked Interview Question - Part 2
 Top Frequently Asked Interview Question - Part 3
 
 Topics Covered in Questions</description>
-    </item>
-    
-    <item>
-      <title>Python for beginners - Learn all the basics of python</title>
-      <link>https://www.jobready.ml/python-for-beginners-learn-all-the-basics-of-python/</link>
-      <pubDate>Tue, 12 Oct 2021 11:23:35 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/python-for-beginners-learn-all-the-basics-of-python/</guid>
-      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
-- Are in school and want to learn how to program in python
-- Need to learn this programming language for work</description>
     </item>
     
     <item>
@@ -2063,18 +2085,6 @@ After completing this course you will be able to:
 Identify the Image Recognition problems which can be solved using CNN Models.
 Create CNN models in Python using Keras and Tensorflow libraries and analyze their results.
 Confidently practice, discuss and understand Deep Learning concepts</description>
-    </item>
-    
-    <item>
-      <title>MERN Stack with Blog Project</title>
-      <link>https://www.jobready.ml/mern-stack-with-blog-project/</link>
-      <pubDate>Fri, 10 Sep 2021 13:08:47 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/mern-stack-with-blog-project/</guid>
-      <description>Welcome to &#34;MERN Stack with Blog Project&#34;. In this course, we will be building an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full-stack application. This course includes...
-Building an extensive backend API with Node.js &amp;amp; Express
-Extensive API testing with Postman
-Integrating React with our backend in an elegant way, creating a great workflow</description>
     </item>
     
     <item>
