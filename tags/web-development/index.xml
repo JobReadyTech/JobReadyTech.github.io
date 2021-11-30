@@ -6,7 +6,73 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Oct 2021 13:01:12 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 01:39:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C# Console and Windows Forms Development with LINQ &amp; ADO.NET</title>
+      <link>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
+      <pubDate>Wed, 01 Dec 2021 01:39:22 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</guid>
+      <description>Overview
+In this course, you will learn C# programming for desktop applications. This journey will have you becoming proficient in
+Visual Studio Interface and Shortcuts
+Console Application Development with C#
+Data Driven Graphical User Interface Applications using Windows Forms 
+Managing Databases with SQL Server Management Studio
+Developing User and Roles Management Interfaces and functions
+Using Utility Classes for cleaner code
+Developing Multi-Document Interface (MDI) Applications
+Applying Object Oriented Programming with C#</description>
+    </item>
+    
+    <item>
+      <title>Learn ASP.NET MVC and Entity Framework (Database First)</title>
+      <link>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</link>
+      <pubDate>Wed, 01 Dec 2021 01:39:22 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</guid>
+      <description>Overview
+Using MVC, Entity Framework, and ASP.NET Scaffolding, we will go through building a small school management system while learning key concepts in ASP.NET MVC development. This course will show you how to leverage MVC&#39;s Scaffolding features to quickly construct data driven html pages and how to write queries to the database using .NET&#39;s famed Entity Framework with C#. UPDATED CONTENT 
+.NET Framework is nearing end of support from Microsoft.</description>
+    </item>
+    
+    <item>
+      <title>Make Laravel and Laravel 8 APIs and Apps fast with blueprint</title>
+      <link>https://www.jobready.ml/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</link>
+      <pubDate>Wed, 01 Dec 2021 01:39:22 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</guid>
+      <description>What you&#39;ll learn
+Initialization of a Laravel app using blueprint
+Building blueprint yml file
+Autocreation of database migrations and eloquent models
+Autocreation of Controllers , and actions
+Autocreation of Mailable , Jobs , Events .. Change you whole way of thinking of Laravel and Laravel 8 apps building
+Configure your blueprint to work better for you
+Increase development speed
+Promote Laravel conventions
+Just think how your classes and objects should be in the oop way , and tell that to blueprint , and let it be built for you .</description>
+    </item>
+    
+    <item>
+      <title>Projelere  Doyamayacaksınız Sıfırdan Komple (PHP-MySQL-JS)</title>
+      <link>https://www.jobready.ml/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</link>
+      <pubDate>Wed, 01 Dec 2021 01:39:22 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</guid>
+      <description>Tüm Detaylar Web Sitemde
+
+Kursu Bitiren İlk 10 Öğrencimize ÜCRETSİZ HOSTİNG! Kampanyamız Mevcuttur !Toplamda 3 GB Disk Alanı Ve 10 Adet MySQL Tablo ve daha nice özelliklerle beraber fiyatı 150 ₺ olan hosting hizmeti kursu tamamlayıp sertifikasını alan ilk 10 arkadaşımıza hediye edilecektir.
+
+E-Ticaret&#39;e mi atılmak istiyorsunuz?
+PHP becerilerinizi artırmanız mı gerekiyor?
+Web programlama kursumuza hoşgeldiniz. Programlama temellerinden ileri seviye web programlama konusunda sizlerde aramıza katılarak harika projeler geliştirebilirsiniz.</description>
+    </item>
+    
     <item>
       <title>Complete Wordpress Website Developer Course</title>
       <link>https://www.jobready.ml/complete-wordpress-website-developer-course/</link>
@@ -363,24 +429,6 @@ Gatsby is a React-based, GraphQL powered static site generator. It combines toge
     </item>
     
     <item>
-      <title>C# Console and Windows Forms Development with LINQ &amp; ADO.NET</title>
-      <link>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</guid>
-      <description>Overview
-In this course, you will learn C# programming for desktop applications. This journey will have you becoming proficient in
-Visual Studio Interface and Shortcuts
-Console Application Development with C#
-Data Driven Graphical User Interface Applications using Windows Forms 
-Managing Databases with SQL Server Management Studio
-Developing User and Roles Management Interfaces and functions
-Using Utility Classes for cleaner code
-Developing Multi-Document Interface (MDI) Applications
-Applying Object Oriented Programming with C#</description>
-    </item>
-    
-    <item>
       <title>Modern PHP Web Development w/ MySQL, GitHub &amp; Heroku</title>
       <link>https://www.jobready.ml/modern-php-web-development-w/-mysql-github-heroku/</link>
       <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
@@ -402,17 +450,6 @@ behaviors and visualizations, building apps using the Splunk Web Framework, and 
 minutes. It is recommended that candidates for this certification complete the lecture, hands-on labs,
 and quizzes that are part of the Creating Dashboards with Splunk, Advanced Dashboards &amp;amp;
 Visualizations, Building Splunk Apps, and Developing with Splunk’s REST API courses in order to be</description>
-    </item>
-    
-    <item>
-      <title>Learn ASP.Net MVC and Entity Framework (Database First)</title>
-      <link>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</guid>
-      <description>Overview
-Using MVC, Entity Framework, and ASP.NET Scaffolding, we will go through building a small school management system while learning key concepts in ASP.NET MVC development. This course will show you how to leverage MVC&#39;s Scaffolding features to quickly construct data driven html pages and how to write queries to the database using .NET&#39;s famed Entity Framework with C#. UPDATED CONTENT 
-.NET Framework is nearing end of support from Microsoft.</description>
     </item>
     
     <item>
@@ -912,25 +949,6 @@ CSS Display Properties</description>
       
       <guid>https://www.jobready.ml/html-css-certification-course-for-beginners/</guid>
       <description>Welcome to the HTML &amp;amp; CSS – Certification Course for BeginnersThis two part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start with exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms.</description>
-    </item>
-    
-    <item>
-      <title>Build Laravel Applications fast using blueprint</title>
-      <link>https://www.jobready.ml/build-laravel-applications-fast-using-blueprint/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/build-laravel-applications-fast-using-blueprint/</guid>
-      <description>What you&#39;ll learn
-Initialization of a Laravel app using blueprint
-Building blueprint yml file
-Autocreation of migrations , models
-Autocreation of Controllers , and actions
-Autocreation of Mailable , Jobs , Events .. Change you whole way of thinking of Laravel application building
-Configure your blueprint to work better for you
-Increase development speed
-Promote Laravel conventions
-Move from your ERD to your fully-functioning Data Access Layer
-Get rid of repetitive tasks and routine debugging process</description>
     </item>
     
     <item>

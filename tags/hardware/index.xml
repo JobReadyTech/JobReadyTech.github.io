@@ -6,7 +6,11 @@
     <description>Recent content in Hardware on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.jobready.ml/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>FPGA UART communication protocol series Vol1</title>
       <link>https://www.jobready.ml/fpga-uart-communication-protocol-series-vol1/</link>

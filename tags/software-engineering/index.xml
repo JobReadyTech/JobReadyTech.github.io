@@ -6,7 +6,22 @@
     <description>Recent content in Software Engineering on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Oct 2021 23:13:24 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 01:39:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.jobready.ml/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java Collections Framework &#43; Generics, Lambdas &amp; Stream API</title>
+      <link>https://www.jobready.ml/java-collections-framework-generics-lambdas-stream-api/</link>
+      <pubDate>Wed, 01 Dec 2021 01:39:22 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/java-collections-framework-generics-lambdas-stream-api/</guid>
+      <description>From this course you can learn Java Collections Framework, together with Generics, Lambda Functions, Method References and Stream API. 
+There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding exercises 
+To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will have different practical tasks which will help you learn and understand Java better.</description>
+    </item>
+    
     <item>
       <title>GoF Design Patterns - Complete Course with Java Examples</title>
       <link>https://www.jobready.ml/gof-design-patterns-complete-course-with-java-examples/</link>
@@ -36,17 +51,6 @@ To learn programming it is not enough just watching videos and reading books. Yo
       
       <guid>https://www.jobready.ml/functional-programming-lambdas-method-references-streams/</guid>
       <description>From this course you can learn Functional Programming in Java with Lambda expressions (anonymous functions), Method references and Stream API. 
-There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding exercises 
-To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will have different practical tasks which will help you learn and understand Java better.</description>
-    </item>
-    
-    <item>
-      <title>Java Collections Framework &#43; Generics, Lambdas &amp; Stream API</title>
-      <link>https://www.jobready.ml/java-collections-framework-generics-lambdas-stream-api/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/java-collections-framework-generics-lambdas-stream-api/</guid>
-      <description>From this course you can learn Java Collections Framework, together with Generics, Lambda Functions, Method References and Stream API. 
 There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding exercises 
 To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will have different practical tasks which will help you learn and understand Java better.</description>
     </item>

@@ -6,7 +6,11 @@
     <description>Recent content in SAP on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Oct 2021 16:10:21 +0530</lastBuildDate><atom:link href="https://www.jobready.ml/tags/sap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Oct 2021 16:10:21 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.jobready.ml/tags/sap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>SAP Business Analytics Essential Training</title>
       <link>https://www.jobready.ml/sap-business-analytics-essential-training/</link>
