@@ -6,48 +6,15 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Dec 2021 01:42:26 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 01:44:24 +0530</lastBuildDate>
     
 	<atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Make Laravel and Laravel 8 APIs and Apps fast with blueprint</title>
-      <link>https://www.jobready.ml/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</link>
-      <pubDate>Wed, 01 Dec 2021 01:42:26 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</guid>
-      <description>What you&#39;ll learn
-Initialization of a Laravel app using blueprint
-Building blueprint yml file
-Autocreation of database migrations and eloquent models
-Autocreation of Controllers , and actions
-Autocreation of Mailable , Jobs , Events .. Change you whole way of thinking of Laravel and Laravel 8 apps building
-Configure your blueprint to work better for you
-Increase development speed
-Promote Laravel conventions
-Just think how your classes and objects should be in the oop way , and tell that to blueprint , and let it be built for you .</description>
-    </item>
-    
-    <item>
-      <title>Projelere  Doyamayacaksınız Sıfırdan Komple (PHP-MySQL-JS)</title>
-      <link>https://www.jobready.ml/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</link>
-      <pubDate>Wed, 01 Dec 2021 01:42:26 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</guid>
-      <description>Tüm Detaylar Web Sitemde
-
-Kursu Bitiren İlk 10 Öğrencimize ÜCRETSİZ HOSTİNG! Kampanyamız Mevcuttur !Toplamda 3 GB Disk Alanı Ve 10 Adet MySQL Tablo ve daha nice özelliklerle beraber fiyatı 150 ₺ olan hosting hizmeti kursu tamamlayıp sertifikasını alan ilk 10 arkadaşımıza hediye edilecektir.
-
-E-Ticaret&#39;e mi atılmak istiyorsunuz?
-PHP becerilerinizi artırmanız mı gerekiyor?
-Web programlama kursumuza hoşgeldiniz. Programlama temellerinden ileri seviye web programlama konusunda sizlerde aramıza katılarak harika projeler geliştirebilirsiniz.</description>
-    </item>
-    
-    <item>
       <title>C# Console and Windows Forms Development with LINQ &amp; ADO.NET</title>
       <link>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
-      <pubDate>Wed, 01 Dec 2021 01:42:25 +0530</pubDate>
+      <pubDate>Wed, 01 Dec 2021 01:44:24 +0530</pubDate>
       
       <guid>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</guid>
       <description>Overview
@@ -65,12 +32,45 @@ Applying Object Oriented Programming with C#</description>
     <item>
       <title>Learn ASP.NET MVC and Entity Framework (Database First)</title>
       <link>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</link>
-      <pubDate>Wed, 01 Dec 2021 01:42:25 +0530</pubDate>
+      <pubDate>Wed, 01 Dec 2021 01:44:24 +0530</pubDate>
       
       <guid>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</guid>
       <description>Overview
 Using MVC, Entity Framework, and ASP.NET Scaffolding, we will go through building a small school management system while learning key concepts in ASP.NET MVC development. This course will show you how to leverage MVC&#39;s Scaffolding features to quickly construct data driven html pages and how to write queries to the database using .NET&#39;s famed Entity Framework with C#. UPDATED CONTENT 
 .NET Framework is nearing end of support from Microsoft.</description>
+    </item>
+    
+    <item>
+      <title>Make Laravel and Laravel 8 APIs and Apps fast with blueprint</title>
+      <link>https://www.jobready.ml/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</link>
+      <pubDate>Wed, 01 Dec 2021 01:44:24 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</guid>
+      <description>What you&#39;ll learn
+Initialization of a Laravel app using blueprint
+Building blueprint yml file
+Autocreation of database migrations and eloquent models
+Autocreation of Controllers , and actions
+Autocreation of Mailable , Jobs , Events .. Change you whole way of thinking of Laravel and Laravel 8 apps building
+Configure your blueprint to work better for you
+Increase development speed
+Promote Laravel conventions
+Just think how your classes and objects should be in the oop way , and tell that to blueprint , and let it be built for you .</description>
+    </item>
+    
+    <item>
+      <title>Projelere  Doyamayacaksınız Sıfırdan Komple (PHP-MySQL-JS)</title>
+      <link>https://www.jobready.ml/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</link>
+      <pubDate>Wed, 01 Dec 2021 01:44:24 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</guid>
+      <description>Tüm Detaylar Web Sitemde
+
+Kursu Bitiren İlk 10 Öğrencimize ÜCRETSİZ HOSTİNG! Kampanyamız Mevcuttur !Toplamda 3 GB Disk Alanı Ve 10 Adet MySQL Tablo ve daha nice özelliklerle beraber fiyatı 150 ₺ olan hosting hizmeti kursu tamamlayıp sertifikasını alan ilk 10 arkadaşımıza hediye edilecektir.
+
+E-Ticaret&#39;e mi atılmak istiyorsunuz?
+PHP becerilerinizi artırmanız mı gerekiyor?
+Web programlama kursumuza hoşgeldiniz. Programlama temellerinden ileri seviye web programlama konusunda sizlerde aramıza katılarak harika projeler geliştirebilirsiniz.</description>
     </item>
     
     <item>
