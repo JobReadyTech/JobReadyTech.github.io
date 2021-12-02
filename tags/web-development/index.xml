@@ -6,10 +6,28 @@
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Dec 2021 15:38:35 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 02 Dec 2021 16:01:27 +0530</lastBuildDate>
     
 	<atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Identity and Access Management (IAM) Foundations</title>
+      <link>https://www.jobready.ml/aws-identity-and-access-management-iam-foundations/</link>
+      <pubDate>Thu, 02 Dec 2021 16:01:27 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/aws-identity-and-access-management-iam-foundations/</guid>
+      <description>Welcome to the AWS Identity and Access Management (IAM) Foundations Certification Course. In this course we will explore AWS Identity and Access Management (IAM). IAM is a very important part of understanding how to securely and efficiently manage the services and users within an AWS account. As defined by AWS, “AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. You use IAM to control who is authenticated (signed in) and authorized (has permissions) to use resources.</description>
+    </item>
+    
+    <item>
+      <title>The Complete ReactJs Course - Basics to Advanced (2021)</title>
+      <link>https://www.jobready.ml/the-complete-reactjs-course-basics-to-advanced-2021/</link>
+      <pubDate>Thu, 02 Dec 2021 16:01:27 +0530</pubDate>
+      
+      <guid>https://www.jobready.ml/the-complete-reactjs-course-basics-to-advanced-2021/</guid>
+      <description>What is this course about?The Complete React JS Course - Basics to Advanced this course is a complete guide for React JS. Here, you will learn all the concepts required for becoming a front-end React JS developer. If you are new to web development or a professional developer who&#39;s creating websites with plain old javascript or jQuery, this is your time to learn React JS and take your web development skills to the next level and impress your recruiter or clients.</description>
+    </item>
     
     <item>
       <title>Learn ASP.NET MVC and Entity Framework (Database First)</title>
@@ -297,15 +315,6 @@ Even if you already have some experience, or want to learn about the advanced fe
       <guid>https://www.jobready.ml/modern-javascript-for-react-js-es6./</guid>
       <description>Are you looking to extend your knowledge in Javascript programming by learning the concepts of modern javascript - ES6?If you want to start your journey to become a React or Angular developer, then this is the perfect course for you. 
 What&#39;s this course about?This course is specifically designed for those who want to get a quick start with Modern Javascript, especially ES6 concepts. It covers all the basic concepts of ES6: how the javascript has evolved, how to use its latest features that come under ES6 topics, what is babel, and how it is used to compile the ES6 code to make it browser compatible.</description>
-    </item>
-    
-    <item>
-      <title>The Complete ReactJs Course - Basics to Advanced (2021)</title>
-      <link>https://www.jobready.ml/the-complete-reactjs-course-basics-to-advanced-2021/</link>
-      <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/the-complete-reactjs-course-basics-to-advanced-2021/</guid>
-      <description>What is this course about?The Complete React JS Course - Basics to Advanced this course is a complete guide for React JS. Here, you will learn all the concepts required for becoming a front-end React JS developer. If you are new to web development or a professional developer who&#39;s creating websites with plain old javascript or jQuery, this is your time to learn React JS and take your web development skills to the next level and impress your recruiter or clients.</description>
     </item>
     
     <item>
