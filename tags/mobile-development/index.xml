@@ -2,47 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile Development on </title>
-    <link>https://www.jobready.ml/tags/mobile-development/</link>
+    <link>https://jobready.courseintern.com/tags/mobile-development/</link>
     <description>Recent content in Mobile Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Dec 2021 16:01:27 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Beginners guide to Android App Development (Step by Step)</title>
-      <link>https://www.jobready.ml/beginners-guide-to-android-app-development-step-by-step/</link>
-      <pubDate>Thu, 02 Dec 2021 16:01:27 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/beginners-guide-to-android-app-development-step-by-step/</guid>
-      <description>Welcome to our course &#34;A beginners guide to Android App Development (step by step)&#34;.
-A Beginner&#39;s Guide to Android App Development
-Looking to launch your own app on Google Play Store but don&#39;t know where to begin? Then here&#39;s your chance to learn the basics and build your skills in Android development. Before you read further, it is an essential prerequisite for a student to have a good understanding of Java (OOPs and Threads, in particular) The Android development course is a collection of Android Application Development tutorial videos.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 14 Jun 2022 21:22:58 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Android Widgets from Scratch ( Learn 8 Widgets)</title>
-      <link>https://www.jobready.ml/building-android-widgets-from-scratch-learn-8-widgets/</link>
-      <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
+      <link>https://jobready.courseintern.com/building-android-widgets-from-scratch-learn-8-widgets/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/building-android-widgets-from-scratch-learn-8-widgets/</guid>
-      <description>Welcome to our course 
-Learn How to build 8 Android Widgets right from scratch in just 2 hours
+      <guid>https://jobready.courseintern.com/building-android-widgets-from-scratch-learn-8-widgets/</guid>
+      <description>Welcome to our course Learn How to build 8 Android Widgets right from scratch in just 2 hours
 If you are an Android developer who has a good understanding of the application basics, then here&#39;s your chance to expand your Android knowledge and move to the next-level in Android development.
 In this course, you will learn how to build 8 commonly-used widgets on Android all on your own. The Instructor has opted for a hands-on approach to teaching these concepts.</description>
     </item>
     
     <item>
-      <title>The Android-Kotlin Development Guide [Arabic Edition]</title>
-      <link>https://www.jobready.ml/the-android-kotlin-development-guide-arabic-edition/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
+      <title>Flutter 1.2 with Firebase&amp;Stripe Build shop app from scratch</title>
+      <link>https://jobready.courseintern.com/flutter-1.2-with-firebasestripe-build-shop-app-from-scratch/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-android-kotlin-development-guide-arabic-edition/</guid>
+      <guid>https://jobready.courseintern.com/flutter-1.2-with-firebasestripe-build-shop-app-from-scratch/</guid>
+      <description>Course prerequisites:
+Basic knowledge in programming to get started Basic knowledge of Flutter
+Concepts are explained clearly. You will always learn what you&#39;re building and why, and then how to do it.
+How this course can be of help:
+Gaining more knowledge in Flutter and Firebase with payment gateway
+Learn how to make an online shopping application simply
+What&#39;s in the course:
+Complex UI has done simply
+State management
+Firebase</description>
+    </item>
+    
+    <item>
+      <title>The Android-Kotlin Development Guide</title>
+      <link>https://jobready.courseintern.com/the-android-kotlin-development-guide/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-android-kotlin-development-guide/</guid>
       <description>هذه الدورة المفصلة في المستوى الاول والثاني من الاندرويد بأستخدام كوتلن حيث افترض الشخص الذي امامي لا يعرف اي شي عن الاندرويد ستوديو
- ستتمكن من خلال هذه الدورة من الدخول الى عالم تطوير تطبيقات الاندرويد تتميز هذه الدورة بأنها مفصلة ولكن ليس فيها تشعبات وتفاصيل غير اساسية
-
+ستتمكن من خلال هذه الدورة من الدخول الى عالم تطوير تطبيقات الاندرويد تتميز هذه الدورة بأنها مفصلة ولكن ليس فيها تشعبات وتفاصيل غير اساسية
 لقد غطيت في هذه الدورة العديد من المواضيع مثل
 Layouts
 Res Files
@@ -51,52 +52,17 @@ View
 SetOnClickListener
 Intent
 WebView
-Ic Icon Luncher</description>
-    </item>
-    
-    <item>
-      <title>The Complete Flutter Development Guide [Arabic Edition]</title>
-      <link>https://www.jobready.ml/the-complete-flutter-development-guide-arabic-edition/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/the-complete-flutter-development-guide-arabic-edition/</guid>
-      <description>Notice: The Maximilian[Academind] course was adopted as a primary reference for this course ...
-ملاحظة: تم اعتماد دورة ماكس كمرجع اساسي لهذه الدورة...
-
-في هذه الدورة المتكاملة فلاتر [المرجع الشامل] افترض الشخص اللي امامي لا يعرف اي شيء عن الفلاتر وعن البرمجة التطبيقات اصلا
-سأخذك خطوة بخطوة من الصفر الى انشاء تطبيقات حقيقية للاندرويد والايفون
-
-Join the most comprehensive &amp;amp; bestselling Flutter course and learn how to build amazing iOS and Android apps!</description>
-    </item>
-    
-    <item>
-      <title>Android App Development Bootcamp with Kotlin - Masterclass</title>
-      <link>https://www.jobready.ml/android-app-development-bootcamp-with-kotlin-masterclass/</link>
-      <pubDate>Wed, 08 Sep 2021 18:43:42 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/android-app-development-bootcamp-with-kotlin-masterclass/</guid>
-      <description>*Printable online certificate available upon completion of course*
-Google considers Kotlin an official (first-class) android Developing Language
-Android has ruled the app market for the past decade, and developers are increasingly looking to start building their own Android apps. How to Build Android Apps with Kotlin starts with the building blocks of Android development, teaching you how to use Android Studio, the integrated development environment (IDE) for Android, with the programming language Kotlin for app development.</description>
-    </item>
-    
-    <item>
-      <title>Full Stack Mobile Application Development - Master Class</title>
-      <link>https://www.jobready.ml/full-stack-mobile-application-development-master-class/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/full-stack-mobile-application-development-master-class/</guid>
-      <description>There’s strong motivation for companies to find someone who can “do it all”. 
-This Course explores the features of full-stack mobile development environments and covers several core native and hybrid mobile alternatives and the factors that influence the selection of each platform.
-Full-stack mobile app development lies at the nexus of content and technology. Billions of people worldwide now use smartphones and tablets, which form the client side of the full-stack app.</description>
+Ic Icon Luncher
+APK
+PutExtra</description>
     </item>
     
     <item>
       <title>The Complete Dart Learning Guide</title>
-      <link>https://www.jobready.ml/the-complete-dart-learning-guide/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      <link>https://jobready.courseintern.com/the-complete-dart-learning-guide/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-complete-dart-learning-guide/</guid>
+      <guid>https://jobready.courseintern.com/the-complete-dart-learning-guide/</guid>
       <description>تم الانتهاء من تحديث دورة الدارت
 التحديثات شملت:
 ١- تحديث الاكواد المكتوبة في الدورة لتعمل على اخر اصدار في الدارت بدون مشاكل.
@@ -107,13 +73,107 @@ Full-stack mobile app development lies at the nexus of content and technology. B
     </item>
     
     <item>
-      <title>Artificial Intelligence in App Creation: Beginners Edition</title>
-      <link>https://www.jobready.ml/artificial-intelligence-in-app-creation-beginners-edition/</link>
-      <pubDate>Sat, 28 Aug 2021 01:50:08 +0530</pubDate>
+      <title>The Complete Dart Learning Guide [2022 Edition]</title>
+      <link>https://jobready.courseintern.com/the-complete-dart-learning-guide-2022-edition/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/artificial-intelligence-in-app-creation-beginners-edition/</guid>
-      <description>Welcome to the sixth course in Term 2 as part of the series &#34;MBA in Artificial Intelligence Digital Marketing&#34;.
+      <guid>https://jobready.courseintern.com/the-complete-dart-learning-guide-2022-edition/</guid>
+      <description>There are way too many programming languages and infinite use-cases for each one of them, every day developers are coming up with something new and we need to keep up with the flow.
+Both of these technologies are relatively new when you compare them to the most popular languages and frameworks, they have been looking over for some years now but I would consider this combo to be ahead of its time like if you sold an electric car in 1995.</description>
+    </item>
+    
+    <item>
+      <title>The Complete Flutter Development Guide [2022 Edition]</title>
+      <link>https://jobready.courseintern.com/the-complete-flutter-development-guide-2022-edition/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-complete-flutter-development-guide-2022-edition/</guid>
+      <description>Notice: The Maximilian[Academind] course was adopted as a primary reference for this course ...
+ملاحظة: تم اعتماد دورة ماكس كمرجع اساسي لهذه الدورة...
+*تم تحديث جميع تطبيقات الدورة لتدعم نسخة الفلاتر 2.5 في هذه الدورة المتكاملة فلاتر [المرجع الشامل] افترض الشخص اللي امامي لا يعرف اي شيء عن الفلاتر وعن البرمجة التطبيقات اصلا
+سأخذك خطوة بخطوة من الصفر الى انشاء تطبيقات حقيقية للاندرويد والايفون
+Join the most comprehensive &amp;amp; bestselling Flutter course and learn how to build amazing iOS and Android apps!</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in App Creation: Beginners Edition</title>
+      <link>https://jobready.courseintern.com/artificial-intelligence-in-app-creation-beginners-edition/</link>
+      <pubDate>Sat, 28 May 2022 20:32:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/artificial-intelligence-in-app-creation-beginners-edition/</guid>
+      <description>Welcome to experience the course &#34;Artificial Intelligence in App Creation: Beginners Edition&#34;.
 Today, Artificial Intelligence (AI), Machine Learning, and Deep Learning technologies are used in diverse fields as part of the daily life of large organizations across the globe. The rapid speed of AI growth demonstrates that it is a groundbreaking technology designed to transform the way people use devices and conduct business: achievements in unmanned aerial vehicles, the ability to beat people in chess and sporting games, automated customer service, and analytical systems - of course.</description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality Application Development with Unity 3D 2022</title>
+      <link>https://jobready.courseintern.com/augmented-reality-application-development-with-unity-3d-2022/</link>
+      <pubDate>Sun, 01 May 2022 16:38:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/augmented-reality-application-development-with-unity-3d-2022/</guid>
+      <description>Have you ever seen Augmented Reality Applications such as Games, Educational or E-commerce apps and thought, how these awesome Unity AR apps are made? How to learn AR?
+What if you can learn Augmented Reality (AR) app development from the basics while enjoying home comfort? But when you search online, the problem is, almost all AR Coding courses are outdated, created years ago and do not contain updated information.I am Yasas Sri Wickramasinghe, a lecturer, co-founder of an AR/VR startup and also a lead software engineer.</description>
+    </item>
+    
+    <item>
+      <title>افضل كورس شامل لتعلم تطوير تطبيقات الموبايل باستخدام فلاتر</title>
+      <link>https://jobready.courseintern.com/%D8%A7%D9%81%D8%B6%D9%84-%D9%83%D9%88%D8%B1%D8%B3-%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%81%D9%84%D8%A7%D8%AA%D8%B1/</link>
+      <pubDate>Sat, 30 Apr 2022 17:17:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/%D8%A7%D9%81%D8%B6%D9%84-%D9%83%D9%88%D8%B1%D8%B3-%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%81%D9%84%D8%A7%D8%AA%D8%B1/</guid>
+      <description>Welcome to the best Dart and Flutter Course في هذه الدوره سوف نغطي كل الاساسيات التي تحتاجها في لغه البرمجه دارت و اطار العمل فلاتر ,هذه الدوره من افضل الدورات الشامله لقد تم انشاء هذه الدوره وهدفها هو اعداد مطورين تطبيقات محترفين واعدادهم لسوق العمل وتحقيقي اهدافهم المستقبليهفي هذه الدوره لا تحتاج لخبره برمجيه سابقه لان في هذه الدوره تبدء معك من الصفر حتي تصبح مطور تطبيقات محترف الدوره مكونه من اكتر من كورس مجمعه في كورس واحد بدايه من مرحله المبتدئين بدون خبره وصولا الي مرحله مقدمه فلاتر عبارة عن إطار عمل تسطيع من خلاله بكود برمجي واحد إنشاء عديد من التطبيقات التي تعمل علي أنظمة مختلفة مثل الاندرويد والايفونسوف يتم البدء بشرح لغه دارت ف البدايه باستفاضيه وبعد ذلك سوف يتم شرح اطار العمل فلاتر سوف يتم شرح اطار العمل فلاتر عن طريق انشاء تطبيقات تفاعليه قويه يمكنك ان تضيفها الي سيرتك الذاتيهفي نهايه هذه الدوره سوف تكون قادر علي انشاء تطبيقات كامله وهذا سوف يمكنك من العمل كمبرمج حر او في احدي الشركات او تطوير تطبيقات والبدء بعملك الخاصسوف يتم اعدادك بحرفيه لسوق العمل واعداك لتصبح مطور تطبيقات متميز سوف تتعمل كتابه كود نظيف يمكن اعاده استخدامه واحتباره والتعديل عليه النصائح خلاصة خبرة قوية في مجال تطوير التطبيقات و خلاصة بناء تطبيقات قوية علي أرض الواقع.</description>
+    </item>
+    
+    <item>
+      <title>Beginners guide to Android App Development (Step by Step)</title>
+      <link>https://jobready.courseintern.com/beginners-guide-to-android-app-development-step-by-step/</link>
+      <pubDate>Tue, 19 Apr 2022 21:15:53 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/beginners-guide-to-android-app-development-step-by-step/</guid>
+      <description>Welcome to our course &#34;A beginners guide to Android App Development (step by step)&#34;.
+A Beginner&#39;s Guide to Android App Development
+Looking to launch your own app on Google Play Store but don&#39;t know where to begin? Then here&#39;s your chance to learn the basics and build your skills in Android development. Before you read further, it is an essential prerequisite for a student to have a good understanding of Java (OOPs and Threads, in particular) The Android development course is a collection of Android Application Development tutorial videos.</description>
+    </item>
+    
+    <item>
+      <title>Learn Flutter and Dart to create Android and IOS apps</title>
+      <link>https://jobready.courseintern.com/learn-flutter-and-dart-to-create-android-and-ios-apps/</link>
+      <pubDate>Tue, 19 Apr 2022 21:15:53 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-flutter-and-dart-to-create-android-and-ios-apps/</guid>
+      <description>You don&#39;t need to learn Android/ Java and iOS/ Swift to build real native mobile apps!
+Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is an SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so-called widgets) which you can use to compose your user interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Artificial Intelligence in App Creation (2022)</title>
+      <link>https://jobready.courseintern.com/advanced-artificial-intelligence-in-app-creation-2022/</link>
+      <pubDate>Fri, 15 Apr 2022 15:17:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/advanced-artificial-intelligence-in-app-creation-2022/</guid>
+      <description>Welcome to experience &#34;Advanced Artificial Intelligence in App Creation (2022)&#34;.
+Did you know? In the field of mobile applications and development, Artificial Intelligence remains to be the catalyst. Artificial Intelligence was immensely expanded at the beginning of 2019, as per the studies and reports made in the year, and it brought nearly $59 billion in expenditure, and this amount was almost three times more than in previous years. Artificial Intelligence has been actively making improvements in mobile growth and technology ever since.</description>
+    </item>
+    
+    <item>
+      <title>Android App Development Bootcamp with Kotlin - Masterclass</title>
+      <link>https://jobready.courseintern.com/android-app-development-bootcamp-with-kotlin-masterclass/</link>
+      <pubDate>Wed, 08 Sep 2021 18:43:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/android-app-development-bootcamp-with-kotlin-masterclass/</guid>
+      <description>*Printable online certificate available upon completion of course*
+Google considers Kotlin an official (first-class) android Developing Language
+Android has ruled the app market for the past decade, and developers are increasingly looking to start building their own Android apps. How to Build Android Apps with Kotlin starts with the building blocks of Android development, teaching you how to use Android Studio, the integrated development environment (IDE) for Android, with the programming language Kotlin for app development.</description>
+    </item>
+    
+    <item>
+      <title>Full Stack Mobile Application Development - Master Class</title>
+      <link>https://jobready.courseintern.com/full-stack-mobile-application-development-master-class/</link>
+      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/full-stack-mobile-application-development-master-class/</guid>
+      <description>There’s strong motivation for companies to find someone who can “do it all”. This Course explores the features of full-stack mobile development environments and covers several core native and hybrid mobile alternatives and the factors that influence the selection of each platform.
+Full-stack mobile app development lies at the nexus of content and technology. Billions of people worldwide now use smartphones and tablets, which form the client side of the full-stack app.</description>
     </item>
     
   </channel>

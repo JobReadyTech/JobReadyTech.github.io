@@ -2,32 +2,450 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engineering on </title>
-    <link>https://www.jobready.ml/tags/engineering/</link>
+    <link>https://jobready.courseintern.com/tags/engineering/</link>
     <description>Recent content in Engineering on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Oct 2021 16:10:21 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Jun 2022 20:43:25 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engineering Drawing / Graphics : Hands-on training</title>
-      <link>https://www.jobready.ml/engineering-drawing-/-graphics-hands-on-training/</link>
-      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
+      <link>https://jobready.courseintern.com/engineering-drawing-/-graphics-hands-on-training/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/engineering-drawing-/-graphics-hands-on-training/</guid>
-      <description>Students will be able to draw after instructors steps. As instructor has drawn with actual instruments of drawing learner will not get any difficulty to draw. Instructor will give learner step by step approach to draw various topics from engineering drawing/graphics. This course is for first year all branches engineering students, first year all branches polytechnic/diploma students and for 12th science students.  Ratings: 4.94/5
-Enrollments: 11524
-Coupon Code: TRAINING</description>
+      <guid>https://jobready.courseintern.com/engineering-drawing-/-graphics-hands-on-training/</guid>
+      <description>Students will be able to draw after instructors steps. As instructor has drawn with actual instruments of drawing learner will not get any difficulty to draw. Instructor will give learner step by step approach to draw various topics from engineering drawing/graphics. This course is for first year all branches engineering students, first year all branches polytechnic/diploma students and for 12th science students. Ratings: 4.39/5
+Enrollments: 29605
+Coupon Code: LEARNING3
+Current Price: FREE</description>
+    </item>
+    
+    <item>
+      <title>Aerospace Masterclass: Transonic Aerodynamics</title>
+      <link>https://jobready.courseintern.com/aerospace-masterclass-transonic-aerodynamics/</link>
+      <pubDate>Thu, 23 Jun 2022 19:44:39 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/aerospace-masterclass-transonic-aerodynamics/</guid>
+      <description>This transonic aerodynamics course focuses on the study of the flow of air about an aircraft, but many of the concepts explored are relevant to a wide variety of applications from regular cars to Formula 1 bolides. Students completing this aerodynamics course will gain advanced understanding of concepts and techniques used to aerodynamically analyze and design transonic aircraft.
+All transport aircrafts today are flying in with transonic speeds, so here you will learn everything you need to know for designing commercial aircraft such as Boeing or Airbus.</description>
+    </item>
+    
+    <item>
+      <title>Car Repair | Automotive Electrician and Mechanic Training |</title>
+      <link>https://jobready.courseintern.com/car-repair-automotive-electrician-and-mechanic-training/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/car-repair-automotive-electrician-and-mechanic-training/</guid>
+      <description>The Role of Electricity in the automobile in the past, electrical systems was basically stand-alone. For example, the ignition system was only responsible for supplying the voltage needed to fire the spark plugs. Ignition timing was controlled by vacuum and mechanical advance systems. Today there are very few electrical systems that are still independent. Today, most manufacturers network their electrical systems together through computers. This means that information gathered by one system can be used by another.</description>
+    </item>
+    
+    <item>
+      <title>Electrical  Engineering Interview Practice Questions</title>
+      <link>https://jobready.courseintern.com/electrical-engineering-interview-practice-questions/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/electrical-engineering-interview-practice-questions/</guid>
+      <description>Electrical engineering is a basic branch and one of oldest engineering branch. It includes generation , transmission and distribution of electricity. Many students of electrical branch aspire to get placed in core electrical companies. For this you must be well prepared with basics of electrical engineering. Students get confused about what to prepare and what not to. I have come up with a course of practice test for such aspiring students.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Radio Access Network (RAN) Technologies - 5G and 6G</title>
+      <link>https://jobready.courseintern.com/advanced-radio-access-network-ran-technologies-5g-and-6g/</link>
+      <pubDate>Tue, 07 Jun 2022 21:11:53 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/advanced-radio-access-network-ran-technologies-5g-and-6g/</guid>
+      <description>Advanced 5G and Beyond Potential Technologies – From Beginner to Expert
+The course cover topics such as mMTC, URLLC, IoT, OFDM Numerologies, 5G/6G waveforms, NOMA, OTFS, In-band Full-duplex, LiFi, mmWave, massive MIMO, etc.
+If you want to prepare yourself to work in Telecom companies, such as NOKIA, HUAWEI, SAMSUNG, APPLE, GOOGLE, FACEBOOK, MICROSOFT, ERICSSON, QUALCOMM, INTEL, ZTE, etc., or want to find new interesting research topics related to 5G, 6G, ad beyond wireless generations, then this course is just for you.</description>
+    </item>
+    
+    <item>
+      <title>Orthogonal Frequency Division Multiplexing (OFDM)</title>
+      <link>https://jobready.courseintern.com/orthogonal-frequency-division-multiplexing-ofdm/</link>
+      <pubDate>Tue, 07 Jun 2022 21:11:53 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/orthogonal-frequency-division-multiplexing-ofdm/</guid>
+      <description>Due to its numerous advantages, orthogonal frequency division multiplexing (OFDM) has been the most dominantly used transmission waveform in the vast majority of the currently available standards, such as WiFi, WiMax, DVB, LTE, and NB-IoT. Moreover, it should not be a surprise that the OFDM waveform (with its new parametrized waveforms to meet the diverse requirements of different emerging applications and services) has successfully maintained its dominance in 5G systems. It has been adopted due to its desirable properties and features, including higher spectral efficiency, robustness to multipath with simple equalization in the frequency domain, easy integration with MIMO systems, and multi-user diversity where time and frequency resources are flexibly scheduled among users based on their requirements and channel conditions.</description>
+    </item>
+    
+    <item>
+      <title>Test your Knowledge in Wireless Communications</title>
+      <link>https://jobready.courseintern.com/test-your-knowledge-in-wireless-communications/</link>
+      <pubDate>Tue, 07 Jun 2022 21:11:53 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/test-your-knowledge-in-wireless-communications/</guid>
+      <description>Test your Knowledge Level in Wireless Communications Field
+You will get two Practice Tests that enable you to examine your Knowledge in the Wireless Communications Field
+=============== Note that the exam is prepared based on the material presented in the course titled &#34;Wireless Communications: From Basics to Advanced&#34;, which can be accessed from our main page on Udemy.
+===============
+Wireless Communication Principles – Basics to Advanced.
+If you want to prepare yourself to work in companies like NOKIA, HUAWEI, SAMSUNG, APPLE, GOOGLE, FACEBOOK, MICROSOFT, ERICSSON, QUALCOMM, INTEL, ZTE, etc.</description>
+    </item>
+    
+    <item>
+      <title>Internal Combustion Engine Emissions &amp; Control</title>
+      <link>https://jobready.courseintern.com/internal-combustion-engine-emissions-control/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/internal-combustion-engine-emissions-control/</guid>
+      <description>Cars, trucks, buses, and off-road vehicles are all considered mobile sources of air pollution. Carbon monoxide, nitrogen oxides, and hydrocarbons are released when fuel burns in an internal combustion engine. They may also be released when vehicle tailpipes emit air and fuel residuals. Gasoline vapors also escape into the atmosphere during refueling and when fuel vaporizes from engines and fuel systems caused by vehicle operation or hot weather.
+The pollutants in engine emissions from vehicles and lawn equipment cause damage to lung tissue and can lead to and aggravate respiratory diseases, such as asthma.</description>
+    </item>
+    
+    <item>
+      <title>STAAD Pro V8 Structural design of R.C building from A to Z</title>
+      <link>https://jobready.courseintern.com/staad-pro-v8-structural-design-of-r.c-building-from-a-to-z/</link>
+      <pubDate>Fri, 20 May 2022 19:57:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/staad-pro-v8-structural-design-of-r.c-building-from-a-to-z/</guid>
+      <description>This course teaches you all the things required for the structural analysis and design of a R.C building. This course, as the title says, doesn&#39;t require you to have any prior experience in this software or any other structural design software. It will teach all the aspects of the software from very basic and will take you to the higher levels of the software as the course progresses. The course has been very systematically arranged so that you can best understand the software.</description>
+    </item>
+    
+    <item>
+      <title>Fundamental Question On PLC -&gt; beginning to Advanced Level</title>
+      <link>https://jobready.courseintern.com/fundamental-question-on-plc-beginning-to-advanced-level/</link>
+      <pubDate>Sun, 15 May 2022 20:40:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamental-question-on-plc-beginning-to-advanced-level/</guid>
+      <description>Dear Students,
+Are you preparing for Job Exam and Interview in programmable logic controller (PLC)?
+Don’t be stressed, Take our PLC Based Practice Test and prepare yourself for the Interview. Here we Discuss the Practical Questions on the PLC.
+Here we are going to build your confidence by Providing Practice Test on PLC based questions. There will be a series of practice Tests where you can test your Knowledge in the field of PLC.</description>
+    </item>
+    
+    <item>
+      <title>Water Supply System A-Z - Mechanical Engineering</title>
+      <link>https://jobready.courseintern.com/water-supply-system-a-z-mechanical-engineering/</link>
+      <pubDate>Sun, 15 May 2022 20:40:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/water-supply-system-a-z-mechanical-engineering/</guid>
+      <description>Hi! Welcome to our course. If you are starting to study the MECHANICAL ENGINEERING industry, you are on the right course!. This Course covers Full Water Supply System. it will build your knowledge slowly until you reach the point that you can understand Plumbing Fixtures, Pumping systems. And a full description of Pipes, Fittings, and Valves, and How to Design your system!
+In this course you&#39;ll Study : Plumbing Standard &amp;amp; Codes</description>
+    </item>
+    
+    <item>
+      <title>Autodesk Revit &amp; Robot Structural Analysis &#43; Sheets &#43; BOQ</title>
+      <link>https://jobready.courseintern.com/autodesk-revit-robot-structural-analysis--sheets--boq/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/autodesk-revit-robot-structural-analysis--sheets--boq/</guid>
+      <description>This course not just a tutorial on software Revit and Robot but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will design a 15 stories of a residential buildings, within the work we will define and design all types of slabs such as (waffle slab, one way ribbed slab, two way ribbed slab, flat slab and solid slab), all types of foundations such as (isolated,combined,strip and mat), earthquake loads, columns and beams and shear walls + Advanced lectures in Revit + Advanced lectures in Robot + design a swimming pool in Robot</description>
+    </item>
+    
+    <item>
+      <title>Civil Engineering Structural Shop Drawing in AutoCAD</title>
+      <link>https://jobready.courseintern.com/civil-engineering-structural-shop-drawing-in-autocad/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/civil-engineering-structural-shop-drawing-in-autocad/</guid>
+      <description>Part 1: Introduction for beginner civil engineers in manual calculation of structural elements Manual calculation of : 1- Slab thickness ( How we can determine manually the thickness of all types of slabs: waffles slabs type 1 and type 2, Ribbed slabs, Solid Slabs , and Flat Slabs + Show the properties advantages and disadvantages of these slabs) 2- Beams thickness interior and exterior beams in all types of slabs and how we can choose the optimized design of Slab- beams system</description>
+    </item>
+    
+    <item>
+      <title>Csi ETABS in the Structural analysis of 15 stories&#43; basement</title>
+      <link>https://jobready.courseintern.com/csi-etabs-in-the-structural-analysis-of-15-stories-basement/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/csi-etabs-in-the-structural-analysis-of-15-stories-basement/</guid>
+      <description>This course not just a tutorial on software ETABS but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will design a 15 stories of a residential buildings, within the work we will define and design all types of slabs such as (waffle slab, one way ribbed slab, two way ribbed slab, flat slab and solid slab), earthquake with static and dynamic case, wind loads, columns and beams and shear walls</description>
+    </item>
+    
+    <item>
+      <title>CSI Sap2000 3D building design &#43; all type of (Stairs&#43;Tanks)</title>
+      <link>https://jobready.courseintern.com/csi-sap2000-3d-building-design--all-type-of-stairs-tanks/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/csi-sap2000-3d-building-design--all-type-of-stairs-tanks/</guid>
+      <description>This course not just a tutorial on software Sap2000 but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will design a 15 stories of a residential buildings, within the work we will define and design all types of slabs such as (waffle slab, one way ribbed slab, two way ribbed slab, flat slab and solid slab), earthquake with static and dynamic case, wind loads, columns and beams and shear walls + Advanced lectures in ETABS + Advanced lecture in Sap2000 (design all types of Stairs + water tanks + 2D work) + Structural design of a Dome</description>
+    </item>
+    
+    <item>
+      <title>ETABS v19 &amp; SAFE v16 in Villa Structural Design in UAE&#43;CAD</title>
+      <link>https://jobready.courseintern.com/etabs-v19-safe-v16-in-villa-structural-design-in-uae-cad/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/etabs-v19-safe-v16-in-villa-structural-design-in-uae-cad/</guid>
+      <description>This course not just a tutorial on software ETABS and SAFE but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will design a 4 stories Villa in UAE, within the work we will show you how to select the best type of slab type for this Villa, also how to select the best type of foundation.</description>
+    </item>
+    
+    <item>
+      <title>Robot Structural Analysis (Steel Structure)</title>
+      <link>https://jobready.courseintern.com/robot-structural-analysis-steel-structure/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/robot-structural-analysis-steel-structure/</guid>
+      <description>This course not just a tutorial on software Robot but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will a &#34;Hangar&#34; steel structure with all steel structural element Rafters; Columns; Truss; Top Chord; Bottom Chord; Internal elements; Rail Sides; Beams; Wind Columns; Wind Beams; Bracing; Beam connection; Column connection; Purlins.</description>
+    </item>
+    
+    <item>
+      <title>Robot structural design 15 stories residential buildings</title>
+      <link>https://jobready.courseintern.com/robot-structural-design-15-stories-residential-buildings/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/robot-structural-design-15-stories-residential-buildings/</guid>
+      <description>This course not just a tutorial on Robot software but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will design a 15 stories of a residential buildings, within the work we will define and design all types of slabs such as (waffle slab, one way ribbed slab, two way ribbed slab, flat slab and solid slab), foundations, earthquake loads, columns and beams and shear walls + design a swimming pool in Robot</description>
+    </item>
+    
+    <item>
+      <title>Tekla structures Shop drawings Steel Structure</title>
+      <link>https://jobready.courseintern.com/tekla-structures-shop-drawings-steel-structure/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/tekla-structures-shop-drawings-steel-structure/</guid>
+      <description>Tekla structures is a building information modeling software able to model structures that incorporate different kinds of building materials, including steel, concrete, timber, and glass.
+Tekla structures the most advanced structural BIM software, lets you create, combine, manage and share multi-material 3D models packed with valuable construction information. With Tekla structures you can create accurate information-rich 3D models that have all the structural data you need to build and maintain any type of structure.</description>
+    </item>
+    
+    <item>
+      <title>Advanced ETABS V2019 52 stories Tower different seismic sys</title>
+      <link>https://jobready.courseintern.com/advanced-etabs-v2019-52-stories-tower-different-seismic-sys/</link>
+      <pubDate>Tue, 10 May 2022 20:12:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/advanced-etabs-v2019-52-stories-tower-different-seismic-sys/</guid>
+      <description>With the last version of ETABS (2019)
+First of all we will show the newest features in ETABS v19
+Part 1,2,3: learn structural design of R.C Tower 52 stories from A to Z included all structural element (columns, beams, slabs, foundations, shear walls, earthquake and wind design, check deflection) using different earthquake systems (Shear wall system, moment frame system, and dual system)
+Part 4 :we will use in this course viscous damper and show the benefit of using them and how we can model them into ETABS Also we will learn in this course what is outrigger and how we can define and modeling it into ETABS V19 and we will show the benefits of using outrigger in high rise building</description>
+    </item>
+    
+    <item>
+      <title>Autodesk Structural Robot R.C.C Villa Design in UAE</title>
+      <link>https://jobready.courseintern.com/autodesk-structural-robot-r.c.c-villa-design-in-uae/</link>
+      <pubDate>Tue, 10 May 2022 20:12:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/autodesk-structural-robot-r.c.c-villa-design-in-uae/</guid>
+      <description>This course not just a tutorial on Robot software but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will design a 4 stories Villa in UAE, within the work we will show you how to select the best type of slab type for this Villa, also how to select the best type of foundation.</description>
+    </item>
+    
+    <item>
+      <title>CSI ETABSV19 steel structure analysis and design</title>
+      <link>https://jobready.courseintern.com/csi-etabsv19-steel-structure-analysis-and-design/</link>
+      <pubDate>Tue, 10 May 2022 20:12:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/csi-etabsv19-steel-structure-analysis-and-design/</guid>
+      <description>This course not just a tutorial on software ETABS but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will a &#34;Hangar&#34; steel structure with all steel structural element Rafters; Columns; Truss; Top Chord; Bottom Chord; Internal elements; Rail Sides; Beams; Wind Columns; Wind Beams; Bracing; Beam connection; Column connection; Purlins.</description>
+    </item>
+    
+    <item>
+      <title>Csi Safe &#43; AllPile foundation, slabs, beams and deflection</title>
+      <link>https://jobready.courseintern.com/csi-safe--allpile-foundation-slabs-beams-and-deflection/</link>
+      <pubDate>Tue, 10 May 2022 20:12:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/csi-safe--allpile-foundation-slabs-beams-and-deflection/</guid>
+      <description>This course not just a tutorial on software ETABS and SAFE but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. Design all types of foundation shallow ( isolated, combined, strip and mat) + deep piles foundations + all types of slabs ( Waffles type 1 and 2 + Ribbed + Flat + Solid ) + design beams + Check deflection</description>
+    </item>
+    
+    <item>
+      <title>Revit structural drawing of 15 stories residential building</title>
+      <link>https://jobready.courseintern.com/revit-structural-drawing-of-15-stories-residential-building/</link>
+      <pubDate>Tue, 10 May 2022 20:12:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/revit-structural-drawing-of-15-stories-residential-building/</guid>
+      <description>Structural drawing of 15 stories residential buildings in Revit. In this course student will begin from zero to expert in structural drawing of all elements (columns, beams, slabs, shear walls, stairs and foundations) + draw reinforcement of all structural elements + create structural sheets + create BOQ tables. Student through this course will show and the commands needed with structural drawing of a project.
+Ratings: 4.28/5
+Enrollments: 7191
+Coupon Code: E15E14B723DAB7E3FB78</description>
+    </item>
+    
+    <item>
+      <title>Tekla Structures shop drawing R.C.C Building</title>
+      <link>https://jobready.courseintern.com/tekla-structures-shop-drawing-r.c.c-building/</link>
+      <pubDate>Tue, 10 May 2022 20:12:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/tekla-structures-shop-drawing-r.c.c-building/</guid>
+      <description>Tekla structures is a building information modeling software able to model structures that incorporate different kinds of building materials, including steel, concrete, timber, and glass.
+Tekla structures the most advanced structural BIM software, lets you create, combine, manage and share multi-material 3D models packed with valuable construction information. With Tekla structures you can create accurate information-rich 3D models that have all the structural data you need to build and maintain any type of structure.</description>
+    </item>
+    
+    <item>
+      <title>IEEE 1584-2018 | Guide for Performing Arc Flash Calculations</title>
+      <link>https://jobready.courseintern.com/ieee-1584-2018-guide-for-performing-arc-flash-calculations/</link>
+      <pubDate>Sun, 08 May 2022 16:10:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ieee-1584-2018-guide-for-performing-arc-flash-calculations/</guid>
+      <description>Welcome, Everyone!
+This is Abdur from AllumiaX Engineering headquartered in Seattle, Washington. We do power systems engineering for industrial commercial customers. And in this technical course, we&#39;re going to talk about the IEEE-1584 2018 published standard. It is the guide for performing arc flash hazard calculations. And I want to walk you through some of the things that we&#39;re going to cover in this technical course. So, let&#39;s get started.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Analysis using Arcgis</title>
+      <link>https://jobready.courseintern.com/spatial-analysis-using-arcgis/</link>
+      <pubDate>Wed, 04 May 2022 20:20:28 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/spatial-analysis-using-arcgis/</guid>
+      <description>تحليل المجالي اهم الخطوات في نظم المعلومات الجغرافية
+هل تجد كتب وأدلة نظم المعلومات الجغرافية والبيانات المكانية غامضة للغاية ومكلفة وغير عملية وتبحث عن دورة تأخذك بيدك وتعلمك كل المفاهيم وتبدأ في مشروع حقيقي؟
+أو ربما تريد توفير الوقت ومعرفة كيفية أتمتة بعض مهام نظم المعلومات الجغرافية الأكثر شيوعًا؟ أنا متحمس جدًا لأنك وجدت دورة تحليل البيانات المكانية الخاصة بي. توفر الدورة التدريبية الخاصة بي أساسًا لتنفيذ مهام تحليل البيانات المكانية العملية الواقعية في أطر البرامج المجانية والشائعة.</description>
+    </item>
+    
+    <item>
+      <title>Ultrasonic Testing Level 1 Training</title>
+      <link>https://jobready.courseintern.com/ultrasonic-testing-level-1-training/</link>
+      <pubDate>Fri, 29 Apr 2022 20:24:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ultrasonic-testing-level-1-training/</guid>
+      <description>This course teaches you how to perform ultrasonic inspection from beginning to end.
+The course provides you with Level 1 training in the fundamentals of Ultrasonic Testing methods. It will introduce you to the basic concepts and principles and includes hands-on training using Ultrasonic Testing equipment settings and functions.The Ultrasonic theories presented will provide the knowledge of Ultrasonic Testing required and enable you to work with individuals qualified and certified to gain needed experience for qualification as Level 1.</description>
+    </item>
+    
+    <item>
+      <title>Prokon Civil Engineering Structural Design R.C.C Element</title>
+      <link>https://jobready.courseintern.com/prokon-civil-engineering-structural-design-r.c.c-element/</link>
+      <pubDate>Tue, 26 Apr 2022 16:16:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/prokon-civil-engineering-structural-design-r.c.c-element/</guid>
+      <description>This course teaches you all the things required for the structural analysis and design of a r.c.c structural elements This course, as the title says, doesn&#39;t require you to have any prior experience in this software or any other structural design software. It will teach all the aspects of the software from very basic and will take you to the higher levels of the software as the course progresses. The course has been very systematically arranged so that you can best understand the software.</description>
+    </item>
+    
+    <item>
+      <title>STAAD Pro V8 Industrial Steel Warehouse Design from A to Z</title>
+      <link>https://jobready.courseintern.com/staad-pro-v8-industrial-steel-warehouse-design-from-a-to-z/</link>
+      <pubDate>Tue, 26 Apr 2022 16:16:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/staad-pro-v8-industrial-steel-warehouse-design-from-a-to-z/</guid>
+      <description>This course teaches you all the things required for the structural analysis and design of a steel warehouse building. This course, as the title says, doesn&#39;t require you to have any prior experience in this software or any other structural design software. It will teach all the aspects of the software from very basic and will take you to the higher levels of the software as the course progresses. The course has been very systematically arranged so that you can best understand the software.</description>
+    </item>
+    
+    <item>
+      <title>Importance of Power Quality in Power System</title>
+      <link>https://jobready.courseintern.com/importance-of-power-quality-in-power-system/</link>
+      <pubDate>Sat, 23 Apr 2022 14:41:13 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/importance-of-power-quality-in-power-system/</guid>
+      <description>We&#39;re going to talk about the importance of power quality in the power systems, we&#39;re going to talk about the causes of power quality, uncertain events from the utility end, generation, transmission, and distribution as well as from the consumer and the manufacturer end, the common power quality issues and parameters such as on the transient side, the voltage variation side, the unbalanced voltages, the flickers, the distorted waveforms, the thing called total harmonic distortion and what that means as well as power factor and varying frequency.</description>
+    </item>
+    
+    <item>
+      <title>Auto Mechanic Masterclass - Car Repair Training | CAMM&#43; 2022</title>
+      <link>https://jobready.courseintern.com/auto-mechanic-masterclass-car-repair-training-camm-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 18:10:15 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/auto-mechanic-masterclass-car-repair-training-camm-2022/</guid>
+      <description>*Get the Official Certificate after Completing the Course
+Learn car repair and be Car Mechanic. You will learn topics of car mechanics. Auto Mechanic Masterclass - CAMM+ 2022
+The heart of every car is its engine. It produces the power that turns the wheels and electricity for lights and other systems.
+Most automobiles are powered by an internal combustion engine. Fuel, usually gasoline or petrol, is burned with air to create gases that expand.</description>
+    </item>
+    
+    <item>
+      <title>Fundamental Question on RPA (Robotic Process Automation)</title>
+      <link>https://jobready.courseintern.com/fundamental-question-on-rpa-robotic-process-automation/</link>
+      <pubDate>Thu, 14 Apr 2022 18:10:15 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamental-question-on-rpa-robotic-process-automation/</guid>
+      <description>Dear Learners
+Are you Preparing for Interview in Robotic Process Automation? Don’t be stressed, take our Robotic Process Automation based quiz and prepare yourself for your Interview.
+With this Robotic Process Automation based Quiz, we are going to build your confidence by providing tips and trick to solve Robotic Process Automation based questions. In Robotic Process Automation based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in Robotic Process Automation.</description>
+    </item>
+    
+    <item>
+      <title>Fundamental Question on Robotics</title>
+      <link>https://jobready.courseintern.com/fundamental-question-on-robotics/</link>
+      <pubDate>Wed, 13 Apr 2022 19:15:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamental-question-on-robotics/</guid>
+      <description>Dear Learners
+Are you Preparing for Interview in Robotics? Don’t be stressed, take our Robotics based quiz and prepare yourself for your Interview.
+With this Robotics based Quiz, we are going to build your confidence by providing tips and trick to solve Robotics based questions. In Robotics based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in Robotics. Use it for training and keep yourself updated.</description>
+    </item>
+    
+    <item>
+      <title>American Petroleum Institute API PRACTICE QUESTIONS</title>
+      <link>https://jobready.courseintern.com/american-petroleum-institute-api-practice-questions/</link>
+      <pubDate>Tue, 22 Feb 2022 21:48:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/american-petroleum-institute-api-practice-questions/</guid>
+      <description>The American Petroleum Institute (API) is the largest U.S. trade association for the oil and natural gas industry. It claims to represent nearly 600 corporations involved in production, refinement, distribution, and many other aspects of the petroleum industry.
+The association describes its mission as to promote safety across the industry globally and influence public policy in support of a strong, viable U.S. oil and natural gas industry. API&#39;s chief functions on behalf of the industry include advocacy, negotiation and lobbying with governmental, legal, and regulatory agencies; research into economic, toxicological, and environmental effects; establishment and certification of industry standards; and education outreach.</description>
+    </item>
+    
+    <item>
+      <title>HVAC Chillers system inside District cooling plant</title>
+      <link>https://jobready.courseintern.com/hvac-chillers-system-inside-district-cooling-plant/</link>
+      <pubDate>Sun, 13 Feb 2022 16:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/hvac-chillers-system-inside-district-cooling-plant/</guid>
+      <description>Hi! Welcome to our course. If you are starting to study in the HVAC industry, or wished to gain more knowledge in an area that seems complicated and confusing to most people, you are on the right course!. This Course covers the Chilled water system in the district cooling plant and inside the building through heat exchangers, Air handling units, and FCU&#39;s, it will build your knowledge slowly until you reach the point that you can evaluating, selecting, and sizing chillers for a typical chiller plant.</description>
+    </item>
+    
+    <item>
+      <title>Fundamentals of Industry 4.0</title>
+      <link>https://jobready.courseintern.com/fundamentals-of-industry-4.0/</link>
+      <pubDate>Sun, 06 Feb 2022 11:27:03 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamentals-of-industry-4.0/</guid>
+      <description>Hi Friends,
+In this course we will start learning about Industry 4.0 which is actually the foundation of the digital transformation of the Industry. This course is beneficial for you in Starting Level. In this Course you learn all about the Industry 4.0 that How Industry 4.0 grow from Industry 1.0.
+The Content of the Course are:
+What is Industry 4.0?
+Industry 4.0: The Fourth Industrial Revolution
+Component of Industry 4.</description>
+    </item>
+    
+    <item>
+      <title>Learn ETABS &amp; SAFE in the Structural Design of 15 Stories RC</title>
+      <link>https://jobready.courseintern.com/learn-etabs-safe-in-the-structural-design-of-15-stories-rc/</link>
+      <pubDate>Thu, 03 Feb 2022 13:12:43 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-etabs-safe-in-the-structural-design-of-15-stories-rc/</guid>
+      <description>This course not just a tutorial on software ETABS and SAFE but it is a complete understanding about structural design analysis, how civil engineer must begin with the project, how he/she must think, how we can determine the dimension of the element before modeling them check it in the software. In this course we will design a 15 stories of a residential buildings, within the work we will define and design all types of slabs such as (waffle slab, one way ribbed slab, two way ribbed slab, flat slab and solid slab), all types of foundations such as (isolated,combined,strip and mat), earthquake with static and dynamic case, wind loads, columns and beams and shear walls + Advanced lectures in ETABS + Advanced lecture in SAFE and AllPile (design piles deep foundation of a tower of 25 stories) + design a swimming pool in ETABS</description>
+    </item>
+    
+    <item>
+      <title>Fundamentals of Electrical and Electronics</title>
+      <link>https://jobready.courseintern.com/fundamentals-of-electrical-and-electronics/</link>
+      <pubDate>Wed, 26 Jan 2022 21:30:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamentals-of-electrical-and-electronics/</guid>
+      <description>Dear Learners
+Are you Preparing for Interview in Electronics and Electrical Industry? Don’t be stressed, take our Electrical Engineering Course and prepare yourself for your Interview. In this Course You Understand the basic Concept of Electrical Engineering.
+WHAT IS FOR YOU?
+Knowledge of Electrical and Electronics is extremely valuable nowadays! In this Course you understand the Basic Concept of Electrical and Electronics Component. Here You Understand the Basic Concept of Current, Voltage, Energy and Power.</description>
+    </item>
+    
+    <item>
+      <title>Conceptos y aplicación del sistema HACCP</title>
+      <link>https://jobready.courseintern.com/conceptos-y-aplicaci%C3%B3n-del-sistema-haccp/</link>
+      <pubDate>Mon, 17 Jan 2022 21:46:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/conceptos-y-aplicaci%C3%B3n-del-sistema-haccp/</guid>
+      <description>Un sistema HACCP identifica y mejora el control de peligros significativos para la inocuidad de los alimentos. El objetivo del sistema HACCP es vigilar los puntos críticos de control (PCC). Al especificar los límites críticos para las medidas de control en los PCC y las medidas correctivas cuando no se cumplen los límites, y al producir registros que se revisan antes de la liberación del producto, el HACCP proporciona un control coherente y verificable que va más allá de lo que logran los PPR o Programas Pre requisitos.</description>
+    </item>
+    
+    <item>
+      <title>Esercizi Fisica: corso universitario/superiori</title>
+      <link>https://jobready.courseintern.com/esercizi-fisica-corso-universitario/superiori/</link>
+      <pubDate>Wed, 15 Dec 2021 12:00:39 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/esercizi-fisica-corso-universitario/superiori/</guid>
+      <description>DESCRIZIONE CORSO:
+Nella mia esperienza universitaria ho visto tantissimi studenti in difficoltà nel superare l&#39;esame di Fisica eppure se ci pensi più o meno abbiamo già affrontato vivendo, i vari argomenti affrontati nello studio di questa materia. Infatti il corso oltre a prepararti al fine di superare l&#39;esame ti permetterà di vedere con occhi diversi la realtà.
+Il corso è una raccolta di Esercizi. Gli esercizi proposti ti metteranno alla prova sulle conoscenze acquisite nella teorica iniziando con problemi semplici per prendere confidenza con le formule fino ad arrivare a svolgere esercizi di esame.</description>
+    </item>
+    
+    <item>
+      <title>Fundamental Question on Deep Learning</title>
+      <link>https://jobready.courseintern.com/fundamental-question-on-deep-learning/</link>
+      <pubDate>Sun, 12 Dec 2021 21:51:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamental-question-on-deep-learning/</guid>
+      <description>Preparing for Interview in Deep Learning? Don’t be stressed, take our Deep Learning based quiz questions and prepare your self for the interview. With this Deep Learning Quiz Questions, we are going to you build your confidence by providing tips and trick to solve Deep Learning based questions. Here you will get Deep Learning based Multiple Choice Questions and Answers for your next job or exam. In Deep Learning Multiple Choice Questions based practice tests, there will be a series of practice tests wherein you can test your Basic Deep Learning concepts on every Topic.</description>
+    </item>
+    
+    <item>
+      <title>Fundamental Question on Machine Learning</title>
+      <link>https://jobready.courseintern.com/fundamental-question-on-machine-learning/</link>
+      <pubDate>Sun, 12 Dec 2021 21:51:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamental-question-on-machine-learning/</guid>
+      <description>Preparing for Machine learning Interview? Don’t be stressed, take our Machine learning based quiz questions and prepare your self for the interview. With this Machine learning Quiz Questions, we are going to you build your confidence by providing tips and trick to solve Machine learning questions. Here you will get Machine learning General Multiple Choice Questions and Answers for your next job or exam. In Machine learning Multiple Choice Questions based practice tests, there will be a series of practice tests wherein you can test your Basic Machine learning concepts on every Topic.</description>
     </item>
     
     <item>
       <title>Fundamental Question on Linux (Part-1)</title>
-      <link>https://www.jobready.ml/fundamental-question-on-linux-part-1/</link>
+      <link>https://jobready.courseintern.com/fundamental-question-on-linux-part-1/</link>
       <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamental-question-on-linux-part-1/</guid>
+      <guid>https://jobready.courseintern.com/fundamental-question-on-linux-part-1/</guid>
       <description>Dear Students,
 Are you preparing for Job Exam and Interview in Linux?
 Don’t be stressed, take our Linux Based quiz and prepare yourself for the Interview.
@@ -36,21 +454,20 @@ With this Quiz, we are going to build your confidence by providing tips and tric
     
     <item>
       <title>Fundamental Question on Cryptography</title>
-      <link>https://www.jobready.ml/fundamental-question-on-cryptography/</link>
+      <link>https://jobready.courseintern.com/fundamental-question-on-cryptography/</link>
       <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamental-question-on-cryptography/</guid>
+      <guid>https://jobready.courseintern.com/fundamental-question-on-cryptography/</guid>
       <description>Dear Learners
-Are you Preparing for Interview in Cryptography? Don’t be stressed, take our Cryptography based quiz and prepare yourself for your Interview. 
-With this Cryptography based Quiz, we are going to build your confidence by providing tips and trick to solve Cryptography based questions. In these Cryptography based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in Cryptography.</description>
+Are you Preparing for Interview in Cryptography? Don’t be stressed, take our Cryptography based quiz and prepare yourself for your Interview. With this Cryptography based Quiz, we are going to build your confidence by providing tips and trick to solve Cryptography based questions. In these Cryptography based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in Cryptography.</description>
     </item>
     
     <item>
       <title>Fundamental Question on Cyber Security</title>
-      <link>https://www.jobready.ml/fundamental-question-on-cyber-security/</link>
+      <link>https://jobready.courseintern.com/fundamental-question-on-cyber-security/</link>
       <pubDate>Thu, 07 Oct 2021 11:25:05 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamental-question-on-cyber-security/</guid>
+      <guid>https://jobready.courseintern.com/fundamental-question-on-cyber-security/</guid>
       <description>Dear Learners
 Are you Preparing for Interview in Cyber Security? Don’t be stressed, take our Cyber Security based quiz and prepare yourself for your Interview.
 With this Cyber Security based Quiz, we are going to build your confidence by providing tips and trick to solve Cyber Security based questions. In Cyber Security based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in Cyber Security .</description>
@@ -58,84 +475,41 @@ With this Cyber Security based Quiz, we are going to build your confidence by pr
     
     <item>
       <title>Power Engineering Arc Flash Fundamentals</title>
-      <link>https://www.jobready.ml/power-engineering-arc-flash-fundamentals/</link>
+      <link>https://jobready.courseintern.com/power-engineering-arc-flash-fundamentals/</link>
       <pubDate>Thu, 07 Oct 2021 11:25:05 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/power-engineering-arc-flash-fundamentals/</guid>
+      <guid>https://jobready.courseintern.com/power-engineering-arc-flash-fundamentals/</guid>
       <description>Power Engineering Arc Flash Fundamentals is a comprehensive video course where you can learn how to do an arc flash analysis and developing an Arc Flash Safety Program for your business.
-
 I have handcrafted this course to allow students to acquire core fundamental knowledge on Arc Flash as well as the hazards associated with it and how to do Arc Flash Mitigation.
-
 If you are engineer, electrical worker or safety profession, you will find this course of great help to get the fundamental knowledge you need to kick start your professional career.</description>
     </item>
     
     <item>
-      <title>Fundamental Question on Ethical Hacking</title>
-      <link>https://www.jobready.ml/fundamental-question-on-ethical-hacking/</link>
-      <pubDate>Fri, 01 Oct 2021 09:38:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/fundamental-question-on-ethical-hacking/</guid>
-      <description>Dear Students,
-Are you Preparing for Interview in Ethical Hacking? Don’t be stressed, take our Ethical Hacking quiz and prepare yourself for the Interview.
-With this Ethical Hacking Quiz, we are going to build your confidence by providing tips and trick to solve Ethical Hacking based questions. Here you will get Ethical Hacking based MCQ for your next Job or exam. In Ethical Hacking Quiz, there will be a series of practice tests where you can test your Knowledge in the field of Ethical Hacking.</description>
-    </item>
-    
-    <item>
-      <title>American Petroleum Institute API PRACTICE QUESTIONS</title>
-      <link>https://www.jobready.ml/american-petroleum-institute-api-practice-questions/</link>
-      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/american-petroleum-institute-api-practice-questions/</guid>
-      <description>The American Petroleum Institute (API) is the largest U.S. trade association for the oil and natural gas industry. It claims to represent nearly 600 corporations involved in production, refinement, distribution, and many other aspects of the petroleum industry.
-The association describes its mission as to promote safety across the industry globally and influence public policy in support of a strong, viable U.S. oil and natural gas industry. API&#39;s chief functions on behalf of the industry include advocacy, negotiation and lobbying with governmental, legal, and regulatory agencies; research into economic, toxicological, and environmental effects; establishment and certification of industry standards; and education outreach.</description>
-    </item>
-    
-    <item>
-      <title>Fundamental Question on Machine Learning</title>
-      <link>https://www.jobready.ml/fundamental-question-on-machine-learning/</link>
-      <pubDate>Mon, 27 Sep 2021 18:04:22 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/fundamental-question-on-machine-learning/</guid>
-      <description>Preparing for Machine learning Interview? Don’t be stressed, take our Machine learning based quiz questions and prepare your self for the interview. With this Machine learning Quiz Questions, we are going to you build your confidence by providing tips and trick to solve Machine learning questions. Here you will get Machine learning General Multiple Choice Questions and Answers for your next job or exam. In Machine learning Multiple Choice Questions based practice tests, there will be a series of practice tests wherein you can test your Basic Machine learning concepts on every Topic.</description>
-    </item>
-    
-    <item>
-      <title>Ultrasonic Testing Level 1 Training</title>
-      <link>https://www.jobready.ml/ultrasonic-testing-level-1-training/</link>
-      <pubDate>Sun, 26 Sep 2021 19:50:26 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/ultrasonic-testing-level-1-training/</guid>
-      <description>This course teaches you how to perform ultrasonic inspection from beginning to end.
-The course provides you with Level 1 training in the fundamentals of Ultrasonic Testing methods. It will introduce you to the basic concepts and principles and includes hands-on training using Ultrasonic Testing equipment settings and functions.The Ultrasonic theories presented will provide the knowledge of Ultrasonic Testing required and enable you to work with individuals qualified and certified to gain needed experience for qualification as Level 1.</description>
-    </item>
-    
-    <item>
       <title>Fundamental Question on Electrical Engineering</title>
-      <link>https://www.jobready.ml/fundamental-question-on-electrical-engineering/</link>
+      <link>https://jobready.courseintern.com/fundamental-question-on-electrical-engineering/</link>
       <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamental-question-on-electrical-engineering/</guid>
+      <guid>https://jobready.courseintern.com/fundamental-question-on-electrical-engineering/</guid>
       <description>Dear Learners
-Are you Preparing for Interview in Electrical Engineering? Don’t be stressed, take our Electrical Engineering based quiz and prepare yourself for your Interview. 
-With this Electrical Engineering based Quiz, we are going to build your confidence by providing tips and trick to solve Electrical Engineering based questions. In Electrical Engineering based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in Electrical Engineering.</description>
+Are you Preparing for Interview in Electrical Engineering? Don’t be stressed, take our Electrical Engineering based quiz and prepare yourself for your Interview. With this Electrical Engineering based Quiz, we are going to build your confidence by providing tips and trick to solve Electrical Engineering based questions. In Electrical Engineering based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in Electrical Engineering.</description>
     </item>
     
     <item>
       <title>Simplilearn Arduino</title>
-      <link>https://www.jobready.ml/simplilearn-arduino/</link>
+      <link>https://jobready.courseintern.com/simplilearn-arduino/</link>
       <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/simplilearn-arduino/</guid>
+      <guid>https://jobready.courseintern.com/simplilearn-arduino/</guid>
       <description>Arduino is an open-source computer hardware/software platform for building digital devices and interactive objects that can sense and control the physical world around them. In this class you will learn how the Arduino platform works in terms of the physical board and libraries and the IDE (integrated development environment).
 Upon completing this course, you will be able to: 1. Outline the composition of the Arduino development board 2. Describe what it means to program the board&#39;s firmware 3.</description>
     </item>
     
     <item>
       <title>Fundamental Question on D.C. Machines</title>
-      <link>https://www.jobready.ml/fundamental-question-on-d.c.-machines/</link>
+      <link>https://jobready.courseintern.com/fundamental-question-on-d.c.-machines/</link>
       <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamental-question-on-d.c.-machines/</guid>
+      <guid>https://jobready.courseintern.com/fundamental-question-on-d.c.-machines/</guid>
       <description>Dear Learners
 Are you Preparing for Interview in D.C. Machines based Company? Don’t be stressed, take our D.C. Machines based quiz and prepare yourself for your Interview.
 With this D.C. Machines based Quiz, we are going to build your confidence by providing tips and trick to solve D.C. Machines based questions. In D.C. Machines based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in D.</description>
@@ -143,10 +517,10 @@ With this D.C. Machines based Quiz, we are going to build your confidence by pro
     
     <item>
       <title>Fundamental Question on Transformer</title>
-      <link>https://www.jobready.ml/fundamental-question-on-transformer/</link>
+      <link>https://jobready.courseintern.com/fundamental-question-on-transformer/</link>
       <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamental-question-on-transformer/</guid>
+      <guid>https://jobready.courseintern.com/fundamental-question-on-transformer/</guid>
       <description>Dear Learners
 Are you Preparing for Interview in Transformer based Company? Don’t be stressed, take our Transformer based quiz and prepare yourself for your Interview.
 With this Transformer based Quiz, we are going to build your confidence by providing tips and trick to solve Transformer based questions. In Transformer based Multiple Choice Questions Quiz, there will be a series of practice tests where you can test your Basic Knowledge in Transformer.</description>
@@ -154,22 +528,21 @@ With this Transformer based Quiz, we are going to build your confidence by provi
     
     <item>
       <title>IEC 61850 Communication Protocol Fundamentals</title>
-      <link>https://www.jobready.ml/iec-61850-communication-protocol-fundamentals/</link>
+      <link>https://jobready.courseintern.com/iec-61850-communication-protocol-fundamentals/</link>
       <pubDate>Fri, 10 Sep 2021 17:21:16 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/iec-61850-communication-protocol-fundamentals/</guid>
+      <guid>https://jobready.courseintern.com/iec-61850-communication-protocol-fundamentals/</guid>
       <description>IEC61850 Communication Protocol Fundamentals is a comprehensive video course where you can learn industry specific knowledge about the IEC61850 protocol standard such as that found in the utility industry.
-
 I have handcrafted this course to allow students to acquire core fundamental knowledge from cable component basic to calculating for simple cable installation designs.
 I will teach you the basic concepts of IEC61850 standard as well as the overall IEC61850 Data Model.</description>
     </item>
     
     <item>
       <title>How to build your own first Voice Assistant in Python</title>
-      <link>https://www.jobready.ml/how-to-build-your-own-first-voice-assistant-in-python/</link>
+      <link>https://jobready.courseintern.com/how-to-build-your-own-first-voice-assistant-in-python/</link>
       <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/how-to-build-your-own-first-voice-assistant-in-python/</guid>
+      <guid>https://jobready.courseintern.com/how-to-build-your-own-first-voice-assistant-in-python/</guid>
       <description>Hello and welcome to this class
 In this project you will learn how to build your first virtual assistant VA in python in less then 90 minutes.
 This is a great small project to get started (even if you have little or no prior knowledge in python) and learning opportunity.
@@ -179,63 +552,60 @@ In the world of today we all already use Virtual Assistants like Alexa, Siri, Go
     
     <item>
       <title>Nanotechnology Fundamentals - Most comperehensive NANOTECH</title>
-      <link>https://www.jobready.ml/nanotechnology-fundamentals-most-comperehensive-nanotech/</link>
+      <link>https://jobready.courseintern.com/nanotechnology-fundamentals-most-comperehensive-nanotech/</link>
       <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/nanotechnology-fundamentals-most-comperehensive-nanotech/</guid>
+      <guid>https://jobready.courseintern.com/nanotechnology-fundamentals-most-comperehensive-nanotech/</guid>
       <description>*Printable online certificate available upon completion of course*
 Nanotechnology is a field of research and innovation concerned with building &#39;things&#39; - generally, materials and devices - on the scale of atoms and molecules. A nanometre is one-billionth of a metre: ten times the diameter of a hydrogen atom. The diameter of a human hair is, on average, 80,000 nanometres. At such scales, the ordinary rules of physics and chemistry no longer apply.</description>
     </item>
     
     <item>
       <title>Learn Path Loss 5</title>
-      <link>https://www.jobready.ml/learn-path-loss-5/</link>
+      <link>https://jobready.courseintern.com/learn-path-loss-5/</link>
       <pubDate>Wed, 08 Sep 2021 11:28:16 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-path-loss-5/</guid>
+      <guid>https://jobready.courseintern.com/learn-path-loss-5/</guid>
       <description>You want to learn about network planning, especially the Access Network which is most fragile and ever changing part of the fixed and wireless network.
-
 I have been working in the transmission field since last twenty years and I found that there is no basic training of the most commonly used access planning software and the new comers in Transmission planning learn this tool through hit and trial. That is why they are never able to fully utilize their potential.</description>
     </item>
     
     <item>
       <title>Combined Heat and Power (CHP) Cogeneration Fundamentals</title>
-      <link>https://www.jobready.ml/combined-heat-and-power-chp-cogeneration-fundamentals/</link>
+      <link>https://jobready.courseintern.com/combined-heat-and-power-chp-cogeneration-fundamentals/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/combined-heat-and-power-chp-cogeneration-fundamentals/</guid>
+      <guid>https://jobready.courseintern.com/combined-heat-and-power-chp-cogeneration-fundamentals/</guid>
       <description>Combined Heat and Power (CHP) Cogeneration Fundamentals is a comprehensive video course where you can learn all about the concept of CHP and cogeneration that are essential in working in the industry.
-
 I have handcrafted this course to allow students to acquire core fundamental knowledge on cogeneration as well as how to apply it in the utility industry.
-
 If you are currently a professional who are interested working with Cogeneration plants, you will find this course of great help to get the fundamental knowledge you need to kick start your professional career.</description>
     </item>
     
     <item>
       <title>Crash Course on Civil Engineering and AutoCAD: Part 3</title>
-      <link>https://www.jobready.ml/crash-course-on-civil-engineering-and-autocad-part-3/</link>
+      <link>https://jobready.courseintern.com/crash-course-on-civil-engineering-and-autocad-part-3/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/crash-course-on-civil-engineering-and-autocad-part-3/</guid>
+      <guid>https://jobready.courseintern.com/crash-course-on-civil-engineering-and-autocad-part-3/</guid>
       <description>This incredible series-based crash course takes an amazing turn here in Part 3 as&amp;nbsp;&#34;New-age Environmental Engineering &amp;amp; Artificial Intelligence&#34; concepts are taught by Digital Marketing Legend &#34;Srinidhi Ranganathan&#34;&amp;nbsp;and Narmadha.M.
 Environmental Engineering is a professional engineering discipline that takes advantage of specific scientific topics such as chemistry, biology, geography, geology, hydraulics, hydrology, microbiology, and mathematics to create solutions that will preserve and also improve the health of living organisms and increase environmental quality.</description>
     </item>
     
     <item>
       <title>Intro to Biomedical Engineering - Nanodevices RAHBME282</title>
-      <link>https://www.jobready.ml/intro-to-biomedical-engineering-nanodevices-rahbme282/</link>
+      <link>https://jobready.courseintern.com/intro-to-biomedical-engineering-nanodevices-rahbme282/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/intro-to-biomedical-engineering-nanodevices-rahbme282/</guid>
+      <guid>https://jobready.courseintern.com/intro-to-biomedical-engineering-nanodevices-rahbme282/</guid>
       <description>Welcome to the Nanodevices course, brought to you by Rahsoft. In this course we will be going over the basics and fundamentals of nanodevices and nanosensors, as well as in-depth examples and practice problems to give you a better understanding of the field. The course is taught by Dennis Fer, a Biomedical Engineering Instructor at Rahsoft, and the course advisor is Ahsan Ghoncheh, the Co-Founder and Technical Advisor at Rahsoft.</description>
     </item>
     
     <item>
       <title>Introduction to Heat Transfer Engineering - RAHHT1 Rahsoft</title>
-      <link>https://www.jobready.ml/introduction-to-heat-transfer-engineering-rahht1-rahsoft/</link>
+      <link>https://jobready.courseintern.com/introduction-to-heat-transfer-engineering-rahht1-rahsoft/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/introduction-to-heat-transfer-engineering-rahht1-rahsoft/</guid>
+      <guid>https://jobready.courseintern.com/introduction-to-heat-transfer-engineering-rahht1-rahsoft/</guid>
       <description>Heat Transfer is one of the principle courses for all the university students who study in one of the branches of chemical engineering, mechanical engineering or materials engineering. This course which is placed at the beginning semesters of bachelor programs, is offered in two separate courses as heat transfer 1 &amp;amp; 2 each credited as 3 units. Having a full grasp over the concepts of heat transfer and fully understand the mechanisms of heat transfer in different situations is a must for any students studying the fields mentioned.</description>
     </item>
     

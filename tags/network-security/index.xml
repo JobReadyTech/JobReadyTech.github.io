@@ -2,60 +2,643 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network &amp; Security on </title>
-    <link>https://www.jobready.ml/tags/network-security/</link>
+    <link>https://jobready.courseintern.com/tags/network-security/</link>
     <description>Recent content in Network &amp; Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Oct 2021 13:42:24 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2022 19:44:39 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Security</title>
+      <link>https://jobready.courseintern.com/linux-security/</link>
+      <pubDate>Thu, 23 Jun 2022 19:44:39 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/linux-security/</guid>
+      <description>There are some basic things that you need to keep in mind as a Linux administrator if you want to keep your system fairly secure. By fairly secure, i mean that there&#39;s no malware or malicious users, who can easily get access to your systems.
+This course explains Linux Security Best Practices. What makes a good password? What can happen if you run scripts from the internet? Can an attacker can root at your system?</description>
+    </item>
     
-	<atom:link href="https://www.jobready.ml/tags/network-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open-Source Intelligence (OSINT)</title>
+      <link>https://jobready.courseintern.com/open-source-intelligence-osint/</link>
+      <pubDate>Thu, 23 Jun 2022 19:44:39 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/open-source-intelligence-osint/</guid>
+      <description>Open Source Intelligence (OSINT) is the art of researching via publicly available sources and then creating a report, which can be used for any number of applications. This can include, but is not limited to: Law Enforcement, Government and Military, Corporate Security or any other field that utilizes information. The information can come from anywhere on the internet. OSINT data can then be used to give support and credence to an investigation.</description>
+    </item>
     
+    <item>
+      <title>CISSP Practice Test</title>
+      <link>https://jobready.courseintern.com/cissp-practice-test/</link>
+      <pubDate>Wed, 22 Jun 2022 21:28:59 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/cissp-practice-test/</guid>
+      <description>Certified Information Systems Security Professional (CISSP) Practice Test
+500 Questions with accurate answers and full description
+CISSP is an independent information security certification granted by the International Information System Security Certification Consortium, also known as (ISC)². As of July 1, 2020 there are 141,607 (ISC)² members holding the CISSP certification worldwide, a fall of just over 500 since the start of the year.
+The most-esteemed cybersecurity certification in the world. The CISSP recognizes information security leaders who understand cybersecurity strategy, as well as hands-on implementation.</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking: Metasploit</title>
+      <link>https://jobready.courseintern.com/ethical-hacking-metasploit/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ethical-hacking-metasploit/</guid>
+      <description>This course teaches you the basics of metasploit, a popular hacking and exploitation tool. You will learn how to do basic port scanning and how to configure and run exploits. You&#39;ll also be able to create malicious executables that take over the targets computer. The course contains a demonstration of running an exploit that crashes a Windows 2000 computer. By the end of this course, you should be able to configure and run exploits, to run brute force password attacks and also to create malicious executables that give you complete remote control over the targets computer.</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking: Windows Exploitation Basics</title>
+      <link>https://jobready.courseintern.com/ethical-hacking-windows-exploitation-basics/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ethical-hacking-windows-exploitation-basics/</guid>
+      <description>In this course you will learn about hacking windows computer. By the end of this course you will be able to dump all usernames and passwords on a windows computer. You&#39;ll be able to create a malicious executable that gives you complete access over the targets computer. From there, you&#39;ll be able to browse the file system, download files, upload files, take screenshots, start video chat and much more. This is a beginners course.</description>
+    </item>
+    
+    <item>
+      <title>Network &#43; Practice Test</title>
+      <link>https://jobready.courseintern.com/network--practice-test/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/network--practice-test/</guid>
+      <description>Network + N10-007 Practice Test
+500 Questions with Accurate Answers
+Network+ is a computer networking certification that includes computer network concepts, installation and configuration, media and topologies, management, and security.
+This course comprises 5 sections and 44 lessons covering Network+. Each lesson includes a combination of Wikipedia readings, YouTube videos, and hands-on learning activities. The course assists learners in preparing for CompTIA Network+ Certification.
+This entire Wikiversity course can be downloaded in book form by selecting Download Learning Guide in the sidebar.</description>
+    </item>
     
     <item>
       <title>Practical Cisco Networking Labs in Cisco Packet Tracer</title>
-      <link>https://www.jobready.ml/practical-cisco-networking-labs-in-cisco-packet-tracer/</link>
-      <pubDate>Sat, 16 Oct 2021 13:42:24 +0530</pubDate>
+      <link>https://jobready.courseintern.com/practical-cisco-networking-labs-in-cisco-packet-tracer/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/practical-cisco-networking-labs-in-cisco-packet-tracer/</guid>
+      <guid>https://jobready.courseintern.com/practical-cisco-networking-labs-in-cisco-packet-tracer/</guid>
       <description>This course&#39;s goal is to teach you some of the most important computer networking concepts, but also provide practical, real-life scenario labs &amp;amp; guide you through configuring those successfully. Some of the labs come from CCNA, but they&#39;re mostly original topologies I created for my Computer Networking students. They were very successful so I decided to post them on Udemy as well. Hope you will find them useful and feel free to send ideas on additional labs I might add!</description>
     </item>
     
     <item>
-      <title>CheckPoint-NGFW Security : Basic Introduction</title>
-      <link>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</link>
-      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
+      <title>Security &#43; Practice Test</title>
+      <link>https://jobready.courseintern.com/security--practice-test/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/checkpoint-ngfw-security-basic-introduction/</guid>
+      <guid>https://jobready.courseintern.com/security--practice-test/</guid>
+      <description>Security + SY0-601
+500 questions with accurate answers
+The Security+ certification, part of the organization&#39;s suite of certifications, provides an entry level certification for security.[1] The Security+ certification is widely considered one of the top entry level certifications because of it&#39;s low cost, comprehensive content, and worldwide recognition. Of the Business News Daily&#39;s top 5 security certifications, Security+ is the cheapest exam and is the third most employed certification. While two years of experience is recommended, it is not required to take the exam or become Security+ certified.</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking: SQL Injection for Beginners</title>
+      <link>https://jobready.courseintern.com/ethical-hacking-sql-injection-for-beginners/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ethical-hacking-sql-injection-for-beginners/</guid>
+      <description>What is sql injection?
+A SQL injection is an attack in which the attacker sends a specially crafted SQL query (statement), to a database server and modifies the database as desired. An SQL injection occurs when user input is improperly sanitized before being used in an SQL query.
+The vulnerability can be exploited by providing input via the user interface, or through hidden fields; however, if user input is used for parameters such as a name or an id, those parameters should be validated as well to make sure that no invalid input is used.</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking: Introduction to Exploits</title>
+      <link>https://jobready.courseintern.com/ethical-hacking-introduction-to-exploits/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:46 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ethical-hacking-introduction-to-exploits/</guid>
+      <description>In a corner of the internet where there are no rules, there is a group of people who do not play by the rules. These are the hackers and crackers who cross lines and get away with it.
+It&#39;s been around for a long time. There are entire generations of hackers that merely know how to utilize exploits; So what is an exploit?
+In the security software industry, an exploit is a piece of software, a chunk of data, or a sequence of commands that takes advantage of a bug or vulnerability in order to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic (usually computerized).</description>
+    </item>
+    
+    <item>
+      <title>5G Open RAN (O-RAN) and Private Networks for Beginners</title>
+      <link>https://jobready.courseintern.com/5g-open-ran-o-ran-and-private-networks-for-beginners/</link>
+      <pubDate>Tue, 07 Jun 2022 21:11:53 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/5g-open-ran-o-ran-and-private-networks-for-beginners/</guid>
+      <description>Open RAN (O-RAN, ORAN) and Private 4G / 5G Networks
+In this course, you will mainly learn two things: 1) Learn the Open RAN Concepts, Architectures, Interfaces, and the details related to them.
+2) Learn how to build 4G &amp;amp; 5G networks using open-source Open RAN software and general-purpose, COTS hardware.
+If you want to prepare yourself to build practical, and fully open telecom equipment, software programs, and end-to-end 4G/5G systems alternative and competitive to those produced by conventional Telecom companies, such as NOKIA, HUAWEI, SAMSUNG, ERICSSON, ZTE, etc.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security: Secure Passwords on Linux</title>
+      <link>https://jobready.courseintern.com/cyber-security-secure-passwords-on-linux/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/cyber-security-secure-passwords-on-linux/</guid>
+      <description>Passwords play an important role in our digital lives. 87% of the Americans re-use passwords. Many online users get hacked with bad consequences. What can you do to make yourself more secure?
+In this course you will learn about various ways to secure your passwords. From a hackers view you will learn which methods are safer than others. The course contains demonstrations that shows how a hacker might get access to the passwords.</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking: nmap in depth</title>
+      <link>https://jobready.courseintern.com/ethical-hacking-nmap-in-depth/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ethical-hacking-nmap-in-depth/</guid>
+      <description>When it comes to hacking, knowledge is power. So how do you get more knowledge about your target system? One answer is nmap, a command line tool for Ethical Hackers.
+nmap (“network mapper”) is a security scanner (port scanner) tool for *nix based operating systems. The program attempts to determine which ports on the machine listening and which services (application name and version) the machine is offering information. nmap offers a number of features, including the following:</description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering .NET For Beginners (Visual Basic)</title>
+      <link>https://jobready.courseintern.com/reverse-engineering-.net-for-beginners-visual-basic/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/reverse-engineering-.net-for-beginners-visual-basic/</guid>
+      <description>In This Course , You Will Learn .NET Reverse Engineering From Beginning. If You Are Completely New In Reverse Engineering &amp;amp; Want To Learn .NET Reverse Engineering With Full Practical Guide &amp;amp; Concepts , Then This Course Is For You. You Will Learn Step By Step Concepts , Logic &amp;amp; Operations In This Course. Also In This Course , I Have Taught How To Solve CrackMe Programs &amp;amp; How To Make Own Activator For Them.</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Introduction to Cyber Security</title>
+      <link>https://jobready.courseintern.com/comprehensive-introduction-to-cyber-security/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/comprehensive-introduction-to-cyber-security/</guid>
+      <description>Through this course, we will give you a comprehensive introduction to Cyber Security.
+If you already have computer prerequisites, this will undoubtedly be useful, but it is not mandatory.
+Indeed, we will explain all the technical concepts, the level will therefore always be accessible to all.
+In the first chapter, we first discuss the landscape and share some real-world observations.
+We will highlight the rise of sophisticated and targeted attacks and we will see that well-funded states are capable of compromising any system.</description>
+    </item>
+    
+    <item>
+      <title>Awesome Pivoting - Pivot through Network like a BOSS</title>
+      <link>https://jobready.courseintern.com/awesome-pivoting-pivot-through-network-like-a-boss/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/awesome-pivoting-pivot-through-network-like-a-boss/</guid>
+      <description>This course is aimed at beginners who want to learn hacking and pentesting from basics
+Also this course helps in Buffer overflows also goes in depth
+After this course , you will have good understanding of how to approach a machine and you can develop your own methodology Active Directory Fundamentals and Pentesting AD will be added soon This paragraph tells you essence of cybersecurity Use of cyberspace, i.e. computer, internet, cellphone, other technical devices, etc.</description>
+    </item>
+    
+    <item>
+      <title>Fundamentos da Criptografia, Esteganografia e Criptoanálise</title>
+      <link>https://jobready.courseintern.com/fundamentos-da-criptografia-esteganografia-e-criptoan%C3%A1lise/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamentos-da-criptografia-esteganografia-e-criptoan%C3%A1lise/</guid>
+      <description>Criptografia está na moda. Desde a preocupação com a privacidade no WhatsApp até as operações com Bitcoins, uma entre as muitas criptomoedas, a criptografia faz parte da vida de todos que usam equipamentos modernos de telecomunicações ou se comunicam por computador.
+Na verdade, a criptografia ultrapassa as TICs (Tecnologias da Informação e Comunicação), pois você também a encontra codificando chaves de veículos, o acionamento remoto das portas de garagem e também encontra a criptografia na comunicação entre membros do crime organizado.</description>
+    </item>
+    
+    <item>
+      <title>CompTIA Cybersecurity Analyst (CySA&#43;) Practice Exam</title>
+      <link>https://jobready.courseintern.com/comptia-cybersecurity-analyst-cysa-practice-exam/</link>
+      <pubDate>Tue, 24 May 2022 21:50:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/comptia-cybersecurity-analyst-cysa-practice-exam/</guid>
+      <description>If you are preparing for CompTIA Cybersecurity Analyst (CySA+) certification exam and looking for best resources then these practice tests are just for you. Practice tests play a vital role in passing IT certification in first attempt and CompTIA Cybersecurity Analyst (CySA+) is no exception. If you want to pass this in-demand cloud certification then these topic-wise practice tests are a must have.
+While there are many CompTIA Cybersecurity Analyst (CySA+) practice tests you can find here in Udemy and other online platforms but there is not many which help you with individual topics.</description>
+    </item>
+    
+    <item>
+      <title>NGINX Web Server from Scratch</title>
+      <link>https://jobready.courseintern.com/nginx-web-server-from-scratch/</link>
+      <pubDate>Tue, 24 May 2022 21:50:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/nginx-web-server-from-scratch/</guid>
+      <description>In this course I will show you how to quickly and easily master NGINX.
+NGINX is now considered the most powerful, efficient, and secure web server used to host web applications of all sizes and complexity. It assists over 40% of the world’s busiest websites in delivering content more rapidly to its users. It is recognized for its rich feature set, high stability, easy configuration, low resource consumption, and performance.</description>
+    </item>
+    
+    <item>
+      <title>Burp Suite Basics</title>
+      <link>https://jobready.courseintern.com/burp-suite-basics/</link>
+      <pubDate>Wed, 18 May 2022 20:03:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/burp-suite-basics/</guid>
+      <description>Have you always wanted to learn how to do use Burp Suite but don’t know where to start? Would you like to learn how to use Burp Suite? Then Burp Suite Basics is for you! Hi, I’m your instructor Josh Werner and I’ll be leading you through this course. Burp Suite is a in-demand skill in 2021. The course begins with the basics. We’ll Cover everything you need to know about Burp Suite Basics from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Ethical Hacking: Linux Privilege Escalation</title>
+      <link>https://jobready.courseintern.com/ethical-hacking-linux-privilege-escalation/</link>
+      <pubDate>Wed, 18 May 2022 20:03:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ethical-hacking-linux-privilege-escalation/</guid>
+      <description>In this course you will learn Linux privilege escalation. So what is that?
+On a Linux system there are two kinds of users: regular users and root (administrator users). If there are misconfigurations in the Linux system, you are able to change your user: become another user (horizontal escalation) or even become root (vertical escalation). If you have initial access to a Linux system, but want to become administrator or get access to other Linux accounts, it&#39;s possible that you can get that access.</description>
+    </item>
+    
+    <item>
+      <title>IP Addressing and Subnetting - Zero to Hero</title>
+      <link>https://jobready.courseintern.com/ip-addressing-and-subnetting-zero-to-hero/</link>
+      <pubDate>Sun, 15 May 2022 20:40:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ip-addressing-and-subnetting-zero-to-hero/</guid>
+      <description>As a computer science teacher, I noticed that IP addressing was one of the most intimidating topics for my students, and yet, it&#39;s so simple for those who truly get to understand it.
+My goal here was to create a course that is as simple as possible, and therefore, easy to understand for everyone, including those who are just beginning their journey into computer networks. One thing I added (that I haven&#39;t seen in the other courses) is summarization - this topic may not be interesting to beginners, but if you plan on getting familiar with advanced routing techniques, you may want to practice summarization.</description>
+    </item>
+    
+    <item>
+      <title>CompTIA Network&#43; (N10-007) Practice Exam</title>
+      <link>https://jobready.courseintern.com/comptia-network-n10-007-practice-exam/</link>
+      <pubDate>Fri, 13 May 2022 20:18:18 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/comptia-network-n10-007-practice-exam/</guid>
+      <description>If you are preparing for CompTIA Network+ (N10-007) certification exam in 2022 and looking for best resources then these practice tests are just for you. Practice tests play a vital role in passing IT certification in first attempt and CompTIA Network+ (N10-007) is no exception. If you want to pass this in-demand cloud certification then these topic-wise practice tests are a must have.
+While there are many CompTIA Network+ (N10-007) practice tests you can find here in Udemy and other online platforms but there is not many which help you with individual topics.</description>
+    </item>
+    
+    <item>
+      <title>Fundamental Question on Ethical Hacking</title>
+      <link>https://jobready.courseintern.com/fundamental-question-on-ethical-hacking/</link>
+      <pubDate>Fri, 13 May 2022 20:18:18 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamental-question-on-ethical-hacking/</guid>
+      <description>Dear Students,
+Are you Preparing for Interview in Ethical Hacking? Don’t be stressed, take our Ethical Hacking quiz and prepare yourself for the Interview.
+With this Ethical Hacking Quiz, we are going to build your confidence by providing tips and trick to solve Ethical Hacking based questions. Here you will get Ethical Hacking based MCQ for your next Job or exam. In Ethical Hacking Quiz, there will be a series of practice tests where you can test your Knowledge in the field of Ethical Hacking.</description>
+    </item>
+    
+    <item>
+      <title>AppArmor - Linux Security</title>
+      <link>https://jobready.courseintern.com/apparmor-linux-security/</link>
+      <pubDate>Thu, 05 May 2022 17:34:36 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/apparmor-linux-security/</guid>
+      <description>In this course you will learn how to use AppArmor.
+AppArmor lets you control whats apps can do. You can decide if an app is allowed to access the internet, if its allowed to read your home directory, your system files, to write files or anything else.
+By taking this course you&#39;ll be able to increase the security of your Linux system. You will need Ubuntu Linux or OpenSuse Linux for this course.</description>
+    </item>
+    
+    <item>
+      <title>Xamarin básico: Una introducción al SDK de Microsoft</title>
+      <link>https://jobready.courseintern.com/xamarin-b%C3%A1sico-una-introducci%C3%B3n-al-sdk-de-microsoft/</link>
+      <pubDate>Wed, 04 May 2022 20:20:29 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/xamarin-b%C3%A1sico-una-introducci%C3%B3n-al-sdk-de-microsoft/</guid>
+      <description>Con este curso se pretende que tu adquieras las bases necesarias para iniciarte en el
+desarrollo de aplicaciones móviles, haciendo uso de Xamarin forms y C# como lenguaje de programación.
+-Durante el curso contaras con asesoría personalizada constante por parte del instructor.
+-Aprenderás las bases de Xamarin forms.
+-Aprenderás las bases de C#.
+-Aprenderás los principales organizadores de componentes.
+-Realizaremos un lector de códigos QR.
+-Aprenderás sobre procesos asíncronos.
+-Aprenderás el diseño de interfaces con xaml.</description>
+    </item>
+    
+    <item>
+      <title>Secure your Linux VPS</title>
+      <link>https://jobready.courseintern.com/secure-your-linux-vps/</link>
+      <pubDate>Tue, 03 May 2022 12:48:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/secure-your-linux-vps/</guid>
+      <description>In this course you will learn how to secure your Linux server from attacks. It goes over the basics like pub/prv keys, fail2ban, firewalls and other things. This course is for you if you are a Linux beginner. You will need a Linux VPS in the Cloud, but no other requirements.
+Ratings: 4.24/5
+Enrollments: 5943
+Coupon Code: SIBLING
+Current Price: FREE
+Enroll Now: Click Here </description>
+    </item>
+    
+    <item>
+      <title>Python for Penetration Testers</title>
+      <link>https://jobready.courseintern.com/python-for-penetration-testers/</link>
+      <pubDate>Mon, 02 May 2022 21:40:19 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-for-penetration-testers/</guid>
+      <description>You&#39;re a programmer and you want to get into cybersecurity. You&#39;re in the right place because this course will teach you how to combine or use Python programming to greatly expand your skills as a cybersecurity professional.
+Penetration testers and cybersecurity analysts often get into the situation of having to do repetitive work that takes away precious time from their active focus. Examples of such situations can be scanning targets, doing intensive enumeration, subdomain discovery, reconnaissance, and more.</description>
+    </item>
+    
+    <item>
+      <title>CompTIA Cybersecurity Analyst (CySA&#43;) Practice Questions</title>
+      <link>https://jobready.courseintern.com/comptia-cybersecurity-analyst-cysa-practice-questions/</link>
+      <pubDate>Fri, 29 Apr 2022 20:24:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/comptia-cybersecurity-analyst-cysa-practice-questions/</guid>
+      <description>[October 2021 Updated]: Latest exam questions added.
+Finally! Pass the CompTIA Cybersecurity Analyst (CySA+) exam in just 1 week with a 100% money-back guarantee.
+Preparing for your CompTIA Cybersecurity Analyst (CySA+) certification? Assess your knowledge of topics on the exam with these practice test questions.
+The purpose of this Practice Question Set is to help you pass the CompTIA Cybersecurity Analyst (CySA+) exam. These practice questions will make you very familiar with both the type and the difficulty level of the questions on the CompTIA Cybersecurity Analyst (CySA+) certification test.</description>
+    </item>
+    
+    <item>
+      <title>Learn Ethical Hacking &amp; Reverse Engineering</title>
+      <link>https://jobready.courseintern.com/learn-ethical-hacking-reverse-engineering/</link>
+      <pubDate>Fri, 29 Apr 2022 20:24:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-ethical-hacking-reverse-engineering/</guid>
+      <description>If you want to learn ethical hacking &amp;amp; also reverse engineering the fun and easy way like playing a computer game, then this course is for you. There exists on the Internet several websites which allows people to hack and also to reverse software. These websites typically have different levels from easy to advanced. By solving each level and gradually levelling up, you will learn hacking and reversing. All you need is a PC.</description>
+    </item>
+    
+    <item>
+      <title>Secure coding guide for Developers, Analysts and Architects</title>
+      <link>https://jobready.courseintern.com/secure-coding-guide-for-developers-analysts-and-architects/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/secure-coding-guide-for-developers-analysts-and-architects/</guid>
+      <description>Whoami?
+My name is Wesley Thijs, I&#39;ve been a PHP programmer for 3 years and I&#39;ve worked with windev to create AS-400 GUI&#39;s. I am nowhere near an expert in coding but I do know my security. As an ethical hacker, it is my mission to bring about a safer internet for all. I could do this alone but it&#39;s much better to train the people who need it and build in security from the ground up.</description>
+    </item>
+    
+    <item>
+      <title>2022 Beginner&#39;s guide to Cyber Security</title>
+      <link>https://jobready.courseintern.com/2022-beginners-guide-to-cyber-security/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/2022-beginners-guide-to-cyber-security/</guid>
+      <description>Why should you enroll? Since we&#39;ve been working in this field for over 15 years, we wanted to share part of what we&#39;ve learned in all these years with people that are completely new to Cyber Security, or people that would like to understand the 2022 basics in this field. You will find the general information mixed with real-life scenarios and real tips &amp;amp; tricks on how to protect from different threats.</description>
+    </item>
+    
+    <item>
+      <title>CompTIA PenTest&#43; (PT0-001) Practice Exam</title>
+      <link>https://jobready.courseintern.com/comptia-pentest-pt0-001-practice-exam/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/comptia-pentest-pt0-001-practice-exam/</guid>
+      <description>If you are preparing for CompTIA PenTest+ (PT0-001) certification exam in 2022 and looking for best resources then these practice tests are just for you. Practice tests play a vital role in passing IT certification in first attempt and CompTIA PenTest+ (PT0-001) is no exception. If you want to pass this in-demand cloud certification then these topic-wise practice tests are a must have.
+While there are many CompTIA PenTest+ (PT0-001) practice tests you can find here in Udemy and other online platforms but there is not many which help you with individual topics.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security for Beginners Complete Course</title>
+      <link>https://jobready.courseintern.com/cyber-security-for-beginners-complete-course/</link>
+      <pubDate>Wed, 27 Apr 2022 20:10:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/cyber-security-for-beginners-complete-course/</guid>
+      <description>Do you know what is the biggest threat in Cyber Security? The humans, it is so obvious. It’s all of us. The majority of security britches are actually being driven through social engineering and human interaction. Because we individually and collectively, just not taking cybersecurity seriously. We don’t know how to prevent the risks, the threats and vulnerabilities that exist in our behaviours and habits. We don’t have enough knowledge and training.</description>
+    </item>
+    
+    <item>
+      <title>How to Create a Secure Website With WordPress</title>
+      <link>https://jobready.courseintern.com/how-to-create-a-secure-website-with-wordpress/</link>
+      <pubDate>Wed, 27 Apr 2022 20:10:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/how-to-create-a-secure-website-with-wordpress/</guid>
+      <description>This course will teach you how to build a secure, responsive website with WordPress. You don&#39;t need to purchase hosting or pay for anything to follow along and practice building a website yourself. This course covers: How to Build a Beautiful WordPress Website. How to Install and Customize the Virtue Theme. Secure your WordPress site using step by step methods. Password Protect your files with htaccess. Protect your WordPress content. And more… After completing this course, you will be able to completely create a secure WordPress website from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Learn Hacking Using Social Engineering</title>
+      <link>https://jobready.courseintern.com/learn-hacking-using-social-engineering/</link>
+      <pubDate>Wed, 27 Apr 2022 20:10:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-hacking-using-social-engineering/</guid>
+      <description>This course will teach you the most common social engineering threats and how to protect yourself and your systems from social engineering attacks.
+You&#39;ll learn how to perform attacks on targets using a wide variety of sites and tools, and develop payloads that effectively compromise the system.
+By the time you&#39;ve completed this course, you will have a strong knowledge about social engineering.
+Ratings: 4.35/5
+Enrollments: 56776
+Coupon Code: SOCIAL65</description>
+    </item>
+    
+    <item>
+      <title>WiFi Hacking using Evil Twin Attacks and Captive Portals</title>
+      <link>https://jobready.courseintern.com/wifi-hacking-using-evil-twin-attacks-and-captive-portals/</link>
+      <pubDate>Wed, 27 Apr 2022 20:10:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/wifi-hacking-using-evil-twin-attacks-and-captive-portals/</guid>
+      <description>In this course I will show you how to create the most common and effective evil twin attacks using captive portals.
+You&#39;ll learn how to perform evil twin attacks on targets using a wide variety of tools, and create a captive portal that effectively steals the login credentials.
+All the attacks in this course are highly practical and straight to the point.
+By the time you&#39;ve completed this course, you will have the knowledge to create and customize your own evil twin attack for different scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Curso Básico de Kali Linux com NMap para pentest e hacking</title>
+      <link>https://jobready.courseintern.com/curso-b%C3%A1sico-de-kali-linux-com-nmap-para-pentest-e-hacking/</link>
+      <pubDate>Sat, 16 Apr 2022 19:20:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/curso-b%C3%A1sico-de-kali-linux-com-nmap-para-pentest-e-hacking/</guid>
+      <description>A distribuição Kali Linux tem despertado o interesse de hackers e profissionais de segurança da informação desde a quando o nome da distribuição era BackTrack.
+Você poderá fazer o download do Volume 1 da Bíblia Hacker em pdf, para complementar as videoaulas. Veja também o e-book sobre portas e comandos do Nmap.
+Nesse curso voltado aos iniciantes você vai aprender o que é, como funciona, como obter, instalar, configurar e usar o Nmap no Kali Linux.</description>
+    </item>
+    
+    <item>
+      <title>CheckPoint-NGFW Security : Basic Introduction</title>
+      <link>https://jobready.courseintern.com/checkpoint-ngfw-security-basic-introduction/</link>
+      <pubDate>Fri, 15 Apr 2022 15:17:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/checkpoint-ngfw-security-basic-introduction/</guid>
       <description>Learn all the Concepts about the Features of CheckPoint - Next Generation Firewall, Learn how to evaluate or Review a Firewall. Why are Firewalls needed and how its&#39; features justify the Deployment in modern Day networks in spite of ACLs on Router, Packet filters &amp;amp; Proxy based Firewalls. You will learn all the additional features they provide on top of other traditional Networking and legacy security solutions. Learn about Stateful Inspection and how it is Used in Firewall to provide security.</description>
     </item>
     
     <item>
+      <title>AZ-500: Microsoft Azure Security Technologies, for 2022</title>
+      <link>https://jobready.courseintern.com/az-500-microsoft-azure-security-technologies-for-2022/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/az-500-microsoft-azure-security-technologies-for-2022/</guid>
+      <description>Welcome in AZ-500: Microsoft Azure Security Technologies exam;
+This practice test course contains 4 complete timed tests, of at least 60-questions each, just like you will get in the official exam. That&#39;s over 240 questions to see how prepared you are for the real test. Unlike other practice tests, you get LIFETIME access to these questions and explanations. There is no time limit. You can take the quizzes as many times as you like to make sure you&#39;re ready to take the exam.</description>
+    </item>
+    
+    <item>
+      <title>Computer Network Fundamentals- IT Helpdesk &amp; Desktop Support</title>
+      <link>https://jobready.courseintern.com/computer-network-fundamentals-it-helpdesk-desktop-support/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/computer-network-fundamentals-it-helpdesk-desktop-support/</guid>
+      <description>Over this course, you&#39;ll learn some of the basic fundamentals surrounding computer networking and the OSI Model, topics include the following:
+* Switches vs Hubs
+* Half duplex and full duplex data transmissions
+* IPv4 and IPv6
+* Quality of Service (QoS) and how this works
+* High level explanations of each layer of the OSI Model and how they relate to networking.
+Whilst this is mainly aimed at beginners, this course may also be useful as a refresher for anyone who has been the industry for a year or two and is looking to move up the career ladder, i.</description>
+    </item>
+    
+    <item>
+      <title>Malware Analysis &amp; Incident Response for IT Technicians</title>
+      <link>https://jobready.courseintern.com/malware-analysis-incident-response-for-it-technicians/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/malware-analysis-incident-response-for-it-technicians/</guid>
+      <description>Over this course, we&#39;ll be covering some of the ways that you can prevent and respond to IT security incidents, such as a ransomware attack, on your organisation&#39;s network. Course topics include the following:
+* An explanation of the key differences between malware analysis and incident response
+* Known malware, online file analysis and tools that can be used to analyse running processes
+* Unknown malware and how to recognise suspicious files, using heuristic activity detection and vulnerability analysis</description>
+    </item>
+    
+    <item>
+      <title>AZ-900 Microsoft Azure Fundamentals Version 16.0 Test series</title>
+      <link>https://jobready.courseintern.com/az-900-microsoft-azure-fundamentals-version-16.0-test-series/</link>
+      <pubDate>Tue, 22 Feb 2022 21:48:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/az-900-microsoft-azure-fundamentals-version-16.0-test-series/</guid>
+      <description>This always-up-to-date Test Series completely covers the AZ-900 exam from start to finish. Always updated with the latest requirements. This course goes over each requirement of the exam. Microsoft Azure is still the fastest-growing large cloud platform
+Microsoft Azure : Overview
+The very first thing you need to know in this cheat sheet is to understand Microsoft Azure. Azure is being used by two-thirds of Fortune 500 companies for getting cloud computing solutions.</description>
+    </item>
+    
+    <item>
+      <title>Certified Ethical Hacker CEH v11 Latest Practice Exam</title>
+      <link>https://jobready.courseintern.com/certified-ethical-hacker-ceh-v11-latest-practice-exam/</link>
+      <pubDate>Fri, 11 Feb 2022 16:17:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/certified-ethical-hacker-ceh-v11-latest-practice-exam/</guid>
+      <description>If you are preparing for Certified Ethical Hacker CEH v11 certification exam in 2022 and looking for best resources then these practice tests are just for you. Practice tests play a vital role in passing IT certification in first attempt and CEH V11 is no exception. If you want to pass this in-demand cloud certification then these topic-wise practice tests are a must have.
+While there are many Certified Ethical Hacker CEH v11 practice tests you can find here in Udemy and other online platforms but there is not many which help you with individual topics.</description>
+    </item>
+    
+    <item>
+      <title>App android y Sistema para Karaoke en Xamarin Forms</title>
+      <link>https://jobready.courseintern.com/app-android-y-sistema-para-karaoke-en-xamarin-forms/</link>
+      <pubDate>Wed, 02 Feb 2022 12:24:27 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/app-android-y-sistema-para-karaoke-en-xamarin-forms/</guid>
+      <description>En este proyecto aprenderas a crear una Aplicacion movil para Karaokes y un Sistema de gestion del mismo.
+La aplicacion movil esta desarrollado Xamarin forms usando el lenguaje C# y patron de software MVVM
+El sistema de gestion esta desarrollado en C# y base de datos SQLServer
+Los Temas a ver en la aplicacion movil son:
+Modulo de pedidos
+Modulo de introduccion
+Animacion de degradados
+Diseños con degradados
+Listview personalizados</description>
+    </item>
+    
+    <item>
+      <title>ISC Secure Software Lifecycle Professional Certification</title>
+      <link>https://jobready.courseintern.com/isc-secure-software-lifecycle-professional-certification/</link>
+      <pubDate>Tue, 01 Feb 2022 16:37:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/isc-secure-software-lifecycle-professional-certification/</guid>
+      <description>Certified Secure Software Lifecycle Professional (CSSLP) has been built to validate software professionals with the expertise to incorporate security practices authentication, authorization and auditing â€“ into each phase of the software development lifecycle (SDLC), from software design and implementation to testing and deployment.
+Pr-requisites for CSSLP Certified Secure Software Lifecycle Professional Certification Exam
+Candidate are required to hold a minimum of 4 years of cumulative paid full-time Software Development Lifecycle (SDLC) professional work experience in 1 or more of the 8 domains of the (ISC) 2® CSSLP CBK, or 3 years of cumulative paid full-time SDLC professional work experience in 1 or more of the 8 domains of the CSSLP CBK with a 4-year degree leading to a Baccalaureate, or regional equivalent in Computer Science, Information Technology (IT) or related fields.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Security Operations Analyst Certification Tests</title>
+      <link>https://jobready.courseintern.com/microsoft-security-operations-analyst-certification-tests/</link>
+      <pubDate>Sat, 29 Jan 2022 13:29:12 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/microsoft-security-operations-analyst-certification-tests/</guid>
+      <description>The Microsoft Security Operations Analyst certificate examination assesses your ability to do technical activities such as defending against threats with Microsoft 365 Defender, defending against threats with Azure Defender, and defending against threats with Azure Sentinel. As an Operations Analyst, you will be working on the organization’s information security and ensure that the overall goal is achieved.
+Skills Acquired
+Below is the list of skills and knowledge you will learn:</description>
+    </item>
+    
+    <item>
+      <title>AWS Certified Security Speciality</title>
+      <link>https://jobready.courseintern.com/aws-certified-security-speciality/</link>
+      <pubDate>Thu, 27 Jan 2022 13:34:28 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/aws-certified-security-speciality/</guid>
+      <description>Welcome in AWS Certified Security Speciality exam;
+This practice test course contains 5 complete timed tests, of at least 65 questions each, just like you will get in the official exam. That&#39;s over 325 questions to see how prepared you are for the real test. Unlike other practice tests, you get LIFETIME access to these questions and explanations. There is no time limit. You can take the quizzes as many times as you like to make sure you&#39;re ready to take the exam.</description>
+    </item>
+    
+    <item>
+      <title>Data Security, Recovery and Storage Hacking for Newbies</title>
+      <link>https://jobready.courseintern.com/data-security-recovery-and-storage-hacking-for-newbies/</link>
+      <pubDate>Thu, 27 Jan 2022 13:34:28 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/data-security-recovery-and-storage-hacking-for-newbies/</guid>
+      <description>What comes to your mind when we talk about &#34;Data Security&#34;? Data Security is a mission-critical priority nowadays and has always been for IT teams in organizations of all sizes. As companies increasingly rely on Information Technology (IT) to collect, share, analyze, and communicate, they will also have to minimize risk, protect sensitive data, and adapt, in the process. One has to learn to secure data from attacks and simplify regulatory compliance and this is actually proving to be vital, day by day.</description>
+    </item>
+    
+    <item>
+      <title>Sistema de asistencias en C# y SQLserver desde 0</title>
+      <link>https://jobready.courseintern.com/sistema-de-asistencias-en-c#-y-sqlserver-desde-0/</link>
+      <pubDate>Sun, 16 Jan 2022 19:59:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/sistema-de-asistencias-en-c#-y-sqlserver-desde-0/</guid>
+      <description>En este curso aprenderas C# con un sistema aplicado a un caso practico. Desarrollaremos un sistema para controlar las asistencias del personal de una empresa.
+Se combinara la teoria y la practica, para que tu aprendizaje del lenguaje C# sea en el mejor tiempo posible.
+Los modulos y temas a ver se detallan a continuacion:
+Modulo de personal
+Modulo de Usuarios
+Login
+Toma de asistencias
+Reportes
+Copias de seguridad
+Restauracion de base de datos</description>
+    </item>
+    
+    <item>
+      <title>CompTIA Network&#43; (N10-007) Practice Questions</title>
+      <link>https://jobready.courseintern.com/comptia-network-n10-007-practice-questions/</link>
+      <pubDate>Thu, 13 Jan 2022 21:19:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/comptia-network-n10-007-practice-questions/</guid>
+      <description>[October 2021 Updated]: Latest exam questions added.
+Finally! Pass the CompTIA Network+ (N10-007) exam in just 1 week with a 100% money-back guarantee.
+Preparing for your CompTIA Network+ (N10-007) certification? Assess your knowledge of topics on the exam with these practice test questions.
+The purpose of this Practice Question Set is to help you pass the CompTIA Network+ (N10-007) exam. These practice questions will make you very familiar with both the type and the difficulty level of the questions on the Network+ (N10-007) certification test.</description>
+    </item>
+    
+    <item>
+      <title>Security Operations Center Analyst NOW!</title>
+      <link>https://jobready.courseintern.com/security-operations-center-analyst-now/</link>
+      <pubDate>Wed, 12 Jan 2022 10:34:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/security-operations-center-analyst-now/</guid>
+      <description>The frontlines of cybersecurity operations include many unfilled jobs and exciting career opportunities. A transition to cybersecurity as a Security Operations Center (SOC) Analyst position could be the start of a new path for you. Learn to actively analyze threats, protect your enterprise from harm, and kick-start your road to cybersecurity success with this one-of-a-kind course.Cybersecurity Architect, Author, and Mentor Tyler E. Wall carefully and expertly share real-world insights and practical tips in Security Operations Center Analyst NOW!</description>
+    </item>
+    
+    <item>
+      <title>Entering the dark web - الدخول إلي الإنترنت المظلم</title>
+      <link>https://jobready.courseintern.com/entering-the-dark-web-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%A5%D9%84%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D9%84%D9%85%D8%B8%D9%84%D9%85/</link>
+      <pubDate>Thu, 06 Jan 2022 13:12:48 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/entering-the-dark-web-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%A5%D9%84%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D9%84%D9%85%D8%B8%D9%84%D9%85/</guid>
+      <description>الإنترنت المظلم أو الدارك ويب هو الجانب المظلم للإنترنت وهو جزءٌ من شبكة الإنترنت العالمية. شبكة الويب تتكون من ثلاث أجزاء رئيسية يمكننا أن نقسم هذة الأجزاء إلى
+Surface Web
+Deep Web
+Dark Web
+و نحن نرى Surface web من حجم شبكة الإنترنت العالمية وهي 5٪ عبر محركات بحث معروفة مثل جوجل كروم، موزيلا فايرفوكس، أوبرا، وغير ذلك.
+سوف نتعرف على شبكة الإنترنت المظلم، كيف تعمل بشكل تقني وأمني، المتصفحات ومحركات البحث الخاصة بها، محتويات الإنترنت المظلم، مواقع الإنترنت المظلم</description>
+    </item>
+    
+    <item>
+      <title>1Z0-1085-21 OCI 2021 Foundations Associate [Practice Tests]</title>
+      <link>https://jobready.courseintern.com/1z0-1085-21-oci-2021-foundations-associate-practice-tests/</link>
+      <pubDate>Fri, 17 Dec 2021 12:27:59 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/1z0-1085-21-oci-2021-foundations-associate-practice-tests/</guid>
+      <description>OCI 1Z0-1085 Foundations Associate practice testsAll latest questions are updated to clear the OCi foundations Exam. Enroll before 31st December 2021 and get your free certification!!!I have divided the questions into three test papers first, we have a 64 question test paper topic-wise where we go through each and every topic one by one and cover 5 questions from each of them. All the questions are provided with a brief explanation of the solution.</description>
+    </item>
+    
+    <item>
+      <title>بايثون في التعامل مع الواي فاي و اخفاء الرسائل في الصور</title>
+      <link>https://jobready.courseintern.com/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%88%D8%A7%D9%8A-%D9%81%D8%A7%D9%8A-%D9%88-%D8%A7%D8%AE%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%88%D8%B1/</link>
+      <pubDate>Sat, 04 Dec 2021 22:11:36 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%88%D8%A7%D9%8A-%D9%81%D8%A7%D9%8A-%D9%88-%D8%A7%D8%AE%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%88%D8%B1/</guid>
+      <description>السلام عليكم و رحمة الله و بركاته ,
+اهلا بكم في دورة جديدة و هي دورة خاصة ب التعامل مع شبكات الواي فاي و الصور بأستخدام لغة البرمجة بايثون ,
+هذه الدورة هي من ضمن الدورات التي اقدمها لتتعلم منهم كيف تستخدم لغة البرمجة بايثون في بناء ادوات الحماية و الاختراق ,
+محتوي الدورة :
+تنقسم الدورة الي موضوعين رئيسيين و هما 1 - اخفاء و استخراج المعلومات و الرسائل من و الي الصور :</description>
+    </item>
+    
+    <item>
       <title>SolarWinds ARM / Access Monitoring / Prevent Data Breaches</title>
-      <link>https://www.jobready.ml/solarwinds-arm-/-access-monitoring-/-prevent-data-breaches/</link>
+      <link>https://jobready.courseintern.com/solarwinds-arm-/-access-monitoring-/-prevent-data-breaches/</link>
       <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/solarwinds-arm-/-access-monitoring-/-prevent-data-breaches/</guid>
+      <guid>https://jobready.courseintern.com/solarwinds-arm-/-access-monitoring-/-prevent-data-breaches/</guid>
       <description>SolarWinds Access Rights Manager (ARM) is designed to assist IT and security administrators in quickly and easily provisioning, deprovisioning, managing, and auditing user access rights to systems, data, and files, so they can help protect their organizations from the potential risks of data loss and breaches. By analyzing user authorizations and access permissions, you get visualization of who has access to what, and when they accessed it. With just a few clicks, customized reports can be generated to help demonstrate compliance with many regulatory requirements.</description>
     </item>
     
     <item>
       <title>Introduction to Troubleshooting with Palo Alto Firewalls</title>
-      <link>https://www.jobready.ml/introduction-to-troubleshooting-with-palo-alto-firewalls/</link>
+      <link>https://jobready.courseintern.com/introduction-to-troubleshooting-with-palo-alto-firewalls/</link>
       <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/introduction-to-troubleshooting-with-palo-alto-firewalls/</guid>
+      <guid>https://jobready.courseintern.com/introduction-to-troubleshooting-with-palo-alto-firewalls/</guid>
       <description>*** The only Palo Alto Networks Firewall course on Udemy 100% Troubleshooting oriented .***
 When things turn wrong, the Admin guide or Google search will have their limits very quickly! Troubleshooting takes time, a logical methodology and sharp skills: This training will give you the tools to find most problem root causes and help you to become quick at solving them on Palo Alto Networks firewalls.
-
 WHAT OTHER STUDENTS SAY</description>
     </item>
     
     <item>
       <title>Fundamental Question For CERTIFIED ETHICAL HACKER (CEH) EXAM</title>
-      <link>https://www.jobready.ml/fundamental-question-for-certified-ethical-hacker-ceh-exam/</link>
+      <link>https://jobready.courseintern.com/fundamental-question-for-certified-ethical-hacker-ceh-exam/</link>
       <pubDate>Tue, 12 Oct 2021 11:23:35 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamental-question-for-certified-ethical-hacker-ceh-exam/</guid>
+      <guid>https://jobready.courseintern.com/fundamental-question-for-certified-ethical-hacker-ceh-exam/</guid>
       <description>Dear Students,
 Are you preparing for CEH Exam ? Don’t be stressed, Take our Practice Test for CERTIFIED ETHICAL HACKER EXAM. Here we Discuss the Practical Questions on the Different topics of Ethical Hacking Such as MALWARE, DENIAL OF SERVICE, SYSTEM HACKING, FOOTPRINTING, EVASION and WI-FI and Bluetooth Hacking.
 Certified Ethical Hacker EXAM is not so difficult. If you have basic knowledge about Different programming languages, servers and Computer networking it will be easy for you and I hope these Practice test will help you for Success in CEH Exam.</description>
@@ -63,10 +646,10 @@ Certified Ethical Hacker EXAM is not so difficult. If you have basic knowledge a
     
     <item>
       <title>Fundamental Question on Application of Ethical Hacking</title>
-      <link>https://www.jobready.ml/fundamental-question-on-application-of-ethical-hacking/</link>
+      <link>https://jobready.courseintern.com/fundamental-question-on-application-of-ethical-hacking/</link>
       <pubDate>Tue, 12 Oct 2021 11:23:35 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamental-question-on-application-of-ethical-hacking/</guid>
+      <guid>https://jobready.courseintern.com/fundamental-question-on-application-of-ethical-hacking/</guid>
       <description>Dear Students,
 Are you preparing for Job Exam and Interview in Ethical Hacking)?
 Don’t be stressed, Take our Ethical Hacking Based Practice Test and prepare yourself for the Interview. Here we Discuss the Practical Questions on the Ethical Hacking.
@@ -75,20 +658,20 @@ Here we are going to build your confidence by Providing Practice Test on Ethical
     
     <item>
       <title>SQL Injection Attacks: The 2021 Guide</title>
-      <link>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</link>
+      <link>https://jobready.courseintern.com/sql-injection-attacks-the-2021-guide/</link>
       <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/sql-injection-attacks-the-2021-guide/</guid>
+      <guid>https://jobready.courseintern.com/sql-injection-attacks-the-2021-guide/</guid>
       <description>About the course:
 Welcome to this course on SQL injection attacks! In this course, we explore one of the biggest risks facing web applications today. We start out by creating a safe and legal environment for us to perform attacks in. Then, we cover the core concepts of SQL and injections. After that, we learn SQL injection techniques with the help of cheat sheets and references. At that point, we start to gather information about our target in order to find weaknesses and potential vulnerabilities.</description>
     </item>
     
     <item>
       <title>Fundamentals of Network Security</title>
-      <link>https://www.jobready.ml/fundamentals-of-network-security/</link>
+      <link>https://jobready.courseintern.com/fundamentals-of-network-security/</link>
       <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fundamentals-of-network-security/</guid>
+      <guid>https://jobready.courseintern.com/fundamentals-of-network-security/</guid>
       <description>Dear Learners
 Are you Preparing for Interview in IT Industry? Don’t be stressed, take our Network Security Course and prepare yourself for your Interview
 We know that Network Security is the basic Requirement of IT Company, so it is necessary for every students on IT Industry that he learn the Basic Concept of Network Security. In this Course You Will Learn the fundamentals of Network Security and take the first leap to the world of IT Industry.</description>
@@ -96,20 +679,20 @@ We know that Network Security is the basic Requirement of IT Company, so it is n
     
     <item>
       <title>Teramind Employee Monitoring &amp; Data Loss Prevention</title>
-      <link>https://www.jobready.ml/teramind-employee-monitoring-data-loss-prevention/</link>
+      <link>https://jobready.courseintern.com/teramind-employee-monitoring-data-loss-prevention/</link>
       <pubDate>Fri, 24 Sep 2021 21:26:49 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/teramind-employee-monitoring-data-loss-prevention/</guid>
+      <guid>https://jobready.courseintern.com/teramind-employee-monitoring-data-loss-prevention/</guid>
       <description>Teramind offers employee monitoring, insider threat detection, and data loss prevention (DLP) solutions. Teramind UAM monitors user activities on applications, websites, file systems, network, email, social media and more. Behavioral rules can be created to automatically warn, block, notify, lockout or take other actions when an anomaly is detected. Its session recording feature allows investigation of incidents with video and optional audio recordings of users&#39; desktop.
 Teramind DLP comes with all the features available in Teramind UAM plus: automated data discovery and classification with built-in support for many sensitive data types for personal information, health and financial information (PII/PHI/PFI).</description>
     </item>
     
     <item>
       <title>Digital Forensics - Complete Digital Forensics Masterclass</title>
-      <link>https://www.jobready.ml/digital-forensics-complete-digital-forensics-masterclass/</link>
+      <link>https://jobready.courseintern.com/digital-forensics-complete-digital-forensics-masterclass/</link>
       <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/digital-forensics-complete-digital-forensics-masterclass/</guid>
+      <guid>https://jobready.courseintern.com/digital-forensics-complete-digital-forensics-masterclass/</guid>
       <description>*Printable online certificate available upon completion of course*
 Most comprehensive Digital Forensics Course, You will learn Depth understanding of how computers work and how to do digital forensics.
 Upgrading every week 2021 Course Computer Forensics
@@ -118,49 +701,40 @@ Digital Forensics is defined as the process of preservation, identification, ext
     
     <item>
       <title>Network Programming Masterclass™:Java Socket, TCP/IP, Server</title>
-      <link>https://www.jobready.ml/network-programming-masterclassjava-socket-tcp/ip-server/</link>
+      <link>https://jobready.courseintern.com/network-programming-masterclassjava-socket-tcp/ip-server/</link>
       <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/network-programming-masterclassjava-socket-tcp/ip-server/</guid>
+      <guid>https://jobready.courseintern.com/network-programming-masterclassjava-socket-tcp/ip-server/</guid>
       <description>*Printable online certificate available upon completion of course*
 The world is becoming interconnected on an unprecedented scale with more services being provided on the Internet. Applications ranging from business transactions to embedded applications, such as those found in refrigerators, are connecting to the Internet. With isolated applications no longer being the norm, it is becoming increasingly important for applications to be network enabled. The goal of this course is to provide the student with the necessary skills to develop Java applications that connect and work with other applications and services across a network.</description>
     </item>
     
     <item>
       <title>Uncle Rat&#39;s XXE Handbook</title>
-      <link>https://www.jobready.ml/uncle-rats-xxe-handbook/</link>
+      <link>https://jobready.courseintern.com/uncle-rats-xxe-handbook/</link>
       <pubDate>Tue, 21 Sep 2021 19:26:43 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/uncle-rats-xxe-handbook/</guid>
+      <guid>https://jobready.courseintern.com/uncle-rats-xxe-handbook/</guid>
       <description>Who am i?
 An experienced instructor with over 10 000 happy students on udemy, i spend my time making complex topic reacheable for anyone wanting to learn and understand them. As a dad of a toddler, i know what it means to have to simplify things but even before all this i was already emerged in the world of training IT profiles in software test automation and performance testing, having gotten my neoload expert certification in Paris so i could teach that software in a 3 day course that would prepare staff for neoload certification.</description>
     </item>
     
     <item>
       <title>Pentesting and Securing Web Applications (Ethical Hacking)</title>
-      <link>https://www.jobready.ml/pentesting-and-securing-web-applications-ethical-hacking/</link>
+      <link>https://jobready.courseintern.com/pentesting-and-securing-web-applications-ethical-hacking/</link>
       <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/pentesting-and-securing-web-applications-ethical-hacking/</guid>
+      <guid>https://jobready.courseintern.com/pentesting-and-securing-web-applications-ethical-hacking/</guid>
       <description>Computer security is one of the biggest job gaps in history, with a shortage of 3.5 million skilled workers needing to tackle a problem estimated to be worth $6 trillion. This is one of the biggest opportunities in history.
 When I was at university I did a lot of security courses and to be honest I was pretty frustrated at how they were taught. The concepts and their importance captured my imagination but I knew it could be taught in a better way.</description>
     </item>
     
     <item>
-      <title>2021 Beginner&#39;s guide to Cyber Security</title>
-      <link>https://www.jobready.ml/2021-beginners-guide-to-cyber-security/</link>
-      <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/2021-beginners-guide-to-cyber-security/</guid>
-      <description>Why should you enroll? Since we&#39;ve been working in this field for over 15 years, we wanted to share part of what we&#39;ve learned in all these years with people that are completely new to Cyber Security, or people that would like to understand the 2021 basics in this field. You will find the general information mixed with real-life scenarios and real tips &amp;amp; tricks on how to protect from different threats.</description>
-    </item>
-    
-    <item>
       <title>Ultimate Ethical Hacking Course</title>
-      <link>https://www.jobready.ml/ultimate-ethical-hacking-course/</link>
+      <link>https://jobready.courseintern.com/ultimate-ethical-hacking-course/</link>
       <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/ultimate-ethical-hacking-course/</guid>
+      <guid>https://jobready.courseintern.com/ultimate-ethical-hacking-course/</guid>
       <description>What is ethical hacking?
 Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers. This practice helps to identify security vulnerabilities which can then be resolved before a malicious attacker has the opportunity to exploit them.
 Also known as “white hats,” ethical hackers are security experts that perform these assessments. The proactive work they do helps to improve an organization’s security posture.</description>
@@ -168,52 +742,51 @@ Also known as “white hats,” ethical hackers are security experts that perfor
     
     <item>
       <title>Reverse Engineering, Debugging and Malware Analysis - 2021</title>
-      <link>https://www.jobready.ml/reverse-engineering-debugging-and-malware-analysis-2021/</link>
+      <link>https://jobready.courseintern.com/reverse-engineering-debugging-and-malware-analysis-2021/</link>
       <pubDate>Wed, 08 Sep 2021 18:43:42 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/reverse-engineering-debugging-and-malware-analysis-2021/</guid>
+      <guid>https://jobready.courseintern.com/reverse-engineering-debugging-and-malware-analysis-2021/</guid>
       <description>*Printable online certificate available upon completion of course*
 Breaking something down and putting it back together is a process that helps people understand how things were made.
- A person would be able to redo and reproduce an origami by unfolding it first. Knowing how cars work requires understanding each major and minor mechanical part and their purposes. The complex nature of the human anatomy requires people to understand each and every part of the body.</description>
+A person would be able to redo and reproduce an origami by unfolding it first. Knowing how cars work requires understanding each major and minor mechanical part and their purposes. The complex nature of the human anatomy requires people to understand each and every part of the body.</description>
     </item>
     
     <item>
       <title>Digital Forensics for Pentesters - Hands-on Learning</title>
-      <link>https://www.jobready.ml/digital-forensics-for-pentesters-hands-on-learning/</link>
+      <link>https://jobready.courseintern.com/digital-forensics-for-pentesters-hands-on-learning/</link>
       <pubDate>Tue, 07 Sep 2021 23:00:37 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/digital-forensics-for-pentesters-hands-on-learning/</guid>
+      <guid>https://jobready.courseintern.com/digital-forensics-for-pentesters-hands-on-learning/</guid>
       <description>Digital forensics is becoming very important in Cyber Security to detect and backtrack Black Hat Criminals. It is essential to remove Hackers’ malicious backdoors/malware and trace them back to avoid possible future incidents. Digital forensics is becoming very important in Cyber Security to detect and backtrack Black Hat Criminals. Digital forensics is essential to remove Hackers’ malicious backdoors/malware and trace them back to avoid possible future incidents.
 This course acts as a digital forensics’ primer for pentesters and cybersecurity professionals wanting to expand their knowledge and add additional tools and skills to their resumes.</description>
     </item>
     
     <item>
       <title>Ethical Hacking - Hands-On Training - Part I</title>
-      <link>https://www.jobready.ml/ethical-hacking-hands-on-training-part-i/</link>
+      <link>https://jobready.courseintern.com/ethical-hacking-hands-on-training-part-i/</link>
       <pubDate>Tue, 07 Sep 2021 20:19:47 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/ethical-hacking-hands-on-training-part-i/</guid>
+      <guid>https://jobready.courseintern.com/ethical-hacking-hands-on-training-part-i/</guid>
       <description>Course Overview
 This course provides learners with a basic level of competency using a hands-on approach to gaining practical experience as a penetration tester or an ethical hacker (white, grey, or black). This course provides a fundamental look at offensive security concepts and techniques using a virtual install of Kali Linux and three different target victims, Windows XP, Windows 7, Server 2008, and Linux (Metesploitable2). This course provides a 100% hands-on approach to learning to be an ethical hacker or a pentester.</description>
     </item>
     
     <item>
       <title>Intermediate Ethical Hacking Hands-on Training</title>
-      <link>https://www.jobready.ml/intermediate-ethical-hacking-hands-on-training/</link>
+      <link>https://jobready.courseintern.com/intermediate-ethical-hacking-hands-on-training/</link>
       <pubDate>Tue, 07 Sep 2021 20:19:47 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/intermediate-ethical-hacking-hands-on-training/</guid>
+      <guid>https://jobready.courseintern.com/intermediate-ethical-hacking-hands-on-training/</guid>
       <description>Alert -
-Intermediate Ethical Hacking Hands-on Training is a continuation of Ethical Hacking - Hands-on Training Part I. Before taking this course, students should have completed an introduction to an ethical hacking or pentesting course. Students should have completed Ethical Hacking - Hands-on Training Part I for best results before signing up for the intermediate course. 
-Intermediate Ethical Hacking Hands-on Training picks up where Part I leaves off. In Part I, students was taught the fundamentals of pentesting while being introduced to some basic skills.</description>
+Intermediate Ethical Hacking Hands-on Training is a continuation of Ethical Hacking - Hands-on Training Part I. Before taking this course, students should have completed an introduction to an ethical hacking or pentesting course. Students should have completed Ethical Hacking - Hands-on Training Part I for best results before signing up for the intermediate course. Intermediate Ethical Hacking Hands-on Training picks up where Part I leaves off. In Part I, students was taught the fundamentals of pentesting while being introduced to some basic skills.</description>
     </item>
     
     <item>
       <title>Complete CompTIA Network&#43; (N10-007) Video Training Series</title>
-      <link>https://www.jobready.ml/complete-comptia-network-n10-007-video-training-series/</link>
+      <link>https://jobready.courseintern.com/complete-comptia-network-n10-007-video-training-series/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/complete-comptia-network-n10-007-video-training-series/</guid>
+      <guid>https://jobready.courseintern.com/complete-comptia-network-n10-007-video-training-series/</guid>
       <description>** Get Ready to Crush Your CompTIA Network+ (N10-007) Exam **
 Embark on (or continue) your IT certification journey with CompTIA’s Network+ certification. The Network+ certification acts as a “sampler platter” of networking, where you get to “taste test” a wide variety of technologies, like cloud, wireless, software defined networking, route/switch, security, troubleshooting, network management, and so many others.
 Guiding you through each step of your journey is award-winning instructor and double CCIE (Cisco Certified Internetworking Expert) Kevin Wallace.</description>
@@ -221,40 +794,29 @@ Guiding you through each step of your journey is award-winning instructor and do
     
     <item>
       <title>Complete Introduction to Cybersecurity 2021</title>
-      <link>https://www.jobready.ml/complete-introduction-to-cybersecurity-2021/</link>
+      <link>https://jobready.courseintern.com/complete-introduction-to-cybersecurity-2021/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/complete-introduction-to-cybersecurity-2021/</guid>
+      <guid>https://jobready.courseintern.com/complete-introduction-to-cybersecurity-2021/</guid>
       <description>Welcome to the Complete Introduction to Cybersecurity 2021. In this course, you will learn the fundamentals of I.T. while learning the working components of cybersecurity. No prior knowledge or skill is required. If you are a cybersecurity student, aspiring security professional, security enthusiast or someone intrigued to learn more about the industry, this course will provide a springboard for you to learn the basics. As a current cybersecurity student, I know exactly what type of questions, doubts, and thoughts you are experiencing.</description>
     </item>
     
     <item>
       <title>Ethical Hacking for Beginners</title>
-      <link>https://www.jobready.ml/ethical-hacking-for-beginners/</link>
+      <link>https://jobready.courseintern.com/ethical-hacking-for-beginners/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/ethical-hacking-for-beginners/</guid>
+      <guid>https://jobready.courseintern.com/ethical-hacking-for-beginners/</guid>
       <description>This course is for anyone interested in becoming an ethical hacker, no matter your current skill level. The curriculum is designed for absolute beginners interested in a career as a security professional, beginning with the absolute basics of penetration testing, and progressing to advanced topics and techniques. Get started today in your Ethical Hacking career.
 The goal of ethical hacking is to find security vulnerabilities in an organization’s digital systems and networks.</description>
     </item>
     
     <item>
-      <title>Ethical Hacking: Introduction to Exploits</title>
-      <link>https://www.jobready.ml/ethical-hacking-introduction-to-exploits/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/ethical-hacking-introduction-to-exploits/</guid>
-      <description>In a corner of the internet where there are no rules, there is a group of people who do not play by the rules. These are the hackers and crackers who cross lines and get away with it.
-It&#39;s been around for a long time. There are entire generations of hackers that merely know how to utilize exploits; So what is an exploit?
-In the security software industry, an exploit is a piece of software, a chunk of data, or a sequence of commands that takes advantage of a bug or vulnerability in order to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic (usually computerized).</description>
-    </item>
-    
-    <item>
       <title>Hacking Ético: Fundamentos de Rede e Ataques de Camada</title>
-      <link>https://www.jobready.ml/hacking-%C3%A9tico-fundamentos-de-rede-e-ataques-de-camada/</link>
+      <link>https://jobready.courseintern.com/hacking-%C3%A9tico-fundamentos-de-rede-e-ataques-de-camada/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/hacking-%C3%A9tico-fundamentos-de-rede-e-ataques-de-camada/</guid>
+      <guid>https://jobready.courseintern.com/hacking-%C3%A9tico-fundamentos-de-rede-e-ataques-de-camada/</guid>
       <description>Hola,
 Bem-vindos ao curso de segurança cibernética “Segurança Cibernética: Fundamentos de Rede &amp;amp; Ataques de Camada de Rede“.
 Para se tornar um Hacker Ético e aprender a hackear, o curso Fundamentos de Rede &amp;amp; Ataques de Camada de Rede é o começo perfeito para você. Este é um meio divertido porque a gente pode realmente olhar para os dados que vão nas redes como: como farejar a rede e coletar informações da rede.</description>
@@ -262,20 +824,20 @@ Para se tornar um Hacker Ético e aprender a hackear, o curso Fundamentos de Red
     
     <item>
       <title>Learn Android Hacking For Beginners</title>
-      <link>https://www.jobready.ml/learn-android-hacking-for-beginners/</link>
+      <link>https://jobready.courseintern.com/learn-android-hacking-for-beginners/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-android-hacking-for-beginners/</guid>
+      <guid>https://jobready.courseintern.com/learn-android-hacking-for-beginners/</guid>
       <description>We will use msfvenom for creating a payload and save it as an apk file. After generating the payload, we need to setup a listener to Metasploit framework. Once the target downloads and installs the malicious apk then, an attacker can easily get back a meterpreter session on Metasploit. An attacker needs to do some social engineering to install apk on the victim’s mobile device.
 in this course we gonna learn different kind of lauching attacks</description>
     </item>
     
     <item>
       <title>Wireshark: Packet Analysis and Ethical Hacking: Core Skills</title>
-      <link>https://www.jobready.ml/wireshark-packet-analysis-and-ethical-hacking-core-skills/</link>
+      <link>https://jobready.courseintern.com/wireshark-packet-analysis-and-ethical-hacking-core-skills/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/wireshark-packet-analysis-and-ethical-hacking-core-skills/</guid>
+      <guid>https://jobready.courseintern.com/wireshark-packet-analysis-and-ethical-hacking-core-skills/</guid>
       <description>Learn Wireshark practically. Wireshark pcapng files provided so you can practice while you learn! There is so much to learn in this course:
 - Capture Telnet, FTP, TFTP, HTTP passwords. - Replay VoIP conversations. - Capture routing protocol (OSPF) authentication passwords.
 - Troubleshoot network issues.

@@ -2,21 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Database Design &amp; Development on </title>
-    <link>https://www.jobready.ml/tags/database-design-development/</link>
+    <link>https://jobready.courseintern.com/tags/database-design-development/</link>
     <description>Recent content in Database Design &amp; Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Oct 2021 16:10:21 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2022 16:44:01 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/database-design-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certified MongoDB Database Administrator - Practice Tests</title>
+      <link>https://jobready.courseintern.com/certified-mongodb-database-administrator-practice-tests/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/certified-mongodb-database-administrator-practice-tests/</guid>
+      <description>Certified MongoDB Database Administrator - Practice Tests
+Are you ready to take the MongoDB Database Administrator Exam? Test yourself by answering over 250 questions!
+This course is in the form of practice tests and consists of over 250 questions that may appear during the MongoDB Database Administrator exam. Some questions are self-explanatory. Where necessary, explanations are added to the questions. This course allows you to confirm your proficiency and give you the confidence you need to earn a MongoDB Database Administrator certification.</description>
+    </item>
     
-	<atom:link href="https://www.jobready.ml/tags/database-design-development/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>200&#43; Questions - Job Interview - SQL Developer - 2022</title>
+      <link>https://jobready.courseintern.com/200-questions-job-interview-sql-developer-2022/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/200-questions-job-interview-sql-developer-2022/</guid>
+      <description>200+ Questions - Job Interview - SQL Developer
+Are you ready to apply for the position of Junior SQL Developer? Test yourself by answering over 200 questions!
+This course is in the form of practice tests and consists of over 200 questions that may appear during an interview for a SQL Developer or related positions. This course allows you to confirm your proficiency and give you the confidence you need to succeed in the recruiting process.</description>
+    </item>
     
     <item>
       <title>Practical Database Course for Beginners : 6 courses in 1</title>
-      <link>https://www.jobready.ml/practical-database-course-for-beginners-6-courses-in-1/</link>
-      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
+      <link>https://jobready.courseintern.com/practical-database-course-for-beginners-6-courses-in-1/</link>
+      <pubDate>Sat, 14 May 2022 15:08:51 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/practical-database-course-for-beginners-6-courses-in-1/</guid>
+      <guid>https://jobready.courseintern.com/practical-database-course-for-beginners-6-courses-in-1/</guid>
       <description>What our students says regarding this course! ---
 &#34;I am a beginner with Databases and SQL and this course has been very informative and easy to follow.&#34; -- Eve Grant
 &#34;The Course is very efficient i would highly recommend this course to all the newbies who are willing to learn Databases&#34; -- Ikram Khizer
@@ -25,11 +43,108 @@
     </item>
     
     <item>
+      <title>The Advanced SQL Course</title>
+      <link>https://jobready.courseintern.com/the-advanced-sql-course/</link>
+      <pubDate>Fri, 13 May 2022 20:18:18 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-advanced-sql-course/</guid>
+      <description>If you have some experience with SQL and want to develop your query skills to the next level from intermediate to advanced then this is the perfect course for you!
+No downloads or software installation required. We will be using Oracle APEX which is a web-based application – you will be set up with your own virtual database hosted on the cloud! Although we will be using Oracle APEX the course has been designed to highlight key differences between some of the main Database Management Systems such as MySQL and Microsoft SQL Server, so what you learn in this course can be applied across all platforms supporting SQL.</description>
+    </item>
+    
+    <item>
+      <title>The Comprehensive SQL Course</title>
+      <link>https://jobready.courseintern.com/the-comprehensive-sql-course/</link>
+      <pubDate>Sun, 08 May 2022 16:10:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-comprehensive-sql-course/</guid>
+      <description>Want to learn one of the most in-demand skills in the business and technology sector?
+Then this course is for you!
+SQL skills are highly marketable everywhere, especially in companies like Netflix, Facebook, Amazon, Google… the list goes on and on… The simple fact is that if you want to do any work involving data, then the chances are that you need to know SQL!
+This course has been designed for:</description>
+    </item>
+    
+    <item>
+      <title>Database Testing and SQL for Testers</title>
+      <link>https://jobready.courseintern.com/database-testing-and-sql-for-testers/</link>
+      <pubDate>Wed, 04 May 2022 20:20:28 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/database-testing-and-sql-for-testers/</guid>
+      <description>This course has been intended for testers who want to learn the concepts of Database testing and SQL. Many of the modern applications are creating data in a backend database and hence knowing SQL is an essential skill for testers. It starts with an introduction to Database testing concepts first followed by SQL and finally explains how SQL can be used as a tool to perform effective Database testing. Microsoft SQL Server is one of the top popular RDBMS(Relational Database Management System) existing in today&#39;s market and hence a large number of organisations are expecting the testers to be proficient in t-SQL which is the SQL for Microsoft SQL Server.</description>
+    </item>
+    
+    <item>
+      <title>Redis Database Tutorial</title>
+      <link>https://jobready.courseintern.com/redis-database-tutorial/</link>
+      <pubDate>Mon, 02 May 2022 21:40:19 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/redis-database-tutorial/</guid>
+      <description>The Redis database is a networked, in-memory, key-value database. It uses a different paradigm than the commonly use SQL database systems.
+The Redis database can store diverse kinds of data (strings, hashes, lists, sets, sorted sets, bitmaps), and support different kinds of operations (hashes, lists, sets, sorted sets, bitmaps) on the data.
+It is written in ANSI C and can be used on all major operating systems. The Redis database has been running since December 2007 and in the last 5 years it has been downloaded more than 1.</description>
+    </item>
+    
+    <item>
+      <title>MySQL Beginner to Advance</title>
+      <link>https://jobready.courseintern.com/mysql-beginner-to-advance/</link>
+      <pubDate>Tue, 19 Apr 2022 21:15:53 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/mysql-beginner-to-advance/</guid>
+      <description>Have you heard that database skills are essential for developers to be skilled in and understand?
+Are you wanting to understand SQL and databases in general, but don&#39;t know where to start?
+Maybe you have a pressing need to learn about Database Design and/or Data Analysis but have not found a good place to learn.
+Or perhaps you are a developer who wants to improve your career options by having skills in SQL and MySQL, one of the worlds most popular databases.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft SQL Server Development for Everyone</title>
+      <link>https://jobready.courseintern.com/microsoft-sql-server-development-for-everyone/</link>
+      <pubDate>Fri, 15 Apr 2022 15:17:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/microsoft-sql-server-development-for-everyone/</guid>
+      <description>Overview
+This is a zero to hero course on Microsoft SQL Databases and Querying. There are no pre-requisites for this course. This course provides you with fundamental SQL Server training and is enough to get you started as a Database Developer or Junior Database Administrator. This course will teach you how to use the SQL language within Microsoft SQL Server, one of the most popular database engines in the world.</description>
+    </item>
+    
+    <item>
+      <title>MySQL Database Development Mastery</title>
+      <link>https://jobready.courseintern.com/mysql-database-development-mastery/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/mysql-database-development-mastery/</guid>
+      <description>Overview
+This is a zero to hero course on MySQL Database Server and MySQL Workbench. There are no pre-requisites for this course. If you are looking to get acquainted with the concept of Databases and Queries then this is the right course for you. Why Learn MySQL
+MySQL is the world’s most popular open source database. With its proven performance, reliability, and ease-of-use, MySQL has become the leading database choice for web-based applications, used by high profile web properties including Facebook, Twitter and YouTube.</description>
+    </item>
+    
+    <item>
+      <title>SQL Básico - Intermedio ¡Añade valor a tu CV en 2 horas!</title>
+      <link>https://jobready.courseintern.com/sql-b%C3%A1sico-intermedio-a%C3%B1ade-valor-a-tu-cv-en-2-horas/</link>
+      <pubDate>Sat, 04 Dec 2021 22:11:36 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/sql-b%C3%A1sico-intermedio-a%C3%B1ade-valor-a-tu-cv-en-2-horas/</guid>
+      <description>Aprenderás cómo leer y escribir consultas complejas en una base de datos usando una de las habilidades más demandadas. Estas habilidades también se aplican a cualquier otra base de datos como MySQL, Microsoft SQL Server, Oracle y mucho más. ¡Aprender SQL es una de las formas más rápidas de mejorar tus perspectivas profesionales ya que es una de las habilidades tecnológicas más demandadas! ¡En este curso aprenderás rápidamente y recibirás desafíos y pruebas en el camino para mejorar tu comprensión!</description>
+    </item>
+    
+    <item>
+      <title>SQL: Creación de Bases de Datos (De cero a profesional)</title>
+      <link>https://jobready.courseintern.com/sql-creaci%C3%B3n-de-bases-de-datos-de-cero-a-profesional/</link>
+      <pubDate>Sat, 04 Dec 2021 22:11:36 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/sql-creaci%C3%B3n-de-bases-de-datos-de-cero-a-profesional/</guid>
+      <description>¡El curso de SQL que te da más valor!
+¿Quieres aprender una habilidad que te ayude a incrementar tus ingresos? Si es así, entonces ¡Este curso es para ti!
+Saber programar en SQL es la habilidad más solicitada por las empresas de todo el mundo. Un programador Jr. en SQL gana $66,000 USD al año en promedio.
+¿Qué esperas?
+SQL (lenguaje de consulta estructurado) es el lenguaje que utilizamos para interactuar con las bases de datos que almacenan datos.</description>
+    </item>
+    
+    <item>
       <title>SQL Bootcamp with MySQL, PHP &amp; Python : 5 Courses in 1</title>
-      <link>https://www.jobready.ml/sql-bootcamp-with-mysql-php-python-5-courses-in-1/</link>
+      <link>https://jobready.courseintern.com/sql-bootcamp-with-mysql-php-python-5-courses-in-1/</link>
       <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/sql-bootcamp-with-mysql-php-python-5-courses-in-1/</guid>
+      <guid>https://jobready.courseintern.com/sql-bootcamp-with-mysql-php-python-5-courses-in-1/</guid>
       <description>=== Our students&#39; reviews regarding this course ===
 &#34;it&#39;s good that the course focuses more on the application part rather than just giving some bookish theories or concepts which anyone can read for the plenty of textbooks.&#34; -- Deepanshu Kumar
 &#34;Very clear and straight forward.&#34; -- Chakri Muthyala
@@ -39,61 +154,31 @@
     </item>
     
     <item>
-      <title>MySQL Database Development Mastery</title>
-      <link>https://www.jobready.ml/mysql-database-development-mastery/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/mysql-database-development-mastery/</guid>
-      <description>Overview
-This is a zero to hero course on MySQL Database Server and MySQL Workbench. There are no pre-requisites for this course. If you are looking to get acquainted with the concept of Databases and Queries then this is the right course for you. Why Learn MySQL
-MySQL is the world’s most popular open source database. With its proven performance, reliability, and ease-of-use, MySQL has become the leading database choice for web-based applications, used by high profile web properties including Facebook, Twitter and YouTube.</description>
-    </item>
-    
-    <item>
-      <title>Microsoft SQL Server Development for Everyone</title>
-      <link>https://www.jobready.ml/microsoft-sql-server-development-for-everyone/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/microsoft-sql-server-development-for-everyone/</guid>
-      <description>Overview
-This is a zero to hero course on Microsoft SQL Databases and Querying. There are no pre-requisites for this course. This course provides you with fundamental SQL Server training and is enough to get you started at a Database Developer or Junior Database Administrator. This course will teach you how to use the SQL language within Microsoft SQL Server, one of the most popular database engines in the world.</description>
-    </item>
-    
-    <item>
       <title>MS SQL Server 2019. Programación de Bases de Datos con T-SQL</title>
-      <link>https://www.jobready.ml/ms-sql-server-2019.-programaci%C3%B3n-de-bases-de-datos-con-t-sql/</link>
+      <link>https://jobready.courseintern.com/ms-sql-server-2019.-programaci%C3%B3n-de-bases-de-datos-con-t-sql/</link>
       <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/ms-sql-server-2019.-programaci%C3%B3n-de-bases-de-datos-con-t-sql/</guid>
+      <guid>https://jobready.courseintern.com/ms-sql-server-2019.-programaci%C3%B3n-de-bases-de-datos-con-t-sql/</guid>
       <description>Con este curso de Microsoft SQL Server 2019, partiremos de cero, para mostrar este gestor de bases de datos, al mismo tiempo que nos formaremos con SQL y la extensión de funcionalidades del lenguaje que hace Microsoft, llamado Transact-SQL.
 Veremos todos los comandos y sentencias necesarios para poder trabajar con fluidez en un proyecto.
 Desarrollaremos proyectos de bases de datos para poder trabajar elaboración de informes completos o scripts que puedan ser integrados en otros framework&#39;s de desarrollo.</description>
     </item>
     
     <item>
-      <title>SQL Básico - Intermedio ¡Añade valor a tu CV en 2 horas!</title>
-      <link>https://www.jobready.ml/sql-b%C3%A1sico-intermedio-a%C3%B1ade-valor-a-tu-cv-en-2-horas/</link>
-      <pubDate>Thu, 23 Sep 2021 08:39:11 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/sql-b%C3%A1sico-intermedio-a%C3%B1ade-valor-a-tu-cv-en-2-horas/</guid>
-      <description>Aprenderás cómo leer y escribir consultas complejas en una base de datos usando una de las habilidades más demandadas. Estas habilidades también se aplican a cualquier otra base de datos como MySQL, Microsoft SQL Server, Oracle y mucho más. ¡Aprender SQL es una de las formas más rápidas de mejorar tus perspectivas profesionales ya que es una de las habilidades tecnológicas más demandadas! ¡En este curso aprenderás rápidamente y recibirás desafíos y pruebas en el camino para mejorar tu comprensión!</description>
-    </item>
-    
-    <item>
       <title>Oracle Veritabanı Programlama : SQL, PL/SQL, Oracle Mimarisi</title>
-      <link>https://www.jobready.ml/oracle-veritaban%C4%B1-programlama-sql-pl/sql-oracle-mimarisi/</link>
+      <link>https://jobready.courseintern.com/oracle-veritaban%C4%B1-programlama-sql-pl/sql-oracle-mimarisi/</link>
       <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/oracle-veritaban%C4%B1-programlama-sql-pl/sql-oracle-mimarisi/</guid>
+      <guid>https://jobready.courseintern.com/oracle-veritaban%C4%B1-programlama-sql-pl/sql-oracle-mimarisi/</guid>
       <description>Önemli Not : Bu kurs Türkiye&#39;nin ve Udemy&#39;nin ilk Oracle PL/SQL Programlama kursudur. 2011 yılında çekildi ve halen daha bu kadar kapsamlı başka bir Oracle kursu bulunmamaktadır. SQL ve PL/SQL dil özellikleri bilinenin aksine çok hızlı değişmez ve onlarca yıldır sektörde kullanılan bu dillerin özellikleri yok olmaz. Yeni Oracle versiyonlarında genellikle sadece yeni özellikler gelir(kullanıcı arayüzlerine ve dil özelliklerine). Yani bu kurs ilk ama halen günceldir. Bu kurs içerikleriyle hızlı şekilde dil ve genel mantığa hakim olduktan sonra zaman içinde gelen yeni özellikler için ayrıca güncel kitap ya da kurslar(kaliteli TR içerik yok, sadece İngilizce bulabilirsiniz) ile kendinizi daha da geliştirebilirsiniz.</description>
     </item>
     
     <item>
       <title>PostgreSQL Veritabanı Programlama (Part 1) - Temeller ve SQL</title>
-      <link>https://www.jobready.ml/postgresql-veritaban%C4%B1-programlama-part-1-temeller-ve-sql/</link>
+      <link>https://jobready.courseintern.com/postgresql-veritaban%C4%B1-programlama-part-1-temeller-ve-sql/</link>
       <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/postgresql-veritaban%C4%B1-programlama-part-1-temeller-ve-sql/</guid>
+      <guid>https://jobready.courseintern.com/postgresql-veritaban%C4%B1-programlama-part-1-temeller-ve-sql/</guid>
       <description>DeepLab.University organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
 Kurs İçeriği
 SQL Server ve Oracle veritabanı yönetim sistemleri için hazırladığım derinlemesine anlatım yapan iki ayrı kurstan sonra, şimdi de uzun zamandır takipçilerimin beklediği PostgreSQL veritabanı yönetim sistemi eğitimi serisinin ilk kursunu yayına hazırladık.
@@ -102,19 +187,19 @@ SQL Server ve Oracle veritabanı yönetim sistemleri için hazırladığım deri
     
     <item>
       <title>SQLite Veritabanı Programlama</title>
-      <link>https://www.jobready.ml/sqlite-veritaban%C4%B1-programlama/</link>
+      <link>https://jobready.courseintern.com/sqlite-veritaban%C4%B1-programlama/</link>
       <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/sqlite-veritaban%C4%B1-programlama/</guid>
+      <guid>https://jobready.courseintern.com/sqlite-veritaban%C4%B1-programlama/</guid>
       <description>Veritabanı teknolojileri, sektörel olarak farklı birçok sorunu çözmek için hazırlanmış birçok farklı marka ve girişime sahiptir. Bu kadar çeşit olmasının nedeni iş ve teknoloji dünyasında veri ile ilgili çözülmesi gereken sorunların çeşitlilik göstermesidir. Klasik veri depolama gibi ihtiyaçları çözmek için, onlarca yıldır Oracle, SQL Server, PostgreSQL, MySQL vb. gibi gelişmiş VTYS&#39;ler kullanılmaya devam ediliyor. Ancak günümüz teknolojilerinin çok daha karmaşık ihtiyaçlara sahip olması nedeniyle bu veritabanı teknolojileri artık yeterli değildir. Bu nedenle NoSQL kategorisi altında MongoDB, Redis, Cassandra ve daha farklı onlarca alt veritabanı teknolojisi geliştirilmiştir.</description>
     </item>
     
     <item>
       <title>Basics of Database Design &amp; Development</title>
-      <link>https://www.jobready.ml/basics-of-database-design-development/</link>
+      <link>https://jobready.courseintern.com/basics-of-database-design-development/</link>
       <pubDate>Thu, 09 Sep 2021 18:05:48 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/basics-of-database-design-development/</guid>
+      <guid>https://jobready.courseintern.com/basics-of-database-design-development/</guid>
       <description>Database design is the process of producing a detailed data model of a database. This data model contains all the needed logical and physical design choices and physical storage parameters needed to generate a design. Through this tutorial we will try to teach the basis components of database design and explains how to make a good database design.
 Designing a database is in fact fairly easy, but there are a few rules to stick to.</description>
     </item>

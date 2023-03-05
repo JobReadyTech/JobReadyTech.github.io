@@ -2,38 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accounting &amp; Bookkeeping on </title>
-    <link>https://www.jobready.ml/tags/accounting-bookkeeping/</link>
+    <link>https://jobready.courseintern.com/tags/accounting-bookkeeping/</link>
     <description>Recent content in Accounting &amp; Bookkeeping on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Oct 2021 13:01:12 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/accounting-bookkeeping/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 30 Jun 2022 20:43:25 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/accounting-bookkeeping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accounting-Statement of Cash Flows</title>
+      <link>https://jobready.courseintern.com/accounting-statement-of-cash-flows/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/accounting-statement-of-cash-flows/</guid>
+      <description>Statement of cash flows creation and analysis. We will introduce the statement of cash flows and discuss its purpose and uses. Understanding how to create a statement of cash flows provides us with a much deeper understanding of accounting and how the financial statements are constructed. To build a statement of cash flows, we will use concepts of accrual accounting needed to create the balance sheet and income statement. We will apply our understanding of accrual concepts to analyze cash flows, creating a cash flow statement from accrual financial reports.</description>
+    </item>
     
     <item>
-      <title>Complete Inventory Management in Microsoft Excel &amp;TALLY ERP9</title>
-      <link>https://www.jobready.ml/complete-inventory-management-in-microsoft-excel-tally-erp9/</link>
-      <pubDate>Fri, 22 Oct 2021 13:01:12 +0530</pubDate>
+      <title>Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)</title>
+      <link>https://jobready.courseintern.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/complete-inventory-management-in-microsoft-excel-tally-erp9/</guid>
-      <description>Recent Student&#39;s Reviews
-
-*** This course is well detailed in inventory management. I really learnt how to make practical use of excel, tally ERP9 and good inventory valuation (Williams Oguamah) ***
-
-**Yes it is a good match for me. It will help me in my career path ( Dineo ) ***
-
-*** it was awesome to learn &amp;amp; get insights from this course (Haritha.L) ***
-
-*** Very Helpful (JULIUS IGNACIO)***</description>
+      <guid>https://jobready.courseintern.com/bank-feeds-quickbooks-online-xero-sage-wave-comparison/</guid>
+      <description>Bank Feed Options
+This course will compare and contrast the top accounting software applications, focusing on the use of bank feeds.
+We will provide practice data that learners can import into the software applications.
+Learners will understand the process of setting up each online software package. We will also discuss purchase options.
+Most of the software applications will include a free test drive, an excellent tool for learning accounting and bank feeds.</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting – Inventory Costs</title>
+      <link>https://jobready.courseintern.com/financial-accounting-inventory-costs/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/financial-accounting-inventory-costs/</guid>
+      <description>We cover inventory costs and cost flows, including what is included in the cost of inventory and how to account for inventory freight costs, inventory insurance costs, and discount. We also discuss inventory flow assumptions including specific identification, first in first out (FIFO), last in first out (LIFO), and weighted average methods. FIFO, LIFO and weighted average methods will be discussed using both a periodic inventory system and a perpetual inventory system.</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting-Debits &amp; Credits-Accounting Transaction</title>
+      <link>https://jobready.courseintern.com/financial-accounting-debits-credits-accounting-transaction/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/financial-accounting-debits-credits-accounting-transaction/</guid>
+      <description>Includes downloadable e-book in multiple formats so you can open it on your tablet or Kindle - Formats (EPUB, MOBI, PDF). Accounting Instruction Reference #100 is a book that sells on Amazon and is available in Kindle, Paperback, and audiobook format. Often times when we receive a book that is published on Amazon it is exciting until we find it is only in PDF format. The e-book we provide is in a format you can use on a tablet and Kindle.</description>
+    </item>
+    
+    <item>
+      <title>Job Cost QuickBooks Online vs QuickBooks Desktop–Contractor</title>
+      <link>https://jobready.courseintern.com/job-cost-quickbooks-online-vs-quickbooks-desktopcontractor/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/job-cost-quickbooks-online-vs-quickbooks-desktopcontractor/</guid>
+      <description>This QuickBooks Job Costing course will provide the resources for learners to develop a solid understanding of job costing concepts and the tools QuickBooks provides to create an effective job costing system.
+We will provide backup files for the desktop version so learners can jump forward in the practice problem or rework any component of the problem. The use of backup files is not a requirement of the course, however.</description>
+    </item>
+    
+    <item>
+      <title>QuickBooks Desktop Multiple Currencies</title>
+      <link>https://jobready.courseintern.com/quickbooks-desktop-multiple-currencies/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/quickbooks-desktop-multiple-currencies/</guid>
+      <description>Learn how to get access to QuickBooks Desktop including a possible free 30-day trial version often offered by Intuit, the owner of QuickBooks Desktop.
+The course will discuss accounting for multiple currencies, outlining the process in Excel to provide a more transparent look at the process. Then we will enter the transactions into QuickBooks, the software automating some of the steps required.
+We will learn how to turn multicurrency on, and which accounts will be affected most by multicurrency transactions including cash account types, accounts receivable account types, and accounts payable account types.</description>
+    </item>
+    
+    <item>
+      <title>Two QuickBooks File-Business &amp; Personal vs One File For Both</title>
+      <link>https://jobready.courseintern.com/two-quickbooks-file-business-personal-vs-one-file-for-both/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/two-quickbooks-file-business-personal-vs-one-file-for-both/</guid>
+      <description>QuickBooks Pro Desktop 2019, comparing two methods of tracking both business and personal records, one using two QuickBooks Desktop 2019 files, and one using a sing file to track both business and personal financial data using QuickBooks class tracking feature. We will work with hands-on practical practice problems together under both methods, compare the results, and discuss the pros and cons of each approach. The course will start with the method of using two separate QuickBooks files for business and personal records because this is the most widely recommended method and provides the greatest separation of business and personal data which is usually a good thing.</description>
     </item>
     
     <item>
       <title>Accounting–Financial Accounting Total-Beginners to Advanced</title>
-      <link>https://www.jobready.ml/accountingfinancial-accounting-total-beginners-to-advanced/</link>
-      <pubDate>Tue, 19 Oct 2021 19:42:17 +0530</pubDate>
+      <link>https://jobready.courseintern.com/accountingfinancial-accounting-total-beginners-to-advanced/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/accountingfinancial-accounting-total-beginners-to-advanced/</guid>
+      <guid>https://jobready.courseintern.com/accountingfinancial-accounting-total-beginners-to-advanced/</guid>
       <description>Recently updated with A LOT of added content.
 Includes downloadable e-book in multiple formats so you can open it on your tablet or Kindle - Formats (EPUB, MOBI, PDF).
 This course is an excellent supplement for students or anybody who wants to learn accounting and also have something they can refer back to in the future. Udemy generally provides lifetime access to the course.
@@ -41,56 +90,397 @@ Many accounting students do not receive a physical book, they get to keep from t
     </item>
     
     <item>
-      <title>Governmental Accounting 100</title>
-      <link>https://www.jobready.ml/governmental-accounting-100/</link>
-      <pubDate>Tue, 19 Oct 2021 12:26:02 +0530</pubDate>
+      <title>Audit - Financial Statement</title>
+      <link>https://jobready.courseintern.com/audit-financial-statement/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/governmental-accounting-100/</guid>
-      <description>Governmental accounting, including fund accounting financial transactions, focusing on the general fund and government-wide activities.
-We will work through many example problems as we learn the material, posting transactions to a trial balance, so we can see how accounts behave. Many governmental accounts are new to many learners, and we will be using different accounting methods than just an accrual method. Posting transactions and seeing a trial balance will be very helpful in learning the material and is something lacking in most courses on the subject.</description>
+      <guid>https://jobready.courseintern.com/audit-financial-statement/</guid>
+      <description>Audit-Financial Accounting will discuss, in detail, the auditing process of financial statements.
+The course will start by discussing what an audit is, as well as what the terms attest engagement and assurances services mean.
+We will discuss the audit environment, the general format of a public accounting firm, and the general format of an audit team that would conduct the procedures related to an audit. The course will also discuss regulations and regulatory institutions related to the audit process.</description>
     </item>
     
     <item>
       <title>Not-for-Profit Accounting-Charities, Colleges, &amp; Health Care</title>
-      <link>https://www.jobready.ml/not-for-profit-accounting-charities-colleges-health-care/</link>
-      <pubDate>Tue, 19 Oct 2021 12:26:02 +0530</pubDate>
+      <link>https://jobready.courseintern.com/not-for-profit-accounting-charities-colleges-health-care/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/not-for-profit-accounting-charities-colleges-health-care/</guid>
+      <guid>https://jobready.courseintern.com/not-for-profit-accounting-charities-colleges-health-care/</guid>
       <description>Not for Profit Accounting-Charities, Colleges, &amp;amp; Health Care will cover accounting principles related to not for profit organizations.
 Our concentration will be on nongovernmental not-for-profit organizations. However, we will discuss the differences between nongovernmental not for profit organization and governmental not-for-profit organizations. We will also discuss accounting concepts for both governmental and nongovernmental organizations related to health care and colleges.
 The course will start by introducing what a not for profit organization is.</description>
     </item>
     
     <item>
-      <title>Time Value of Money &amp; Capital Budgeting - Present Value</title>
-      <link>https://www.jobready.ml/time-value-of-money-capital-budgeting-present-value/</link>
-      <pubDate>Tue, 19 Oct 2021 12:26:02 +0530</pubDate>
+      <title>QuickBooks Desktop Not for Profit Organizations</title>
+      <link>https://jobready.courseintern.com/quickbooks-desktop-not-for-profit-organizations/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/time-value-of-money-capital-budgeting-present-value/</guid>
+      <guid>https://jobready.courseintern.com/quickbooks-desktop-not-for-profit-organizations/</guid>
+      <description>QuickBooks Desktop Not for Profit Organizations will provide the tools to enter data into QuickBooks for a not for profit organization.
+This QuickBooks course will consist of three comprehensive practice problems. One problem will be for a charitable organization, one for a health care organization, and one for a not for profit school.
+We will learn how to set up a QuickBooks file for a not for profit organization.
+The course will show how to create a chart of accounts and items list for a not for profit organization.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Financial Accounting</title>
+      <link>https://jobready.courseintern.com/advanced-financial-accounting/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/advanced-financial-accounting/</guid>
+      <description>Advanced financial accounting will focus heavily on intercorporate acquisitions and investments in other entities.
+Why learn advanced accounting?
+Even if we do not work in an area that applies advanced accounting concepts directly, learning them is very useful, because it refines our skills on the understanding of double-entry accounting, its concepts, and practical application.
+Advanced financial accounting is also a standardized topic often found on exams like the CPA exam.</description>
+    </item>
+    
+    <item>
+      <title>Aplos Not for Profit Accounting Software</title>
+      <link>https://jobready.courseintern.com/aplos-not-for-profit-accounting-software/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/aplos-not-for-profit-accounting-software/</guid>
+      <description>Learners will understand how to set up Aplos, software specifically designed for Not for Profit Organizations.
+The course will show how to use free resources to optimize learning.
+We will demonstrate the use of funds and tags to generate Not for Profit reports.
+The course will demonstrate how to enter and track restricted resources.
+We will enter month end adjusting entries.
+Learners will see how to allocate expenses to programs and administrative categories.</description>
+    </item>
+    
+    <item>
+      <title>Governmental Accounting 200 Capital Projects &amp; Debt Service</title>
+      <link>https://jobready.courseintern.com/governmental-accounting-200-capital-projects-debt-service/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/governmental-accounting-200-capital-projects-debt-service/</guid>
+      <description>The course will focus on larger capital projects and the use of a capital project fund and debt service fund to track them.
+We will cover governmental accounting objective, which will be a review from governmental accounting 100.
+The course will discuss what capital assets are and how they are recorded in governmental accounting, comparing governmental accounting to for-profit accounting.
+Students will learn to record transactions for the issuance of bonds used to finance capital projects, recording transactions at the government-wide level and in the capital project fund, debts service fund, and general fund.</description>
+    </item>
+    
+    <item>
+      <title>Governmental Accounting 300 Proprietary &amp; Fiduciary Funds</title>
+      <link>https://jobready.courseintern.com/governmental-accounting-300-proprietary-fiduciary-funds/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/governmental-accounting-300-proprietary-fiduciary-funds/</guid>
+      <description>Governmental Accounting 300 Proprietary &amp;amp; Fiduciary Funds will focus in on the accounting for proprietary and fiduciary funds.
+We recommend first taking Governmental Accounting 100 and Governmental Accounting 200 or have equivalent experience before taking this course.
+The course will provide an overview of governmental accounting. As we move through the course, we will focus on areas of governmental accounting that are different from for-profit accounting.
+We will consider what proprietary funds are and when a proprietary would be used within governmental accounting.</description>
+    </item>
+    
+    <item>
+      <title>Process Costing System-Cost Accounting-Managerial Accounting</title>
+      <link>https://jobready.courseintern.com/process-costing-system-cost-accounting-managerial-accounting/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/process-costing-system-cost-accounting-managerial-accounting/</guid>
+      <description>Process costing system – Cost Accounting – Managerial Accounting
+We will start by introducing managerial accounting or cost accounting topics that apply to companies that manufacture using either a job cost system or a process cost system.
+The course will describe classifications for costs and the importance of being able to classify costs in different ways.
+We will list and describe an outline of the process costs go through as they flow through the accounting process in a manufacturing company.</description>
+    </item>
+    
+    <item>
+      <title>Time Value of Money &amp; Capital Budgeting - Present Value</title>
+      <link>https://jobready.courseintern.com/time-value-of-money-capital-budgeting-present-value/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/time-value-of-money-capital-budgeting-present-value/</guid>
       <description>Time value of money and capital budgeting decision is an excellent course for anybody who needs to consider longer-term decisions that require us to understand the time value of money. We will learn the time value of money concepts like present value and future value using multiple methods, including formulas, tables, and Excel functions. We will format the data in many ways and have many examples using Excel to calculate present value.</description>
     </item>
     
     <item>
-      <title>Ultimate TallyPrime With GST Step By Step Guide - 2021</title>
-      <link>https://www.jobready.ml/ultimate-tallyprime-with-gst-step-by-step-guide-2021/</link>
-      <pubDate>Tue, 19 Oct 2021 12:26:02 +0530</pubDate>
+      <title>Wave Accounting</title>
+      <link>https://jobready.courseintern.com/wave-accounting/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/ultimate-tallyprime-with-gst-step-by-step-guide-2021/</guid>
+      <guid>https://jobready.courseintern.com/wave-accounting/</guid>
+      <description>This course will use free accounting software which is an excellent tool to practice with.
+This course will jump right into bank feeds and how to use them.
+Many accounting software courses will spend a lot of time talking about how a full-service accounting system works. We do recommend spending time learning the full accounting process, and we do have courses that do just that.
+However, many small businesses want to get right down to data input as fast as possible, and others already have a good understanding of the system and want to focus specifically on bank feeds.</description>
+    </item>
+    
+    <item>
+      <title>Governmental Accounting 100</title>
+      <link>https://jobready.courseintern.com/governmental-accounting-100/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/governmental-accounting-100/</guid>
+      <description>Governmental accounting, including fund accounting financial transactions, focusing on the general fund and government-wide activities.
+We will work through many example problems as we learn the material, posting transactions to a trial balance, so we can see how accounts behave. Many governmental accounts are new to many learners, and we will be using different accounting methods than just an accrual method. Posting transactions and seeing a trial balance will be very helpful in learning the material and is something lacking in most courses on the subject.</description>
+    </item>
+    
+    <item>
+      <title>Relevant Costs - Managerial Accounting Decisions &amp; Scenarios</title>
+      <link>https://jobready.courseintern.com/relevant-costs-managerial-accounting-decisions-scenarios/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/relevant-costs-managerial-accounting-decisions-scenarios/</guid>
+      <description>Apply relevant cost methods to common managerial decisions.
+Managers often need to make decisions that are not routine, not part of the normal day to day process, and that can have a long-term effect on the organization. Individuals often need to make similar decisions and can apply similar tools when making decisions of a large dollar amount that can affect multiple years.
+Although the specifics of each decision differ, the concept of relevant costs helps us put together a process for gathering and analyzing data, picking up the information that matters, and removing all the excess data that does not matter to our decision.</description>
+    </item>
+    
+    <item>
+      <title>Xero Not for Profit Organization</title>
+      <link>https://jobready.courseintern.com/xero-not-for-profit-organization/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/xero-not-for-profit-organization/</guid>
+      <description>Learners will understand how to set up Xero for a Not for Profit Organization.
+The course will show how to use free resources to optimize learning.
+We will demonstrate the use of category tracking to generate Not for Profit reports.
+Learners will see how to create and use donation receipt forms.
+We will show how to create and use pledge receipt forms.
+The course will demonstrate how to enter and track restricted resources.</description>
+    </item>
+    
+    <item>
+      <title>Excel Accounting 1–Transactions for Common Data Input Forms</title>
+      <link>https://jobready.courseintern.com/excel-accounting-1transactions-for-common-data-input-forms/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/excel-accounting-1transactions-for-common-data-input-forms/</guid>
+      <description>In this course we will build an accounting system starting with a blank Excel worksheet, creating a general journal, a general ledger, a trial balance, subledgers, and financial statements.
+For each new step in the process, you will have access to a downloadable Excel Workbook, containing at least two tabs, one with the answer, the new steps having been completed, the other starting out where the prior presentation left off.</description>
+    </item>
+    
+    <item>
+      <title>Excel Accounting 3 – Enter First Month of Transactions</title>
+      <link>https://jobready.courseintern.com/excel-accounting-3-enter-first-month-of-transactions/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/excel-accounting-3-enter-first-month-of-transactions/</guid>
+      <description>In this course we will enter common financial transactions for the first month of operations into an accounting system set up using an Excel worksheet.
+Learners will learn how to navigate Microsoft Excel as well as how to use a well-designed accounting worksheet, complete with a general journal, trial balance, general ledger, subsidiary ledgers for accounts receivable, accounts payable, &amp;amp; inventory, financial statements and much more.
+Excel is a very good tool to learn accounting because it is much more transparent than a database program, like accounting software, QuickBooks being a common example of accounting software.</description>
+    </item>
+    
+    <item>
+      <title>Excel Accounting 5–Bank Reconciliations-Month 1 &amp; 2</title>
+      <link>https://jobready.courseintern.com/excel-accounting-5bank-reconciliations-month-1-2/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/excel-accounting-5bank-reconciliations-month-1-2/</guid>
+      <description>This course will focus on creating bank reconciliations after two months of financial data was entered into an accounting system using Excel.
+For most new steps in the process, you will have access to a downloadable Excel Workbook containing at least two tabs, one with the answer, the new steps completed, the other starting where the prior presentation left off.
+We will create a bank reconciliation for the first and second months.</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting – Closing Process</title>
+      <link>https://jobready.courseintern.com/financial-accounting-closing-process/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/financial-accounting-closing-process/</guid>
+      <description>The financial accounting closing process is the final step in the accounting cycle. We will learn why the closing process in needed and be able to perform the closing process multiple ways. In addition to instructional video, this course will include downloadable
+• Downloadable PDF Files
+• Excel Practice Files
+• Multiple Choice Practice Questions
+• Short Calculation Practice Questions
+• Discussion Questions
+The PDF files allow us to download reference information we can use offline and as a guide to help us work through the material.</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting-Adjusting Entries &amp; Financial Statement</title>
+      <link>https://jobready.courseintern.com/financial-accounting-adjusting-entries-financial-statement/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/financial-accounting-adjusting-entries-financial-statement/</guid>
+      <description>Adjusting entries, posting adjusting entries to a worksheet, financial statement creation from an adjusted trial balance, and reversing entries will be covered in this course.
+The adjusting entry process is a fundamental bookkeeping and accounting process but is often the accounting process most misunderstood. Because of the name of accounting adjusting entry process we are led to believe that we are adjusting errors made by the accounting department. In other words, we may get the idea that the adjusting process would not be needed if the accounting department did their work perfectly through the period.</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting-Depreciation Calculation &amp; Fixed Assets</title>
+      <link>https://jobready.courseintern.com/financial-accounting-depreciation-calculation-fixed-assets/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/financial-accounting-depreciation-calculation-fixed-assets/</guid>
+      <description>Property plant and equipment, also known as plant assets, fixed assets, or depreciable assets is what we will cover.
+We will discuss what property plant and equipment is and how to record property plant and equipment. Multiple depreciation methods will be covered including the straight-line depreciation method, the double declining depreciation method, and the units of production depreciation method. We will discuss the pros and cons of each depreciation method and outline a format for structuring any deprecation problem.</description>
+    </item>
+    
+    <item>
+      <title>Receivables &amp; The Allowance vs The Direct Write Off Methods</title>
+      <link>https://jobready.courseintern.com/receivables-the-allowance-vs-the-direct-write-off-methods/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/receivables-the-allowance-vs-the-direct-write-off-methods/</guid>
+      <description>We will discuss receivables, focusing on accounts receivable and notes receivable, reviewing the accounts receivable cycle, the journal entries for recording accounts receivable, and related subsidiary ledgers. We will discuss bad debt and valuing of accounts receivable using two methods, the allowance method and the direct write off method. The accounts receivable account represents money owed to the company but there will be times when the company cannot collect on the account receivables.</description>
+    </item>
+    
+    <item>
+      <title>Bank Reconciliations &amp; Cash Internal Controls</title>
+      <link>https://jobready.courseintern.com/bank-reconciliations-cash-internal-controls/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:46 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bank-reconciliations-cash-internal-controls/</guid>
+      <description>We will discuss internal controls including what they are, why they are useful, and the objectives of internal controls. We will then move to internal controls specific to cash including bank reconciliations. Bank reconciliations are important controls for both large and small companies. After the double entry accounting system itself, the bank reconciliation is one of the most important internal controls. The bank reconciliation will compare the bank statement to the cash book balance as of a point in time and reconcile the difference between the two.</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting – Subsidiary Ledgers &amp; Special Journals</title>
+      <link>https://jobready.courseintern.com/financial-accounting-subsidiary-ledgers-special-journals/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:46 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/financial-accounting-subsidiary-ledgers-special-journals/</guid>
+      <description>We record transactions using special journals and track accounts receivable by customer and accounts payable by vendor using subsidiary ledger. We should have a good understanding of debits and credits before this course and we have courses covering debits and credits. We can construct an accounting system where we record every financial transaction using debits and credits in a general journal, posting each journal entry to the general ledger, making the trial balance form the general ledger, and the financial statements from the trial balance.</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting &amp; Excel–Comprehensive Accounting Course</title>
+      <link>https://jobready.courseintern.com/financial-accounting-excelcomprehensive-accounting-course/</link>
+      <pubDate>Fri, 03 Jun 2022 21:31:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/financial-accounting-excelcomprehensive-accounting-course/</guid>
+      <description>If we are a business owner or accounting professional who would like to get a better understanding of what our accounting software is doing
+Or
+An accounting student or student in general that would like to get a better understanding of what our accounting textbook is doing
+This course is a course for us.
+Business owners, accounting professionals, and accounting students often have the same problem with accounting. . .</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting – Payroll</title>
+      <link>https://jobready.courseintern.com/financial-accounting-payroll/</link>
+      <pubDate>Mon, 23 May 2022 20:27:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/financial-accounting-payroll/</guid>
+      <description>This financial accounting and payroll class will cover payroll topics including payroll legislation, payroll calculations, and entering payroll journal entries.
+Because payroll is becoming more complex and more of a specialized field it is difficult to find content that puts it all together in one spot like this course does. We will discuss payroll legislation, going over a wide variety of laws that influence payroll. Because payroll is such a broad topic and because it overlaps with other areas of business like human resources many laws influence the processing of payroll.</description>
+    </item>
+    
+    <item>
+      <title>Accounting Interview Questions: Go from ZERO to HERO</title>
+      <link>https://jobready.courseintern.com/accounting-interview-questions-go-from-zero-to-hero/</link>
+      <pubDate>Wed, 18 May 2022 20:03:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/accounting-interview-questions-go-from-zero-to-hero/</guid>
+      <description>This interview exams sets are designed in a way for the candidate to prepare for the accounting position interview. This course will provide you the basic understanding of how accounting works and will help you build the base foundation of the accounting so that you can crack the any accounting interview. Accounting is one of the most important skills for people pursuing a career in Finance.
+It helps you understand whether a business is profitable.</description>
+    </item>
+    
+    <item>
+      <title>QuickBooks Enterprise-Classes-Responsibility Accounting</title>
+      <link>https://jobready.courseintern.com/quickbooks-enterprise-classes-responsibility-accounting/</link>
+      <pubDate>Thu, 12 May 2022 15:30:49 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/quickbooks-enterprise-classes-responsibility-accounting/</guid>
+      <description>This course is a project-based course using the free trial version of QuickBooks Enterprise, practicing the feature of class tracking for both the balance sheet and profit and loss, the class tracking feature applied to responsibility accounting.
+We will learn how to download the free trial version of QuickBooks Enterprise and set up a new company file to work in.
+The course will show how to turn on the class tracking feature and discuss the differences between class tracking for the QuickBooks Pro version of the software and the QuickBooks Enterprise version.</description>
+    </item>
+    
+    <item>
+      <title>QuickBooks Enterprise - Two Businesses &amp; Personal in One</title>
+      <link>https://jobready.courseintern.com/quickbooks-enterprise-two-businesses-personal-in-one/</link>
+      <pubDate>Wed, 11 May 2022 20:40:15 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/quickbooks-enterprise-two-businesses-personal-in-one/</guid>
+      <description>This is a project-based course that will use the free trial version of QuickBooks Enterprise to track multiple business financial data as well as personal financial data in one QuickBooks Enterprise file. We will learn to generate and analyze both the balance sheet and income statement reports by class.
+We will learn the difference between the QuickBooks Enterprise class tracking feature and the QuickBooks Pro class tracking feature.
+The course will show how to turn on the class tracking feature in QuickBooks Enterprise.</description>
+    </item>
+    
+    <item>
+      <title>Sage 300 people ,payroll and hr, employees management 2022</title>
+      <link>https://jobready.courseintern.com/sage-300-people-payroll-and-hr-employees-management-2022/</link>
+      <pubDate>Sun, 08 May 2022 16:10:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/sage-300-people-payroll-and-hr-employees-management-2022/</guid>
+      <description>The purpose of the basic Training is to provide you with the necessary skills that will enable you to take full ownership of the payroll function. You will be able to complete an entire pay run on the Sage 300 People system and reconcile input, etc. to ensure accurate payroll data. you will learn to manage employees information such as earnings, deductions, taxable benefits, company contributions and leave .Apply for leave , manage their claims , manage their own personal details like bank accounts and next of kin information , View current and previous payslips and tax certificates and print selected reports , complete a performance review ,start a free workflow.</description>
+    </item>
+    
+    <item>
+      <title>Accounting, Financial Accounting</title>
+      <link>https://jobready.courseintern.com/accounting-financial-accounting/</link>
+      <pubDate>Fri, 06 May 2022 17:02:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/accounting-financial-accounting/</guid>
+      <description>Hello there and welcome to the Best support Financial Accounting Course on Udemy (Learn Finance and Accounting the Easy Way)! I am gonna take you right the way through out the course so you&#39;ll see my course will help you understand underlying principles and concepts relating to financial accounting and technical proficiency in the use of double-entry accounting techniques including the preparation of the basic financial statements.
+After taking this course you will understand how to create, analyze and forecast an income statement, balance sheet and cash flow statement.</description>
+    </item>
+    
+    <item>
+      <title>Accounting for Beginners: Financial Accounting Made Easy</title>
+      <link>https://jobready.courseintern.com/accounting-for-beginners-financial-accounting-made-easy/</link>
+      <pubDate>Wed, 04 May 2022 20:20:28 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/accounting-for-beginners-financial-accounting-made-easy/</guid>
+      <description>Have you ever had an Accounting Professor which just rambled and rambled, making Accounting sound like a different language ? Or have you ever tried going on to YouTube to take Accounting classes but just got lost within the sea of information ?
+Trust me, I know how that feels. I too went through the same frustration during my Undergraduate and Graduate Studies listening to Professor talk and talk while I was confused within the 1st 10 minutes of class.</description>
+    </item>
+    
+    <item>
+      <title>CPA Auditing and Attestation (AUD) Practice Exams</title>
+      <link>https://jobready.courseintern.com/cpa-auditing-and-attestation-aud-practice-exams/</link>
+      <pubDate>Tue, 03 May 2022 12:48:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/cpa-auditing-and-attestation-aud-practice-exams/</guid>
+      <description>Are you ready to crush the CPA Auditing and Attestation Exam and get certified?
+Today is a competitive world and the smartest, best, and most qualified get paid a lot of money to work in amazing fields. But you don’t need a college degree, certification is an amazing path that opens up new opportunities and shows employers that you are the cream of the crop. We know that AICPA certification will add some flair to that resume and help you get amazing new roles.</description>
+    </item>
+    
+    <item>
+      <title>Tally ERP9 With GST Step By Step Guide From Basic to Advance</title>
+      <link>https://jobready.courseintern.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/</link>
+      <pubDate>Tue, 03 May 2022 12:48:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/</guid>
       <description>Recent Student&#39;s Reviews
-***All lectures were amazing and easily understandable.
-one important thing i like most is that downloadable link of Tally Prime is available and we can easily practice all the examples side by side while watching the lectures - Simpi Garg***
-
-***Clearly understand what is tally prime in this full lecture.Thank you so much sir.(Rizwan Mohamed Y)***
-
-***Covers every chapter, step by step learning for everyone (Vivekanandan Jayakumar)***</description>
+***This Course Is Very Useful And Helpful To Me, I Teach To Tally Program In This Your All Videos. Thank You - Zaid Saiyed***
+***It Was Really Amazing Session Where I Brushed Up All My Concepts In A Very Simple Method - Keshvi Balodia***
+***I Have Really Enjoyed With This Course And It Is An Amazing Course. The Practical Example I Did Myself And It Is So Worth - Jasmin***</description>
+    </item>
+    
+    <item>
+      <title>10 Changes to accounting Industry &amp; CFO Trends 2022 Beyond</title>
+      <link>https://jobready.courseintern.com/10-changes-to-accounting-industry-cfo-trends-2022-beyond/</link>
+      <pubDate>Sat, 23 Apr 2022 14:41:13 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/10-changes-to-accounting-industry-cfo-trends-2022-beyond/</guid>
+      <description>Technology and Innovations in Business models has disrupted so many industries in recent years. Taxi service, travel, banking and shopping have been radically transformed by technology and innovation. These industries have been turned upside down and reshaped in just a few years.
+The same is true for the accounting industry. Accounting is no longer a person at a desk opening mail and processing invoices. A majority of invoices are sent electronically, and many are automatically paid through a processing system.</description>
+    </item>
+    
+    <item>
+      <title>Fundamentals of IAS 16  - Property Plant &amp; Equipments</title>
+      <link>https://jobready.courseintern.com/fundamentals-of-ias-16-property-plant-equipments/</link>
+      <pubDate>Sat, 23 Apr 2022 14:41:13 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fundamentals-of-ias-16-property-plant-equipments/</guid>
+      <description>IAS 16 establishes principles for recognizing property, plant, and equipment as assets, measuring their carrying amounts, and measuring the depreciation charges and impairment losses to be recognized in relation to them. Property, plant, and equipment are tangible items that:
+· are held for use in the production or supply of goods or services, for rental to others, or for administrative purposes; and
+· are expected to be used during more than one period.</description>
+    </item>
+    
+    <item>
+      <title>Complete Inventory Management in Microsoft Excel &amp;TALLY ERP9</title>
+      <link>https://jobready.courseintern.com/complete-inventory-management-in-microsoft-excel-tally-erp9/</link>
+      <pubDate>Tue, 22 Feb 2022 21:48:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/complete-inventory-management-in-microsoft-excel-tally-erp9/</guid>
+      <description>Recent Student&#39;s Reviews
+*** This course is well detailed in inventory management. I really learnt how to make practical use of excel, tally ERP9 and good inventory valuation (Williams Oguamah) ***
+**Yes it is a good match for me. It will help me in my career path ( Dineo ) ***
+*** it was awesome to learn &amp;amp; get insights from this course (Haritha.L) ***
+*** Very Helpful (JULIUS IGNACIO)***</description>
     </item>
     
     <item>
       <title>Complete Payroll Management in Excel &amp;TALLY ERP9 &amp;TallyPrime</title>
-      <link>https://www.jobready.ml/complete-payroll-management-in-excel-tally-erp9-tallyprime/</link>
-      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
+      <link>https://jobready.courseintern.com/complete-payroll-management-in-excel-tally-erp9-tallyprime/</link>
+      <pubDate>Mon, 31 Jan 2022 13:34:20 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/complete-payroll-management-in-excel-tally-erp9-tallyprime/</guid>
+      <guid>https://jobready.courseintern.com/complete-payroll-management-in-excel-tally-erp9-tallyprime/</guid>
       <description>Recent Student&#39;s Reviews
 *** This is a wonderful course for learning about payroll and how that is to me maintained on Tally ERP. All my doubts about maintaining payroll on Tally got cleared after doing this course - Ayushi ***
 *** Good &amp;amp; Detailed EXplanation about every topics - Ujjawal Kumar ***
@@ -98,11 +488,56 @@ one important thing i like most is that downloadable link of Tally Prime is avai
     </item>
     
     <item>
+      <title>Accounting Principles</title>
+      <link>https://jobready.courseintern.com/accounting-principles/</link>
+      <pubDate>Fri, 21 Jan 2022 17:47:54 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/accounting-principles/</guid>
+      <description>Accounting is very important subject that convert all financial events of the business into figures which allow managers and other users to report, analyze, and take decisions that help to read the financial position of a business and project future results.
+I built this course using multiple reliable resources in Accounting. The content is based on U.S. GAAP Accounting standards, I also used my own knowledge and experience which I earned throughout my career for more than 15 years.</description>
+    </item>
+    
+    <item>
+      <title>Bilanzanalyse mit Excel</title>
+      <link>https://jobready.courseintern.com/bilanzanalyse-mit-excel/</link>
+      <pubDate>Wed, 19 Jan 2022 17:15:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bilanzanalyse-mit-excel/</guid>
+      <description>Allgemein
+&#34;Die Bilanz muss immer aufgehen&#34; - Der klassische Spruch aus der Finanzabteilung bzw. Rechnungswesen.
+Es ist schon relativ herausfordernd, die klassischen Kennzahlen einer Bilanz zu lesen, zu verstehen und zu interpretieren. Dabei passiert es oft, dass mehrere Excel-Dateien verwendet werden und immer wieder mit kopieren und einfügen die Daten regelrecht zu &#34;sammeln&#34;.
+Das muss nicht sein. Sie können wunderbar nur 1 Excel-Datei für Ihre Bilanzanalyse verwenden inkl. Cashflow, GuV, ROI und der dazugehörigen Kennzahlen-Analyse.</description>
+    </item>
+    
+    <item>
+      <title>أساسيات المحاسبة المالية</title>
+      <link>https://jobready.courseintern.com/%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9/</link>
+      <pubDate>Sat, 15 Jan 2022 17:51:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9/</guid>
+      <description>انت فى الصريق الصحيح لتطوير مهاراتك لتصبح محترف فى المحاسبة كل ما تحتاجه فى كورس واحد تم تصميم المحتوى التدريبي لهذا الكورس على اساس احتياجات سوق العمل و يتميز هذا الكورس بربط الاطار النظرى للمحاسبة بالواقع العملى و المستندات الفعلية المستخدمة فى الشركات الكورس بنظام سؤال و جواب لتسهيل طريقة الشرحو يتناول الكورس اجابات هذه الاسئلة على سبيل المثال وليس الحصر ما هي المحاسبة؟
+ما هي الجوانب الأساسية في المحاسبة ؟</description>
+    </item>
+    
+    <item>
+      <title>Ultimate TallyPrime With GST Step By Step Guide - 2021</title>
+      <link>https://jobready.courseintern.com/ultimate-tallyprime-with-gst-step-by-step-guide-2021/</link>
+      <pubDate>Tue, 19 Oct 2021 12:26:02 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ultimate-tallyprime-with-gst-step-by-step-guide-2021/</guid>
+      <description>Recent Student&#39;s Reviews
+***All lectures were amazing and easily understandable.
+one important thing i like most is that downloadable link of Tally Prime is available and we can easily practice all the examples side by side while watching the lectures - Simpi Garg***
+***Clearly understand what is tally prime in this full lecture.Thank you so much sir.(Rizwan Mohamed Y)***
+***Covers every chapter, step by step learning for everyone (Vivekanandan Jayakumar)***</description>
+    </item>
+    
+    <item>
       <title>Tally Erp 9 &#43; Tally Prime &#43; GST  2021 - Certificate Course</title>
-      <link>https://www.jobready.ml/tally-erp-9-tally-prime-gst-2021-certificate-course/</link>
+      <link>https://jobready.courseintern.com/tally-erp-9--tally-prime--gst-2021-certificate-course/</link>
       <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/tally-erp-9-tally-prime-gst-2021-certificate-course/</guid>
+      <guid>https://jobready.courseintern.com/tally-erp-9--tally-prime--gst-2021-certificate-course/</guid>
       <description>Complete Tally Course from Zero to Hero in Tally Erp 9 + Tally Prime with Advance GST Course
 Get Constant Growth in your career/Business with Advance Tally GST Online Course
 Best Seller Course
@@ -113,10 +548,10 @@ From Manual Accounting to Advance GST Reports in Tally Erp9 &amp;amp; Tally Prim
     
     <item>
       <title>GST Returns 2021 Course (Live Working) : Get Certified Today</title>
-      <link>https://www.jobready.ml/gst-returns-2021-course-live-working-get-certified-today/</link>
+      <link>https://jobready.courseintern.com/gst-returns-2021-course-live-working-get-certified-today/</link>
       <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/gst-returns-2021-course-live-working-get-certified-today/</guid>
+      <guid>https://jobready.courseintern.com/gst-returns-2021-course-live-working-get-certified-today/</guid>
       <description>Aim &amp;amp; Future Prospects:
 The aim of the course is to help individuals, businessman, accountants, CAs and other professionals to upgrade their knowledge regarding the Goods and Services Tax by offering most of the real time practical knowledge on GST Portal in an updated and systematic approach that help them to accelerate their skills and knowledge required for self-employment &amp;amp; employment at industrial level as well.
 Benefits of the course:</description>
@@ -124,10 +559,10 @@ Benefits of the course:</description>
     
     <item>
       <title>Bookkeeping &amp; Accounting Masterclass - Beginner to Advanced</title>
-      <link>https://www.jobready.ml/bookkeeping-accounting-masterclass-beginner-to-advanced/</link>
+      <link>https://jobready.courseintern.com/bookkeeping-accounting-masterclass-beginner-to-advanced/</link>
       <pubDate>Thu, 07 Oct 2021 11:25:05 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/bookkeeping-accounting-masterclass-beginner-to-advanced/</guid>
+      <guid>https://jobready.courseintern.com/bookkeeping-accounting-masterclass-beginner-to-advanced/</guid>
       <description>The course starts right from scratch, introduces the concept of Accounting, fundamental accounting terms, the accounting system of recording business transactions. Then it takes you to more complex areas of accounting like transactions affected by discounts and sales tax, prepaid and accrued transactions, and accounting adjustments like depreciation. Topics Covered:
 Introduction to Accounting
 Why Accounting has to follow rules and what are the accounting standards?
@@ -136,10 +571,10 @@ What are the different types of Accounting and what information is produced by e
     
     <item>
       <title>Basic Financial Accounting Course in Urdu / Hindi</title>
-      <link>https://www.jobready.ml/basic-financial-accounting-course-in-urdu-/-hindi/</link>
+      <link>https://jobready.courseintern.com/basic-financial-accounting-course-in-urdu-/-hindi/</link>
       <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/basic-financial-accounting-course-in-urdu-/-hindi/</guid>
+      <guid>https://jobready.courseintern.com/basic-financial-accounting-course-in-urdu-/-hindi/</guid>
       <description>Updated: 24/7/2019 (Ledger &amp;amp; Trial Balance)
 Basic Financial Accounting Course Outline:
 1. Basic Accounting Course Urdu/Hindi 2. Introduction to Basic Accounting Course
@@ -149,178 +584,22 @@ Basic Financial Accounting Course Outline:
     </item>
     
     <item>
-      <title>Financial Accounting-Depreciation Calculation &amp; Fixed Assets</title>
-      <link>https://www.jobready.ml/financial-accounting-depreciation-calculation-fixed-assets/</link>
-      <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/financial-accounting-depreciation-calculation-fixed-assets/</guid>
-      <description>Property plant and equipment, also known as plant assets, fixed assets, or depreciable assets is what we will cover.
-We will discuss what property plant and equipment is and how to record property plant and equipment.  Multiple depreciation methods will be covered including the straight-line depreciation method, the double declining depreciation method, and the units of production depreciation method. We will discuss the pros and cons of each depreciation method and outline a format for structuring any deprecation problem.</description>
-    </item>
-    
-    <item>
-      <title>QuickBooks Enterprise 2020- Two Businesses &amp; Personal in One</title>
-      <link>https://www.jobready.ml/quickbooks-enterprise-2020-two-businesses-personal-in-one/</link>
-      <pubDate>Fri, 01 Oct 2021 21:18:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/quickbooks-enterprise-2020-two-businesses-personal-in-one/</guid>
-      <description>This is a project-based course that will use the free trial version of QuickBooks Enterprise to track multiple business financial data as well as personal financial data in one QuickBooks Enterprise file. We will learn to generate and analyze both the balance sheet and income statement reports by class.
-We will learn the difference between the QuickBooks Enterprise class tracking feature and the QuickBooks Pro class tracking feature.
-The course will show how to turn on the class tracking feature in QuickBooks Enterprise.</description>
-    </item>
-    
-    <item>
-      <title>Aplos Not for Profit Accounting Software</title>
-      <link>https://www.jobready.ml/aplos-not-for-profit-accounting-software/</link>
-      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/aplos-not-for-profit-accounting-software/</guid>
-      <description>Learners will understand how to set up Aplos, software specifically designed for Not for Profit Organizations.
-The course will show how to use free resources to optimize learning.
-We will demonstrate the use of funds and tags to generate Not for Profit reports.
-The course will demonstrate how to enter and track restricted resources.
-We will enter month end adjusting entries.
-Learners will see how to allocate expenses to programs and administrative categories.</description>
-    </item>
-    
-    <item>
-      <title>Xero Not for Profit Organization</title>
-      <link>https://www.jobready.ml/xero-not-for-profit-organization/</link>
-      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/xero-not-for-profit-organization/</guid>
-      <description>Learners will understand how to set up Xero for a Not for Profit Organization.
-The course will show how to use free resources to optimize learning.
-We will demonstrate the use of category tracking to generate Not for Profit reports.
-Learners will see how to create and use donation receipt forms.
-We will show how to create and use pledge receipt forms.
-The course will demonstrate how to enter and track restricted resources.</description>
-    </item>
-    
-    <item>
-      <title>QuickBooks Desktop Multiple Currencies</title>
-      <link>https://www.jobready.ml/quickbooks-desktop-multiple-currencies/</link>
-      <pubDate>Sat, 25 Sep 2021 10:06:19 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/quickbooks-desktop-multiple-currencies/</guid>
-      <description>Learn how to get access to QuickBooks Desktop including a possible free 30-day trial version often offered by Intuit, the owner of QuickBooks Desktop.
-The course will discuss accounting for multiple currencies, outlining the process in Excel to provide a more transparent look at the process. Then we will enter the transactions into QuickBooks, the software automating some of the steps required.
-We will learn how to turn multicurrency on, and which accounts will be affected most by multicurrency transactions including cash account types, accounts receivable account types, and accounts payable account types.</description>
-    </item>
-    
-    <item>
-      <title>Bank Feeds-QuickBooks Online, Xero, Sage, Wave (Comparison)</title>
-      <link>https://www.jobready.ml/bank-feeds-quickbooks-online-xero-sage-wave-comparison/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/bank-feeds-quickbooks-online-xero-sage-wave-comparison/</guid>
-      <description>Bank Feed Options
-This course will compare and contrast the top accounting software applications, focusing on the use of bank feeds.
-We will provide practice data that learners can import into the software applications.
-Learners will understand the process of setting up each online software package. We will also discuss purchase options.
-Most of the software applications will include a free test drive, an excellent tool for learning accounting and bank feeds.</description>
-    </item>
-    
-    <item>
-      <title>Process Costing System-Cost Accounting-Managerial Accounting</title>
-      <link>https://www.jobready.ml/process-costing-system-cost-accounting-managerial-accounting/</link>
-      <pubDate>Thu, 23 Sep 2021 23:21:48 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/process-costing-system-cost-accounting-managerial-accounting/</guid>
-      <description>Process costing system – Cost Accounting – Managerial Accounting
-We will start by introducing managerial accounting or cost accounting topics that apply to companies that manufacture using either a job cost system or a process cost system.
-The course will describe classifications for costs and the importance of being able to classify costs in different ways.
-We will list and describe an outline of the process costs go through as they flow through the accounting process in a manufacturing company.</description>
-    </item>
-    
-    <item>
-      <title>Governmental Accounting 200 Capital Projects &amp; Debt Service</title>
-      <link>https://www.jobready.ml/governmental-accounting-200-capital-projects-debt-service/</link>
-      <pubDate>Tue, 21 Sep 2021 19:26:43 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/governmental-accounting-200-capital-projects-debt-service/</guid>
-      <description>The course will focus on larger capital projects and the use of a capital project fund and debt service fund to track them.
-We will cover governmental accounting objective, which will be a review from governmental accounting 100.
-The course will discuss what capital assets are and how they are recorded in governmental accounting, comparing governmental accounting to for-profit accounting.
-Students will learn to record transactions for the issuance of bonds used to finance capital projects, recording transactions at the government-wide level and in the capital project fund, debts service fund, and general fund.</description>
-    </item>
-    
-    <item>
-      <title>Audit - Financial Statement</title>
-      <link>https://www.jobready.ml/audit-financial-statement/</link>
-      <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/audit-financial-statement/</guid>
-      <description>Audit-Financial Accounting will discuss, in detail, the auditing process of financial statements.
-The course will start by discussing what an audit is, as well as what the terms attest engagement and assurances services mean.
-We will discuss the audit environment, the general format of a public accounting firm, and the general format of an audit team that would conduct the procedures related to an audit. The course will also discuss regulations and regulatory institutions related to the audit process.</description>
-    </item>
-    
-    <item>
-      <title>Relevant Costs - Managerial Accounting Decisions &amp; Scenarios</title>
-      <link>https://www.jobready.ml/relevant-costs-managerial-accounting-decisions-scenarios/</link>
-      <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/relevant-costs-managerial-accounting-decisions-scenarios/</guid>
-      <description>Apply relevant cost methods to common managerial decisions.
-Managers often need to make decisions that are not routine, not part of the normal day to day process, and that can have a long-term effect on the organization. Individuals often need to make similar decisions and can apply similar tools when making decisions of a large dollar amount that can affect multiple years.
-Although the specifics of each decision differ, the concept of relevant costs helps us put together a process for gathering and analyzing data, picking up the information that matters, and removing all the excess data that does not matter to our decision.</description>
-    </item>
-    
-    <item>
       <title>Tally Prime Erp &#43;GST 2021 : Certificate Course</title>
-      <link>https://www.jobready.ml/tally-prime-erp-gst-2021-certificate-course/</link>
+      <link>https://jobready.courseintern.com/tally-prime-erp-gst-2021-certificate-course/</link>
       <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/tally-prime-erp-gst-2021-certificate-course/</guid>
+      <guid>https://jobready.courseintern.com/tally-prime-erp-gst-2021-certificate-course/</guid>
       <description>--**New in Tally Prime Erp with GST **--
 -&amp;gt;Better Control Over Cash Flow
 -&amp;gt;Enhanced Business Efficiency
 -&amp;gt;Tax Compliance Made Easy
-
 From the Bestseller of Tally Erp9 with GST
 Best Rated for Eway Bill
 Best Rated for GST Returns
-
 Complete Tally Course from Zero to Hero in Tally Prime Erp with Advance GST Course
 Get Constant Growth in your career/Business with Advance Tally PRIME GST Online Course
-Best Seller Course</description>
-    </item>
-    
-    <item>
-      <title>Wave Accounting</title>
-      <link>https://www.jobready.ml/wave-accounting/</link>
-      <pubDate>Wed, 15 Sep 2021 22:31:53 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/wave-accounting/</guid>
-      <description>This course will use free accounting software which is an excellent tool to practice with.
-This course will jump right into bank feeds and how to use them.
-Many accounting software courses will spend a lot of time talking about how a full-service accounting system works. We do recommend spending time learning the full accounting process, and we do have courses that do just that.
-However, many small businesses want to get right down to data input as fast as possible, and others already have a good understanding of the system and want to focus specifically on bank feeds.</description>
-    </item>
-    
-    <item>
-      <title>Advanced Financial Accounting</title>
-      <link>https://www.jobready.ml/advanced-financial-accounting/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/advanced-financial-accounting/</guid>
-      <description>Advanced financial accounting will focus heavily on intercorporate acquisitions and investments in other entities.
-Why learn advanced accounting?
-Even if we do not work in an area that applies advanced accounting concepts directly, learning them is very useful, because it refines our skills on the understanding of double-entry accounting, its concepts, and practical application.
-Advanced financial accounting is also a standardized topic often found on exams like the CPA exam.</description>
-    </item>
-    
-    <item>
-      <title>QuickBooks Desktop Not for Profit Organizations</title>
-      <link>https://www.jobready.ml/quickbooks-desktop-not-for-profit-organizations/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/quickbooks-desktop-not-for-profit-organizations/</guid>
-      <description>QuickBooks Desktop Not for Profit Organizations will provide the tools to enter data into QuickBooks for a not for profit organization.
-This QuickBooks course will consist of three comprehensive practice problems. One problem will be for a charitable organization, one for a health care organization, and one for a not for profit school.
-We will learn how to set up a QuickBooks file for a not for profit organization.
-The course will show how to create a chart of accounts and items list for a not for profit organization.</description>
+Best Seller Course
+What you’ll learn in this Tally Erp9 Online Training</description>
     </item>
     
   </channel>

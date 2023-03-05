@@ -2,33 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardware on </title>
-    <link>https://www.jobready.ml/tags/hardware/</link>
+    <link>https://jobready.courseintern.com/tags/hardware/</link>
     <description>Recent content in Hardware on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:48:31 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 25 Jun 2022 20:43:11 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arduino build your own Bionic Arm with voice recognition</title>
+      <link>https://jobready.courseintern.com/arduino-build-your-own-bionic-arm-with-voice-recognition/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/arduino-build-your-own-bionic-arm-with-voice-recognition/</guid>
+      <description>In this Arduino Course you will Learn how to build your own Fully functional 3D printed Arm with Arduino and also with Arduino electronic components! I will show and explain to you in the Videos how to connect everything together so at the end you will have your own product, your own working Bionic Arm!
+Students saying:
+Juan Ricardo: &#34;Thanks for the course, please make more creative courses like this one it&#39;s the best way to learn!</description>
+    </item>
     
     <item>
-      <title>FPGA UART communication protocol series Vol1</title>
-      <link>https://www.jobready.ml/fpga-uart-communication-protocol-series-vol1/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
+      <title>FPGA VHDL coding QSPI nor flash memory from zero to hero</title>
+      <link>https://jobready.courseintern.com/fpga-vhdl-coding-qspi-nor-flash-memory-from-zero-to-hero/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fpga-uart-communication-protocol-series-vol1/</guid>
-      <description>This Course was made by a professional electronic engineer specializes in FPGA !
-This course is the first one on a series of courses about communication protocols.
-In this course you will learn everything you need to know about UART
+      <guid>https://jobready.courseintern.com/fpga-vhdl-coding-qspi-nor-flash-memory-from-zero-to-hero/</guid>
+      <description>Do you want to learn how to write a VHDL code for communicating with Flash memory with a Quad SPI protocol? Also I will teach you about the Flash memory Storage, As an electronic engineer specialized with FPGAs I will go with you step by step from the design of the code to the memory to a real working code that really runs, we will use a special component from Micron site that demonstrate a real flash memory and we will connect it to the code to check it under simulations!</description>
+    </item>
+    
+    <item>
+      <title>FPGA VHDL UART implementation communication protocol series</title>
+      <link>https://jobready.courseintern.com/fpga-vhdl-uart-implementation-communication-protocol-series/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/fpga-vhdl-uart-implementation-communication-protocol-series/</guid>
+      <description>This UART Course was made by a professional electronic engineer specializes in FPGA ! This UART course is the first one on a series of courses about communication protocols.
+In this UART course you will learn everything you need to know about UART
 No prior communications protocol knowledge is needed - I will teach everything about serial communication and how to sample it, and about the issues we might have inside FPGA when trying to sample a signal from the outside world.</description>
     </item>
     
     <item>
+      <title>VIVADO regular FIFO vs AXI FIFO</title>
+      <link>https://jobready.courseintern.com/vivado-regular-fifo-vs-axi-fifo/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/vivado-regular-fifo-vs-axi-fifo/</guid>
+      <description>In this VIVADO FIFO course you will learn what FIFO is and how to use it with VIVADO Xilinx FPGA tool. This VIVADO FIFO course was created for students who wants to know more about FIFOs.
+Beside Xilinx VIVADO tool, this VIVADO FIFO course will help you getting the fundamentals about FIFOs.
+I will show you how to implement VIVADO built in FIFO IP cores and how to use them.</description>
+    </item>
+    
+    <item>
+      <title>How to Set Up an Electronics Lab: Tools &amp; Equipments</title>
+      <link>https://jobready.courseintern.com/how-to-set-up-an-electronics-lab-tools-equipments/</link>
+      <pubDate>Fri, 13 May 2022 20:18:18 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/how-to-set-up-an-electronics-lab-tools-equipments/</guid>
+      <description>First and foremost, an electronics workbench is a place that you have specifically organized in a way that increases your efficiency and makes the process of working with electronics enjoyable, It is where your tools, components, and instruments are.
+If you are at the point of beginning your electronics journey, it is hard to tell what tools and equipment are essential to begin and even for the same equipment, there exist many variants for different budget ranges and with different features.</description>
+    </item>
+    
+    <item>
+      <title>Learning Complete PCB Design: From an Idea to a Product</title>
+      <link>https://jobready.courseintern.com/learning-complete-pcb-design-from-an-idea-to-a-product/</link>
+      <pubDate>Fri, 13 May 2022 20:18:18 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learning-complete-pcb-design-from-an-idea-to-a-product/</guid>
+      <description>This is a beginner’s course with content focused on PCB design using EasyEDA. All the content of this course is based on the aforementioned software which is either online browser-based or downloadable. you only require a web browser and an active internet connection to start making your very own PCB.
+This course is designed for new graduates and new engineers so the topics are explained in a simple manner to the audience.</description>
+    </item>
+    
+    <item>
+      <title>Learning Soldering: Through Hole &amp; Surface Mount Components</title>
+      <link>https://jobready.courseintern.com/learning-soldering-through-hole-surface-mount-components/</link>
+      <pubDate>Fri, 13 May 2022 20:18:18 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learning-soldering-through-hole-surface-mount-components/</guid>
+      <description>Soldering is required in all electronics manufacturing and repair operations. It can be applied to very small components on Printed Circuit Boards or on larger electromechanical assemblies. The techniques are similar but the soldering iron, tip, and solder type may be different for each application.
+In any electronic product, components are attached using solder, a metal compound that melts at a low enough temperature to be able to be worked by hand or machine.</description>
+    </item>
+    
+    <item>
+      <title>Computer Architecture, Organization, Engineering &amp; Hardware</title>
+      <link>https://jobready.courseintern.com/computer-architecture-organization-engineering-hardware/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/computer-architecture-organization-engineering-hardware/</guid>
+      <description>Course on the fundamentals of computer engineering and information technology
+Course on the fundamentals of computer engineering and information technology Information Technology Information Technology Information Technology Information Technology Information Technology Information Technology Information Technology Intensive discussion of the fundamentals of computer engineering is found in the computer engineering is integrated with the electronic are electrical engineering and computer science courses that are closely related to the hardware and software of computers that are both of Technology is working together to develop Software and Hardware related Technologies.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing &amp; Hybrid Cloud vs On-Premise Solutions</title>
+      <link>https://jobready.courseintern.com/cloud-computing-hybrid-cloud-vs-on-premise-solutions/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/cloud-computing-hybrid-cloud-vs-on-premise-solutions/</guid>
+      <description>Over this course, you&#39;ll learn the different types of infrastructure that are available to organisations and the advantages of each, course topics are as follows:
+* An overview of the different types of IT infrastructure
+* Allocating resources using public and private cloud services as well as some information on cloud networking
+* Some details for on-premise environments and how this would compare to a public or private cloud.
+* An overview of the advantages of using a hybrid solution within your organisation</description>
+    </item>
+    
+    <item>
+      <title>Arduino For Beginners: Master Arduino and C Programming</title>
+      <link>https://jobready.courseintern.com/arduino-for-beginners-master-arduino-and-c-programming/</link>
+      <pubDate>Thu, 27 Jan 2022 13:34:28 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/arduino-for-beginners-master-arduino-and-c-programming/</guid>
+      <description>Arduino is an open-source electronics platform based on easy-to-use hardware and software. It&#39;s intended for anyone making interactive projects.Arduino senses the environment by receiving inputs from many sensors, and affects its surroundings by controlling lights, motors, and other actuators.You can tell your Arduino what to do by writing code in the Arduino programming language and using the Arduino development environment.
+Ratings: 3.41/5
+Enrollments: 9245
+Coupon Code: JNIMQ1
+Current Price: FREE</description>
+    </item>
+    
+    <item>
+      <title>Curso Taller De Excel Desde Cero hasta avanzado</title>
+      <link>https://jobready.courseintern.com/curso-taller-de-excel-desde-cero-hasta-avanzado/</link>
+      <pubDate>Thu, 06 Jan 2022 22:30:04 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/curso-taller-de-excel-desde-cero-hasta-avanzado/</guid>
+      <description>Nuestro curso taller está basado en el uso de herramientas como talleres, videos y asesorías en línea. Que le permitan al estudiante poner en práctica lo aprendido, mediante guías dirigidas enfocadas a experiencias de trabajo real.
+el objetivo del curso taller , es brindar las herramientas que le permitan a los estudiantes enfrentar retos de la vida cotidiana de su ámbito laboral o académico.
+Por eso nuestra metodología está basada en talleres prácticos , que refuercen el aprendizaje , llevándolo de la teoría a la práctica casi en un mismo paso .</description>
+    </item>
+    
+    <item>
       <title>VIVADO Xilinx FPGA -Learn From The Beginning (&#43;PCIe project)</title>
-      <link>https://www.jobready.ml/vivado-xilinx-fpga-learn-from-the-beginning-pcie-project/</link>
+      <link>https://jobready.courseintern.com/vivado-xilinx-fpga-learn-from-the-beginning-pcie-project/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/vivado-xilinx-fpga-learn-from-the-beginning-pcie-project/</guid>
+      <guid>https://jobready.courseintern.com/vivado-xilinx-fpga-learn-from-the-beginning-pcie-project/</guid>
       <description>In this course you will learn how to use VIVADO tool to develop Xilinx FPGAs.
 As it&#39;s easy for you to understand, working as an FPGA developer is the most profitable job in the Hardware development industry. And by now, it is a profession with great demand in every big company: Apple, Microsoft, Intel, Amazon, Google and many others!
 If you want to work as an FPGA developer or just to know how to design an FPGA this is the course for you!</description>

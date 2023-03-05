@@ -2,127 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming Languages on </title>
-    <link>https://www.jobready.ml/tags/programming-languages/</link>
+    <link>https://jobready.courseintern.com/tags/programming-languages/</link>
     <description>Recent content in Programming Languages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Oct 2021 23:13:24 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Jun 2022 20:43:25 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Advanced Java programming with JavaFx: Write an email client</title>
-      <link>https://www.jobready.ml/advanced-java-programming-with-javafx-write-an-email-client/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <title>Batch Script Programming Crash Course (CMD)</title>
+      <link>https://jobready.courseintern.com/batch-script-programming-crash-course-cmd/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/advanced-java-programming-with-javafx-write-an-email-client/</guid>
-      <description>Seeing a message printed on the console when you click a button can be rewarding, but at some point you need to go beyond the basics of JavaFX. Project based learning is the best approach to become a competent JavaFX programmer.
-Writing a calculator app is fun, but you know what is funnier? Getting a job as a programmer. You can&#39;t get there just by coding simple apps or watching presentations.</description>
+      <guid>https://jobready.courseintern.com/batch-script-programming-crash-course-cmd/</guid>
+      <description>In This Course , You Will Learn About Complete Batch Script Programming / Batch File Programming From Beginning To Advance With Batch Script Programming Crash Course (CMD). In This Course , I Cover All The Topics &amp;amp; This Course Is Complete Practical Course , So That You Can Cleary Understand That How To Code &amp;amp; Then You Can Easily Implement It.
+This Course Is For You If...
+You Want To Learn Batch Script Programming</description>
     </item>
     
     <item>
-      <title>Complete Javascript &amp; jQuery Course with Bonus Vue JS Intro</title>
-      <link>https://www.jobready.ml/complete-javascript-jquery-course-with-bonus-vue-js-intro/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <title>C&#43;&#43; Programming: Practice Tests Beginner To Advanced Level</title>
+      <link>https://jobready.courseintern.com/c-programming-practice-tests-beginner-to-advanced-level/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/complete-javascript-jquery-course-with-bonus-vue-js-intro/</guid>
-      <description>In this course you will learn JAVASCRIPT in a very natural and intuitive way. Our step by step method of teaching mixed with exercises, real life examples, challenges and projects will make you feel very confident with the language and become a professional Javascript programmer in just a few weeks.
-The course includes a complete jQuery section with exercises and a cool project where you will build an online t-shirt price calculator with multiple filters.</description>
+      <guid>https://jobready.courseintern.com/c-programming-practice-tests-beginner-to-advanced-level/</guid>
+      <description>What is C++?
+C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language. C++ is one of the world&#39;s most popular programming languages. It can be used to develop operating systems, browsers, games, and so on. C++ gives programmers a high level of control over system resources and memory. The language was updated 3 major times in 2011, 2014, and 2017 to C++11, C++14, and C++17.</description>
     </item>
     
     <item>
-      <title>Python for beginners - Learn all the basics of python</title>
-      <link>https://www.jobready.ml/python-for-beginners-learn-all-the-basics-of-python/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <title>सीखें Javascript Programming हिन्दी में</title>
+      <link>https://jobready.courseintern.com/%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%82-javascript-programming-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-for-beginners-learn-all-the-basics-of-python/</guid>
-      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
-- Are in school and want to learn how to program in python
-- Need to learn this programming language for work</description>
+      <guid>https://jobready.courseintern.com/%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%82-javascript-programming-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82/</guid>
+      <description>नमस्कार दोस्तों!
+जावास्क्रिप्ट(Javascript) वह भाषा है जिसे आधुनिक डेवलपर्स को जानना, और अच्छी तरह से जानना होगा। वास्तव में जावास्क्रिप्ट जानने से आपको नौकरी मिल जाएगी, और आप quality web application का निर्माण करने में सक्षम होंगे।
+इस पाठ्यक्रम में, आप जावास्क्रिप्ट के मूल सिद्धांतों को सीखेंगे, variables, constants, conditionals, loop, function जैसे बुनियादी निर्णय प्रोग्रामिंग अवधारणाओं को सीखेंगे। आप इस भाषा की सुंदरता और शक्ति को सीखेंगे जो आज आधुनिक सॉफ्टवेयर विकास में सबसे आगे है।</description>
     </item>
     
     <item>
-      <title>Python for beginners - Learn all the basics of python</title>
-      <link>https://www.jobready.ml/python-for-beginners-learn-all-the-basics-of-python/</link>
-      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
+      <title>150&#43; Questions - Job Interview - C Developer</title>
+      <link>https://jobready.courseintern.com/150-questions-job-interview-c-developer/</link>
+      <pubDate>Wed, 22 Jun 2022 21:28:59 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-for-beginners-learn-all-the-basics-of-python/</guid>
-      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
-- Are in school and want to learn how to program in python
-- Need to learn this programming language for work</description>
+      <guid>https://jobready.courseintern.com/150-questions-job-interview-c-developer/</guid>
+      <description>- - - - - - - - - - - - -
+COURSE DESCRIPTION
+- - - - - - - - - - - - -
+Are you going to your interview for the position of C Developer soon? Take up the challenge and prepare yourself thanks to a well-matched set of questions.
+An interview is an inseparable element of every programmer looking for a job, to prepare the best and perform well in such an interview, go through over 150 popular questions that appear during job interviews on various topics.</description>
     </item>
     
     <item>
-      <title>SQL- The Complete Introduction to SQL programming</title>
-      <link>https://www.jobready.ml/sql-the-complete-introduction-to-sql-programming/</link>
-      <pubDate>Tue, 19 Oct 2021 19:42:17 +0530</pubDate>
+      <title>Javascript Practicals Crash Course</title>
+      <link>https://jobready.courseintern.com/javascript-practicals-crash-course/</link>
+      <pubDate>Wed, 22 Jun 2022 21:28:59 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/sql-the-complete-introduction-to-sql-programming/</guid>
-      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of how to properly program with SQL. If you :
-- Are in school and want to learn how to program in SQL
-- Need to learn this programming language for work</description>
+      <guid>https://jobready.courseintern.com/javascript-practicals-crash-course/</guid>
+      <description>Learn Javascript Programming Language with practical demonstrations
+The course is easy-to-follow content that you’ll easily understand and absorb.
+The course starts with the practice of basics, including JavaScript fundamentals, programming, and user interaction.
+The curriculum is going to be very hands-on as we walk you from start to finish to become a professional Javascript developer. We will start from the very beginning by teaching you Javascript basics and programming fundamentals, and then execute into real-life practice and be ready for the real world.</description>
     </item>
     
     <item>
-      <title>Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021</title>
-      <link>https://www.jobready.ml/complete-javascript-with-html5css3-from-zero-to-expert-2021/</link>
-      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      <title>R Programming: Aprende a programar en R desde cero</title>
+      <link>https://jobready.courseintern.com/r-programming-aprende-a-programar-en-r-desde-cero/</link>
+      <pubDate>Wed, 22 Jun 2022 21:28:59 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/complete-javascript-with-html5css3-from-zero-to-expert-2021/</guid>
-      <description>Want to learn Web Design &amp;amp; Web Development Skills? Then this is the RIGHT course For you! Many languages came and disappear but JavaScript is language that is enjoying a high run and demand in the programming world. The very first things you need to learn HTML5, CSS3, JavaScript and JQuery to become a Web Developer and off-course some Web Design Guidelines. This course will exactly teach you all these New Skills to become a good Web Developer.</description>
+      <guid>https://jobready.courseintern.com/r-programming-aprende-a-programar-en-r-desde-cero/</guid>
+      <description>¡Vuélvete un experto en el análisis de datos con R!
+Si eres un estudiante o profesionista que quiere potenciar su carrera profesional te tengo una buena noticia:
+¡Encontraste el curso indicado!
+¿Sientes que tu carrera profesional esta estancada?
+¿Tu perfil no destaca entre el de los demás?
+¿Sientes que en la escuela no aprendiste nada útil para el mundo laboral?
+¿Crees que Excel es la única herramienta para analizar datos y hacer gráficas?</description>
     </item>
     
     <item>
-      <title>Python Programming Tutorial For The Absolute Beginner &#43; Code</title>
-      <link>https://www.jobready.ml/python-programming-tutorial-for-the-absolute-beginner-code/</link>
-      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      <title>The Python Developer Essentials 2022 Immersive Bootcamp</title>
+      <link>https://jobready.courseintern.com/the-python-developer-essentials-2022-immersive-bootcamp/</link>
+      <pubDate>Wed, 22 Jun 2022 21:28:59 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-programming-tutorial-for-the-absolute-beginner-code/</guid>
-      <description>The creation of this course &#34;Python Programming Tutorial For The Absolute Beginner + Code&#34; has been for me an exciting personal journey in discovering how Python can be used today for procedural and object oriented programming, to develop applications and to provide online functionality.
-Example code listed in this course &#34;Python Programming Tutorial For The Absolute Beginner + Code&#34; describes how to produce Python programs. I sincerely hope you enjoy discovering the exciting possibilities of Python, and have as much fun with it as I did in recording this course.</description>
+      <guid>https://jobready.courseintern.com/the-python-developer-essentials-2022-immersive-bootcamp/</guid>
+      <description>Hello and welcome to The Python Developer Essentials 2022 Immersive Bootcamp
+Learn the skills you need to become a Professional Certified Python Developer with this Complete Training Course.
+You&#39;ll become a Certified Python Developer and Coding Rockstar in no time. This course covers all the following concepts theoretically and practically:
+How to Program with Modern Python
+The clean Python code
+The core Python concepts needed to become A Dev Professional</description>
+    </item>
+    
+    <item>
+      <title>150&#43; Exercises - Data Structures in Python - Hands-On - 2022</title>
+      <link>https://jobready.courseintern.com/150-exercises-data-structures-in-python-hands-on-2022/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/150-exercises-data-structures-in-python-hands-on-2022/</guid>
+      <description>Welcome to the 150+ Exercises - Data Structures in Python - Hands-On course, where you can check your programming skills in Python. This course is designed for people who have basic knowledge in Python and consists of over 150 exercises (exercises + solutions) with Python data structures.
+Data structures/utilities you will find in the exercises
+list
+tuple
+set
+dict
+frozenset
+collections.namedtuple
+collections.ChainMap
+collections.Counter
+collections.deque
+collections.defaultdict
+Queue
+Double-Ended Queue
+Stack
+Numpy arrays</description>
+    </item>
+    
+    <item>
+      <title>Project Development Using JAVA for Beginners - 2022</title>
+      <link>https://jobready.courseintern.com/project-development-using-java-for-beginners-2022/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/project-development-using-java-for-beginners-2022/</guid>
+      <description>Would you like to learn real world programming skills that will help you get your first java programming job?
+Java is one of the most popular programming languages used to create Web applications and platforms. It was designed for flexibility, allowing developers to write code that would run on any machine.
+So it’s your time now to take advantage of a loads of jobs and freelance opportunities that are available for java programmers out there.</description>
+    </item>
+    
+    <item>
+      <title>Python for Beginners - हिंदी में सीखें Python Programming</title>
+      <link>https://jobready.courseintern.com/python-for-beginners-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%82-python-programming/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-for-beginners-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%82-python-programming/</guid>
+      <description>This course has everything that you need to be able to start your programming career or improve your programming skills by learning all the basics of python. If you are any of the following:
+A student and want to learn python
+Need to learn python for work
+Working on a personal project
+Want to learn a new skill
+Then you will love this course.
+The structure of the course
+Our python training course is all you need to learn Python.</description>
+    </item>
+    
+    <item>
+      <title>R Studio: Empieza desde cero</title>
+      <link>https://jobready.courseintern.com/r-studio-empieza-desde-cero/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:59 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/r-studio-empieza-desde-cero/</guid>
+      <description>¿Te gustaría aprender a programar en R pero no sabes por donde empezar?
+En este curso iremos paso a paso desde lo más sencillo hasta lo más complejo. Después de cada video, aprendes un nuevo concepto valioso que puedes aplicar de inmediato. Y la mejor parte es que aprendes a través de ejemplos en vivo. Este curso te proporcionará las bases del lenguaje de programación estadística R. Si eres un estudiante o profesionista que quiere potenciar su carrera profesional te tengo una buena noticia:</description>
     </item>
     
     <item>
       <title>JavaScript for Beginners - The Complete introduction to JS</title>
-      <link>https://www.jobready.ml/javascript-for-beginners-the-complete-introduction-to-js/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      <link>https://jobready.courseintern.com/javascript-for-beginners-the-complete-introduction-to-js/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/javascript-for-beginners-the-complete-introduction-to-js/</guid>
+      <guid>https://jobready.courseintern.com/javascript-for-beginners-the-complete-introduction-to-js/</guid>
       <description>Learning how to properly program in any programming language can be very complicated espescially if you never did any programming before. having the capacity to program in JavaScript is not different. This is why, this course have been created, to helpyou learn, properly program and understand everything you need to know about JavaScript to be able to master this programming language. If you:
 - Need to learn the basics of JavaScript for work</description>
     </item>
     
     <item>
-      <title>Haskell for Beginners (programming language)</title>
-      <link>https://www.jobready.ml/haskell-for-beginners-programming-language/</link>
-      <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
+      <title>Learn Coding with C# from Scratch | C# Comprehensive Course</title>
+      <link>https://jobready.courseintern.com/learn-coding-with-c#-from-scratch-c%23-comprehensive-course/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/haskell-for-beginners-programming-language/</guid>
-      <description>In this course, I&#39;ll be explaining simple concepts of coding in Haskell. You&#39;ll learn all the basics: printing to screen, creating variables, getting using input, doing simple math, conditionals, lists, records, etc. This is a simple steady-paced course that can be effective for anyone who has an interest in coding in Haskell. You could be someone with experience in another language or someone entirely new to coding.
-
-I&#39;ll be teaching using an online IDE, called replit, which serves its purpose great.</description>
+      <guid>https://jobready.courseintern.com/learn-coding-with-c#-from-scratch-c%23-comprehensive-course/</guid>
+      <description>Hello and welcome to the Learn Coding with C# from Scratch | C# Comprehensive Course in 2022.
+In this course, you will learn all the C# fundamentals needed to become a Professional C# Programmer quickly and efficiently.
+C# is so popular, powerful, easy, simple, Object-Oriented, and widely used Programming language.
+You can use the C# programming language for building:
+Desktop Applications
+Mobile Applications
+Web Applications
+Games using Unity
+VR Applications</description>
     </item>
     
     <item>
-      <title>Complete PYTHON Programming for Beginners - 2021</title>
-      <link>https://www.jobready.ml/complete-python-programming-for-beginners-2021/</link>
-      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      <title>The R Programming For Data Science A-Z Complete Diploma 2022</title>
+      <link>https://jobready.courseintern.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/complete-python-programming-for-beginners-2021/</guid>
-      <description>On successful completion of the course, you will be able to program in the professional object-oriented programming (OOP) paradigm in Python, which allows you to start your programmer career. All professional Python programmers develop applications the OOP way. You, too, will be able to write complex, scalable programs in Python on completion of this course.
-The course follows a practical approach where students learn by actively problem-solving towards the tangible goal of creating real-world Python programs.</description>
+      <guid>https://jobready.courseintern.com/the-r-programming-for-data-science-a-z-complete-diploma-2022/</guid>
+      <description>Hello and Welcome to the exciting world of the R programming language.
+# The R Programming For Data Science A-Z Complete Diploma 2022
+R is one of the most powerful programming languages, for statistical computing and graphical presentation to analyze and visualize data.
+In this course, I’m going to show you how to code with R from the R basics to the R advanced concepts.
+Also, you will explore how the R programming language can be used today for data analysis and the production of beautiful data visualizations and graphics.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Blockchain Solidity and Smart Contracts</title>
+      <link>https://jobready.courseintern.com/getting-started-with-blockchain-solidity-and-smart-contracts/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/getting-started-with-blockchain-solidity-and-smart-contracts/</guid>
+      <description>This is a course for beginners who have no idea about what is Blockchain and Distributed Ledger Technology, and they want to learn about this technology and get started with programming Smart Contracts with Solidity Programming language and then compile and deploy it to live Blockchain network for free.
+You will learn the following:
+You will learn about Blockchain and How it differs from Regular Web
+You will learn about the Features of Blockchain and Distributed Ledger Technology</description>
+    </item>
+    
+    <item>
+      <title>Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022</title>
+      <link>https://jobready.courseintern.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:46 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/complete-javascript-with-html5css3-from-zero-to-expert-2022/</guid>
+      <description>Want to learn Web Design &amp;amp; Web Development Skills? Then this is the RIGHT course For you! Many languages came and disappear but JavaScript is language that is enjoying a high run and demand in the programming world. The very first things you need to learn HTML5, CSS3, JavaScript and JQuery to become a Web Developer and off-course some Web Design Guidelines. This course will exactly teach you all these New Skills to become a good Web Developer.</description>
     </item>
     
     <item>
       <title>Object Oriented Programming in C&#43;&#43;  &amp;  Interview Preparation</title>
-      <link>https://www.jobready.ml/object-oriented-programming-in-c-interview-preparation/</link>
-      <pubDate>Tue, 12 Oct 2021 11:23:35 +0530</pubDate>
+      <link>https://jobready.courseintern.com/object-oriented-programming-in-c-interview-preparation/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:46 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/object-oriented-programming-in-c-interview-preparation/</guid>
+      <guid>https://jobready.courseintern.com/object-oriented-programming-in-c-interview-preparation/</guid>
       <description>Classroom like learning, Detailed Explanation of Question, Top Frequently Asked Questions
 Concepts of C++ programming are made very simple and easy.
-
 Curriculum:
 Introduction
 Why Object Oriented Programming
@@ -132,93 +232,420 @@ Access Specifiers
 Characteristics Of OOP Top Frequently Asked Interview Question - Part 1
 Top Frequently Asked Interview Question - Part 2
 Top Frequently Asked Interview Question - Part 3
-
-Topics Covered in Questions</description>
+Topics Covered in Questions
+C++ Object Oriented Programming Question</description>
+    </item>
+    
+    <item>
+      <title>The Python Programming For Everyone Immersive Training</title>
+      <link>https://jobready.courseintern.com/the-python-programming-for-everyone-immersive-training/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:46 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-python-programming-for-everyone-immersive-training/</guid>
+      <description>Welcome to The Python Programming For Everyone Immersive Training Course for Beginners.
+This Immersive Masterclass covers all the essential topics to become a Professional Python developer from the ground up Topics like: variables, data types, Strings, data structures, functional programming, different types of modules, files handling, object-oriented programming and many more.
+You&#39;ll get A demonstration of each point in this training and an explanation of all theoretical and practical aspects in an easy way and in an easy language for anyone.</description>
+    </item>
+    
+    <item>
+      <title>Learn Python by Solving 100 Hardest Coding Exercises</title>
+      <link>https://jobready.courseintern.com/learn-python-by-solving-100-hardest-coding-exercises/</link>
+      <pubDate>Tue, 07 Jun 2022 21:11:52 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-python-by-solving-100-hardest-coding-exercises/</guid>
+      <description>Note : This course requires basic knowledge of python and mathematics. Have basic knowledge of python?
+Test your knowledge of python with our 100 hardest coding challenges designed for you. Take a further step to come out of your comfort zone and be able to solve any kind of Coding Challenge in python. What is this course all about?
+This course is designed to clear all your concepts of Python with the help of coding exercises.</description>
+    </item>
+    
+    <item>
+      <title>250&#43; Questions - Job Interview - Python Developer - 2022</title>
+      <link>https://jobready.courseintern.com/250-questions-job-interview-python-developer-2022/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/250-questions-job-interview-python-developer-2022/</guid>
+      <description>250+ Questions - Job Interview - Python Developer
+Are you ready to apply for the position of Junior Python Developer? Test yourself by answering over 250 questions!
+This course is in the form of practice tests and consists of over 250 questions that may appear during an interview for a Python Developer or related positions. This course allows you to confirm your proficiency and give you the confidence you need to succeed in the recruiting process.</description>
+    </item>
+    
+    <item>
+      <title>Favicon Grabber Using JavaScript</title>
+      <link>https://jobready.courseintern.com/favicon-grabber-using-javascript/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/favicon-grabber-using-javascript/</guid>
+      <description>In This Course , You Will Learn How To Grab Favicon Using JavaScript From Scratch. This Course is In English Language. In This Course , We Have Used Google &amp;amp; DuckDuckGo API For Grabbing The Favicon. Also , In This Course , You Will Learn How To Host Our Favicon Grabber Website For Free , So That Anyone Can Access It Anytime , From Anywhere !
+This Course is For You If.</description>
+    </item>
+    
+    <item>
+      <title>JDBC Basics</title>
+      <link>https://jobready.courseintern.com/jdbc-basics/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/jdbc-basics/</guid>
+      <description>Have you always wanted to learn how to do use JDBC but don’t know where to start? Would you like to learn how to use JDBC? Then JDBC Basics is for you! Hi, I’m your instructor Josh Werner and I’ll be leading you through this course. JDBC is a in-demand skill in 2021. The course begins with the basics. We’ll Cover everything you need to know about JDBC Basics from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Python 3 Master Course for 2022</title>
+      <link>https://jobready.courseintern.com/python-3-master-course-for-2022/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-3-master-course-for-2022/</guid>
+      <description>Do you want to Master Python? Then this is the course for you where I will take you from complete beginner to Advanced Python Programmer. Let me walk you through a detailed step by step process that will help you accomplish your goals and have fun learning on the way we will cover the following in detail:
+Introduction
+Documentation
+What is Python
+Getting Started with Python Documentation
+Cover Summary of Python Beginner&#39;s Documentation</description>
+    </item>
+    
+    <item>
+      <title>Python for beginners - Learn all the basics of python</title>
+      <link>https://jobready.courseintern.com/python-for-beginners-learn-all-the-basics-of-python/</link>
+      <pubDate>Fri, 03 Jun 2022 20:12:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-for-beginners-learn-all-the-basics-of-python/</guid>
+      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
+- Are in school and want to learn how to program in python
+- Need to learn this programming language for work</description>
+    </item>
+    
+    <item>
+      <title>Python for Beginners: Learn Programming in Python 3</title>
+      <link>https://jobready.courseintern.com/python-for-beginners-learn-programming-in-python-3/</link>
+      <pubDate>Fri, 03 Jun 2022 20:12:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-for-beginners-learn-programming-in-python-3/</guid>
+      <description>Whether you want to learn Python because you are looking forward to proceeding a developer career, or you just want to create some self-made programs by yourself, or you simply want to develop a new skill, then this course is for you!
+In this course you&#39;ll learn to:
+Create and use variables
+Use the &#34;User Input&#34; function
+Create and use if statements
+Create and use while &amp;amp; for loops</description>
+    </item>
+    
+    <item>
+      <title>The C&#43;&#43; Learning Guide</title>
+      <link>https://jobready.courseintern.com/the-c-learning-guide/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-c-learning-guide/</guid>
+      <description>هذه الدورة من السي بلس بلس حيث افترض الشخص الذي امامي لا يعرف اي شي عن عالم البرمجة ستتمكن من خلال هذه الدورة من الدخول الى عالم البرمجة وفهم اساسيات اللغات البرمجية لا تحتاج الى اي مؤهلات للدخول الى هذه الدورة ،تتميز هذه الدورة بأنها مختصرة وليس فيها تشعبات وتفاصيل غير اساسية
+C++ is a general purpose programming language that supports various computer programming models such as object-oriented programming and generic programming.</description>
+    </item>
+    
+    <item>
+      <title>The Java Learning Guide</title>
+      <link>https://jobready.courseintern.com/the-java-learning-guide/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-java-learning-guide/</guid>
+      <description>هذه الدورة المفصلة في المستوى الاول والثاني من الجافا حيث افترض الشخص الذي امامي لا يعرف اي شي عن عالم البرمجة ستتمكن من خلال هذه الدورة من الدخول الى عالم البرمجة وفهم اساسيات اللغات البرمجية لا تحتاج الى اي مؤهلات للدخول الى هذه الدورة ،تتميز هذه الدورة بأنها مفصلة ولكن ليس فيها تشعبات وتفاصيل غير اساسية
+Moving down, you will find the top 10 reasons that will elaborate on why to learn Java?</description>
+    </item>
+    
+    <item>
+      <title>The Kotlin Learning Guide</title>
+      <link>https://jobready.courseintern.com/the-kotlin-learning-guide/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-kotlin-learning-guide/</guid>
+      <description>هذه الدورة المفصلة في المستوى الاول والثاني من الكوتلن حيث افترض الشخص الذي امامي لا يعرف اي شي عن عالم البرمجة ستتمكن من خلال هذه الدورة من الدخول الى عالم البرمجة وفهم اساسيات اللغات البرمجية لا تحتاج الى اي مؤهلات للدخول الى هذه الدورة ،تتميز هذه الدورة بأنها مفصلة ولكن ليس فيها تشعبات وتفاصيل غير اساسية
+Kotlin remains one of the most widely used and fastest-growing programming languages in recent years.</description>
+    </item>
+    
+    <item>
+      <title>The Python and Django Learning Guide</title>
+      <link>https://jobready.courseintern.com/the-python-and-django-learning-guide/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-python-and-django-learning-guide/</guid>
+      <description>هذه الدورة المفصلة في المستوى الاول والثاني من بايثون حيث افترض الشخص الذي امامي لا يعرف اي شي عن عالم البرمجة ستتمكن من خلال هذه الدورة من الدخول الى عالم البرمجة وفهم اساسيات اللغات البرمجية لا تحتاج الى اي مؤهلات للدخول الى هذه الدورة ،تتميز هذه الدورة بأنها مفصلة ولكن ليس فيها تشعبات وتفاصيل غير اساسية
+Become a Python Programmer and learn one of employer&#39;s most requested skills of 2022!</description>
+    </item>
+    
+    <item>
+      <title>QR Code Generator Using JavaScript</title>
+      <link>https://jobready.courseintern.com/qr-code-generator-using-javascript/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:58 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/qr-code-generator-using-javascript/</guid>
+      <description>In This Course , You Will Learn How To Generate QR Code Using JavaScript From Scratch. This Course is In English Language. In This Course , We Have Used Google Chart API For Generating The QR Code. Also , In This Course , You Will Learn How To Host Our QR Code Generator Website For Free , So That Anyone Can Access It Anytime , From Anywhere !
+This Course is For You If.</description>
+    </item>
+    
+    <item>
+      <title>Como Estudar Programação de Computadores</title>
+      <link>https://jobready.courseintern.com/como-estudar-programa%C3%A7%C3%A3o-de-computadores/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/como-estudar-programa%C3%A7%C3%A3o-de-computadores/</guid>
+      <description>AVISO IMPORTANTE: Este curso não ensina a programar e nem ensina linguagens de programação. Ele serve para você aprender a estudar programação. Nosso objetivo é orientar as pessoas que sonham em programar, mas ficam confusas diante de tantas linguagens, plataformas, paradigmas, ambientes de desenvolvimento, palavras novas e frameworks.
+Se você quer aprender programação e não sabe por onde começar, este curso é para você, mas se você já é programador(a) ou já sabe programar acreditamos que não.</description>
+    </item>
+    
+    <item>
+      <title>Learn Java and Artificial Intelligence Programming Tools</title>
+      <link>https://jobready.courseintern.com/learn-java-and-artificial-intelligence-programming-tools/</link>
+      <pubDate>Sat, 28 May 2022 20:32:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-java-and-artificial-intelligence-programming-tools/</guid>
+      <description>Java is everywhere, from smartphones to datacentres, gaming consoles to scientific supercomputers, mobile phones to the Internet! It is an incredible programming language and platform that was first published in 1995 by Sun Microsystems. There are tons of apps and websites that won&#39;t work until you&#39;ve installed Java, and more are generated every day. Java is easy, stable, and safe. We should know that Java is a very flexible programming language and one of the natural worlds.</description>
+    </item>
+    
+    <item>
+      <title>Learn Java Programming: Classes and Objects (2022 Edition)</title>
+      <link>https://jobready.courseintern.com/learn-java-programming-classes-and-objects-2022-edition/</link>
+      <pubDate>Sat, 28 May 2022 20:32:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-java-programming-classes-and-objects-2022-edition/</guid>
+      <description>We all know that Java is the most in-demand programming language and probably 70% of coders are striving to learn it. Java is a solid core language, by the way. It is an object-oriented programming (OOP) language. Further speaking, for those in favour of looking to learn and master Java first, we must realize the key factor. The key factor is that it teaches you to think like a true coder.</description>
+    </item>
+    
+    <item>
+      <title>Python 3: Desde cero para principiantes y no programadores</title>
+      <link>https://jobready.courseintern.com/python-3-desde-cero-para-principiantes-y-no-programadores/</link>
+      <pubDate>Mon, 23 May 2022 20:27:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-3-desde-cero-para-principiantes-y-no-programadores/</guid>
+      <description>Python es un lenguaje de programación poderoso y ampliamente usado en la industria. Además, es fácil de aprender y por ello es usado a nivel mundial para enseñar los fundamentos de programación.
+Así que si quieres aprender a programar y adquirir habilidades altamente demandadas, en este curso aprenderás los fundamentos de programación en Python con explicaciones detalladas.
+Su sintaxis es fácil de entender puesto que es cercana al lenguaje natural, y los programas hechos en Python parecen pseudocódigos, lo cual brinda una gran ayuda en su mantenimiento.</description>
+    </item>
+    
+    <item>
+      <title>Git &amp;Github Practice Tests &amp; Interview Questions (Basic/Adv)</title>
+      <link>https://jobready.courseintern.com/git-github-practice-tests-interview-questions-basic/adv/</link>
+      <pubDate>Fri, 20 May 2022 19:57:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/git-github-practice-tests-interview-questions-basic/adv/</guid>
+      <description>No matter if you&#39;re just getting started with Software development, if you&#39;re applying for a developer job or if you just need to refresh your knowledge - version control is a core skill you need to succeed as a developer! Git (a version control system) and Github (a cloud provider for Git managed projects) form an outstanding combination to provide the best possible experience to create and maintain a clearly structured project history!</description>
+    </item>
+    
+    <item>
+      <title>Python Practice Tests &amp; Interview Questions (Basic/Advanced)</title>
+      <link>https://jobready.courseintern.com/python-practice-tests-interview-questions-basic/advanced/</link>
+      <pubDate>Fri, 20 May 2022 19:57:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-practice-tests-interview-questions-basic/advanced/</guid>
+      <description>What is in this Course?This course contains practice tests to get your ready for your Next Python Developer Job Interview, and also prepare you well enough for PCEP (Certified Entry-Level Python Programmer). This course covers the questions from various topics :
+1. Introduction to Python and computer programming
+2. Data types, variables, basic input-output operations, basic operators
+3. Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operations</description>
     </item>
     
     <item>
       <title>The Complete Introduction to C&#43;&#43; Programming</title>
-      <link>https://www.jobready.ml/the-complete-introduction-to-c-programming/</link>
-      <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
+      <link>https://jobready.courseintern.com/the-complete-introduction-to-c-programming/</link>
+      <pubDate>Sun, 15 May 2022 13:36:52 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-complete-introduction-to-c-programming/</guid>
+      <guid>https://jobready.courseintern.com/the-complete-introduction-to-c-programming/</guid>
       <description>Learning the basics of programmation can be very complicated no matter the programming language espescially if you never did any programming before. Being able to program in C++ is not different. This is why this course is here to help you learn everything you need to know about C++ and master this programming language. If you :
 - Want to create various projects with this programming language - Are in school and need to understand certain notions and concepts in C++</description>
     </item>
     
     <item>
-      <title>Java from Zero to First Job - Practical Guide, 700&#43; examples</title>
-      <link>https://www.jobready.ml/java-from-zero-to-first-job-practical-guide-700-examples/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      <title>Core Java bootcamp program with Hands on practice: Java SE</title>
+      <link>https://jobready.courseintern.com/core-java-bootcamp-program-with-hands-on-practice-java-se/</link>
+      <pubDate>Thu, 12 May 2022 15:57:40 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/java-from-zero-to-first-job-practical-guide-700-examples/</guid>
-      <description>Welcome to the fundamental and the most complete course &#39;Java from Zero to First Job&#39;. As it&#39;s declared in the course name, it&#39;s created for people who want to learn programming from scratch. You need to know how to turn on your computer, no other knowledge is required for this course :) The rest will be covered in lessons.
-Before starting creation of this course, our team attentively investigated feedbacks for existing courses on Udemy platform and tried to focus on the feedbacks for the top-rated courses to understand what can be improved in this course and make it even more better from the quality standpoint.</description>
+      <guid>https://jobready.courseintern.com/core-java-bootcamp-program-with-hands-on-practice-java-se/</guid>
+      <description>Course Description
+Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+Basically, we will be learning Java from the very beginning to the advanced level along with hands-on programming.
+This course consists of all the topics and chapters in a very well-organized manner and our videos are industry verified, which makes you industry-ready.
+Java is considered an OOPs programming language, which means it uses Classes &amp;amp; Objects to run programs.</description>
     </item>
     
     <item>
-      <title>Object-Oriented Programming - Basics to Advance (Java OOP)</title>
-      <link>https://www.jobready.ml/object-oriented-programming-basics-to-advance-java-oop/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      <title>Nodejs in 2022</title>
+      <link>https://jobready.courseintern.com/nodejs-in-2022/</link>
+      <pubDate>Thu, 12 May 2022 15:57:40 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/object-oriented-programming-basics-to-advance-java-oop/</guid>
-      <description>From this course you can learn Object-Oriented Programming from basics to advanced concepts. 
-All code examples in the course are written in Java but that&#39;s doesn&#39;t mean you can&#39;t apply the knowledge from this course in other programming languages. You can easily use the knowledge from this course in any language if you want to build applications with the help of object-oriented programming approach. There are a lot of other courses in this topic.</description>
+      <guid>https://jobready.courseintern.com/nodejs-in-2022/</guid>
+      <description>In this course you will get started with Nodejs programming language today by developing 3 programs that cover some Nodejs basics. This course is less than 1 hour of video content designed for beginners to quickly start programming using Nodejs.
+What&#39;s in the course
+A temperature converter program
+A weight converter program
+A coin sorter program
+Functions
+Return statements
+If statements
+Nodejs is powerful skill to learn
+Nodejs is a free programming language that is easy to learn.</description>
     </item>
     
     <item>
-      <title>Oracle Certified Associate Java Programmer (OCAJP) 1Z0-808</title>
-      <link>https://www.jobready.ml/oracle-certified-associate-java-programmer-ocajp-1z0-808/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      <title>Python Demonstrations For Practice Course</title>
+      <link>https://jobready.courseintern.com/python-demonstrations-for-practice-course/</link>
+      <pubDate>Wed, 11 May 2022 20:40:15 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/oracle-certified-associate-java-programmer-ocajp-1z0-808/</guid>
-      <description>From this course you can learn everything you need to know to pass Oracle Certifications 1Z0-808 &amp;amp; 1Z0-811.
-There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
-To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+      <guid>https://jobready.courseintern.com/python-demonstrations-for-practice-course/</guid>
+      <description>Learn Python From Beginner To Advanced Level By Demonstrations
+The course is created thorough, extensive, but easy to follow content which you’ll easily understand and absorb.
+The course starts with the basics, including Python fundamentals, programming, and user interaction.
+The curriculum is going to be very hands-on as we walk you from start to finish becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real-life practice and be ready for the real world.</description>
     </item>
     
     <item>
-      <title>The Python Developer Essentials 2021 Immersive Bootcamp</title>
-      <link>https://www.jobready.ml/the-python-developer-essentials-2021-immersive-bootcamp/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      <title>Python Programming Machine Learning Python Beginner- Advance</title>
+      <link>https://jobready.courseintern.com/python-programming-machine-learning-python-beginner-advance/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-python-developer-essentials-2021-immersive-bootcamp/</guid>
-      <description>Hello and welcome to The Python Developer Essentials 2021 Immersive Bootcamp
-Learn the skills you need to become a Professional Certified Python Developer with this Complete Training Course.
-You&#39;ll become a Certified Python Developer and Coding Rockstar in no time. This course covers all the following concepts theoretically and practically:
-How to Program with Modern Python
-The clean Python code
-The core Python concepts needed to become A Dev Professional</description>
+      <guid>https://jobready.courseintern.com/python-programming-machine-learning-python-beginner-advance/</guid>
+      <description>Looking to master Python for your job or as a career enhancement?
+Take this course to land your first Python developer job! We also provide you with a FREE textbook! Goals of this course: Be completely ready to get a full time Python Developer Course at the end of the Course
+Have projects to impress your Employer and land that dream job!
+Go from beginner to advance in Python Programming! Apply your knowledge in Machine Learning Data Science &amp;amp; Data Analysis in this intensive course!</description>
     </item>
     
     <item>
-      <title>Learn to Code in Python 3: Programming beginner to advanced</title>
-      <link>https://www.jobready.ml/learn-to-code-in-python-3-programming-beginner-to-advanced/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      <title>Java for Beginners - Learn all the Basics of Java</title>
+      <link>https://jobready.courseintern.com/java-for-beginners-learn-all-the-basics-of-java/</link>
+      <pubDate>Fri, 06 May 2022 17:02:51 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-to-code-in-python-3-programming-beginner-to-advanced/</guid>
-      <description>In this course, learning to code will be easy and intuitive for you. You will learn Python 3, one of the most popular programming languages in the world. We will cover the basic fundamentals of programming and you will learn how to do exciting things in Python, like reading and writing on files, like Excel sheets or TXT files, working with JSON and sending HTTP requests to web servers and APIs.</description>
+      <guid>https://jobready.courseintern.com/java-for-beginners-learn-all-the-basics-of-java/</guid>
+      <description>Learning the how to program in any programming language can be very complicated especially if you never did any programming before. Programming in java is not different, but this course is here to help master this programming language. If you : - Need to learn the basics of this programming language for work - Are in school and need to understand certain Java concepts
+- Want to create various projects with this programming language - Simply are curious about this topic</description>
     </item>
     
     <item>
-      <title>Practice Python: Building Projects with Python Programming</title>
-      <link>https://www.jobready.ml/practice-python-building-projects-with-python-programming/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      <title>JavaScript And PHP And Python Programming Complete Course</title>
+      <link>https://jobready.courseintern.com/javascript-and-php-and-python-programming-complete-course/</link>
+      <pubDate>Thu, 05 May 2022 17:34:36 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/practice-python-building-projects-with-python-programming/</guid>
-      <description>Hello and welcome to this applied Python course “Practice Python: Building Projects with Python Programming”.
-This is a powerful training program about creating real programs using the core python programming language.
-This course is so effective, direct to the point, detailed, and will save your precious time.
-You will learn how to use python programming language to create and build real life programs step-by-step the right way. This course is so important and special for any intermediate Python developer or anyone who wants to learn how to apply Python in real life.</description>
+      <guid>https://jobready.courseintern.com/javascript-and-php-and-python-programming-complete-course/</guid>
+      <description>JavaScript And PHP And Python Programming language Complete Course
+Section 1- learn javascript programming language
+The course is created with thorough, extensive, but easy-to-follow content that you’ll easily understand and absorb.
+The course starts with the basics, including JavaScript fundamentals, programming, and user interaction.
+the curriculum is going to be very hands-on as we walk you from start to finish to become a professional Javascript developer. We will start from the very beginning by teaching you Javascript basics and programming fundamentals, and then execute into real-life practice and be ready for the real world.</description>
     </item>
     
     <item>
-      <title>The Python Programming A-Z Definitive Diploma in 2021</title>
-      <link>https://www.jobready.ml/the-python-programming-a-z-definitive-diploma-in-2021/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      <title>How To Use R for Research</title>
+      <link>https://jobready.courseintern.com/how-to-use-r-for-research/</link>
+      <pubDate>Tue, 03 May 2022 12:48:24 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-python-programming-a-z-definitive-diploma-in-2021/</guid>
-      <description>Hi, Welcome to The Python Programming A-Z Definitive Diploma in 2021.
+      <guid>https://jobready.courseintern.com/how-to-use-r-for-research/</guid>
+      <description>Learn R Programming for research by doing!
+This tutorial is my experience of many years and tens of scientific research of using R for research. After every video, you learn a new valuable concept that you can apply right away in your research. Moreover, the best part is that you learn through real examples from different subjects of research.
+It helps you not only be a good practitioner but offers you an opportunity for creativity in data processing, statistics, and graph creation in scientific research because it is based on programming which unlimited compared to software such as SPSS and Excel.</description>
+    </item>
+    
+    <item>
+      <title>Bash Scripting Basics</title>
+      <link>https://jobready.courseintern.com/bash-scripting-basics/</link>
+      <pubDate>Mon, 02 May 2022 21:40:19 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bash-scripting-basics/</guid>
+      <description>bash is a computer programming language and command language interpreter, usually for the UNIX operating system. The name comes from the Bourne-Again SHell. bash is a dialect of the popular bourne shell, and is one of the most popular shells for interactive use.
+Scripts can be run on Linux, Mac OS X and the UNIX variants. At the end of this course, you will be able to create your own scripts.</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43; Complete Course For Beginners 2022</title>
+      <link>https://jobready.courseintern.com/c-complete-course-for-beginners-2022/</link>
+      <pubDate>Sun, 01 May 2022 16:38:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/c-complete-course-for-beginners-2022/</guid>
+      <description>C++ Complete Course For Beginners 2022
+This course is an introduction to the C++ programming language and its subset, the C++ programming language. Program structure, block, storage types, console and file I/O, functions, arrays, strings, pointers, call-by-reference, call-by-value, and dynamic memory allocation will be discussed. The concept and use of classes will be covered in some detail. The differences between C++ will also be discussed.
+Course Rationale: This course is designed to teach students the C++ programming language and introductory and intermediate programming concepts with examples and applications using the C++ language.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Java programming with JavaFx: Write an email client</title>
+      <link>https://jobready.courseintern.com/advanced-java-programming-with-javafx-write-an-email-client/</link>
+      <pubDate>Sat, 30 Apr 2022 17:17:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/advanced-java-programming-with-javafx-write-an-email-client/</guid>
+      <description>Seeing a message printed on the console when you click a button can be rewarding, but at some point you need to go beyond the basics of JavaFX. Project based learning is the best approach to become a competent JavaFX programmer.
+Writing a calculator app is fun, but you know what is funnier? Getting a job as a programmer. You can&#39;t get there just by coding simple apps or watching presentations.</description>
+    </item>
+    
+    <item>
+      <title>Python for beginners - Learn all the basics of python</title>
+      <link>https://jobready.courseintern.com/python-for-beginners-learn-all-the-basics-of-python/</link>
+      <pubDate>Fri, 29 Apr 2022 20:24:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-for-beginners-learn-all-the-basics-of-python/</guid>
+      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of python. If you :
+- Are in school and want to learn how to program in python
+- Need to learn this programming language for work</description>
+    </item>
+    
+    <item>
+      <title>Python Programming Tutorial For The Absolute Beginner &#43; Code</title>
+      <link>https://jobready.courseintern.com/python-programming-tutorial-for-the-absolute-beginner--code/</link>
+      <pubDate>Fri, 29 Apr 2022 20:24:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-programming-tutorial-for-the-absolute-beginner--code/</guid>
+      <description>The creation of this course &#34;Python Programming Tutorial For The Absolute Beginner + Code&#34; has been for me an exciting personal journey in discovering how Python can be used today for procedural and object oriented programming, to develop applications and to provide online functionality.
+Example code listed in this course &#34;Python Programming Tutorial For The Absolute Beginner + Code&#34; describes how to produce Python programs. I sincerely hope you enjoy discovering the exciting possibilities of Python, and have as much fun with it as I did in recording this course.</description>
+    </item>
+    
+    <item>
+      <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
+      <link>https://jobready.courseintern.com/build-a-search-engine-with-python-computer-science-python/</link>
+      <pubDate>Fri, 29 Apr 2022 20:24:34 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/build-a-search-engine-with-python-computer-science-python/</guid>
+      <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
+Introduction
+WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but not the theory/way of thinking behind it why would we choose a while but not a for loop, why should we pass 2 parameters to a function but not only one? This course will teach you how to think about solving coding problems throughout quizzes, there are 112 video format quizzes that aim to keep you engaged with the course and teach you the Python fundamentals in an easy to follow manner</description>
+    </item>
+    
+    <item>
+      <title>Java Complete Course For Begineers 2022</title>
+      <link>https://jobready.courseintern.com/java-complete-course-for-begineers-2022/</link>
+      <pubDate>Wed, 27 Apr 2022 20:10:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/java-complete-course-for-begineers-2022/</guid>
+      <description>Java Complete Training Course For Begineers
+This advanced Java Certification Training is designed to guide you through the concepts of Java from introductory techniques to advanced programming skills. This Java course will also provide you with the knowledge of Core Java 8, operators, arrays, loops, methods, and constructors while giving you hands-on experience In java programming language.
+In this course, students will learn fundamentals of Java programming. Using the Java Developmental Kit (JDK 6 SE), students will learn basic object-oriented formatting so they can move on to more advanced classes.</description>
+    </item>
+    
+    <item>
+      <title>Aprende a programar desde cero con C# de Microsoft .NET</title>
+      <link>https://jobready.courseintern.com/aprende-a-programar-desde-cero-con-c#-de-microsoft-.net/</link>
+      <pubDate>Sat, 23 Apr 2022 14:41:14 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/aprende-a-programar-desde-cero-con-c#-de-microsoft-.net/</guid>
+      <description>En este curso aprende a programar con C#, uno de los lenguajes de programación mas sencillos y a su vez robustos que existentes actualmente. Además C# cuenta con el respaldo de Microsoft al ser parte de .NET
+NOTA: Este curso se actualiza constantemente y en este momento ya está actualizado a .NET 5 y .NET 6
+También aprenderás de la mano con Visual Studio, uno de los IDE más potentes en la actualidad, que proporciona las mejores herramientas en su categoría para cualquier desarrollador.</description>
+    </item>
+    
+    <item>
+      <title>Bilgisayar Programcılığı</title>
+      <link>https://jobready.courseintern.com/bilgisayar-programc%C4%B1l%C4%B1%C4%9F%C4%B1/</link>
+      <pubDate>Sat, 23 Apr 2022 14:41:14 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bilgisayar-programc%C4%B1l%C4%B1%C4%9F%C4%B1/</guid>
+      <description>Bu kurs, bilim ve bilişim çağında olduğumuz için herkesin anlayabileceği bir dille ve görsel olarak desteklenmiş, çok yararlı bir kurstur. Bu kursta, eski yazılımların kökeninden, kendinizi daha iyi geliştirmeniz için adım adım öğretim tekniği uygulanmıştır. Öğretmeniniz öğrettiklerini, tam da sizin anlayacağınız ve uygulayacağınız şekilde anlatıyor. Birebir uygulamalar tam olarak evde öğrenip uygulayacağınız, kendinizi geliştireceğiniz ve yaptıklarınızla gurur duyacağınız bir teknikle anlatılmakta. Başlamak ve kendinize çok fazla değer katmak için bu kursa dair elinizde ve evinizde her şey var.</description>
+    </item>
+    
+    <item>
+      <title>Python Programming for Beginners [Full Course]</title>
+      <link>https://jobready.courseintern.com/python-programming-for-beginners-full-course/</link>
+      <pubDate>Tue, 19 Apr 2022 21:15:54 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-programming-for-beginners-full-course/</guid>
+      <description>Python is a general-purpose coding language and one of the best programming languages for beginners. The syntax of python is easy to learn as compare to other programming languages (C, C++, Java, etc). Python is used in various fields such as Machine Learning, Automation, Web Development, Game Development, Graphical User Interface, etc. In this course, you will learn in-depth every topic of Python and its core concepts with examples. This course is for beginners who are new to a programming language or in python.</description>
+    </item>
+    
+    <item>
+      <title>The Python Programming A-Z Definitive Diploma in 2022</title>
+      <link>https://jobready.courseintern.com/the-python-programming-a-z-definitive-diploma-in-2022/</link>
+      <pubDate>Wed, 13 Apr 2022 19:15:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-python-programming-a-z-definitive-diploma-in-2022/</guid>
+      <description>Hi, Welcome to The Python Programming A-Z Definitive Diploma in 2022.
 Your complete Guide to Python Programming.
 Almost Python is currently used for everything in Software Engineering.
 Although it is very easy to learn, but, it is very useful and powerful.
@@ -226,119 +653,111 @@ Its fields are so many, and by learning python, it will be very easy for you to 
     </item>
     
     <item>
-      <title>Build Twitter Bots With Python Django and Tweepy</title>
-      <link>https://www.jobready.ml/build-twitter-bots-with-python-django-and-tweepy/</link>
-      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
+      <title>Advanced Foundations of Python Programming | 2022 Training</title>
+      <link>https://jobready.courseintern.com/advanced-foundations-of-python-programming-2022-training/</link>
+      <pubDate>Tue, 22 Feb 2022 21:48:05 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-twitter-bots-with-python-django-and-tweepy/</guid>
-      <description>This course will equip you with skills in building twitter bots that will help you build a following on twitter for business or fun. You don&#39;t need any prior skills as I will take you through the process of creating twitter developer accounts, Installing python django framework, Installing tweepy library and using tweepy library to build bots on python django framework and postgresql database.
-I will show you how to build a like tweets bot based on two filter parameters: Good keywords and bad keywords.</description>
+      <guid>https://jobready.courseintern.com/advanced-foundations-of-python-programming-2022-training/</guid>
+      <description>Hello and welcome to the Advanced Foundations of Python Programming | 2022 Training Masterclass.
+Learn the Advanced foundations of modern python programming with this powerful, deep, direct to the point and interactive training.
+For each concept in this course, you&#39;ll master the theory then you&#39;ll practice with many real examples.
+Do you want to Advance your Python development career?
+Do you want to be able to create real programs using the advanced concepts of Python?</description>
     </item>
     
     <item>
-      <title>Professional Certificate in Java Programming</title>
-      <link>https://www.jobready.ml/professional-certificate-in-java-programming/</link>
-      <pubDate>Mon, 04 Oct 2021 10:00:22 +0530</pubDate>
+      <title>C# Programlama Dili : Temel, Orta, İleri Seviye</title>
+      <link>https://jobready.courseintern.com/c#-programlama-dili-temel-orta-ileri-seviye/</link>
+      <pubDate>Tue, 22 Feb 2022 21:48:05 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/professional-certificate-in-java-programming/</guid>
-      <description>Java is one of the most common, in-demand computer programming languages owned by the Oracle Corporation. Our associates at Academy of Computing &amp;amp; Artificial Intelligence got together and after carefully analyzing the top must learn computer programming languages in 2020, we were able to conclude that Java is the 3rd most used programming language according to stackoverflow. Furthermore, java has an average salary of $102,000 according to indeed making it a widely used and highly applicable language.</description>
+      <guid>https://jobready.courseintern.com/c#-programlama-dili-temel-orta-ileri-seviye/</guid>
+      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+&#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}
+Bu kurs C# programlama dilini öğretmeyi ve C# ile yazılım geliştirmeyi öğretmeyi hedeflemektedir.
+Bu kurs C# Programlama dilini anlatmaktadır. Diğer gördüğünüz tüm başlıklar eğitmen tarafından öğrencilerinin daha çeşitli çevre teknolojileri hakkında bilgi sahibi olması için eklenmiştir.</description>
     </item>
     
     <item>
-      <title>Java: Socket Programming Simplified</title>
-      <link>https://www.jobready.ml/java-socket-programming-simplified/</link>
-      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      <title>Practical Junit &amp; Mockito Test with Java SpringBoot &amp; JPA</title>
+      <link>https://jobready.courseintern.com/practical-junit-mockito-test-with-java-springboot-jpa/</link>
+      <pubDate>Mon, 14 Feb 2022 21:29:54 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/java-socket-programming-simplified/</guid>
-      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+      <guid>https://jobready.courseintern.com/practical-junit-mockito-test-with-java-springboot-jpa/</guid>
+      <description>Welcome to this amazing course, where you will learn about:
+What is unit testing?
+Why is unit testing important?
+What is Test Driven Development(TDD) ?
+How to apply Test Driven Development to the projects?
+What is Junit and Mockito?
+We will learn to write unit tests using Junit 5 Framework and Mockito Library.
+We will start with how projects are developed in software companies using modern stacks like Java, Spring, SpringBoot, Hibernate, Spring Data JPA and Restful webservices.</description>
     </item>
     
     <item>
-      <title>Python for Bioinformatics-Self Learning Course</title>
-      <link>https://www.jobready.ml/python-for-bioinformatics-self-learning-course/</link>
-      <pubDate>Thu, 30 Sep 2021 14:35:25 +0530</pubDate>
+      <title>Aprende Three.js ,  3D en el navegador</title>
+      <link>https://jobready.courseintern.com/aprende-three.js-3d-en-el-navegador/</link>
+      <pubDate>Sun, 13 Feb 2022 16:02:47 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-for-bioinformatics-self-learning-course/</guid>
-      <description>This course will cover algorithms for solving various biological problems along with a handful of programming challenges helping you implement these algorithms in Python.
-It offers a gently-paced introduction to our Bioinformatics Specialization preparing learners to take the first course in the Specialization.
-If you haven&#39;t programmed in Python before, not to worry, We are here to support you at every step.
-
-What will be taught in this course:</description>
+      <guid>https://jobready.courseintern.com/aprende-three.js-3d-en-el-navegador/</guid>
+      <description>Three.js es una librería de js basada en webgl . ¿Que es webgl ? , webgl es el equivalente a opengl de c++ pero el primero es para web y el código esta escrito en javascript. Aprender Three.js o una librería parecida es dar un paso más en el diseño web o incluso en los juegos que corren por los navegadores. Esta tecnología nos permite hacer juegos en 3D y también complementar diseños web con figuras 3D.</description>
     </item>
     
     <item>
-      <title>2021 Java EE 7 Application Developer 1Z0-900 Practice Tests</title>
-      <link>https://www.jobready.ml/2021-java-ee-7-application-developer-1z0-900-practice-tests/</link>
-      <pubDate>Sun, 26 Sep 2021 19:50:25 +0530</pubDate>
+      <title>Complete Python Challenges, Python MCQ&amp; Python Recap in 2022</title>
+      <link>https://jobready.courseintern.com/complete-python-challenges-python-mcq-python-recap-in-2022/</link>
+      <pubDate>Sat, 12 Feb 2022 21:10:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/2021-java-ee-7-application-developer-1z0-900-practice-tests/</guid>
-      <description>Java EE 7 Application Developer exam, also known as as 1Z0-900 is of the most in-demand certifications among Java and Java EE developers who aim to become Oracle Certified Professional, Java EE 7 Application Developer. It&#39;s in-demand and well recognized among companies and employers all around the world, but at the same time it&#39;s one of the toughest exams to crack given the vast amount of topics to cover from Servlet, JSP, REST, to CDI and EJB etc.</description>
+      <guid>https://jobready.courseintern.com/complete-python-challenges-python-mcq-python-recap-in-2022/</guid>
+      <description>100 Python MCQ questions, 100 Python Exercises, Python Coding Examples and Python Cheat sheets make you become a Python developer job ready for upcoming Python interview for this Python is for beginner and advanced Python developers .
+These MCQ and Exercises are deep dive into Python core concepts:
+Operators Types in Python.
+Number in Python
+Python Data Types.
+Lambda Expression in Python.
+String Functions &amp;amp; entries in Python.
+How to use Input String Function in Python.</description>
     </item>
     
     <item>
-      <title>सीखें Javascript Programming हिन्दी में</title>
-      <link>https://www.jobready.ml/%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%82-javascript-programming-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82/</link>
-      <pubDate>Thu, 23 Sep 2021 08:39:12 +0530</pubDate>
+      <title>SQL- The Complete Introduction to SQL programming</title>
+      <link>https://jobready.courseintern.com/sql-the-complete-introduction-to-sql-programming/</link>
+      <pubDate>Sat, 12 Feb 2022 21:10:30 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%82-javascript-programming-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82/</guid>
-      <description>नमस्कार दोस्तों!
-
-जावास्क्रिप्ट(Javascript) वह भाषा है जिसे आधुनिक डेवलपर्स को जानना, और अच्छी तरह से जानना होगा। वास्तव में जावास्क्रिप्ट जानने से आपको नौकरी मिल जाएगी, और आप quality web application का निर्माण करने में सक्षम होंगे।
-इस पाठ्यक्रम में, आप जावास्क्रिप्ट के मूल सिद्धांतों को सीखेंगे, variables, constants, conditionals, loop, function जैसे बुनियादी निर्णय प्रोग्रामिंग अवधारणाओं को सीखेंगे। आप इस भाषा की सुंदरता और शक्ति को सीखेंगे जो आज आधुनिक सॉफ्टवेयर विकास में सबसे आगे है।</description>
+      <guid>https://jobready.courseintern.com/sql-the-complete-introduction-to-sql-programming/</guid>
+      <description>Programming can sometimes be very hard to learn especially if you have no experience in this field. But, this course have everything that you need to be able to start your programming career or improve your programming skills by learning all the basis of how to properly program with SQL. If you :
+- Are in school and want to learn how to program in SQL
+- Need to learn this programming language for work</description>
     </item>
     
     <item>
-      <title>Python Demonstrations For Practice Course</title>
-      <link>https://www.jobready.ml/python-demonstrations-for-practice-course/</link>
-      <pubDate>Sun, 19 Sep 2021 21:40:45 +0530</pubDate>
+      <title>Deno Basics</title>
+      <link>https://jobready.courseintern.com/deno-basics/</link>
+      <pubDate>Mon, 31 Jan 2022 13:34:20 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-demonstrations-for-practice-course/</guid>
-      <description>Learn Python From Beginner To Advanced Level By Demonstrations
-The course is created thorough, extensive, but easy to follow content which you’ll easily understand and absorb.
- The course starts with the basics, including Python fundamentals, programming, and user interaction.
-
-The curriculum is going to be very hands-on as we walk you from start to finish becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real-life practice and be ready for the real world.</description>
+      <guid>https://jobready.courseintern.com/deno-basics/</guid>
+      <description>Have you always wanted to learn how to do use Deno but don’t know where to start? Would you like to learn how to use Deno? Then Deno Basics is for you! Hi, I’m your instructor Josh Werner and I’ll be leading you through this course. Deno is an in-demand skill in 2021. The course begins with the basics. We’ll Cover everything you need to know about Deno Basics from scratch.</description>
     </item>
     
     <item>
-      <title>Basics of Python in 2 Hours</title>
-      <link>https://www.jobready.ml/basics-of-python-in-2-hours/</link>
-      <pubDate>Sat, 18 Sep 2021 21:56:25 +0530</pubDate>
+      <title>Python For Beginners [in Arabic]</title>
+      <link>https://jobready.courseintern.com/python-for-beginners-in-arabic/</link>
+      <pubDate>Thu, 27 Jan 2022 13:34:28 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/basics-of-python-in-2-hours/</guid>
-      <description>Python Basics for Absolute Beginners
-This course will help you master the basic concepts of Python 3.9.6 within just 2 hours. The Basics of Python course covers, the concepts of Python Programming in 2 hours, and then you&#39;ll be creating your own applications, working with coding quizzes and challenges to excel what you learned.
-Why Python?
-Python is one of the world&#39;s top 3 programming languages, and it&#39;s the most used language by businesses and enterprises.</description>
-    </item>
-    
-    <item>
-      <title>Java for Beginners - Learn all the Basics of Java</title>
-      <link>https://www.jobready.ml/java-for-beginners-learn-all-the-basics-of-java/</link>
-      <pubDate>Sat, 18 Sep 2021 12:19:19 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/java-for-beginners-learn-all-the-basics-of-java/</guid>
-      <description>Learning the how to program in any programming language can be very complicated especially if you never did any programming before. Programming in java is not different, but this course is here to help master this programming language. If you : - Need to learn the basics of this programming language for work - Are in school and need to understand certain Java concepts
-- Want to create various projects with this programming language - Simply are curious about this topic</description>
-    </item>
-    
-    <item>
-      <title>Java Programming: Complete Beginner to Advanced</title>
-      <link>https://www.jobready.ml/java-programming-complete-beginner-to-advanced/</link>
-      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/java-programming-complete-beginner-to-advanced/</guid>
-      <description>Would you like to learn real world programming skills that will help you get your first java programming job?
-Java is one of the most popular programming languages used to create Web applications and platforms. It was designed for flexibility, allowing developers to write code that would run on any machine.
-So it’s your time now to take advantage of a loads of jobs and freelance opportunities that are available for java programmers out there.</description>
+      <guid>https://jobready.courseintern.com/python-for-beginners-in-arabic/</guid>
+      <description>حبيت أني أعمل كورس يلخص لغة البايثون من الصفر حتى تتقن الأساسيات.
+في حالة لم تقدر على شراء الكورس يرجى التواصل معي على الخاص هنا.
+.يمكنك الدفع فودافون كاش بنصف السعر
+*********************************************************************
+لمحة عن Python
+إن كنت تنجز الكثير من الأعمال باستخدام الحاسوب، فستجد نفسك بحاجة إلى تأدية بعض المهام بصورة أوتوماتيكية. فعلى سبيل المثال قد ترغب في إنجاز عملية بحث واستبدال على عدد كبير من الملفات، أو إعادة تسمية وترتيب مجموعة من ملفات الصور وبطريقة معقدة.</description>
     </item>
     
     <item>
       <title>The Python Programming Comprehensive Bootcamp</title>
-      <link>https://www.jobready.ml/the-python-programming-comprehensive-bootcamp/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      <link>https://jobready.courseintern.com/the-python-programming-comprehensive-bootcamp/</link>
+      <pubDate>Sun, 16 Jan 2022 19:59:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-python-programming-comprehensive-bootcamp/</guid>
+      <guid>https://jobready.courseintern.com/the-python-programming-comprehensive-bootcamp/</guid>
       <description>Welcome to The Python Programming Comprehensive Bootcamp.
 In this Complete Bootcamp, we’ll teach you everything you need to know to become a Professional Python developer.
 Variables, Representing Data Types, and using Computational Power.
@@ -351,37 +770,257 @@ Playing with Exception events and analyzing Errors.</description>
     </item>
     
     <item>
-      <title>The Python Programming For Everyone Immersive Training</title>
-      <link>https://www.jobready.ml/the-python-programming-for-everyone-immersive-training/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
+      <title>Learn Python Programming from Scratch</title>
+      <link>https://jobready.courseintern.com/learn-python-programming-from-scratch/</link>
+      <pubDate>Sun, 16 Jan 2022 12:36:14 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-python-programming-for-everyone-immersive-training/</guid>
-      <description>Welcome to The Python Programming For Everyone Immersive Training Course for Beginners.
-This Immersive Masterclass covers all the essential topics to become a Professional Python developer from the ground up Topics like: variables, data types, Strings, data structures, functional programming, different types of modules, files handling, object-oriented programming and many more.
-You&#39;ll get A demonstration of each point in this training and an explanation of all theoretical and practical aspects in an easy way and in an easy language for anyone.</description>
+      <guid>https://jobready.courseintern.com/learn-python-programming-from-scratch/</guid>
+      <description>Would you like to be a Python Programmer, and get your first programming job?
+This course is the most comprehensive and straight-forward course for Python programming language. And it most importantly it will be constantly updated. Every minute of this course is packed with valuable information. Hence, we won&#39;t be rambling around because we value your time.
+Python is one of the fastest growing programming languages on the planet and it is also anticipated to be one of the most popular programming languages in the future as well.</description>
     </item>
     
     <item>
-      <title>Python 3 Master Course for 2021</title>
-      <link>https://www.jobready.ml/python-3-master-course-for-2021/</link>
-      <pubDate>Thu, 16 Sep 2021 22:23:21 +0530</pubDate>
+      <title>Python Course For Beginners To Experts.</title>
+      <link>https://jobready.courseintern.com/python-course-for-beginners-to-experts./</link>
+      <pubDate>Fri, 14 Jan 2022 22:42:46 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-3-master-course-for-2021/</guid>
-      <description>Do you want to Master Python? Then this is the course for you where I will take you from complete beginner to Advanced Python Programmer. Let me walk you through a detailed step by step process that will help you accomplish your goals and have fun learning on the way we will cover the following in detail:
-
-Introduction
-Documentation
-What is Python
-Getting Started with Python Documentation
-Cover Summary of Python Beginner&#39;s Documentation</description>
+      <guid>https://jobready.courseintern.com/python-course-for-beginners-to-experts./</guid>
+      <description>Hi Students,
+I have 10+ years of IT experience in Python and different programming language.
+now I want to share my programming knowledge with my students. In this Python course I will start teaching Python from very basic like what is Python and what is the feature of Python.
+the reason is that starting from scratch may be some of students even don&#39;t know what is Python.
+but later I will cover all important topics of Python.</description>
+    </item>
+    
+    <item>
+      <title>معسكر بايثون الشامل 2022 من الصفر الى الاحتراف</title>
+      <link>https://jobready.courseintern.com/%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-2022-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81/</link>
+      <pubDate>Sat, 08 Jan 2022 21:15:49 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-2022-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81/</guid>
+      <description>كن مبرمجًا بلغة بايثون وتعلم واحدة من أكثر المهارات المطلوبة في سوق العمل في عام 2022
+هذه هي الدورة التدريبية الأكثر شمولاً في يوديمي ، مع ذلك انها سلسة ،سواء كنت لم تبرمج من قبل ، أو تعرف بالفعل القواعد الأساسية ، أو تريد التعرف على الميزات المتقدمة لبايثون ، فهذه الدورة مناسبة لك! سنعلمك في هذه الدورة بايثون 3.
+مع أكثر من 100 محاضرة ، لم تدخر هذه الدورة التدريبية الشاملة جهدًا!</description>
+    </item>
+    
+    <item>
+      <title>Aprende HTML5 2021</title>
+      <link>https://jobready.courseintern.com/aprende-html5-2021/</link>
+      <pubDate>Fri, 07 Jan 2022 22:30:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/aprende-html5-2021/</guid>
+      <description>Curso completo de html5 donde veremos Definición html, instalaciones,estructura de un documento html,encabezados,etiquetas de texto,etiquetas contenedoras,enlaces, class and id , imagenes, elementos de bloque y linea, listas ,tablas, formularios, iframe,video y audio.
+HTML 5 (HyperText Markup Language, versión 5) es la quinta revisión importante del lenguaje básico de la World Wide Web, HTML. HTML5 específica dos variantes de sintaxis para HTML: una «clásica», HTML (text/html), conocida como HTML5, y una variante XHTML conocida como sintaxis XHTML 5 que deberá servirse con sintaxis XML (application/xhtml+xml)​ Esta es la primera vez que HTML y XHTML se han desarrollado en paralelo.</description>
+    </item>
+    
+    <item>
+      <title>ABC of Java  (A Perfect Java course for beginner&#39;s)</title>
+      <link>https://jobready.courseintern.com/abc-of-java-a-perfect-java-course-for-beginners/</link>
+      <pubDate>Fri, 07 Jan 2022 12:48:30 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/abc-of-java-a-perfect-java-course-for-beginners/</guid>
+      <description>100% Guarantee for Learning
+This is an Amazing course of 20 lectures with practical implementation along with codes and notes for each and every lecture.
+You will be learning this course step by step and will be interacting with all the topics along will practical of each and every topic considering all the conditions .
+This course is enough to set all your logics and concepts on place and in description you will get all the codes .</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio (2022) Produktivität für C# Entwickler</title>
+      <link>https://jobready.courseintern.com/visual-studio-2022-produktivit%C3%A4t-f%C3%BCr-c#-entwickler/</link>
+      <pubDate>Wed, 05 Jan 2022 13:12:54 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/visual-studio-2022-produktivit%C3%A4t-f%C3%BCr-c#-entwickler/</guid>
+      <description>Bist du C# Entwickler und arbeitest mit Visual Studio, hast dich aber nie wirklich eingehend mit Visual Studio befasst oder denkst, dass du noch mehr aus dieser mächtigen IDE rausholen könntest? Bist du außerdem motiviert, produktiver im Umgang mit Visual Studio zu werden und deinen Workflow zu optimieren? Dann bist in diesem Kurs genau an der richtigen Adresse.
+In diesem Kurs lernst du den professionellen Umgang mit Visual Studio sowie Extensions, Tools und Tricks, die dich produktiver machen und mehr Spaß in deinen Arbeitsalltag bringen.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolva um Sistema com Janelas Interativas em Java Swing</title>
+      <link>https://jobready.courseintern.com/desenvolva-um-sistema-com-janelas-interativas-em-java-swing/</link>
+      <pubDate>Mon, 03 Jan 2022 14:59:14 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/desenvolva-um-sistema-com-janelas-interativas-em-java-swing/</guid>
+      <description>Se você já cansou de obter conhecimento teórico, e visualizar seus resultados apenas no console, tem dificuldades para criar um projeto, aplicar um padrão de desenvolvimento, ou ainda, quer sair desenvolvendo sistemas pequenos para solucionar alguns problemas que você visualizou, que talvez, possa virar um projeto de tcc, ou alguma solução para algum conhecido? Quer apresentar os resultados dos seus projetos utilizando a parte gráfica, com janelas, botões, caixas de textos, layout, utilizando código, ou sem mexer com programação ?</description>
+    </item>
+    
+    <item>
+      <title>تعلم البرمجة للأطفال و المبتدئين | Programming with Scratch</title>
+      <link>https://jobready.courseintern.com/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%88-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%86-programming-with-scratch/</link>
+      <pubDate>Sat, 18 Dec 2021 15:40:29 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%88-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%86-programming-with-scratch/</guid>
+      <description>هل تمنيت من قبل تعلم البرمجة لكن لم تعرف من اين تبدأ في هذه الدورة التعليمية سنتعلم مبادئ البرمجة الأساسية من الصفر ونستوعبها اكثر من خلال تعلم لغة سكراتش.لغة سكراتش من اسهل اللغات في تعلمها كما انها لغة برمجة بصرية تستطيع من خلالها تعلم اساسيات البرمجة بالإضافة الي صنع رسوم متحركة والعاب شيقة في النهاية ستتعلم كيف تفكر مثل مهندس سوفت وير هذا الكورس مخصص لأي شخص يريد تعلم البرمجة ولا يعرف من اين يبدأ كما انه مخصص للأطفال والمعلمين والاباء من يريدون تعليم أبنائهم البرمجة</description>
+    </item>
+    
+    <item>
+      <title>Python | Sıfırdan İleri Seviyeye Programlama Dersleri | 2021</title>
+      <link>https://jobready.courseintern.com/python-s%C4%B1f%C4%B1rdan-ileri-seviyeye-programlama-dersleri-2021/</link>
+      <pubDate>Sun, 12 Dec 2021 13:51:46 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-s%C4%B1f%C4%B1rdan-ileri-seviyeye-programlama-dersleri-2021/</guid>
+      <description>-##############################-
+KURSA BAŞLAMANIZ İÇİN ÖNEMLİ SEBEPLER
+Sıfırdan PYTHON kursuna başlayacak herkese sesleniyorum;
+Bu kurs tam size göre!
+PYTHON yazılım dilinin en detaylı ve anlaşılır şekilde anlatıldığı kursa Hoşgeldiniz!
+Kursu aldıktan bir saat sonra bir şeyler öğrendiğinizi hissedeceksiniz.
+Basit anlatım tarzım ve konuyu hızlıca anlatıp geçmekten ziyade mantığını son noktasına kadar kavratmam sayesinde siz de çok kolay bir biçimde Python öğreneceksiniz...
+Kursu satın alın ve ne kadar basit, detaylı ve anlaşılır bir anlatım olduğunu görün!</description>
+    </item>
+    
+    <item>
+      <title>Complete Javascript &amp; jQuery Course with Bonus Vue JS Intro</title>
+      <link>https://jobready.courseintern.com/complete-javascript-jquery-course-with-bonus-vue-js-intro/</link>
+      <pubDate>Sat, 11 Dec 2021 14:13:20 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/complete-javascript-jquery-course-with-bonus-vue-js-intro/</guid>
+      <description>In this course you will learn JAVASCRIPT in a very natural and intuitive way. Our step by step method of teaching mixed with exercises, real life examples, challenges and projects will make you feel very confident with the language and become a professional Javascript programmer in just a few weeks.
+The course includes a complete jQuery section with exercises and a cool project where you will build an online t-shirt price calculator with multiple filters.</description>
+    </item>
+    
+    <item>
+      <title>Haskell for Beginners (programming language)</title>
+      <link>https://jobready.courseintern.com/haskell-for-beginners-programming-language/</link>
+      <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/haskell-for-beginners-programming-language/</guid>
+      <description>In this course, I&#39;ll be explaining simple concepts of coding in Haskell. You&#39;ll learn all the basics: printing to screen, creating variables, getting using input, doing simple math, conditionals, lists, records, etc. This is a simple steady-paced course that can be effective for anyone who has an interest in coding in Haskell. You could be someone with experience in another language or someone entirely new to coding.
+I&#39;ll be teaching using an online IDE, called replit, which serves its purpose great.</description>
+    </item>
+    
+    <item>
+      <title>Complete PYTHON Programming for Beginners - 2021</title>
+      <link>https://jobready.courseintern.com/complete-python-programming-for-beginners-2021/</link>
+      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/complete-python-programming-for-beginners-2021/</guid>
+      <description>On successful completion of the course, you will be able to program in the professional object-oriented programming (OOP) paradigm in Python, which allows you to start your programmer career. All professional Python programmers develop applications the OOP way. You, too, will be able to write complex, scalable programs in Python on completion of this course.
+The course follows a practical approach where students learn by actively problem-solving towards the tangible goal of creating real-world Python programs.</description>
+    </item>
+    
+    <item>
+      <title>Java from Zero to First Job - Practical Guide, 700&#43; examples</title>
+      <link>https://jobready.courseintern.com/java-from-zero-to-first-job-practical-guide-700-examples/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/java-from-zero-to-first-job-practical-guide-700-examples/</guid>
+      <description>Welcome to the fundamental and the most complete course &#39;Java from Zero to First Job&#39;. As it&#39;s declared in the course name, it&#39;s created for people who want to learn programming from scratch. You need to know how to turn on your computer, no other knowledge is required for this course :) The rest will be covered in lessons.
+Before starting creation of this course, our team attentively investigated feedbacks for existing courses on Udemy platform and tried to focus on the feedbacks for the top-rated courses to understand what can be improved in this course and make it even more better from the quality standpoint.</description>
+    </item>
+    
+    <item>
+      <title>Object-Oriented Programming - Basics to Advance (Java OOP)</title>
+      <link>https://jobready.courseintern.com/object-oriented-programming-basics-to-advance-java-oop/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/object-oriented-programming-basics-to-advance-java-oop/</guid>
+      <description>From this course you can learn Object-Oriented Programming from basics to advanced concepts. All code examples in the course are written in Java but that&#39;s doesn&#39;t mean you can&#39;t apply the knowledge from this course in other programming languages. You can easily use the knowledge from this course in any language if you want to build applications with the help of object-oriented programming approach. There are a lot of other courses in this topic.</description>
+    </item>
+    
+    <item>
+      <title>Oracle Certified Associate Java Programmer (OCAJP) 1Z0-808</title>
+      <link>https://jobready.courseintern.com/oracle-certified-associate-java-programmer-ocajp-1z0-808/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/oracle-certified-associate-java-programmer-ocajp-1z0-808/</guid>
+      <description>From this course you can learn everything you need to know to pass Oracle Certifications 1Z0-808 &amp;amp; 1Z0-811.
+There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
+To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+    </item>
+    
+    <item>
+      <title>Learn to Code in Python 3: Programming beginner to advanced</title>
+      <link>https://jobready.courseintern.com/learn-to-code-in-python-3-programming-beginner-to-advanced/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-to-code-in-python-3-programming-beginner-to-advanced/</guid>
+      <description>In this course, learning to code will be easy and intuitive for you. You will learn Python 3, one of the most popular programming languages in the world. We will cover the basic fundamentals of programming and you will learn how to do exciting things in Python, like reading and writing on files, like Excel sheets or TXT files, working with JSON and sending HTTP requests to web servers and APIs.</description>
+    </item>
+    
+    <item>
+      <title>Practice Python: Building Projects with Python Programming</title>
+      <link>https://jobready.courseintern.com/practice-python-building-projects-with-python-programming/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/practice-python-building-projects-with-python-programming/</guid>
+      <description>Hello and welcome to this applied Python course “Practice Python: Building Projects with Python Programming”.
+This is a powerful training program about creating real programs using the core python programming language.
+This course is so effective, direct to the point, detailed, and will save your precious time.
+You will learn how to use python programming language to create and build real life programs step-by-step the right way. This course is so important and special for any intermediate Python developer or anyone who wants to learn how to apply Python in real life.</description>
+    </item>
+    
+    <item>
+      <title>Build Twitter Bots With Python Django and Tweepy</title>
+      <link>https://jobready.courseintern.com/build-twitter-bots-with-python-django-and-tweepy/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/build-twitter-bots-with-python-django-and-tweepy/</guid>
+      <description>This course will equip you with skills in building twitter bots that will help you build a following on twitter for business or fun. You don&#39;t need any prior skills as I will take you through the process of creating twitter developer accounts, Installing python django framework, Installing tweepy library and using tweepy library to build bots on python django framework and postgresql database.
+I will show you how to build a like tweets bot based on two filter parameters: Good keywords and bad keywords.</description>
+    </item>
+    
+    <item>
+      <title>Professional Certificate in Java Programming</title>
+      <link>https://jobready.courseintern.com/professional-certificate-in-java-programming/</link>
+      <pubDate>Mon, 04 Oct 2021 10:00:22 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/professional-certificate-in-java-programming/</guid>
+      <description>Java is one of the most common, in-demand computer programming languages owned by the Oracle Corporation. Our associates at Academy of Computing &amp;amp; Artificial Intelligence got together and after carefully analyzing the top must learn computer programming languages in 2020, we were able to conclude that Java is the 3rd most used programming language according to stackoverflow. Furthermore, java has an average salary of $102,000 according to indeed making it a widely used and highly applicable language.</description>
+    </item>
+    
+    <item>
+      <title>Java: Socket Programming Simplified</title>
+      <link>https://jobready.courseintern.com/java-socket-programming-simplified/</link>
+      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/java-socket-programming-simplified/</guid>
+      <description>Socket programming is an essential part of the language that enables you to understand how applications communicate over the network. This helps in enabling you to understand how client server communication works and also gives you more insights into how server applications are built. It is important for each and every application developer (including Java developers) to have an understanding of how socket communication works. Hence this course is an absolute necessity.</description>
+    </item>
+    
+    <item>
+      <title>Python for Bioinformatics-Self Learning Course</title>
+      <link>https://jobready.courseintern.com/python-for-bioinformatics-self-learning-course/</link>
+      <pubDate>Thu, 30 Sep 2021 14:35:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-for-bioinformatics-self-learning-course/</guid>
+      <description>This course will cover algorithms for solving various biological problems along with a handful of programming challenges helping you implement these algorithms in Python.
+It offers a gently-paced introduction to our Bioinformatics Specialization preparing learners to take the first course in the Specialization.
+If you haven&#39;t programmed in Python before, not to worry, We are here to support you at every step.
+What will be taught in this course:
+Module 1 Introduction to Python for Bioinformatics</description>
+    </item>
+    
+    <item>
+      <title>Basics of Python in 2 Hours</title>
+      <link>https://jobready.courseintern.com/basics-of-python-in-2-hours/</link>
+      <pubDate>Sat, 18 Sep 2021 21:56:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/basics-of-python-in-2-hours/</guid>
+      <description>Python Basics for Absolute Beginners
+This course will help you master the basic concepts of Python 3.9.6 within just 2 hours. The Basics of Python course covers, the concepts of Python Programming in 2 hours, and then you&#39;ll be creating your own applications, working with coding quizzes and challenges to excel what you learned.
+Why Python?
+Python is one of the world&#39;s top 3 programming languages, and it&#39;s the most used language by businesses and enterprises.</description>
+    </item>
+    
+    <item>
+      <title>Java Programming: Complete Beginner to Advanced</title>
+      <link>https://jobready.courseintern.com/java-programming-complete-beginner-to-advanced/</link>
+      <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/java-programming-complete-beginner-to-advanced/</guid>
+      <description>Would you like to learn real world programming skills that will help you get your first java programming job?
+Java is one of the most popular programming languages used to create Web applications and platforms. It was designed for flexibility, allowing developers to write code that would run on any machine.
+So it’s your time now to take advantage of a loads of jobs and freelance opportunities that are available for java programmers out there.</description>
     </item>
     
     <item>
       <title>Intermediate Python Immersive Training | Boost your career</title>
-      <link>https://www.jobready.ml/intermediate-python-immersive-training-boost-your-career/</link>
+      <link>https://jobready.courseintern.com/intermediate-python-immersive-training-boost-your-career/</link>
       <pubDate>Thu, 16 Sep 2021 16:04:01 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/intermediate-python-immersive-training-boost-your-career/</guid>
+      <guid>https://jobready.courseintern.com/intermediate-python-immersive-training-boost-your-career/</guid>
       <description>Welcome to The Intermediate Python Immersive Training | Boost your career
 In this course, you will learn in depth the most important Python language topics for the intermediate level.
 Once you have completed this course, you will be able to use all these techniques, which we will list in detail.
@@ -390,10 +1029,10 @@ There is a wonderful feature in this course, as it explains in important detail 
     
     <item>
       <title>Python Programming From A-Z: Beginner To Expert Course</title>
-      <link>https://www.jobready.ml/python-programming-from-a-z-beginner-to-expert-course/</link>
+      <link>https://jobready.courseintern.com/python-programming-from-a-z-beginner-to-expert-course/</link>
       <pubDate>Tue, 14 Sep 2021 13:19:24 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-programming-from-a-z-beginner-to-expert-course/</guid>
+      <guid>https://jobready.courseintern.com/python-programming-from-a-z-beginner-to-expert-course/</guid>
       <description>Welcome to the Learn Python Programming From A-Z: Beginner To Expert Course
 Where you’re going to learn how to become a professional Python Developer and create programs, apps, scripts, games and so much more...
 In this practical, hands-on course our main objective is to give you the education not just to understand the ins and outs of Python Programming, but also to learn exactly how the software development industry works, the different roles within a team, and how to land a Python Programming job without a degree.</description>
@@ -401,10 +1040,10 @@ In this practical, hands-on course our main objective is to give you the educati
     
     <item>
       <title>Three.js</title>
-      <link>https://www.jobready.ml/three.js/</link>
+      <link>https://jobready.courseintern.com/three.js/</link>
       <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/three.js/</guid>
+      <guid>https://jobready.courseintern.com/three.js/</guid>
       <description>SO, YOU’RE LOOKING FOR A COURSE THAT WILL TEACH YOU THREEJS &amp;amp; IN A FUN MANNER?
 I’ve got just the course for you!
 Welcome, my name is Josh Werner with Learn Tech Plus and I’ve put this course together to help people just like you quickly master ThreeJS...Whether you’re a beginner or experienced with ThreeJS!
@@ -412,128 +1051,35 @@ If your goal is to become a user of ThreeJS, then this course is perfect for you
     </item>
     
     <item>
-      <title>The Kotlin Learning Guide [Arabic Edition]</title>
-      <link>https://www.jobready.ml/the-kotlin-learning-guide-arabic-edition/</link>
-      <pubDate>Mon, 13 Sep 2021 09:03:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/the-kotlin-learning-guide-arabic-edition/</guid>
-      <description>هذه الدورة المفصلة في المستوى الاول والثاني من الكوتلن حيث افترض الشخص الذي امامي لا يعرف اي شي عن عالم البرمجة ستتمكن من خلال هذه الدورة من الدخول الى عالم البرمجة وفهم اساسيات اللغات البرمجية لا تحتاج الى اي مؤهلات للدخول الى هذه الدورة ،تتميز هذه الدورة بأنها مفصلة ولكن ليس فيها تشعبات وتفاصيل غير اساسية
-Kotlin remains one of the most widely used and fastest-growing programming languages in recent years.</description>
-    </item>
-    
-    <item>
-      <title>R Studio: Empieza desde cero</title>
-      <link>https://www.jobready.ml/r-studio-empieza-desde-cero/</link>
-      <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/r-studio-empieza-desde-cero/</guid>
-      <description>¿Te gustaría aprender a programar en R pero no sabes por donde empezar?
-En este curso iremos paso a paso desde lo más sencillo hasta lo más complejo. Después de cada video, aprendes un nuevo concepto valioso que puedes aplicar de inmediato. Y la mejor parte es que aprendes a través de ejemplos en vivo. Este curso te proporcionará las bases del lenguaje de programación estadística R. 
-Si eres un estudiante o profesionista que quiere potenciar su carrera profesional te tengo una buena noticia:</description>
-    </item>
-    
-    <item>
-      <title>C# Programlama Dili : Temel, Orta, İleri Seviye</title>
-      <link>https://www.jobready.ml/c#-programlama-dili-temel-orta-ileri-seviye/</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/c#-programlama-dili-temel-orta-ileri-seviye/</guid>
-      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
-
-&#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}
-Bu kurs C# programlama dilini öğretmeyi ve C# ile yazılım geliştirmeyi öğretmeyi hedeflemektedir.
-Bu kurs C# Programlama dilini anlatmaktadır. Diğer gördüğünüz tüm başlıklar eğitmen tarafından öğrencilerinin daha çeşitli çevre teknolojileri hakkında bilgi sahibi olması için eklenmiştir.</description>
-    </item>
-    
-    <item>
       <title>Go Programlama Dili : Standart Kütüphane</title>
-      <link>https://www.jobready.ml/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</link>
+      <link>https://jobready.courseintern.com/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</link>
       <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</guid>
+      <guid>https://jobready.courseintern.com/go-programlama-dili-standart-k%C3%BCt%C3%BCphane/</guid>
       <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
 Kurs İçeriği
 Go programlama dilinin geliştirici ekibi tarafından hazırlanan ve Go geliştiricilerinin kullanımına sunulan Standard Library(Kütüphane) kütüphanesi etkili bir şekilde kullanmak sizin daha az kod yazarak daha performanslı ve etkili projeler geliştirebilmenizde yardımcı olur. C, C++, Java, Python ve C# gibi tüm popüler programlama dillerinin kendisine ait bir küçük ya da geniş kod kütüphaneleri bulunur.</description>
     </item>
     
     <item>
-      <title>Build A Search Engine With Python: Computer Science &amp; Python</title>
-      <link>https://www.jobready.ml/build-a-search-engine-with-python-computer-science-python/</link>
-      <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/build-a-search-engine-with-python-computer-science-python/</guid>
-      <description>AStateOfData.Com™ Computer Science With Python: An Absolute Beginners Guide To Computer Science
-Introduction
-WHY THIS COURSE IS DIFFERENT?	Many of the online courses teach you to code but not the theory/way of thinking behind it why would we choose a while but not a for loop, why should we pass 2 parameters to a function but not only one? This course will teach you how to think about solving coding problems throughout quizzes, there are 112 video format quizzes that aim to keep you engaged with the course and teach you the Python fundamentals in an easy to follow manner</description>
-    </item>
-    
-    <item>
-      <title>Python Programming Beginner to Advance &#43; Machine Learning</title>
-      <link>https://www.jobready.ml/python-programming-beginner-to-advance-machine-learning/</link>
-      <pubDate>Thu, 09 Sep 2021 15:50:17 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/python-programming-beginner-to-advance-machine-learning/</guid>
-      <description>Looking to master Python for your job or as a career enhancement?
-Go from beginner to advance in Python Programming! Apply your knowledge in Machine Learning Data Science &amp;amp; Data Analysis in this intensive course!
-Python is the most widely used programming language on the planet. In the United States, the average pay for a Python developer is $116k. That&#39;s almost $30k more than the competition!
-This course (Python Programming Beginner to Advance + Machine Learning) will help you reach your dreams!</description>
-    </item>
-    
-    <item>
       <title>Python for Absolute Beginners® | Zero to Expert 2021</title>
-      <link>https://www.jobready.ml/python-for-absolute-beginners-zero-to-expert-2021/</link>
+      <link>https://jobready.courseintern.com/python-for-absolute-beginners-zero-to-expert-2021/</link>
       <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-for-absolute-beginners-zero-to-expert-2021/</guid>
+      <guid>https://jobready.courseintern.com/python-for-absolute-beginners-zero-to-expert-2021/</guid>
       <description>Are you tired of checking multiple courses on Python and not found even one which meets your actual requirements?
-
-Most beginners study core part of the programming easily but actual programming starts after core programming is finished, since most of real world problems are solved by using programming paradigms such as iteration, recursion, comprehension, object oriented programming etc. 
-Most of the preceding topics are heavily influenced by fundamental mathematics, I will try to teach you fundamental mathematics through these programming paradigm such as iteration and recursion through this course.</description>
-    </item>
-    
-    <item>
-      <title>Project Development Using JAVA for Beginners - 2021</title>
-      <link>https://www.jobready.ml/project-development-using-java-for-beginners-2021/</link>
-      <pubDate>Wed, 08 Sep 2021 18:43:42 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/project-development-using-java-for-beginners-2021/</guid>
-      <description>Would you like to learn real world programming skills that will help you get your first java programming job?
-Java is one of the most popular programming languages used to create Web applications and platforms. It was designed for flexibility, allowing developers to write code that would run on any machine.
-So it’s your time now to take advantage of a loads of jobs and freelance opportunities that are available for java programmers out there.</description>
+Most beginners study core part of the programming easily but actual programming starts after core programming is finished, since most of real world problems are solved by using programming paradigms such as iteration, recursion, comprehension, object oriented programming etc. Most of the preceding topics are heavily influenced by fundamental mathematics, I will try to teach you fundamental mathematics through these programming paradigm such as iteration and recursion through this course.</description>
     </item>
     
     <item>
       <title>Learn Python 3- Full Course for Beginners</title>
-      <link>https://www.jobready.ml/learn-python-3-full-course-for-beginners/</link>
+      <link>https://jobready.courseintern.com/learn-python-3-full-course-for-beginners/</link>
       <pubDate>Wed, 08 Sep 2021 18:43:41 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-python-3-full-course-for-beginners/</guid>
+      <guid>https://jobready.courseintern.com/learn-python-3-full-course-for-beginners/</guid>
       <description>Learn Python, a programming language with a wide variety of well-paying jobs in many fields, including data science and web development.
 It is relatively easy to learn when compared to pretty much any other programming language since most of the time, using Python to do something will take less lines of code than with another programming language.
 In this course, you will be taught the fundamentals of Python through high quality video and audio lectures.</description>
-    </item>
-    
-    <item>
-      <title>Practical Bootcamp JWT Authentication with Java &amp; SpringBoot</title>
-      <link>https://www.jobready.ml/practical-bootcamp-jwt-authentication-with-java-springboot/</link>
-      <pubDate>Sun, 29 Aug 2021 22:24:58 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/practical-bootcamp-jwt-authentication-with-java-springboot/</guid>
-      <description>JWT(Json web token) is a standard for securing API&#39;s in a Microservices architecture, using this standard we can secure API&#39;s built in any technology like Nodejs, Python, .NET etc but in this course we will building API&#39;s using Java and SpringBoot and than we will be securing them using JWT and Spring security, we will also use all the industry best practices and standards along the way.
-We will start with learning concepts like:</description>
-    </item>
-    
-    <item>
-      <title>Advanced Foundations of Python Programming | 2021 Training</title>
-      <link>https://www.jobready.ml/advanced-foundations-of-python-programming-2021-training/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/advanced-foundations-of-python-programming-2021-training/</guid>
-      <description>Hello and welcome to the Advanced Foundations of Python Programming | 2021 Training Masterclass.
-Learn the Advanced foundations of modern python programming with this powerful, deep, direct to the point and interactive training.
-For each concept in this course, you&#39;ll master the theory then you&#39;ll&amp;nbsp; practice with many real examples.
-Do you want to Advance your Python development career?
-Do you want to be able to create real programs using the advanced concepts of Python?</description>
     </item>
     
   </channel>

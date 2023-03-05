@@ -2,30 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Development on </title>
-    <link>https://www.jobready.ml/tags/game-development/</link>
+    <link>https://jobready.courseintern.com/tags/game-development/</link>
     <description>Recent content in Game Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Oct 2021 10:56:56 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2022 20:12:25 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn How to Make Trading Card Game Menus With Unity 3D</title>
+      <link>https://jobready.courseintern.com/learn-how-to-make-trading-card-game-menus-with-unity-3d/</link>
+      <pubDate>Fri, 03 Jun 2022 20:12:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-how-to-make-trading-card-game-menus-with-unity-3d/</guid>
+      <description>This course provides a full guide on trading card game menus. In the video Lectures we cover only the process of making menus, collection browsing, deck building, pack opening, etc… But the battle mechanics part is also included into the Unity project that is provided with the course. So, you`ll have an opportunity to play the game with the cards that you create yourself or even use this application as a foundation for your own trading card game.</description>
+    </item>
     
-	<atom:link href="https://www.jobready.ml/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity C# 2d- Memory Matching Game</title>
+      <link>https://jobready.courseintern.com/unity-c#-2d-memory-matching-game/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/unity-c#-2d-memory-matching-game/</guid>
+      <description>Requirement:
+Unity Personal Edition and Visual Studio or Any other Compatible code editor is required to follow alongBasic knowledge of Unity &amp;amp; C# is helpful but not mandatory
+Want to Learn How to build Games by actually building Small , Simple and Fun Games?
+Then this is the perfect course for you.
+Advantage of taking this course
+After Finishing this course You will be able to build Fully functional Games with Unity and C#.</description>
+    </item>
     
+    <item>
+      <title>Master Visual Scripting in Unity by Making Advanced Games</title>
+      <link>https://jobready.courseintern.com/master-visual-scripting-in-unity-by-making-advanced-games/</link>
+      <pubDate>Mon, 02 May 2022 21:40:19 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/master-visual-scripting-in-unity-by-making-advanced-games/</guid>
+      <description>Hello And welcome. In this course, you will learn everything you need to know how to use visual scripting (previously known as Bolt) in unity and how to create your own advanced games without writing a single line of code. This course will teach you how Master Visual scripting even if you don&#39;t have any previous experience with unity in general.
+Little about me. Before I become a game developer, I was working as a movie Visual effects artist but later I found Unity 3d engine, which I really liked and I slowly started to switch my focus on game development.</description>
+    </item>
+    
+    <item>
+      <title>Learn To Code By Making Games in Python</title>
+      <link>https://jobready.courseintern.com/learn-to-code-by-making-games-in-python/</link>
+      <pubDate>Tue, 19 Apr 2022 21:15:53 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-to-code-by-making-games-in-python/</guid>
+      <description>Have you ever wanted to build a games with a graphical interface but didn&#39;t know how to? May be you even know how to create tools on a command line but have no idea how to convert it into a graphical interface that people can click on. In this course we will be learning Python GUI Programming + other advanced python modules to build graphical user interfaces (GUI) and games from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Learn Python By building Games in Python</title>
+      <link>https://jobready.courseintern.com/learn-python-by-building-games-in-python/</link>
+      <pubDate>Sat, 16 Apr 2022 19:20:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-python-by-building-games-in-python/</guid>
+      <description>Python Programming course, full Guide for Python Programmers &amp;amp; Python Coders in a simple and easy way with Python Examples, Python quizzes, Resources &amp;amp; 5 Python Games Projects in Python Games, Python OOP, to master Python 3 from zero to hero in this course.
+What you will learn in this course ?
+Learn Python by doing 5 Python Games Projects.
+In this course you will learn how to Install Python 3.</description>
+    </item>
+    
+    <item>
+      <title>Oyunlarda Gelir Modelleri | Unreal Engine &amp; Unity</title>
+      <link>https://jobready.courseintern.com/oyunlarda-gelir-modelleri-unreal-engine-unity/</link>
+      <pubDate>Sun, 12 Dec 2021 21:51:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/oyunlarda-gelir-modelleri-unreal-engine-unity/</guid>
+      <description>Oyunuzun Gelirini En Üst Seviyeye Çıkartın!!
+Bu kursta, Oyunlardan En Üst Düzeyde Gelir elde etmenin yollarını en popüler oyunlarda inceliyoruz. Rainbow Six Siege, League of Legends ve Fortnite gibi en çok kazanan oyunların gelir modellerini teker teker stratejileri ile öğrenin. Bu kurs için hiçbir bilgi sahibi olmanıza gerek yoktur, çünkü her şeyi en baştan ele alıyoruz.
+Unreal Engine veya Unity üzerinden yaptığınız oyunların en ileri seviyede gelir elde etmesini sağlamayı öğrenin.</description>
+    </item>
     
     <item>
       <title>Learn To Code Trading Card Game Battle System With Unity 3D</title>
-      <link>https://www.jobready.ml/learn-to-code-trading-card-game-battle-system-with-unity-3d/</link>
+      <link>https://jobready.courseintern.com/learn-to-code-trading-card-game-battle-system-with-unity-3d/</link>
       <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-to-code-trading-card-game-battle-system-with-unity-3d/</guid>
+      <guid>https://jobready.courseintern.com/learn-to-code-trading-card-game-battle-system-with-unity-3d/</guid>
       <description>This course provides a full guide on trading card game battle mechanics. The material in this course is divided into 6 Sections. Section 1 features a short introduction to the course. In Section 2 we will focus on making cards. We will use Unity UI features to create both faces and card backs of our cards. Spell cards and creature cards will be designed a bit differently. Creature cards will have distinctive oval frames around creature images.</description>
     </item>
     
     <item>
       <title>Learn Unity 3D - The Ultimate Program</title>
-      <link>https://www.jobready.ml/learn-unity-3d-the-ultimate-program/</link>
+      <link>https://jobready.courseintern.com/learn-unity-3d-the-ultimate-program/</link>
       <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-unity-3d-the-ultimate-program/</guid>
+      <guid>https://jobready.courseintern.com/learn-unity-3d-the-ultimate-program/</guid>
       <description>NEW UPDATE: Added Latest Course 5 on Intro to Game Audio (5-Oct-2021)
 NEW UPDATE: Added Latest Course 4 on Whiteboxing (Sep-2021)
 NEW UPDATE: Added Latest Course 3 on Photon Multiplayer! (16-Aug-2021)
@@ -38,49 +99,37 @@ By the end of this course, students will have the skills and expertise to:1.</de
     
     <item>
       <title>Simple and Advanced Topics of Animating 2D Characters</title>
-      <link>https://www.jobready.ml/simple-and-advanced-topics-of-animating-2d-characters/</link>
+      <link>https://jobready.courseintern.com/simple-and-advanced-topics-of-animating-2d-characters/</link>
       <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/simple-and-advanced-topics-of-animating-2d-characters/</guid>
+      <guid>https://jobready.courseintern.com/simple-and-advanced-topics-of-animating-2d-characters/</guid>
       <description>Making a 2D platformer game is a nice way to start learning about Unity game development. In this course you will learn how to create so-called “bone-based” 2D characters - characters that are made out of separate body parts. The material in this course is divided into 3 Sections. Section 1 features a short introduction to the course. In Section 2 we will focus on making a simple bone-based character from scratch.</description>
     </item>
     
     <item>
       <title>Game Development with PyGame  | Real World Games</title>
-      <link>https://www.jobready.ml/game-development-with-pygame-real-world-games/</link>
+      <link>https://jobready.courseintern.com/game-development-with-pygame-real-world-games/</link>
       <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/game-development-with-pygame-real-world-games/</guid>
+      <guid>https://jobready.courseintern.com/game-development-with-pygame-real-world-games/</guid>
       <description>Learn PyGame by developing fun games from scratch. This course is for everyone who has desire to learn Python and PyGame. The game complexity increases with every section and you will be able to rise your knowledge throughout the course. You will develop amazing games and you will see how PyGame works moving things on screen and objects interaction. You will also create and import pictures used in the games and get familiar with creating randomly movable enemies, animating the game characters and playing music and sounds while playing the game.</description>
     </item>
     
     <item>
       <title>Unity 3D Make A Complete Racing Game</title>
-      <link>https://www.jobready.ml/unity-3d-make-a-complete-racing-game/</link>
+      <link>https://jobready.courseintern.com/unity-3d-make-a-complete-racing-game/</link>
       <pubDate>Thu, 09 Sep 2021 11:42:15 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/unity-3d-make-a-complete-racing-game/</guid>
+      <guid>https://jobready.courseintern.com/unity-3d-make-a-complete-racing-game/</guid>
       <description>Learn Unity Game engine and C# by making a complete racing game. What can be more fun way of learning programming by making your own racing game? In this course we will start from scratch and at the end we will have a complete racing game developed. We will develop AI which will compete with players. You will learn how to make a virtual currency system in your game to buy and unlock cars.</description>
     </item>
     
     <item>
-      <title>Learn Python By building Games in Python</title>
-      <link>https://www.jobready.ml/learn-python-by-building-games-in-python/</link>
-      <pubDate>Tue, 07 Sep 2021 20:19:47 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-python-by-building-games-in-python/</guid>
-      <description>Python Programming course, full Guide for Python Programmers &amp;amp; Python Coders in a simple and easy way with Python Examples, Python quizzes, Resources &amp;amp; 5 Python Games Projects in Python Games, Python OOP, to master Python 3 from zero to hero in this course.
-What you will learn in this course ?
-Learn Python by doing 5 Python Games Projects.
-In this course you will learn how to Install Python 3.</description>
-    </item>
-    
-    <item>
       <title>Learn Unity Shaders from Scratch</title>
-      <link>https://www.jobready.ml/learn-unity-shaders-from-scratch/</link>
+      <link>https://jobready.courseintern.com/learn-unity-shaders-from-scratch/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-unity-shaders-from-scratch/</guid>
+      <guid>https://jobready.courseintern.com/learn-unity-shaders-from-scratch/</guid>
       <description>In this course we&#39;re going to look at Unity ShaderLab and the HLSL shading language to create amazing shaders. Maybe you are
 a developer struggling to bring to life a particular game feature because it needs a custom shader.
 a developer who always wanted to create custom shaders but was too scared to start. a developer wanting to add some custom post-processing effects to your 3d renders.

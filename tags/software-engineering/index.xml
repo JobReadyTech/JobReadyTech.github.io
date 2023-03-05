@@ -2,65 +2,202 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering on </title>
-    <link>https://www.jobready.ml/tags/software-engineering/</link>
+    <link>https://jobready.courseintern.com/tags/software-engineering/</link>
     <description>Recent content in Software Engineering on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Dec 2021 09:53:38 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 23 Jun 2022 19:44:39 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Career Bootcamp: From intern to CXO</title>
+      <link>https://jobready.courseintern.com/software-career-bootcamp-from-intern-to-cxo/</link>
+      <pubDate>Thu, 23 Jun 2022 19:44:39 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/software-career-bootcamp-from-intern-to-cxo/</guid>
+      <description>A career in software engineering is not the same as being good at coding. The field of software engineering has been evolving for decades. As the technology frontier gathers momentum professionals have to continuously re-calibrate to fit in or they become obsolete even before they realize it. This trend is inevitable. But, Is it avoidable? Yes. Reinventing a career overnight is impossible but staying within a competing distance is possible. The answer is the same old boring strategy, planning.</description>
+    </item>
     
     <item>
-      <title>Java Collections Framework &#43; Generics, Lambdas &amp; Stream API</title>
-      <link>https://www.jobready.ml/java-collections-framework-generics-lambdas-stream-api/</link>
-      <pubDate>Wed, 01 Dec 2021 09:53:38 +0530</pubDate>
+      <title>Software Industry: Daily software engineering for beginners</title>
+      <link>https://jobready.courseintern.com/software-industry-daily-software-engineering-for-beginners/</link>
+      <pubDate>Thu, 23 Jun 2022 19:44:39 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/java-collections-framework-generics-lambdas-stream-api/</guid>
-      <description>From this course you can learn Java Collections Framework, together with Generics, Lambda Functions, Method References and Stream API. 
-There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding exercises 
-To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will have different practical tasks which will help you learn and understand Java better.</description>
+      <guid>https://jobready.courseintern.com/software-industry-daily-software-engineering-for-beginners/</guid>
+      <description>The course is an introduction to the complexity of waiting for a beginner in the software industry. There are no certifications or silver bullets to a long and fulfilling software career. The course provides a brief overview of the industry from an experienced engineer&#39;s perspective. The main goal of the course is to make the aspirants aware of the big picture before they get caught up in confusing job descriptions. A prosperous career cannot be purchased or fast-tracked, it has to be nurtured with daily habits and coherent knowledge.</description>
     </item>
     
     <item>
       <title>GoF Design Patterns - Complete Course with Java Examples</title>
-      <link>https://www.jobready.ml/gof-design-patterns-complete-course-with-java-examples/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <link>https://jobready.courseintern.com/gof-design-patterns-complete-course-with-java-examples/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/gof-design-patterns-complete-course-with-java-examples/</guid>
-      <description>From this course you can learn GoF Design Patterns with detailed Java examples.
-There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
-To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+      <guid>https://jobready.courseintern.com/gof-design-patterns-complete-course-with-java-examples/</guid>
+      <description>From this course, you can learn GoF Design Patterns with detailed Java examples.
+There are a lot of other courses on this topic. So, why would you choose exactly this course? Here are just a few reasons:- Coding examples
+To learn to program is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course, you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+    </item>
+    
+    <item>
+      <title>Java Collections Framework &#43; Generics, Lambdas &amp; Stream API</title>
+      <link>https://jobready.courseintern.com/java-collections-framework--generics-lambdas-stream-api/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/java-collections-framework--generics-lambdas-stream-api/</guid>
+      <description>From this course, you can learn Java Collections Framework, together with Generics, Lambda Functions, Method References, and Stream API. There are a lot of other courses on this topic. So, why would you choose exactly this course? Here are just a few reasons:- Coding examples
+To learn to program is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course, you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+    </item>
+    
+    <item>
+      <title>Agile Retrospective: Continuous Improvement&#43;Kaizen wth Scrum</title>
+      <link>https://jobready.courseintern.com/agile-retrospective-continuous-improvement-kaizen-wth-scrum/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/agile-retrospective-continuous-improvement-kaizen-wth-scrum/</guid>
+      <description>&#34;Scrum Open, Professional Scrum™, Professional Scrum Master™, PSM, PSM I, PSM 1, etc. is the protected brand of Scrum . org. Our course and practice exams are neither endorsed by nor affiliated with Scrum . org.&#34;
+Three reasons to TAKE THIS COURSE right now!
+The unique reasons for taking this course are:
+1.	Complete, Concise, Confident Overview of sprint retrospectives - I cover the theory and give you examples of how the theory is used in industry.</description>
+    </item>
+    
+    <item>
+      <title>Agile Metrics for Agile Project Management</title>
+      <link>https://jobready.courseintern.com/agile-metrics-for-agile-project-management/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/agile-metrics-for-agile-project-management/</guid>
+      <description>Welcome to the course on Agile Metrics for Agile Project Management!
+About Agile Metrics
+Are you looking to embed the Agile framework for project management into your team’s work to ramp up efficiency?
+Or Are you looking to set standards to measure the work of your team based on real-life data?
+If yes, all you need is to track the right agile metrics.
+Agile metrics will help you direct your teams toward continuous improvement on the basis of real-life data from previous work cycles.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Quantum Computing</title>
+      <link>https://jobready.courseintern.com/introduction-to-quantum-computing/</link>
+      <pubDate>Tue, 07 Jun 2022 21:30:46 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/introduction-to-quantum-computing/</guid>
+      <description>Understanding what quantum computing is is definitely not an easy task. Indeed, since this is a new science there is a few places where you can find a quality introduction course about this topic. Indeed, usually all the course are either to advanced or simply does not cover properly the topic of quantum computing. But, this course is designed to give you all the basic knowledge about the topic. If you :</description>
+    </item>
+    
+    <item>
+      <title>Professional Scrum with Kanban (PSK I) Certification Prep</title>
+      <link>https://jobready.courseintern.com/professional-scrum-with-kanban-psk-i-certification-prep/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/professional-scrum-with-kanban-psk-i-certification-prep/</guid>
+      <description>Welcome to the course on Professional Scrum with Kanban (PSK I)
+Congratulations on taking the first important step towards preparing for the Professional Scrum Kanban(PSK) exam. Professional Scrum Kanban is an advanced assessment created to test your knowledge about the Kanban and its application in the real world. The PSK I assessment is grounded in the Professional Scrum with Kanban subject areas: Kanban Practices, Agile Metrics, and The Scrum Framework. The assessment is in place to ensure you understand how Scrum Teams can use Kanban.</description>
+    </item>
+    
+    <item>
+      <title>Interview skills to upskill software engineers in 99 minutes</title>
+      <link>https://jobready.courseintern.com/interview-skills-to-upskill-software-engineers-in-99-minutes/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/interview-skills-to-upskill-software-engineers-in-99-minutes/</guid>
+      <description>Interviews are becoming more time-consuming as the software industry gathers pace. New trends keep getting introduced leaving candidates exhausted in an attempt to keep up. To avoid burnout, the course recommends a more systematic knowledge-driven framework. Course Structure
+Section 1: Necessity for an alternative approach inclined towards career growth instead of instant gratification.
+Section 2: Foundation Phase (12- 9 months)
+The gathering phase. Identify the possible sources for the relevant information.</description>
+    </item>
+    
+    <item>
+      <title>Emotional Intelligence for Software Engineers and Developers</title>
+      <link>https://jobready.courseintern.com/emotional-intelligence-for-software-engineers-and-developers/</link>
+      <pubDate>Fri, 20 May 2022 19:57:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/emotional-intelligence-for-software-engineers-and-developers/</guid>
+      <description>As software developers, we have our image of what it means to be a good developer, and we also have a mental model of the road we started walking when we first entered the field as interns or as junior developers. Most of the time, we research what technical books to read, what courses to watch, which field to go into, web development, mobile development, or something else. The Technology, the tool - we get so involved in this wide array of choices, and so there is something very foundational that we might miss if we don’t pay enough attention and get lost in the technicality.</description>
+    </item>
+    
+    <item>
+      <title>Technical Java Interview Prep for IT professionals</title>
+      <link>https://jobready.courseintern.com/technical-java-interview-prep-for-it-professionals/</link>
+      <pubDate>Thu, 05 May 2022 17:34:36 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/technical-java-interview-prep-for-it-professionals/</guid>
+      <description>Hello. We have been waiting for you. Welcome. Now that you are here, let&#39;s begin. Thank you for being here.
+Java has been in the IT field for years. By coding hands on as you watch video lessons, you will gain the skills to Solve given problems in java that may show up in the interviews. Some lessons may be from recent interviews collected from the local community. We aim to create a discord community to crowdsource technical java interview information.</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Application Development Masterclass using Java</title>
+      <link>https://jobready.courseintern.com/enterprise-application-development-masterclass-using-java/</link>
+      <pubDate>Sun, 01 May 2022 16:38:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/enterprise-application-development-masterclass-using-java/</guid>
+      <description>Why should you consider enrolling on this Complete Academic Course on Enterprise Application Development?
+The course instructor is a lecturer teaching Enterprise Application Development for 3+ years.
+The course instructor is a former lead software engineer who developed enterprise applications for the Scandinavian region for 3+ years.
+This course is designed in 2022 by International-level benchmarking of the lessons and hands-on activities, so it covers all the topics which are included in almost any university-level taught lecture module.</description>
+    </item>
+    
+    <item>
+      <title>Migrate Windows service to Azure</title>
+      <link>https://jobready.courseintern.com/migrate-windows-service-to-azure/</link>
+      <pubDate>Sat, 30 Apr 2022 17:17:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/migrate-windows-service-to-azure/</guid>
+      <description>Course explains how to migrate Windows service to Azure. It&#39;s for .NET developers and software achitects who solves the task how to migrate Windows service to Azure and are looking for cost effective solution. Course explains cloud service models and benefits of migration to cloud. Course explains alternatives for migration together with pros and cons, then required code changes in Windows service, preparing of Azure infrastructure, deployment, configuration and monitoring using Azure Application Insights.</description>
     </item>
     
     <item>
       <title>Master Multithreading - Concurrency with Java Examples</title>
-      <link>https://www.jobready.ml/master-multithreading-concurrency-with-java-examples/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <link>https://jobready.courseintern.com/master-multithreading-concurrency-with-java-examples/</link>
+      <pubDate>Sat, 23 Apr 2022 14:41:14 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/master-multithreading-concurrency-with-java-examples/</guid>
-      <description>From this course you can learn Multithreading with Java Examples.
-There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
-To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+      <guid>https://jobready.courseintern.com/master-multithreading-concurrency-with-java-examples/</guid>
+      <description>From this course, you can learn Multithreading with Java Examples.
+There are a lot of other courses on this topic. So, why would you choose exactly this course? Here are just a few reasons:- Coding examples
+To learn to program is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course, you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+    </item>
+    
+    <item>
+      <title>Hyperledger Fabric 2.x Basic &amp; Advanced Network Operations</title>
+      <link>https://jobready.courseintern.com/hyperledger-fabric-2.x-basic-advanced-network-operations/</link>
+      <pubDate>Thu, 14 Apr 2022 18:10:15 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/hyperledger-fabric-2.x-basic-advanced-network-operations/</guid>
+      <description>DescriptionCoupon Code: 3E7DF6696FDAAA86D5D3
+Fabric Advanced Operations are complex to implement, need to have the expertise to add new components in the existing network without disturbing the running setup.
+What we cover in this course
+Hands-on experience of advanced operations like Configuration Block Update Flow
+Adding New Organisation in Application Channel at runtime
+Adding New Organisation in Consortium
+Adding New Orderer in existing orderer cluster
+We will cover each and every step require to do these complex operations.</description>
+    </item>
+    
+    <item>
+      <title>Go Programlama Dili</title>
+      <link>https://jobready.courseintern.com/go-programlama-dili/</link>
+      <pubDate>Sat, 18 Dec 2021 15:40:28 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/go-programlama-dili/</guid>
+      <description>*Türkiye&#39;nin ilk Go Programlama Dili kursudur.
+DeepLab University organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
+&#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}Bu kurs Go(Golang) programlama dilini anlatmayı hedeflemektedir.
+Bu kurs ile birlikte açıklayacağımız konular aşağıdaki gibidir;
+- Go Programlama Dilini Detaylı İncelemek- Çalışma Ortamı ve Editörler- Değişkenler, Türler, Go Diline Özgü Söz Dizimi ve Kurallar- Akış Kontrol Mekanizmaları- Döngüler- Hata Yönetimi- Diziler- Slice (Dilimler)- Maps- Paket Yönetimi- Struct (Yapılar)- Interface (Arayüzler)- Fonksiyonlar- Metodlar- İşaretçiler- Nesne Yönelimli Programlama- Eş Zamanlılık (Concurrency)- Test- Reflection- Go Paketleri- Veri Formatı ve Dosya İşlemleri- Go ile Veritabanı Programlama- Go ile RESTful API ve Web Programlama (Örnek Uygulamalar)- Algoritmalar</description>
     </item>
     
     <item>
       <title>Functional Programming &#43; Lambdas, Method References, Streams</title>
-      <link>https://www.jobready.ml/functional-programming-lambdas-method-references-streams/</link>
+      <link>https://jobready.courseintern.com/functional-programming--lambdas-method-references-streams/</link>
       <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/functional-programming-lambdas-method-references-streams/</guid>
-      <description>From this course you can learn Functional Programming in Java with Lambda expressions (anonymous functions), Method references and Stream API. 
-There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding exercises 
-To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will have different practical tasks which will help you learn and understand Java better.</description>
+      <guid>https://jobready.courseintern.com/functional-programming--lambdas-method-references-streams/</guid>
+      <description>From this course you can learn Functional Programming in Java with Lambda expressions (anonymous functions), Method references and Stream API. There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding exercises To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will have different practical tasks which will help you learn and understand Java better.</description>
     </item>
     
     <item>
       <title>Software Architecture and Clean Code Design in OOP</title>
-      <link>https://www.jobready.ml/software-architecture-and-clean-code-design-in-oop/</link>
+      <link>https://jobready.courseintern.com/software-architecture-and-clean-code-design-in-oop/</link>
       <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/software-architecture-and-clean-code-design-in-oop/</guid>
+      <guid>https://jobready.courseintern.com/software-architecture-and-clean-code-design-in-oop/</guid>
       <description>From this course you can learn Software Architecture and Clean Code Design in OOP.
 There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
 To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
@@ -68,51 +205,28 @@ To learn programming it is not enough just watching videos and reading books. Yo
     
     <item>
       <title>Kubernetes for developers</title>
-      <link>https://www.jobready.ml/kubernetes-for-developers/</link>
+      <link>https://jobready.courseintern.com/kubernetes-for-developers/</link>
       <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/kubernetes-for-developers/</guid>
+      <guid>https://jobready.courseintern.com/kubernetes-for-developers/</guid>
       <description>This goal of this course is to get you started with Kubernetes. Through a practical workshop, you&#39;ll learn how to dockerize an app, deploy it to Kubernetes cluster and apply DevOps into it.
-
 Agenda:
 Create ASP.NET Core MVC app
 Add Model and Controller for Products
 Demo of the MVC app.cmproj
 Demo of the MVC app
-
 Explaining Dockerfile
 Build Docker Container for MVC app
-Push Docker container to Docker Hub</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Quantum Computing</title>
-      <link>https://www.jobready.ml/introduction-to-quantum-computing/</link>
-      <pubDate>Mon, 20 Sep 2021 09:40:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/introduction-to-quantum-computing/</guid>
-      <description>Understanding what quantum computing is is definitely not an easy task. Indeed, since this is a new science there is a few places where you can find a quality introduction course about this topic. Indeed, usually all the course are either to advanced or simply does not cover properly the topic of quantum computing. But, this course is designed to give you all the basic knowledge about the topic. If you :</description>
-    </item>
-    
-    <item>
-      <title>Go Programlama Dili</title>
-      <link>https://www.jobready.ml/go-programlama-dili/</link>
-      <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/go-programlama-dili/</guid>
-      <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
-
-&#34;Birisine bir şey öğretemezsiniz, ancak kendisinin onu keşfetmesine yardım edebilirsiniz.&#34; {Galileo Galilei}Bu kurs Go(Golang) programlama dilini anlatmayı hedeflemektedir.
-Bu kurs ile birlikte açıklayacağımız konular aşağıdaki gibidir;
-- Go Programlama Dilini Detaylı İncelemek- Çalışma Ortamı ve Editörler- Değişkenler, Türler, Go Diline Özgü Söz Dizimi ve Kurallar- Akış Kontrol Mekanizmaları- Döngüler- Hata Yönetimi- Diziler- Slice (Dilimler)- Maps- Paket Yönetimi- Struct (Yapılar)- Interface (Arayüzler)- Fonksiyonlar- Metodlar- İşaretçiler- Nesne Yönelimli Programlama- Eş Zamanlılık (Concurrency)- Test- Reflection- Go Paketleri- Veri Formatı ve Dosya İşlemleri- Go ile Veritabanı Programlama- Go ile RESTful API ve Web Programlama (Örnek Uygulamalar)- Algoritmalar</description>
+Push Docker container to Docker Hub
+Overview on setting up Kubernetes</description>
     </item>
     
     <item>
       <title>Data Structures and Algorithms for Coding Interview</title>
-      <link>https://www.jobready.ml/data-structures-and-algorithms-for-coding-interview/</link>
+      <link>https://jobready.courseintern.com/data-structures-and-algorithms-for-coding-interview/</link>
       <pubDate>Fri, 03 Sep 2021 13:11:36 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/data-structures-and-algorithms-for-coding-interview/</guid>
+      <guid>https://jobready.courseintern.com/data-structures-and-algorithms-for-coding-interview/</guid>
       <description>Welcome to &#34;Data Structures and Algorithms for Coding Interview&#34; course.
 Want to land a job at a great tech industry like Google, Microsoft, Facebook, Netflix, Amazon, or other industries but you are intimidated by the foundation of data structures and algorithms skills for the job? Many programmers who are &#34;self taught&#34;, feel that one of the main disadvantages they face compared to college educated graduates in computer science is the fact that they don&#39;t have knowledge about algorithms, data structures and the notorious Big-O Notation.</description>
     </item>

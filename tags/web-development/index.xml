@@ -2,71 +2,1004 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on </title>
-    <link>https://www.jobready.ml/tags/web-development/</link>
+    <link>https://jobready.courseintern.com/tags/web-development/</link>
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Dec 2021 16:01:27 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 30 Jun 2022 20:43:25 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap 5 Course: Build Responsive Websites like a Pro</title>
+      <link>https://jobready.courseintern.com/bootstrap-5-course-build-responsive-websites-like-a-pro/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bootstrap-5-course-build-responsive-websites-like-a-pro/</guid>
+      <description>Are you interested in pursuing a rewarding career as a Web Developer?
+Alternatively, perhaps you&#39;d want to brush up on your skills and take things to a whole new level?
+There is no doubt that the future belongs to web developers who know how to build real-world responsive websites built on the Bootstrap framework. That is why we prepared the course specifically for beginners and intermediate-level students. The best way to secure a long-term career in the sector is to learn what you need to know in a hands-on manner.</description>
+    </item>
     
     <item>
-      <title>AWS Identity and Access Management (IAM) Foundations</title>
-      <link>https://www.jobready.ml/aws-identity-and-access-management-iam-foundations/</link>
-      <pubDate>Thu, 02 Dec 2021 16:01:27 +0530</pubDate>
+      <title>Solidity Interview Questions &amp; Practice Tests (updated 2022)</title>
+      <link>https://jobready.courseintern.com/solidity-interview-questions-practice-tests-updated-2022/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/aws-identity-and-access-management-iam-foundations/</guid>
-      <description>Welcome to the AWS Identity and Access Management (IAM) Foundations Certification Course. In this course we will explore AWS Identity and Access Management (IAM). IAM is a very important part of understanding how to securely and efficiently manage the services and users within an AWS account. As defined by AWS, “AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. You use IAM to control who is authenticated (signed in) and authorized (has permissions) to use resources.</description>
+      <guid>https://jobready.courseintern.com/solidity-interview-questions-practice-tests-updated-2022/</guid>
+      <description>Hi, and Welcome to this course on Solidity Practice Tests and Interview Questions. Are you looking to jump aboard the Web3 wagon and be a blockchain developer deploying smart contracts ?
+Are you looking to practice Solidity language and work as a freelance blockchain developer - which is already making millionaires in this space?
+Are you practicing for your upcoming Blockchain developer Interview in your dream company and want to boost your chances?</description>
+    </item>
+    
+    <item>
+      <title>Web 3.0, Blockchain, Smart Contracts &amp; Crypto Practice Tests</title>
+      <link>https://jobready.courseintern.com/web-3.0-blockchain-smart-contracts-crypto-practice-tests/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/web-3.0-blockchain-smart-contracts-crypto-practice-tests/</guid>
+      <description>In recent months, you may have come across a phrase growing in popularity: Web3. You might be wondering what it is, what it will mean for the future, and how exactly the third-generation internet differs from the first two. Let’s cut to the chase: It’s a revolution !As we move into the future, we find increasing need for a fully trusted trust interaction system. Web 3.0 is a re-imagination of the sorts of things we already use the web for, but with a fundamentally different model for the interactions between parties.</description>
+    </item>
+    
+    <item>
+      <title>Complete Wordpress Website Developer Course</title>
+      <link>https://jobready.courseintern.com/complete-wordpress-website-developer-course/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/complete-wordpress-website-developer-course/</guid>
+      <description>This is one of the best WordPress course you will ever find. WordPress is now powering more than 43% of all websites in the world, there&#39;s never been a better time to build an income and a business around it.
+This is the course of our students. New lecture are added every month and, at anytime on the request of the student.
+You&#39;re here because you want to master WordPress, right?</description>
+    </item>
+    
+    <item>
+      <title>CSS Crash Course For Beginners</title>
+      <link>https://jobready.courseintern.com/css-crash-course-for-beginners/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/css-crash-course-for-beginners/</guid>
+      <description>Learn CSS Crash Course
+Ever wonder how the latest website designs are made? Cascading Style Sheets (CSS) are the main coding files used to layout a website and its design. CSS 3 is the latest in styling standards, and it brings several new properties and declarations you can use to make your website design more easily created. CSS is currently the only standard in website design that plugs directly into your HTML, even the latest HTML 5 standards.</description>
+    </item>
+    
+    <item>
+      <title>Drupal For Absolute Beginners (2022)</title>
+      <link>https://jobready.courseintern.com/drupal-for-absolute-beginners-2022/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/drupal-for-absolute-beginners-2022/</guid>
+      <description>This is The BEST Course To Start Learning Latest And Greatest Drupal From Scratch. Drupal is now powering more than 1,000,000 websites in the world, there&#39;s never been a better time to build an income and business around it.If you want to master Drupal to build a Business or to impress your potential Employer then, you&#39;ve come to the right place.Hi there, my name is Shubham and YOU are going on an exciting learning adventure with me.</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate MySQL Crash Course 2022</title>
+      <link>https://jobready.courseintern.com/the-ultimate-mysql-crash-course-2022/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-ultimate-mysql-crash-course-2022/</guid>
+      <description>In this course you are going to learn everything you need to know to get started with MySQL in probably less than two hours, so you can actually consume this piece of content in one sitting. The course is surly intensively on using the SQL command line inside the PHPmyadmin tool and that&#39;s for teaching you just how SQL works and you can write your queries, not just in the SQL command, but also inside your backend apps and that&#39;s the best way to learn SQL in my opinion.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby JS | Build a personal blog using gatsbyJS</title>
+      <link>https://jobready.courseintern.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/gatsby-js-build-a-personal-blog-using-gatsbyjs/</guid>
+      <description>Learn to build blazing fast apps and websites with React using Gatsby, a static PWA (Progressive Web App) generator! Starting from scratch, you’ll learn to build a full blog app
+Gatsby is a React-based, GraphQL powered static site generator. It combines together the best parts of React, webpack, react-router, GraphQL, and other front end tools to provide excellent developer experience. Gatsby is far more than typical static site generator though. You can think of it more like a modern front-end framework.</description>
+    </item>
+    
+    <item>
+      <title>MERN Stack with Blog Project</title>
+      <link>https://jobready.courseintern.com/mern-stack-with-blog-project/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/mern-stack-with-blog-project/</guid>
+      <description>Welcome to &#34;MERN Stack with Blog Project&#34;. In this course, we will be building an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full-stack application. This course includes...
+Building an extensive backend API with Node.js &amp;amp; Express
+Extensive API testing with Postman
+Integrating React with our backend in an elegant way, creating a great workflow</description>
+    </item>
+    
+    <item>
+      <title>ووردبريس ريسبونسيف wordpress visual composer css responsive</title>
+      <link>https://jobready.courseintern.com/%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%B1%D9%8A%D8%B3%D8%A8%D9%88%D9%86%D8%B3%D9%8A%D9%81-wordpress-visual-composer-css-responsive/</link>
+      <pubDate>Mon, 20 Jun 2022 16:44:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%B1%D9%8A%D8%B3%D8%A8%D9%88%D9%86%D8%B3%D9%8A%D9%81-wordpress-visual-composer-css-responsive/</guid>
+      <description>تصميم الصفحة الرئيسية باستخدام الفيجوال كومبوسر ضبط المحتويات الاعمدة والصفوف والسلايدر
+شرح كامل فيجوال كومبوسر تصميم مرئي أعمدة وسلايدر
+تصميم و ادارة الفيجوال كومبوسر بالأكواد سثث و هتمل و تصميم مواقع ريسبونسيف تعديل الصفحات و البوستات و الايلمنت وتقسيم الأعمدة و الصفوف ووضع كلاسات لكل صف أو عمود لتعديل في تصميمه تجربة أضافة أكواد في الفيجوال كومبوسر
+أضافة أكواد الريفولوشن سليدر و جعل ريسبونسيف مناسبة للموبايل و التابلت بسهولة و كيفية أستخدام الأكواد لتعديل السليدر أهم أضافة في الكورس تجربة عملية للموقع عميل بالفيزوال كومبوسر و كيفية تطبيق الدروس المستفادة من الكورس Ratings: 4.</description>
+    </item>
+    
+    <item>
+      <title>CSS - Basics To Advanced for front end development (2021)</title>
+      <link>https://jobready.courseintern.com/css-basics-to-advanced-for-front-end-development-2021/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/css-basics-to-advanced-for-front-end-development-2021/</guid>
+      <description>***UPDATE [01-Jan-2021]: New Content Added!!!!!****
+Around 25+ NEW video content added New Sections added on:
+Responsive Design
+Flexbox
+Grid Layouts
+******************************************************** CSS - short for Cascading Style Sheets - is a &#34;programming language&#34; you use to turn your raw HTML pages into real beautiful websites. If you are new to web development but you have a little bit of knowledge of HTML and its tags and want to take the next step towards becoming a professional frontend web developer, then this is the right course for you.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 - From Basics to Advanced level (2021)</title>
+      <link>https://jobready.courseintern.com/html5-from-basics-to-advanced-level-2021/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html5-from-basics-to-advanced-level-2021/</guid>
+      <description>****UPDATE [01-Jan-2021]: New Content Added - HTML5 !!!!!****
+20 NEW videos added New Sections on:
+Forms
+Embedding Multimedia
+Vector Graphics
+And, a Final Project!
+************************************************************ Are you a beginner? Do you want to learn web development but do not have any idea where to start?If yes, then this is THE perfect course for you. In the HTML course, you will learn all the concepts of HTML5, starting from its history to its modern structure.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript - Basics to Advanced [step by step (2021)]</title>
+      <link>https://jobready.courseintern.com/javascript-basics-to-advanced-step-by-step-2021/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/javascript-basics-to-advanced-step-by-step-2021/</guid>
+      <description>*UPDATE: New Content Added
+Around 60+ video content added + Bonus Sections: jQuery and ES6 for ReactJS In this JavaScript course - At the beginning of this JavaScript course, you will learn and understand : 1) All the basic concepts of JavaScript. 2) And the advanced topics like object-oriented programming where you will learn the OOPs concepts like data binding, inheritance, data encapsulation, etc. 3) The most used part in JavaScript - Functional Programming where we will cover the special functions like map, filter, reduce, and many more.</description>
+    </item>
+    
+    <item>
+      <title>Modern JavaScript for React JS - ES6.</title>
+      <link>https://jobready.courseintern.com/modern-javascript-for-react-js-es6./</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/modern-javascript-for-react-js-es6./</guid>
+      <description>Are you looking to extend your knowledge in Javascript programming by learning the concepts of modern javascript - ES6?If you want to start your journey to become a React or Angular developer, then this is the perfect course for you. What&#39;s this course about?This course is specifically designed for those who want to get a quick start with Modern Javascript, especially ES6 concepts. It covers all the basic concepts of ES6: how the javascript has evolved, how to use its latest features that come under ES6 topics, what is babel, and how it is used to compile the ES6 code to make it browser compatible.</description>
     </item>
     
     <item>
       <title>The Complete ReactJs Course - Basics to Advanced (2021)</title>
-      <link>https://www.jobready.ml/the-complete-reactjs-course-basics-to-advanced-2021/</link>
-      <pubDate>Thu, 02 Dec 2021 16:01:27 +0530</pubDate>
+      <link>https://jobready.courseintern.com/the-complete-reactjs-course-basics-to-advanced-2021/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-complete-reactjs-course-basics-to-advanced-2021/</guid>
+      <guid>https://jobready.courseintern.com/the-complete-reactjs-course-basics-to-advanced-2021/</guid>
       <description>What is this course about?The Complete React JS Course - Basics to Advanced this course is a complete guide for React JS. Here, you will learn all the concepts required for becoming a front-end React JS developer. If you are new to web development or a professional developer who&#39;s creating websites with plain old javascript or jQuery, this is your time to learn React JS and take your web development skills to the next level and impress your recruiter or clients.</description>
     </item>
     
     <item>
-      <title>Learn ASP.NET MVC and Entity Framework (Database First)</title>
-      <link>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</link>
-      <pubDate>Wed, 01 Dec 2021 15:38:35 +0530</pubDate>
+      <title>Wordpress Web Development for Absolute Beginner Zero to Hero</title>
+      <link>https://jobready.courseintern.com/wordpress-web-development-for-absolute-beginner-zero-to-hero/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-asp.net-mvc-and-entity-framework-database-first/</guid>
-      <description>Overview
-Using MVC, Entity Framework, and ASP.NET Scaffolding, we will go through building a small school management system while learning key concepts in ASP.NET MVC development. This course will show you how to leverage MVC&#39;s Scaffolding features to quickly construct data driven html pages and how to write queries to the database using .NET&#39;s famed Entity Framework with C#. UPDATED CONTENT 
-.NET Framework is nearing end of support from Microsoft.</description>
+      <guid>https://jobready.courseintern.com/wordpress-web-development-for-absolute-beginner-zero-to-hero/</guid>
+      <description>This course will guide you through every single step from installation to finished website. This course is designed for absolute beginner and you can design and develop responsive website using wordpress without any coding knowledge. If you don’t have any previous experience or knowledge on wordpress than you don’t have to worry about, because this course is designed for novice and once you will complete the course you will be an expert.</description>
     </item>
     
     <item>
-      <title>Projelere  Doyamayacaksınız Sıfırdan Komple (PHP-MySQL-JS)</title>
-      <link>https://www.jobready.ml/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</link>
-      <pubDate>Wed, 01 Dec 2021 15:38:35 +0530</pubDate>
+      <title>تعلم تصميم وتطوير مواقع الويب باحترافية</title>
+      <link>https://jobready.courseintern.com/%D8%AA%D8%B9%D9%84%D9%85-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</guid>
-      <description>Tüm Detaylar Web Sitemde
-
-Kursu Bitiren İlk 10 Öğrencimize ÜCRETSİZ HOSTİNG! Kampanyamız Mevcuttur !Toplamda 3 GB Disk Alanı Ve 10 Adet MySQL Tablo ve daha nice özelliklerle beraber fiyatı 150 ₺ olan hosting hizmeti kursu tamamlayıp sertifikasını alan ilk 10 arkadaşımıza hediye edilecektir.
-
-E-Ticaret&#39;e mi atılmak istiyorsunuz?
-PHP becerilerinizi artırmanız mı gerekiyor?
-Web programlama kursumuza hoşgeldiniz. Programlama temellerinden ileri seviye web programlama konusunda sizlerde aramıza katılarak harika projeler geliştirebilirsiniz.</description>
+      <guid>https://jobready.courseintern.com/%D8%AA%D8%B9%D9%84%D9%85-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9/</guid>
+      <description>سوف نتعلم في هذا الكورس تصميم وتطوير مواقع الويب الديناميكية من الصفر خطوة بخطوة وبتطبيق عملي متكامل لكل مفهوم بحيث يكون المتدرب قادرا على دخول سوق العمل وتصميم موقع ويب وسوف نتعلم ما يلي:1- أساسيات HTML5 والوسوم الرئيسية المستخدمة فيها مع التطبيق العملي2- أساسيات CSS3 وربطها مع HTML5 وأهم التعليمات المستخدمة فيها لنحقق التنسيق المطلوب لموقع الويب3- مثال عملي متكامل لتطبيق HTML5 و CSS3 بحيث نفترض شكل أولي للموقع ومن ثم نحاول تصميمه خطوة بخطوة 4- استخدام إطار Bootstrap خطوة بخطوة للحصول على موقع ويب جميل جدا ومتجاوب وبتصميم أنيق يضم عناصر مميزة ومن ثم إعادة تصميم المثال السابق باستخدام البوتستراب5- أساسيات MySQL وأهم التعليمات الأساسية المستخدمة فيها بأمثلة عملية وخطوة بخطوة لضمان فهم كل الأساسيات فيها6- أساسيات PHP وأهم التلعيمات الأساسية فيها وكيفية ربطها مع HTML5 بأمثلة عملية7- مثال متكامل لمتجر الكتروني خطوة بخطوة من الصفر وبتوظيف كل ما سبق تعلمه لضمان أن المتدرب قادر على تصميم موقع ويب على ارض الواقع ولو بنسبة 80 بالمئة من الموقع بالحد الأدنى ليكون المثال العملي الأساسي والمهم جدا في الكورس التدريبيبعد تعلم كل ما سبق سيكون المتدرب ملما بكل الأساسيات المطلوبة للدخول إلى سوق العمل البرمجي لتصميم وتطوير مواقع الويب الديناميكية التي تحوي لوحة تحكم ومربوطة بقاعدة بيانات وذلك لأن الكورس يعتمد على التطبيق العملي المباشر أكثر من الشرح النظري للأفكار مما يجعله مناسبا جدا لسوق العمل</description>
+    </item>
+    
+    <item>
+      <title>Learn Bootstrap - For Beginners</title>
+      <link>https://jobready.courseintern.com/learn-bootstrap-for-beginners/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-bootstrap-for-beginners/</guid>
+      <description>Course: Learn Bootstrap - For BeginnersLearn to create mobile-responsive web pages using Bootstrap
+Students learn to create the front-end component of mobile-responsive web applications, using the Bootstrap framework.
+The techniques explored in this course will ensure your web applications adhere to strict development standards to avoid cross-browser and cross-device compatibility issues.
+The course starts with the fundamental concepts, including embedding Bootstrap into web pages. We then explore the Bootstrap Grid system and popular mobile responsive web layouts.</description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS - Certification Course for Beginners</title>
+      <link>https://jobready.courseintern.com/html-css-certification-course-for-beginners/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html-css-certification-course-for-beginners/</guid>
+      <description>Welcome to the HTML &amp;amp; CSS – Certification Course for BeginnersThis two part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start with exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms.</description>
+    </item>
+    
+    <item>
+      <title>Learn CSS - For Beginners</title>
+      <link>https://jobready.courseintern.com/learn-css-for-beginners/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-css-for-beginners/</guid>
+      <description>Course: Learn CSS - For BeginnersLearn to Work with Cascading Style Sheets
+Students learn to harness the true power of front-end development using CSS (Cascading Style Sheets). Through comprehensive, hands-on exercises, students will develop stylish, responsive web layouts using CSS properties and style definitions.
+We start with basic concepts such as the parts of a CSS rule and working with Classes, Divisions and IDs. Next we explore an intensive collection of style definition, from working with text, backgrounds and transparency, right to CSS positioning, link styling, and popular layout development techniques.</description>
+    </item>
+    
+    <item>
+      <title>Learn MySQL - For Beginners</title>
+      <link>https://jobready.courseintern.com/learn-mysql-for-beginners/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-mysql-for-beginners/</guid>
+      <description>Course: Learn MySQL - For BeginnersLearn to Create Database Driven Web Applications using MySQL
+Students learn to integrate and administer MySQL databases as part of PHP web application development.
+The course begins with an in-depth look into PhpMyAdmin to create, delete and modify databases. We also explore security considerations and user privileges.
+Next, students learn to build connections to existing databases in PHP, and execute commands using several essential SQL statements.</description>
+    </item>
+    
+    <item>
+      <title>Learn PHP - For Beginners</title>
+      <link>https://jobready.courseintern.com/learn-php-for-beginners/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-php-for-beginners/</guid>
+      <description>Course: Learn PHP - For BeginnersLearn to create dynamic web applications using PHP
+Students learn to integrate client-server communication into web pages to create dynamic functionality using PHP.
+We start with the fundamentals, including PHP syntax and variable declaration. The course transitions into working with objects, arithmetic operators, conditional statements, loops, functions and arrays.
+Students will also learn to utilize server side form validation techniques to maintain data integrity.
+What you&#39;ll learn - Overview:</description>
+    </item>
+    
+    <item>
+      <title>PHP &amp; MySQL - Certification Course for Beginners</title>
+      <link>https://jobready.courseintern.com/php-mysql-certification-course-for-beginners/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/php-mysql-certification-course-for-beginners/</guid>
+      <description>Welcome to the PHP &amp;amp; MySQL Certification Course for Beginners.This course offers a comprehensive guide to learning how to code in PHP. We also explore integrating MySQL Databases into your PHP Projects for dynamic, user driven functionality.We start with PHP basics, including variable declaration and data output. The lessons then transition into working with objects, conditional statements, loops, functions, arrays, form validation, sorting, and much more.After the PHP Section, students learn to unleash the true power of dynamic page development with MySQL database integration.</description>
+    </item>
+    
+    <item>
+      <title>Practical Bootcamp JWT Authentication with Java &amp; SpringBoot</title>
+      <link>https://jobready.courseintern.com/practical-bootcamp-jwt-authentication-with-java-springboot/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/practical-bootcamp-jwt-authentication-with-java-springboot/</guid>
+      <description>JWT(Json web token) is a standard for securing API&#39;s in a Microservices architecture, using this standard we can secure API&#39;s built in any technology like Nodejs, Python, .NET etc but in this course we will building API&#39;s using Java and SpringBoot and than we will be securing them using JWT and Spring security, we will also use all the industry best practices and standards along the way.
+We will start with learning concepts like:</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap &amp; jQuery - Certification Course for Beginners</title>
+      <link>https://jobready.courseintern.com/bootstrap-jquery-certification-course-for-beginners/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bootstrap-jquery-certification-course-for-beginners/</guid>
+      <description>Welcome to the Bootstrap &amp;amp; jQuery – Certification Course for BeginnersWith over 64% of the world using mobile devices to browse web pages, it’s no surprise that Bootstrap and jQuery have become the industry leaders in front-end scripting languages.This course starts right from the foundational concepts and gradually progresses to intermediate topics. Through a project-style learning approach, students will have the opportunity to build mobile-responsive web pages, complete with animation and interactivity.</description>
+    </item>
+    
+    <item>
+      <title>Create a Members Only Blog using PHP, MySQL, &amp; AJAX</title>
+      <link>https://jobready.courseintern.com/create-a-members-only-blog-using-php-mysql-ajax/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/create-a-members-only-blog-using-php-mysql-ajax/</guid>
+      <description>Course: Create a Members Only Blog using PHP, MySQL, &amp;amp; AJAXCreate a Database Driven Blog with Authentication, Validated Contact Forms, &amp;amp; Session Variables using PHP, MYSQL, &amp;amp; AJAX
+This course offers a hands-on approach in learning how to develop web applications using PHP, MySQL, and AJAX. Students will develop a blog with MySQL database integration. The project aims to cover the following key concepts:
+Creating Dynamic Web Pages in PHP</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Domain Names and Web Hosting - Quick Guide</title>
+      <link>https://jobready.courseintern.com/introduction-to-domain-names-and-web-hosting-quick-guide/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/introduction-to-domain-names-and-web-hosting-quick-guide/</guid>
+      <description>Course: Introduction to Domain Names and Web Hosting - Quick GuideDomain Names Section:
+Take a look at all the exciting concepts we will cover below:
+We provide an overview of the domain name registration process. This includes the role of registrars and TLD (Top Level Domain) administration by ICANN. ccTLD&#39;s (Country Code Top Level Domains) are also explored.
+Students will gain hands-on experience with the registration process using popular domain registrars.</description>
+    </item>
+    
+    <item>
+      <title>NGINX, Apache, SSL Encryption - Certification Course</title>
+      <link>https://jobready.courseintern.com/nginx-apache-ssl-encryption-certification-course/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/nginx-apache-ssl-encryption-certification-course/</guid>
+      <description>Welcome to our latest course, which will guide you through the process of installing, securing, and configuring NGINX or Apache on an Ubuntu web server. You will also learn to encrypt all web traffic, using a Free SSL certificate from Let’s Encrypt.
+APACHE Section:
+This course begins with exploring the most widely used web server technology available, Apache. Statistics show that Apache is used to run over 65% of all web servers around the world.</description>
+    </item>
+    
+    <item>
+      <title>Setup a Virtual Web Server using Linode or Digital Ocean</title>
+      <link>https://jobready.courseintern.com/setup-a-virtual-web-server-using-linode-or-digital-ocean/</link>
+      <pubDate>Sat, 11 Jun 2022 20:33:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/setup-a-virtual-web-server-using-linode-or-digital-ocean/</guid>
+      <description>This course offers an in-depth, hands-on overview of setting up and configuring a production web server, using Linode or Digital Ocean. Virtual Cloud Servers have become the industry standard for hosting web applications of all sizes and complexity. This includes small static web pages, to dynamic, database driven web sites that handle thousands of simultaneous processes. Regardless of the project, virtual servers offer a solution that provides web developers a scalable infrastructure that can easily adapt to a changing environment.</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap 4 Ultimate Course</title>
+      <link>https://jobready.courseintern.com/bootstrap-4-ultimate-course/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bootstrap-4-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then Bootstrap 4 Ultimate Course is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>cPanel Ultimate Course</title>
+      <link>https://jobready.courseintern.com/cpanel-ultimate-course/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/cpanel-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to do use cPanel but don&#39;t know where to start? Would you like to access cPanel and bring your web hosting to life? Then cPanel Ultimate Course is for you! Hi, I’m your instructor Josh Werner and I’ll be leading you through this course. cPanel is an in-demand skill in 2021. The course begins with the basics. We&#39;ll Cover everything you need to know about cPanel from scratch.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 Ultimate Course</title>
+      <link>https://jobready.courseintern.com/css3-ultimate-course/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/css3-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then CSS3 Ultimate Course is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>Front End Web Development Ultimate Course 2022</title>
+      <link>https://jobready.courseintern.com/front-end-web-development-ultimate-course-2022/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:27 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/front-end-web-development-ultimate-course-2022/</guid>
+      <description>Hi and Welcome to Front End Web Development Ultimate Course 2022
+I&#39;m you instructor Josh Werner and I&#39;ll be leading you through this course
+Have you always wanted to learn how to code but don&#39;t know where to start?	Would you like to make amazing websites and bring your ideas to life?	Then Front End Web Development Ultimate Course 2022 is for you!
+Programming is the most in-demand skill in 2022.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Ultimate Course</title>
+      <link>https://jobready.courseintern.com/html5-ultimate-course/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html5-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then HTML5 Ultimate Course is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Ultimate Course</title>
+      <link>https://jobready.courseintern.com/javascript-ultimate-course/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/javascript-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then JavaScript Ultimate Course is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>jQuery Ultimate Course</title>
+      <link>https://jobready.courseintern.com/jquery-ultimate-course/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/jquery-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then jQuery Ultimate Course is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>SVG Ultimate Course</title>
+      <link>https://jobready.courseintern.com/svg-ultimate-course/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/svg-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then SVG Ultimate Course is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS - Certification Course for Beginners</title>
+      <link>https://jobready.courseintern.com/html-css-certification-course-for-beginners/</link>
+      <pubDate>Fri, 03 Jun 2022 20:12:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html-css-certification-course-for-beginners/</guid>
+      <description>Welcome to the HTML &amp;amp; CSS – Certification Course for BeginnersThis two-part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start by exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms.</description>
+    </item>
+    
+    <item>
+      <title>Django Channels | Group Chat Application With WebSockets</title>
+      <link>https://jobready.courseintern.com/django-channels-group-chat-application-with-websockets/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/django-channels-group-chat-application-with-websockets/</guid>
+      <description>hey peeps ! Are you a Django developer and wanna learn how to implement chat application using WebSockets ? are you tired up by reading the channels documentation ? are you looking for an instructor who simplify the channels concepts ? then this course is for you..
+i will be teaching you how to use the ASGI, Redis-Server, Channels and WebSockets in a very simplified way. channels is really an interesting topic which we have to look at while developing synchronous applications such as messenger, zoom etc.</description>
+    </item>
+    
+    <item>
+      <title>How to Install a Free SSL Certificate using Let&#39;s Encrypt</title>
+      <link>https://jobready.courseintern.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</guid>
+      <description>In the modern internet age, delivering web content over a secure protocol has become essential. Since January 2017, Google attaches a warning label to any website that does not secure sensitive web page content by delivering it using HTTPS. This includes web pages that contain forms asking for usernames, passwords, credit cards and other sensitive information. In the near future Google plans to roll out a requirement for all web pages to be secured.</description>
+    </item>
+    
+    <item>
+      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
+      <link>https://jobready.courseintern.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
+      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
+In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
+Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
+    </item>
+    
+    <item>
+      <title>Swift for Beginners – 100 Hands-On Exercises</title>
+      <link>https://jobready.courseintern.com/swift-for-beginners-100-hands-on-exercises/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/swift-for-beginners-100-hands-on-exercises/</guid>
+      <description>Question : What is the best way to learn Swift Programming Language ?
+Answer : Practice, a lot of practice.
+Before working on professional level, it is always a good idea to solve basic daily life coding exercises to build-up your logic and get familiar with in-built functions of Swift Programming.
+There is NO REQUIREMENT of any cross-platform. You just need a desktop/laptop and start your practice.
+You will be provided with a complete environment on how to approach to solve 100 Swift Coding Exercises with their solutions.</description>
+    </item>
+    
+    <item>
+      <title>The PHP 8 Learning Guide [2022 Edition]</title>
+      <link>https://jobready.courseintern.com/the-php-8-learning-guide-2022-edition/</link>
+      <pubDate>Thu, 02 Jun 2022 20:13:17 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-php-8-learning-guide-2022-edition/</guid>
+      <description>في هذه الدورة من بي إتش بي [المرجع الشامل افترض الشخص اللي امامي لا يعرف اي شيء عن عالم البرمجة اصلا
+سأخذك خطوة بخطوة من الصفر
+بي إتش بي (PHP: Hypertext Preprocessor، &#39;الصفحة الرئيسية الشخصية كانت مجموعة من التطبيقات التي كتبت باستخدام لغة بيرل أطلق راسموس اسم Personal Home Page Tools (&#34;المعالج المسبق للنصوص الفائقة&#34;) هي لغة برمجة نصية صممت أساسًا من أجل استخدامها لتطوير وبرمجة تطبيقات الويب. كما يمكن استخدامها لإنتاج برامج قائمة بذاتها وليس لها علاقة بالويب فقط.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour</title>
+      <link>https://jobready.courseintern.com/html5-fundamentals-course-learn-html-basics-in-1-hour/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html5-fundamentals-course-learn-html-basics-in-1-hour/</guid>
+      <description>Do you want to study web development but aren&#39;t sure where to begin?
+If you answered yes, then this course is for you. This HTML5 course will teach you all you need to know about HTML5, from its simplest foundations to its most current iteration. We&#39;ll go through all of the most often used tags in HTML5 &amp;amp; web development. At the same time, we&#39;ll go over some HTML5 coding best practices.</description>
+    </item>
+    
+    <item>
+      <title>Porto Visual Composer CSS Woocommerce Zero to Hero  2020</title>
+      <link>https://jobready.courseintern.com/porto-visual-composer-css-woocommerce-zero-to-hero-2020/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/porto-visual-composer-css-woocommerce-zero-to-hero-2020/</guid>
+      <description>The Class is from zero to hero everything will be explained I will Teach you how to install porto theme and how to use Visual Composer with very advanced way and add Css to rows and classes and use essential plugins for your wordpress website and make your custom header and footer with visual composer and insert header and footer free plugin use royal css plugin for posts and pages add back up for your wordpress website master slider and how to make beautiful images slider ///Revolution slider /// Master Slider/// Smart Slider /// Layer Slider /// Nex Forms</description>
+    </item>
+    
+    <item>
+      <title>Vue JS &#43; Google Maps API: Build Location Based Web Apps Fast</title>
+      <link>https://jobready.courseintern.com/vue-js--google-maps-api-build-location-based-web-apps-fast/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/vue-js--google-maps-api-build-location-based-web-apps-fast/</guid>
+      <description>Welcome to the Vue JS 2 and Google Maps API class, the only course you need to learn and code to build location-based web applications. Over 4,586+ students with an average rating of 4.1, my Vue JS 2, and Google Maps API course was one of the Best Selling courses on Udemy!
+In this course, you&#39;re going to be building 3 real-world location-based apps, start to finish from scratch, that will teach you pretty much all aspects of Google Maps API.</description>
+    </item>
+    
+    <item>
+      <title>PHP for Beginners: PDO Crash Course 2022</title>
+      <link>https://jobready.courseintern.com/php-for-beginners-pdo-crash-course-2022/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/php-for-beginners-pdo-crash-course-2022/</guid>
+      <description>Get ready for the best learning experience you will have with this PHP PDO course.
+In this course, I did everything for you and fully explained PDO from the basics like connecting the database more securely and efficiently to advanced concepts like using transaction and so on. So why basically choose this course from the rest of the courses about the same topic? Well, I made sure that you fully understand everything in detail, and while creating this course I used a lot of recourses including whole documentation just to bring you the best and finest content.</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate WordPress Quiz for Beginners and Advanced Users</title>
+      <link>https://jobready.courseintern.com/the-ultimate-wordpress-quiz-for-beginners-and-advanced-users/</link>
+      <pubDate>Sat, 28 May 2022 20:32:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-ultimate-wordpress-quiz-for-beginners-and-advanced-users/</guid>
+      <description>WordPress has surely come a long way since it was first released long back — so too do the WordPress numbers (stats, basically) that serve to characterize this popular tech platform. Because of its user-friendly interface, WordPress users can easily publish their content on the Internet - meaning it simplifies the website building efforts of designers and developers using the platform. A significant segment of the WordPress user community needs to learn more about the platform so that they can not only publish content but also design, customize, and manipulate their WordPress themes to make their websites look amazing.</description>
+    </item>
+    
+    <item>
+      <title>Learn PHP Development | Arabic [عربي]</title>
+      <link>https://jobready.courseintern.com/learn-php-development-arabic-%D8%B9%D8%B1%D8%A8%D9%8A/</link>
+      <pubDate>Wed, 18 May 2022 20:03:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-php-development-arabic-%D8%B9%D8%B1%D8%A8%D9%8A/</guid>
+      <description>مميزات الكورس : الدورة مُصممة بطريقة مُميزة جداً من واقع خبرة أكثر من ٢٠ عام في مجال البرمجيات، حيث تم تصميم المحتوى التدريبي بطريقة تُساعدك على التغلب على أكثر المعوقات التي قد تواجهها في فترة التعلم والتي يُعتبر من أهمها هو الإحباط الذي يحدث بسبب كثرة التعلم النظري بدون تطبيق عملي،، كذلك ستجد في هذه الدورة حل جذرى لمشكلة ضغف الخبرة بعد تعلم البرمجة بسبب عدم تأهيل التدريب للموضوعات التي سيواجهها فعلياً في المشاريع التجارية التي سيعمل بها مُستقبلاً في الشركات،، لذلك فستقوم برحلة تعليمية شيقة ومُمتعة،، وستصل إلى أن تُصبح مبرمج تطبيقات ويب مُحترف ومؤهل لسوق العمل بشكل واضح،</description>
+    </item>
+    
+    <item>
+      <title>PHP for Beginners: PHP Crash Course 2022</title>
+      <link>https://jobready.courseintern.com/php-for-beginners-php-crash-course-2022/</link>
+      <pubDate>Wed, 18 May 2022 20:03:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/php-for-beginners-php-crash-course-2022/</guid>
+      <description>Do you want to start with web development and specifically back end? Have you ever thought about learning PHP but you don&#39;t know how and where to start? Are you currently a web developer and want to quickly get into PHP? If your answer is &#34;yes&#34;, then you are in for a treat, because in this course, I packed my knowledge and experience of years of PHP. So after this course you can feel comfortable working with PHP.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing and Amazon Web Services (AWS) Fundamentals</title>
+      <link>https://jobready.courseintern.com/cloud-computing-and-amazon-web-services-aws-fundamentals/</link>
+      <pubDate>Sun, 15 May 2022 13:36:52 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/cloud-computing-and-amazon-web-services-aws-fundamentals/</guid>
+      <description>Welcome to the Cloud Computing and Amazon Web Services (AWS) Fundamentals Certification Course
+Whether you are a systems administrator, network administrator, or full-stack developer, the importance of gaining a solid understanding of cloud computing, has never been more important.
+This course takes a deep dive into the theoretical aspects of cloud computing, starting with an overview of the cloud computing phenomenon. Here, we discuss the major shift taking place from traditional on-premises IT to the exponential rise in cloud migration.</description>
+    </item>
+    
+    <item>
+      <title>React JS- Complete Guide for Frontend Web Development [2021]</title>
+      <link>https://jobready.courseintern.com/react-js-complete-guide-for-frontend-web-development-2021/</link>
+      <pubDate>Sun, 15 May 2022 13:36:52 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/react-js-complete-guide-for-frontend-web-development-2021/</guid>
+      <description>What&#39;s this course about?This course is a complete guide to become an expert front-end web developer. It contains all the tools and technologies that you should be proficient in work as a React Developer.
+We will go through the journey of learning HTML5, CSS3, Javascript, ES6, jQuery, and React JS.
+Each of these course modules has a project which you can work on. Along with the project problem statement video, you will also find the solution video for that project.</description>
+    </item>
+    
+    <item>
+      <title>WordPress for Beginners | Create your First Website in 2022!</title>
+      <link>https://jobready.courseintern.com/wordpress-for-beginners-create-your-first-website-in-2022/</link>
+      <pubDate>Sun, 15 May 2022 13:36:52 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/wordpress-for-beginners-create-your-first-website-in-2022/</guid>
+      <description>Whether you want to create websites without coding, or you need to learn WordPress so you can update existing websites at your job, I&#39;ve got you covered.
+In this brisk but thorough course we build a website together step-by-step and along the way you organically absorb and master WordPress. I&#39;m all about having you follow along with me and I always encourage experimentation over memorization. My ultimate goal is to give you the &#34;</description>
+    </item>
+    
+    <item>
+      <title>Amazon Elastic Compute Cloud (EC2) Beginners Certification</title>
+      <link>https://jobready.courseintern.com/amazon-elastic-compute-cloud-ec2-beginners-certification/</link>
+      <pubDate>Sat, 14 May 2022 15:08:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/amazon-elastic-compute-cloud-ec2-beginners-certification/</guid>
+      <description>Welcome to the Amazon EC2 Foundations Certification course. This course provides an in-depth overview of Amazon Elastic Compute Cloud (EC2). The EC2 service is an essential building block in becoming an AWS certified cloud practitioner. We will start with exploring key concepts relevant to EC2, followed by a hands-on practical guide to deploying compute resources on AWS. The term “Scalable Cloud Computing” has now become synonymous with Amazon Web Services. For nearly a decade, AWS has been powering some of the world’s most popular websites and applications.</description>
+    </item>
+    
+    <item>
+      <title>Curso PHP Proyecto web usuarios y roles Patron mvc</title>
+      <link>https://jobready.courseintern.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/</link>
+      <pubDate>Sat, 14 May 2022 15:08:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/</guid>
+      <description>en este curso aprenderas paso a paso como desarrollar tu propio aplicativo sin depender de otros aprenderas muchas tecnicas de desarrollo web usando php usaremos el patron de de diseño de software modelo vista controlador y usaremos tecnologias como php , ajax , jquery , sweetalert , ventanas modales , adminlte etc .
+en este curso aprenderas paso a paso como desarrollar tu propio aplicativo sin depender de otros aprenderas muchas tecnicas de desarrollo web usando php usaremos el patron de de diseño de software modelo vista controlador y usaremos tecnologias como php , ajax , jquery , sweetalert , ventanas modales , adminlte etc .</description>
+    </item>
+    
+    <item>
+      <title>Learn to Host Multiple Domains on one Virtual Server</title>
+      <link>https://jobready.courseintern.com/learn-to-host-multiple-domains-on-one-virtual-server/</link>
+      <pubDate>Sat, 14 May 2022 15:08:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-to-host-multiple-domains-on-one-virtual-server/</guid>
+      <description>In this exciting new course, we show you how to host multiple domain names on a single Digital Ocean droplet. We will show you step-by-step how to configure a droplet with LAMP Stack on Ubuntu 18.04. This includes deploying a droplet, installing Ubuntu and all the components included in LAMP Stack including Apache, MySQL, PHP and PhpMyAdmin.
+We also explore an exciting new feature offered by Digital Ocean, called &#34;Floating IP&#39;s&#34;</description>
+    </item>
+    
+    <item>
+      <title>AWS Identity and Access Management (IAM) Foundations</title>
+      <link>https://jobready.courseintern.com/aws-identity-and-access-management-iam-foundations/</link>
+      <pubDate>Sat, 14 May 2022 15:08:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/aws-identity-and-access-management-iam-foundations/</guid>
+      <description>Welcome to the AWS Identity and Access Management (IAM) Foundations Certification Course. In this course we will explore AWS Identity and Access Management (IAM). IAM is a very important part of understanding how to securely and efficiently manage the services and users within an AWS account. As defined by AWS, “AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. You use IAM to control who is authenticated (signed in) and authorized (has permissions) to use resources.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Web Server : configuración simple y automatizada.</title>
+      <link>https://jobready.courseintern.com/cloud-web-server-configuraci%C3%B3n-simple-y-automatizada./</link>
+      <pubDate>Thu, 12 May 2022 15:57:40 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/cloud-web-server-configuraci%C3%B3n-simple-y-automatizada./</guid>
+      <description>ESPAÑOL
+Aquí enseño de forma simple y rápida como crear servidores web gratis/pagos en la cloud de AWS (Amazon Web Service) y Google Cloud para desarrollo o producción. Este curso esta dirigido a los desarrolladores web de todos los niveles, y otros profesionales que quieren crear y administrar servidores web en las mejores cloud del mundo. Contiene poca teoría y me enfoco en el proceso paso a paso para la creación de los servidores web como un producto final.</description>
+    </item>
+    
+    <item>
+      <title>Learn jQuery - For Beginners</title>
+      <link>https://jobready.courseintern.com/learn-jquery-for-beginners/</link>
+      <pubDate>Thu, 12 May 2022 15:57:40 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-jquery-for-beginners/</guid>
+      <description>Course: Learn jQuery - For BeginnersLearn to create animated, interactive web pages using jQuery Library
+Take your web development skills to new heights by using jQuery to create animated, interactive web page components using this powerful JavaScript Library.
+We begin with the fundamental concepts such as embedding jQuery into documents and basic syntax. We then progress into working with Events, Event handlers, animations, fading, sliding, toggling, hiding and much more. Students will also learn to effectively use Callback functions and chaining methods.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Basics</title>
+      <link>https://jobready.courseintern.com/html5-basics/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html5-basics/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then HTML5 Basics is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>jQuery Basics</title>
+      <link>https://jobready.courseintern.com/jquery-basics/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/jquery-basics/</guid>
+      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
+Would you like to make amazing websites and bring your ideas to life?
+Then jQuery Basics is for you!
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
+    </item>
+    
+    <item>
+      <title>Hands-On React. Build advanced React JS Frontend with expert</title>
+      <link>https://jobready.courseintern.com/hands-on-react.-build-advanced-react-js-frontend-with-expert/</link>
+      <pubDate>Mon, 09 May 2022 19:27:02 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/hands-on-react.-build-advanced-react-js-frontend-with-expert/</guid>
+      <description>React is the most popular library for building frontend web applications. Step-by-step by diving into all the basics, I&#39;ll introduce you to advanced concepts as well.
+We&#39;ll build the minesweeper application from scratch:
+setup of the development environment
+configuration of the React JS app
+basic algorithms of Minesweeper
+Step-by-step we&#39;ll build the minesweeper game. During the course, we&#39;ll cover the most important topics. First will be a configuration of the ReactJS application with Typescript and using build tools Webpack+Babel.</description>
+    </item>
+    
+    <item>
+      <title>Build Your Own File Sharing Website</title>
+      <link>https://jobready.courseintern.com/build-your-own-file-sharing-website/</link>
+      <pubDate>Sun, 08 May 2022 16:10:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/build-your-own-file-sharing-website/</guid>
+      <description>In This Course , You Will Learn How To Create File Sharing / File Hosting Website From Scratch. This Course is In English Language. With The Help Of File Sharing Website , User Can Upload &amp;amp; Share The Files Over The Internet. For Building File Sharing Website , You Need A Web Hosting And A Domain Name To Create File Sharing Website.
+Why To Create File Sharing Website
+You Can Upload Files</description>
+    </item>
+    
+    <item>
+      <title>jQuery for Absolute Beginners : From Beginning to Advanced</title>
+      <link>https://jobready.courseintern.com/jquery-for-absolute-beginners-from-beginning-to-advanced/</link>
+      <pubDate>Sun, 08 May 2022 16:10:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/jquery-for-absolute-beginners-from-beginning-to-advanced/</guid>
+      <description>Our students review about this course --
+&#34;Best course to get started with jQuery, Thankyou :) &#34; -- Vipinraj KT
+&#34;It is easy to understand for beginners in JQuery. Simple and clear explanation.&#34; -- Irina Zakharova
+&#34;taking everything into the details and steps by steps, I love the course so far&#34; -- Maher Mahbouby
+&#34;Loved this course. I had zero knowledge on jQuery and now I just love it!&#34; -- Sachin Satish Pai</description>
+    </item>
+    
+    <item>
+      <title>PHP for Beginners 2022: The Complete PHP MySQL PDO Course</title>
+      <link>https://jobready.courseintern.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/</link>
+      <pubDate>Thu, 05 May 2022 17:34:36 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/php-for-beginners-2022-the-complete-php-mysql-pdo-course/</guid>
+      <description>Welcome to my full stack PHP, MySQL, and PDO course where you will learn everything you need to know about one of the most three hot technologies right now. This course is organized systematically from the programming language (PHP) to The most well-known database (MySQL) to the best PHP tool to connect to this database which is (PDO) to give the most interesting, fun, informative, and worthy opportunity for learning web development the right way.</description>
+    </item>
+    
+    <item>
+      <title>Practical Web Design &amp; Development: 7 Courses in 1</title>
+      <link>https://jobready.courseintern.com/practical-web-design-development-7-courses-in-1/</link>
+      <pubDate>Thu, 05 May 2022 17:34:36 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/practical-web-design-development-7-courses-in-1/</guid>
+      <description>Our students say about this course ...
+&#34;... I must say that until now, this is the only course that speaks and about Photoshop. Other courses are speaking (except HTML, CSS) about Bootstrap or about Javascript. I think it worth to see this course.&#34; -- Elias Katsan
+&#34;The instructor is very informative and shows obstacles students may run into while designing a website.&#34; -- Emeka Nwadiogbu
+&#34;Great course! I learnt a little but more of programming.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft SQL for Beginners</title>
+      <link>https://jobready.courseintern.com/microsoft-sql-for-beginners/</link>
+      <pubDate>Sun, 01 May 2022 16:38:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/microsoft-sql-for-beginners/</guid>
+      <description>Why would you take this course?
+Practice and boost your SQL skills with Queries.
+I am answering all your questions, usually in less than 24 hours.
+There is NO REQUIREMENT of any cross-platform. You just need a desktop/laptop and start your practice on Udemy inbuilt IDE without any software!!!
+What’s this course all about?
+You will be provided with a complete environment to solve SQL Queries with their solutions.
+Join us and learn basic concepts of latest version of SQL with Queries.</description>
+    </item>
+    
+    <item>
+      <title>CSS &amp; JavaScript - Certification Course for Beginners</title>
+      <link>https://jobready.courseintern.com/css-javascript-certification-course-for-beginners/</link>
+      <pubDate>Sat, 30 Apr 2022 17:17:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/css-javascript-certification-course-for-beginners/</guid>
+      <description>Welcome to the CSS &amp;amp; JavaScript – Certification Course for BeginnersThis two part series provides a detailed overview of the fundamentals of coding using CSS and JavaScript. Students will learn how to create responsive web pages using project based learning. The CSS section explores almost every aspect of CSS development. This includes:
+Working with IDs, Classes, and Divisions.
+CSS Text Properties, Borders and Backgrounds
+Styling Images and Links
+CSS Display Properties</description>
+    </item>
+    
+    <item>
+      <title>Learn HTML - For Beginners</title>
+      <link>https://jobready.courseintern.com/learn-html-for-beginners/</link>
+      <pubDate>Sat, 30 Apr 2022 17:17:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-html-for-beginners/</guid>
+      <description>Course: Learn HTML - For BeginnersLean how to create web pages using HTML
+Students will learn how to create engaging web pages using HTML5, which is an integral part of the development process.
+The material covers an intensive array of HTML5 elements including images, videos, lists, tables, forms, iframes and much more.
+The course includes several hands-on projects to ensure comprehension of course materials.
+By the end of the training, students will be proficient with coding in HTML and ready to tackle the more advanced scripting languages that follow.</description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript - For Beginners</title>
+      <link>https://jobready.courseintern.com/learn-javascript-for-beginners/</link>
+      <pubDate>Sat, 30 Apr 2022 17:17:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-javascript-for-beginners/</guid>
+      <description>Course: Learn JavaScript - For BeginnersLearn how to Code Web Pages using JavaScript
+Students learn to add dynamic, interactivity to web pages using JavaScript.
+We start with exploring the fundamental concepts, including JavaScript placement and output functions. We then transition to working with arithmetic operators, math functions, arrays, sorting, conditional statements and loops. Students also learn to work with events and functions.
+The course includes several hands-on exercises to help students master this essential scripting language.</description>
+    </item>
+    
+    <item>
+      <title>Typescript with React classes - quick start - Jest testing</title>
+      <link>https://jobready.courseintern.com/typescript-with-react-classes-quick-start-jest-testing/</link>
+      <pubDate>Sat, 30 Apr 2022 17:17:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/typescript-with-react-classes-quick-start-jest-testing/</guid>
+      <description>THIS COURSE USES REACT CLASSES WITH PROPS AND STATE.
+Typescript is becoming more and more popular! And the beloved React framework has embraced it! But often making them work together can be tricky. Here it will work from the first try.
+React means act in response to something; respond in a particular way. This is the way you will make your UI behave.
+In this short course you will learn how you can use them together, by building a small project:</description>
+    </item>
+    
+    <item>
+      <title>Wix Laravel APIシステム開発講座【AWS PHP Laravel 9 RDS(PostgresSQL)】</title>
+      <link>https://jobready.courseintern.com/wix-laravel-api%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA%E8%AC%9B%E5%BA%A7aws-php-laravel-9-rdspostgressql/</link>
+      <pubDate>Fri, 29 Apr 2022 20:24:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/wix-laravel-api%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA%E8%AC%9B%E5%BA%A7aws-php-laravel-9-rdspostgressql/</guid>
+      <description>This course is subtitled in 11 countries, including English.
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+☆割引クーポンを公式サイトにて配付中｜Discount coupons are being distributed on the official website
+Official Site：講師名リンク→プロフィールページ→ウェブサイトURL｜instructor Name Link → Profile Page → Website URL
+Recommended for creating a portfolio of work for job hunting or a career change! Laravel9 is now supported.
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+転職やフリーランス、Webシステム構築で安定した豊かな生活を手にしたいと思ったことはありませんか？
+ここ最近では、コロナによるリモートワークの普及で、システム開発をリモートで行う需要が増えており、特にAWSを使ってのシステム開発は今後も増えていきます。コロナが今後落ち着くかもしれませんが、将来的にまた別の原因によって会社でのシステム開発ができなくなるかもしれません。
+もし、そうなった場合にAWSでの開発経験があれば、柔軟に対応できますし、転職やフリーランスなどにも有利になります。この講座で、AWSでのシステム開発を実際に行うことで、AWSでのシステム開発の仕組みを理解することが可能になります。
+また、WixでAPI連携を使うことでHTMLとCSSでのコーディングのデザインをする必要がなくなり、画面を直感的に作成できるので、開発時間を大幅に短縮できます。これは個人でシステム開発をしてサービスをリリースする方にとって大きなメリットになると思います。自分でWebシステムを構築してサービスを提供してすることで、さらに安定した生活を手にできます。是非ともWixとAWSでのAPIシステム開発を覚えることで将来に備えていただければと思います。
+また本講座はAWSを覚えてリモートワークしたい人の就活・転職用ポートフォリオ作品の超速作成術としてもご活用できますので、是非ご活用いただければと思います。
+それでは、このコースの中でお会いしましょう。
+Ratings: 5.00/5
+Enrollments: 452
+Coupon Code: DF9DAF45000B554624CA
+Current Price: FREE
+Enroll Now: Click Here </description>
+    </item>
+    
+    <item>
+      <title>How the Internet Works &amp; the Web Development Process</title>
+      <link>https://jobready.courseintern.com/how-the-internet-works-the-web-development-process/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/how-the-internet-works-the-web-development-process/</guid>
+      <description>Course: How the Internet Works &amp;amp; the Web Development Process
+This course explores how the internet works, including the composition and transmission of data packets over both Local and Wide Area Networks. We take a look at the HTTP and HTTPS protocols as applicable to client and server side communications - including DNS Lookups. This course will also teach students how email exchange works over SMTP and IMAP. The role of Network Ports and Firewalls are also introduced.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript, Bootstrap, &amp; PHP - Certification for Beginners</title>
+      <link>https://jobready.courseintern.com/javascript-bootstrap-php-certification-for-beginners/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/javascript-bootstrap-php-certification-for-beginners/</guid>
+      <description>Welcome to the JavaScript, Bootstrap, &amp;amp; PHP - Certification Course for Beginners.
+This course offers an excellent introduction into three of the most widely used programming languages available for both front-end and back-end development.
+Students will start with adding client-side interactivity to web pages using JavaScript. JavaScript is a powerful language that can be used to add numerous functions to web pages, ranging from form validation to animated objects. By using the Document Object Model, students will manipulate individual html and css elements using JS.</description>
+    </item>
+    
+    <item>
+      <title>HTML, CSS, &amp; JavaScript - Certification Course for Beginners</title>
+      <link>https://jobready.courseintern.com/html-css-javascript-certification-course-for-beginners/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html-css-javascript-certification-course-for-beginners/</guid>
+      <description>Welcome to the HTML, CSS, &amp;amp; JavaScript - Certification Course for Beginners.
+If you are interested in mastering the art of front-end development, look no further. This course is the complete beginners guide to developing cutting-edge web pages that are fully mobile responsive. The course branches into three sections. We start by exploring HTML5, students learn the composition of a web page and how a web browser interprets html code to display the visual elements of a page.</description>
+    </item>
+    
+    <item>
+      <title>HTML, JavaScript, &amp; Bootstrap - Certification Course</title>
+      <link>https://jobready.courseintern.com/html-javascript-bootstrap-certification-course/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html-javascript-bootstrap-certification-course/</guid>
+      <description>Welcome to the HTML, JavaScript, &amp;amp; Bootstrap – Certification Course for BeginnersThis course gives students the knowledge necessary to take their front-end development skills to the next level. This course, is meant for beginners who have little, to no experience with coding. We start right from the foundational concepts and work our way up to intermediate level topics. By the end of this course, students will be able to create stunning, mobile responsive web pages using the latest scripting languages.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript &amp; jQuery - Certification Course for Beginners</title>
+      <link>https://jobready.courseintern.com/javascript-jquery-certification-course-for-beginners/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/javascript-jquery-certification-course-for-beginners/</guid>
+      <description>Welcome to the JavaScript &amp;amp; jQuery – Certification Course for BeginnersThis course offers a comprehensive guide into the fundamentals of coding using JavaScript and jQuery. These powerful languages can be used to add animated, dynamic client-side functionality to any web page.The JavaScript section of the course takes students on a journey that starts right from the basics. This includes JavaScript placement, and embedding External JavaScript code. From there, we move into variable declaration and operators for performing arithmetic.</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap 5  with 3 projects in Hindi</title>
+      <link>https://jobready.courseintern.com/bootstrap-5-with-3-projects-in-hindi/</link>
+      <pubDate>Wed, 27 Apr 2022 20:10:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bootstrap-5-with-3-projects-in-hindi/</guid>
+      <description>in this course, you are going to learn about Bootstrap 5 that to in Hindi and Urdu. We are going to Build many types of awesome websites which are responsive and easy to build and I will try to keep this course updated so that you don&#39;t have to face any type of problem.
+Topics we will cover in this course are
+1introduction of the course: Here you will learn things like how to install bootstrap and the use of Emmet to write HTML code faster</description>
+    </item>
+    
+    <item>
+      <title>HTML5 &amp; CSS3 Build: Two Responsive Websites in Hindi</title>
+      <link>https://jobready.courseintern.com/html5-css3-build-two-responsive-websites-in-hindi/</link>
+      <pubDate>Wed, 27 Apr 2022 20:10:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html5-css3-build-two-responsive-websites-in-hindi/</guid>
+      <description>in this course, you will learn about HTML5 and CSS3 that too in Hindi after that we will Make Two websites and the last one is a complete Responsive website The Startup website and then to Boost your skills you will learn S.E.O Search engine optimization so that you can rank your website at the top and your website will more sales and then we will Host or publish our website to the internet.</description>
+    </item>
+    
+    <item>
+      <title>The Complete React Redux Node Express MySQL Developer Course</title>
+      <link>https://jobready.courseintern.com/the-complete-react-redux-node-express-mysql-developer-course/</link>
+      <pubDate>Wed, 27 Apr 2022 20:10:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-complete-react-redux-node-express-mysql-developer-course/</guid>
+      <description>Building. fullstack applications (frontend + backend) with the React Noode MySQL is very popular - in this course, you will learn it from scratch at the example of a complete project! Our Project stands for MySQL, Express.js, React.js, Redux , GitHub API and Node.js - and combined, these technologies allow you to build amazing web applications.
+In this course, we&#39;ll build an entire project and you will learn how these different technologies work together step by step.</description>
+    </item>
+    
+    <item>
+      <title>CodeIgniter 4: from scratch Step by Step</title>
+      <link>https://jobready.courseintern.com/codeigniter-4-from-scratch-step-by-step/</link>
+      <pubDate>Sat, 23 Apr 2022 14:41:13 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/codeigniter-4-from-scratch-step-by-step/</guid>
+      <description>We develop the course in a unix-like environment such as Linux, so it is advisable to have prior knowledge in this type of environment, as well as composer, the course we started from 0 developing various projects step by step.
+Welcome to this course and I hope you like it, see you in the classes.
+It is necessary to have php installed in its version 7 since we will work with version 4 CodeIgniter which is the last one so far, combining this framework with other frameworks such as bootstrap 4 and mysql.</description>
+    </item>
+    
+    <item>
+      <title>Learn ASP.NET MVC and Entity Framework (Database First)</title>
+      <link>https://jobready.courseintern.com/learn-asp.net-mvc-and-entity-framework-database-first/</link>
+      <pubDate>Fri, 15 Apr 2022 15:17:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-asp.net-mvc-and-entity-framework-database-first/</guid>
+      <description>Overview
+Using MVC, Entity Framework, and ASP.NET Scaffolding, we will go through building a small school management system while learning key concepts in ASP.NET MVC development. This course will show you how to leverage MVC&#39;s Scaffolding features to quickly construct data driven html pages and how to write queries to the database using .NET&#39;s famed Entity Framework with C#. UPDATED CONTENT .NET Framework is nearing end of support from Microsoft. .</description>
+    </item>
+    
+    <item>
+      <title>Master Classes for Web Designing Course (HTML, CSS, JS, SEO)</title>
+      <link>https://jobready.courseintern.com/master-classes-for-web-designing-course-html-css-js-seo/</link>
+      <pubDate>Fri, 15 Apr 2022 15:17:50 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/master-classes-for-web-designing-course-html-css-js-seo/</guid>
+      <description>We are Updating every time this course!
+This course is created by Faisal Zamir for beginner students who want to learn Web Designing from a basic level to reach an advanced level. So in this course, I created videos lectures in such a way that, a beginner will become a good front-end web designer, if he/she take an interest, do hard work, and practices. You know, web designing is the process of creating or designing a website using different skills like HTML, CSS, JavaScript, Jquery, etc.</description>
+    </item>
+    
+    <item>
+      <title>Zero to Hero Bootstrap5 Mastery Course</title>
+      <link>https://jobready.courseintern.com/zero-to-hero-bootstrap5-mastery-course/</link>
+      <pubDate>Thu, 14 Apr 2022 18:10:15 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/zero-to-hero-bootstrap5-mastery-course/</guid>
+      <description>In this course, you will learn to develop any kind of website using HTML and Bootstrap. We will start the course by learning about some new features of Bootstrap5 and with that we will start making our website. First, we will add the CDN link for CSS and Javascript then we will see that how Bootstrap5 has removed JQuery and replaced it with Javascript. Then start making our different sections of the website, firstly we will make the NavBar then a beautifull Carosel section, then we will head on to make the About Us section, My journey Section using different card logic from Bootstrap5, then Services Section, Gallery Section, Offers Section, Contact Us Section and lastly Footer Section.</description>
+    </item>
+    
+    <item>
+      <title>HTML with CSS and JavaScript</title>
+      <link>https://jobready.courseintern.com/html-with-css-and-javascript/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html-with-css-and-javascript/</guid>
+      <description>Web design and web development are top fields on the rise. Most websites use HTML along with CSS and JavaScript in them. Developers need to have a sound knowledge on each of them. HTML defines the structure of the website. Design and Formatting is done with the help of CSS while JavaScript is used to address the behaviour of the website. PHP is used at the backend of the website. HTML is an easy subject to learn.</description>
+    </item>
+    
+    <item>
+      <title>Modern PHP Web Development w/ MySQL, GitHub &amp; Heroku</title>
+      <link>https://jobready.courseintern.com/modern-php-web-development-w/-mysql-github-heroku/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/modern-php-web-development-w/-mysql-github-heroku/</guid>
+      <description>Overview
+This course is designed to equip students with the skills required for creating dynamic web pages using PHP and MySQL. It further equips students with the fundamentals of PHP programming, while providing them with advanced features of the language. Immerse yourself in an end-to-end full-stack development experience, as we explore user interface design, business logic and hosting activities. By the end of this course, you will be able to build an attractive PHP application; styled using Bootstrap 4; track and manage changes with GitHub and deploy a fully data-driven application to Heroku Cloud Hosting.</description>
+    </item>
+    
+    <item>
+      <title>HTML, CSS, &amp; Bootstrap - Certification Course for Beginners</title>
+      <link>https://jobready.courseintern.com/html-css-bootstrap-certification-course-for-beginners/</link>
+      <pubDate>Sun, 13 Feb 2022 16:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html-css-bootstrap-certification-course-for-beginners/</guid>
+      <description>This course covers three essential concepts for aspiring Web Developers. This includes HTML, CSS, &amp;amp; Bootstrap. Each section comes complete with comprehensive lessons that help students master the art of front-end coding. The course is divided as follows:
+HTML Development
+This section explores HTML. HTML is a key fundamental building block when learning to develop websites. Students initially learn the basics of HTML page structure and gradually transition into working with spacing, text formatting, lists, images, videos, links, anchors, tables, forms and much more.</description>
+    </item>
+    
+    <item>
+      <title>Practical MongoDB &#43; PHP: For Absolute Beginners</title>
+      <link>https://jobready.courseintern.com/practical-mongodb--php-for-absolute-beginners/</link>
+      <pubDate>Sun, 13 Feb 2022 16:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/practical-mongodb--php-for-absolute-beginners/</guid>
+      <description>=== Students&#39; reviews&#39; regarding this course ===
+&#34;In-depth explanations, good examples, knowledgeable instructor!&#34; -- Gordon Stanley
+&#34;Really very good course to start learning Mongodb.&#34; -- Saifaldeen
+&#34;Simply awesome. The instructor is explaining every line of code that he is typing it on the console and explains straight to the point. I got to learn many new things in this course as a beginner.&#34; -- Saurabh Mirajkar
+&#34;Great course. Loved the style of the instructor and the way things are presented.</description>
+    </item>
+    
+    <item>
+      <title>Learn WordPress Now: WordPress for Beginners</title>
+      <link>https://jobready.courseintern.com/learn-wordpress-now-wordpress-for-beginners/</link>
+      <pubDate>Wed, 02 Feb 2022 21:27:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-wordpress-now-wordpress-for-beginners/</guid>
+      <description>Have you ever wanted to start a website or blog on WordPress but didn&#39;t know where to start? Ever felt overwhelmed by all the technical lingo or steps? Not to worry! With my Learn WordPress Now: WordPress for Beginners course, I take your hand and guide you step-by-step from the very beginning to show you how to get started and become familiar with the WordPress platform in order to have your own blog or website set up in under an hour!</description>
+    </item>
+    
+    <item>
+      <title>HTML Crash Course</title>
+      <link>https://jobready.courseintern.com/html-crash-course/</link>
+      <pubDate>Tue, 01 Feb 2022 16:37:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/html-crash-course/</guid>
+      <description>This crash course will be fit for total beginners in HTML5. We will be working on introducing the students to some of the elements that makes up a basic web document. The course hopes to guide students to learn how to build a very simple static site that they can add to their portfolio as a future web developer.
+No prior programming experience is needed to take this course. I will guide you through the basics and demonstrate how you can start to create a basic static site with common features you would see from sites that aims to provide basic information.</description>
     </item>
     
     <item>
       <title>C# Console and Windows Forms Development with LINQ &amp; ADO.NET</title>
-      <link>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
-      <pubDate>Wed, 01 Dec 2021 01:45:32 +0530</pubDate>
+      <link>https://jobready.courseintern.com/c#-console-and-windows-forms-development-with-linq-ado.net/</link>
+      <pubDate>Wed, 19 Jan 2022 17:15:50 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/c#-console-and-windows-forms-development-with-linq-ado.net/</guid>
+      <guid>https://jobready.courseintern.com/c#-console-and-windows-forms-development-with-linq-ado.net/</guid>
       <description>Overview
 In this course, you will learn C# programming for desktop applications. This journey will have you becoming proficient in
 Visual Studio Interface and Shortcuts
 Console Application Development with C#
-Data Driven Graphical User Interface Applications using Windows Forms 
-Managing Databases with SQL Server Management Studio
+Data Driven Graphical User Interface Applications using Windows Forms Managing Databases with SQL Server Management Studio
 Developing User and Roles Management Interfaces and functions
 Using Utility Classes for cleaner code
 Developing Multi-Document Interface (MDI) Applications
@@ -74,11 +1007,130 @@ Applying Object Oriented Programming with C#</description>
     </item>
     
     <item>
+      <title>Introduction to Maps in R Shiny and Leaflet</title>
+      <link>https://jobready.courseintern.com/introduction-to-maps-in-r-shiny-and-leaflet/</link>
+      <pubDate>Thu, 13 Jan 2022 15:34:00 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/introduction-to-maps-in-r-shiny-and-leaflet/</guid>
+      <description>Welcome to the Introduction to Maps in R Shiny and Leaflet course. In this course we will be
+creating a fully functional web gis application using the R programming language. This application
+will be comprised of different types of maps ranging from point maps to heatmaps, to choropleth maps.
+We will also be using different datasets ranging from dataframes to spatial dataframes, which we
+will use to transform and visualize our data on different types of maps, depending on the use case.</description>
+    </item>
+    
+    <item>
+      <title>Create Ecommerce Website In WordPress (Hindi)</title>
+      <link>https://jobready.courseintern.com/create-ecommerce-website-in-wordpress-hindi/</link>
+      <pubDate>Tue, 11 Jan 2022 17:13:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/create-ecommerce-website-in-wordpress-hindi/</guid>
+      <description>In This Course, You will Learn Ecommerce Website Development In Hindi. Basically, Here is The Full Course On Ecommerce Website Development, Which Can Be Easily Made In WordPress. So, I Urge All The Users To Go Through To This Course &amp;amp; Enjoy Learning Ecommerce Website Development Easily.Kindly, Don&#39;t Forget To Ask Your Questions If You Have Any Doubts Regarding This Course. Also, Complete The Full Course To Generate Your Free Certificate.</description>
+    </item>
+    
+    <item>
+      <title>Create WordPress Within minutes using Cloud Computing</title>
+      <link>https://jobready.courseintern.com/create-wordpress-within-minutes-using-cloud-computing/</link>
+      <pubDate>Sun, 09 Jan 2022 19:14:14 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/create-wordpress-within-minutes-using-cloud-computing/</guid>
+      <description>Learn the basics of Cloud Computing technologies such as Microsoft Azure and Amazon Web Services(AWS). Learn about how to create and manage WordPress websites on Microsoft Azure Cloud and AWS. This course is designed for anyone willing to quickly create a WordPress website and test the market. using cloud computing technologies you can quickly create a WordPress such as landing page and delete it whenever you want. Normally if you want to host WordPress, so for this you need to buy hosting, SSL, and a lot and also this costs a lot.</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap 4 for Beginners Build a modern Responsive website</title>
+      <link>https://jobready.courseintern.com/bootstrap-4-for-beginners-build-a-modern-responsive-website/</link>
+      <pubDate>Sun, 02 Jan 2022 19:17:16 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bootstrap-4-for-beginners-build-a-modern-responsive-website/</guid>
+      <description>Bootstrap 4 for Beginners
+Bootstrap 4 for Beginners Build a modern Responsive website with bootstrap
+The Complete Course of Bootstrap can help you design your smart mobile-friendly Website according to your requirements in this course of bootstrap you about to learn all steps how to use jumbotron in bootstrap what is tooltip in bootstrap 4 how can use colors and group colours bootstrap and smart way to learn website in bootstrap and some good BootstrapBootstrap is an open-source toolkit for developing with HTML, CSS, and JS.</description>
+    </item>
+    
+    <item>
+      <title>Learn HTML 5: The Complete HTML 5 And CSS3 Tutorials Course</title>
+      <link>https://jobready.courseintern.com/learn-html-5-the-complete-html-5-and-css3-tutorials-course/</link>
+      <pubDate>Sun, 02 Jan 2022 19:17:16 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-html-5-the-complete-html-5-and-css3-tutorials-course/</guid>
+      <description>Learn HTML 5: The Complete HTML 5 And CSS3 Tutorials Course
+HTML 5, HTML Tutorial HTML and HTML 5 And CSS3 For Beginners. Learn HTML 5 CSS 3 Website development mobile responsive website development. How to make the responsive website most of the user know How to make HTML 5 website page and learn how to design a responsive mobile website to become an expert. How to learn mobile development and to make the website responsive, This tutorial course includes: HTML 5 for beginners, Learn HTML 5 complete Course, The HTML tutorial, HTML, HTML5, and CSS3.</description>
+    </item>
+    
+    <item>
+      <title>WordPress for Beginners : Build a Blog website in Hindi||Urd</title>
+      <link>https://jobready.courseintern.com/wordpress-for-beginners-build-a-blog-website-in-hindiurd/</link>
+      <pubDate>Sat, 11 Dec 2021 14:13:20 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/wordpress-for-beginners-build-a-blog-website-in-hindiurd/</guid>
+      <description>in this course, you are going to learn about WordPress and if you are a Beginner it is will be the best course for you to learn WordPress and we will awesome website like a Blog website to enhance your WordPress skills. And the best part is you don&#39;t have to buy a domain or hosting to learn and build WordPress websites we will use the free and easy tools to setup our Wordpress it will be hosted in our local host but you want to bring your website in search than than you need to buy that hosting and a domain name for your website and I will teach you that too that how to buy a domain and hosting and this course is in Hindi and Urdu.</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap 4 ile Sıfırdan Harika Web Projeleri Oluşturun</title>
+      <link>https://jobready.courseintern.com/bootstrap-4-ile-s%C4%B1f%C4%B1rdan-harika-web-projeleri-olu%C5%9Fturun/</link>
+      <pubDate>Fri, 10 Dec 2021 16:32:19 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/bootstrap-4-ile-s%C4%B1f%C4%B1rdan-harika-web-projeleri-olu%C5%9Fturun/</guid>
+      <description>Unutma! “Kimse senin dalgalarla nasıl boğuştuğuna bakmaz. Gemiyi limana getirip getirmediğine bakar.” Ben kaptanınız Emrah Yüksel olarak bu eğitim serüvenin sonunda gerçekten sana vaad ettiğim ve hayal kurmanı sağladığım her şeyi yapabilmeni sana taahhüt ediyor sadece kursa kayıt oluncaya kadar değil kurs öğrenme süresi boyuncada sana destek olacağım sözünü veriyorum.
+Bu Kursta Neler Yapacağız?
+Bu kurs tam anlamıyla sizi Bootstrap 3 veya Bootstrap 4 hakkında hiçbir şey bilmeseniz de sıfırdan harika web tasarımları/temalar yapabilmeniz için Bootstrap 4 &#39;ün kullanımını öğretmektedir.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Integration customize Tweets with developer API</title>
+      <link>https://jobready.courseintern.com/twitter-integration-customize-tweets-with-developer-api/</link>
+      <pubDate>Wed, 08 Dec 2021 14:59:42 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/twitter-integration-customize-tweets-with-developer-api/</guid>
+      <description>Learn how to add Twitter content to your web projects in this easy to follow quick Tutorial designed to get you working with the Twitter Data Feed quickly.
+Keep Visitors on your site instead of having them leave to visit your content on Twitter. More engagement, fresh content and allow them to become part of the converstation easier.
+This course is for anyone who wants to add Twitter to their Website, multiple options that are available either Widgets, JavaScript or REST.</description>
+    </item>
+    
+    <item>
+      <title>Learn WordPress &amp; Using WordPress to Make 6 Figures Online</title>
+      <link>https://jobready.courseintern.com/learn-wordpress-using-wordpress-to-make-6-figures-online/</link>
+      <pubDate>Mon, 06 Dec 2021 23:02:40 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-wordpress-using-wordpress-to-make-6-figures-online/</guid>
+      <description>Learn WordPress
+When WordPress was not there it was impossible to create a beautiful professional website in few hours. But WordPress made it so easy that you can create and bring your website live on the internet in few hours.
+Learning WordPress is easy and interesting but it becomes more interesting when you are learning wordpress for a money-making idea. To increase your interest in learning WordPress I have shared and taught you in this course a new and smart business idea called drop servicing.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 and Bootstrap for Absolute Beginners : 4 courses in 1</title>
+      <link>https://jobready.courseintern.com/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1/</link>
+      <pubDate>Sat, 04 Dec 2021 22:36:38 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1/</guid>
+      <description>By completing this course, you will become a master in Web Design Technologies like CSS3 and Bootstrap and more. This course gives you hands-on and practical experience on detailed CSS3 and Bootstrap and more.
+Contents of this tutorial # Interactive CSS3: Basics What is CSS? Why we need it?
+What&#39;s new in CSS3
+CSS Selectors, properties and attributes ID Selectors Class Selectors Element Selectors All Selectors Inline style sheets External Style sheets Interactive CSS3: Advanced The Box model Adding Color Working with fonts Background images Styling ID tags</description>
+    </item>
+    
+    <item>
+      <title>Projelere  Doyamayacaksınız Sıfırdan Komple (PHP-MySQL-JS)</title>
+      <link>https://jobready.courseintern.com/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</link>
+      <pubDate>Wed, 01 Dec 2021 15:38:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/projelere-doyamayacaks%C4%B1n%C4%B1z-s%C4%B1f%C4%B1rdan-komple-php-mysql-js/</guid>
+      <description>Tüm Detaylar Web Sitemde
+Kursu Bitiren İlk 10 Öğrencimize ÜCRETSİZ HOSTİNG! Kampanyamız Mevcuttur !Toplamda 3 GB Disk Alanı Ve 10 Adet MySQL Tablo ve daha nice özelliklerle beraber fiyatı 150 ₺ olan hosting hizmeti kursu tamamlayıp sertifikasını alan ilk 10 arkadaşımıza hediye edilecektir.
+E-Ticaret&#39;e mi atılmak istiyorsunuz?
+PHP becerilerinizi artırmanız mı gerekiyor?
+Web programlama kursumuza hoşgeldiniz. Programlama temellerinden ileri seviye web programlama konusunda sizlerde aramıza katılarak harika projeler geliştirebilirsiniz. Öyleyse hemen kursumuza kayıt olun ve aramıza katılın.</description>
+    </item>
+    
+    <item>
       <title>Make Laravel and Laravel 8 APIs and Apps fast with blueprint</title>
-      <link>https://www.jobready.ml/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</link>
+      <link>https://jobready.courseintern.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</link>
       <pubDate>Wed, 01 Dec 2021 01:45:32 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</guid>
+      <guid>https://jobready.courseintern.com/make-laravel-and-laravel-8-apis-and-apps-fast-with-blueprint/</guid>
       <description>What you&#39;ll learn
 Initialization of a Laravel app using blueprint
 Building blueprint yml file
@@ -92,30 +1144,11 @@ Just think how your classes and objects should be in the oop way , and tell that
     </item>
     
     <item>
-      <title>Complete Wordpress Website Developer Course</title>
-      <link>https://www.jobready.ml/complete-wordpress-website-developer-course/</link>
-      <pubDate>Fri, 22 Oct 2021 13:01:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/complete-wordpress-website-developer-course/</guid>
-      <description>This is one of the best WordPress course you will ever find. WordPress is now powering more than 29% of all websites in the world, there&#39;s never been a better time to build an income and a business around it.
-This is the course of our students. New lecture are added every month and, at anytime on the request of the student. You&#39;re here because you want to master WordPress, right?</description>
-    </item>
-    
-    <item>
-      <title>Drupal For Absolute Beginners (2021)</title>
-      <link>https://www.jobready.ml/drupal-for-absolute-beginners-2021/</link>
-      <pubDate>Fri, 22 Oct 2021 13:01:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/drupal-for-absolute-beginners-2021/</guid>
-      <description>This is The BEST Course To Start Learning Latest And Greatest Drupal From Scratch. Drupal is now powering more than 1,000,000 websites in the world, there&#39;s never been a better time to build an income and business around it.If you want to master Drupal to build a Business or to impress your potential Employer then, you&#39;ve come to the right place.Hi there, my name is Shubham and YOU are going on an exciting learning adventure with me.</description>
-    </item>
-    
-    <item>
       <title>C# para Iniciantes: Aprenda Programação de C# do zero</title>
-      <link>https://www.jobready.ml/c#-para-iniciantes-aprenda-programa%C3%A7%C3%A3o-de-c%23-do-zero/</link>
+      <link>https://jobready.courseintern.com/c#-para-iniciantes-aprenda-programa%C3%A7%C3%A3o-de-c%23-do-zero/</link>
       <pubDate>Wed, 20 Oct 2021 23:13:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/c#-para-iniciantes-aprenda-programa%C3%A7%C3%A3o-de-c%23-do-zero/</guid>
+      <guid>https://jobready.courseintern.com/c#-para-iniciantes-aprenda-programa%C3%A7%C3%A3o-de-c%23-do-zero/</guid>
       <description>Olá,
 Bem-vindo ao Curso C# para Iniciantes: Aprenda Programação de C# do zero.
 Você quer aprender C# mas não tem nenhuma experiência? Nosso curso fundamentos de C# para iniciantes é o lugar perfeito para você começar. Nesse curso a gente explicou C# .NET para te dar tudo que você precisa para poder usar C#.
@@ -124,95 +1157,22 @@ Inscreva-se e domine os fundamentos do C # e da programação com o framework .<
     </item>
     
     <item>
-      <title>Typescript with React classes - quick start - Jest testing</title>
-      <link>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:25 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/typescript-with-react-classes-quick-start-jest-testing/</guid>
-      <description>THIS COURSE USES REACT CLASSES WITH PROPS AND STATE.
-Typescript is becoming more and more popular! And the beloved React framework has embraced it! But often making them work together can be tricky. Here it will work from the first try.
-React means act in response to something; respond in a particular way. This is the way you will make your UI behave.
-In this short course you will learn how you can use them together, by building a small project:</description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/html-css-certification-course-for-beginners/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/html-css-certification-course-for-beginners/</guid>
-      <description>Welcome to the HTML &amp;amp; CSS – Certification Course for BeginnersThis two-part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start by exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms.</description>
-    </item>
-    
-    <item>
-      <title>Master Classes for Web Design Course (HTML, CSS, JS, SEO)</title>
-      <link>https://www.jobready.ml/master-classes-for-web-design-course-html-css-js-seo/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/master-classes-for-web-design-course-html-css-js-seo/</guid>
-      <description>This course is created by Faisal Zamir for beginner students who want to learn Web Designing from a basic level to reach an advanced level. So in this course, I created videos lectures in such a way that, a beginner will become a good front-end web designer, if he/she take an interest, do hard work, and practices. You know, web designing is the process of creating or designing a website using different skills like HTML, CSS, JavaScript, Jquery, etc.</description>
-    </item>
-    
-    <item>
       <title>JavaScript Programming Masterclass: Build Real Project</title>
-      <link>https://www.jobready.ml/javascript-programming-masterclass-build-real-project/</link>
+      <link>https://jobready.courseintern.com/javascript-programming-masterclass-build-real-project/</link>
       <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/javascript-programming-masterclass-build-real-project/</guid>
+      <guid>https://jobready.courseintern.com/javascript-programming-masterclass-build-real-project/</guid>
       <description>Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript:
 Javascript is the most popular programming language in the world and that makes it a programmer’s great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.</description>
     </item>
     
     <item>
-      <title>MERN Stack with Blog Project</title>
-      <link>https://www.jobready.ml/mern-stack-with-blog-project/</link>
-      <pubDate>Wed, 20 Oct 2021 13:13:33 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/mern-stack-with-blog-project/</guid>
-      <description>Welcome to &#34;MERN Stack with Blog Project&#34;. In this course, we will be building an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full-stack application. This course includes...
-Building an extensive backend API with Node.js &amp;amp; Express
-Extensive API testing with Postman
-Integrating React with our backend in an elegant way, creating a great workflow</description>
-    </item>
-    
-    <item>
-      <title>JavaScript &amp; jQuery - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/javascript-jquery-certification-course-for-beginners/</link>
-      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/javascript-jquery-certification-course-for-beginners/</guid>
-      <description>Welcome to the JavaScript &amp;amp; jQuery – Certification Course for BeginnersThis course offers a comprehensive guide into the fundamentals of coding using JavaScript and jQuery. These powerful languages can be used to add animated, dynamic client-side functionality to any web page.The JavaScript section of the course takes students on a journey that starts right from the basics. This includes JavaScript placement, and embedding External JavaScript code. From there, we move into variable declaration and operators for performing arithmetic.</description>
-    </item>
-    
-    <item>
-      <title>React JS- Complete Guide for Frontend Web Development [2021]</title>
-      <link>https://www.jobready.ml/react-js-complete-guide-for-frontend-web-development-2021/</link>
-      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/react-js-complete-guide-for-frontend-web-development-2021/</guid>
-      <description>What&#39;s this course about?This course is a complete guide to become an expert front-end web developer. It contains all the tools and technologies that you should be proficient in work as a React Developer.
-We will go through the journey of learning HTML5, CSS3, Javascript, ES6, jQuery, and React JS.
-Each of these course modules has a project which you can work on. 
-Along with the project problem statement video, you will also find the solution video for that project.</description>
-    </item>
-    
-    <item>
-      <title>The Ultimate MySQL Crash Course 2021</title>
-      <link>https://www.jobready.ml/the-ultimate-mysql-crash-course-2021/</link>
-      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/the-ultimate-mysql-crash-course-2021/</guid>
-      <description>In this course you are going to learn everything you need to know to get started with MySQL in probably less than two hours, so you can actually consume this piece of content in one sitting. The course is surly intensively on using the SQL command line inside the PHPmyadmin tool and that&#39;s for teaching you just how SQL works and you can write your queries, not just in the SQL command, but also inside your backend apps and that&#39;s the best way to learn SQL in my opinion.</description>
-    </item>
-    
-    <item>
       <title>How to Develop REST Web API using ASP.NET MVC</title>
-      <link>https://www.jobready.ml/how-to-develop-rest-web-api-using-asp.net-mvc/</link>
+      <link>https://jobready.courseintern.com/how-to-develop-rest-web-api-using-asp.net-mvc/</link>
       <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/how-to-develop-rest-web-api-using-asp.net-mvc/</guid>
+      <guid>https://jobready.courseintern.com/how-to-develop-rest-web-api-using-asp.net-mvc/</guid>
       <description>Web APIs are one of the essential component in the applications which involve data exchange in client-server machine architecture. In this course you will learn about development of REST web API using ASP.NET MVC platform from basic to advance level. This course outlines following topics i.e.
-
 What is REST Web API?
 How to setup basic REST Web API Project using ASP.NET MVC in Visual Studio?
 How to generate REST Web API Security Key for authorization?</description>
@@ -220,10 +1180,10 @@ How to generate REST Web API Security Key for authorization?</description>
     
     <item>
       <title>Learn JavaScript from Scratch: The Ultimate Beginners Course</title>
-      <link>https://www.jobready.ml/learn-javascript-from-scratch-the-ultimate-beginners-course/</link>
+      <link>https://jobready.courseintern.com/learn-javascript-from-scratch-the-ultimate-beginners-course/</link>
       <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-javascript-from-scratch-the-ultimate-beginners-course/</guid>
+      <guid>https://jobready.courseintern.com/learn-javascript-from-scratch-the-ultimate-beginners-course/</guid>
       <description>Welcome to the - Learn JavaScript from Scratch: The Ultimate Beginners Course
 This practical, hands-on course was created for newbies – that&#39;s to say, people with no prior training or knowledge with JavaScript or Web Development.
 In this practical, hands-on class you&#39;re going to learn how to use JavaScript and go from beginner to expert!
@@ -232,10 +1192,10 @@ Even if you already have some experience, or want to learn about the advanced fe
     
     <item>
       <title>Complete Responsive Web Development: 4 courses in 1</title>
-      <link>https://www.jobready.ml/complete-responsive-web-development-4-courses-in-1/</link>
+      <link>https://jobready.courseintern.com/complete-responsive-web-development-4-courses-in-1/</link>
       <pubDate>Sat, 16 Oct 2021 13:42:24 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/complete-responsive-web-development-4-courses-in-1/</guid>
+      <guid>https://jobready.courseintern.com/complete-responsive-web-development-4-courses-in-1/</guid>
       <description>=== Our students reviews regarding this course ===
 &#34;This course deserves more than 200$&#34; -- Mohamed Laqlii
 &#34;A-class course. So excited that I am taking it.&#34; -- Krassimir Boyanov
@@ -246,84 +1206,74 @@ Even if you already have some experience, or want to learn about the advanced fe
     
     <item>
       <title>Build A TodoList Fast with Go, Fiber and Ionic / Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-fast-with-go-fiber-and-ionic-/-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-fast-with-go-fiber-and-ionic-/-angular/</link>
       <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-fast-with-go-fiber-and-ionic-/-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-fast-with-go-fiber-and-ionic-/-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Go, Fiber, and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Ionic Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with ASP.NET Core and Ionic Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-asp.net-core-and-ionic-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-asp.net-core-and-ionic-angular/</link>
       <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-asp.net-core-and-ionic-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-asp.net-core-and-ionic-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use ASPNet Core and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Ionic Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Elixir, Phoenix, and Ionic Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-elixir-phoenix-and-ionic-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-elixir-phoenix-and-ionic-angular/</link>
       <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-elixir-phoenix-and-ionic-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-elixir-phoenix-and-ionic-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Phoenix and Elixir. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Ionic Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with FastAPI and Ionic Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-fastapi-and-ionic-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-fastapi-and-ionic-angular/</link>
       <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-fastapi-and-ionic-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-fastapi-and-ionic-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use FastAPI and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Ionic Application This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Java Spring Boot and Ionic Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-java-spring-boot-and-ionic-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-java-spring-boot-and-ionic-angular/</link>
       <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-java-spring-boot-and-ionic-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-java-spring-boot-and-ionic-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Java, Spring Boot, and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Ionic Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Laravel and Ionic Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-laravel-and-ionic-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-laravel-and-ionic-angular/</link>
       <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-laravel-and-ionic-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-laravel-and-ionic-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Laravel and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Mobile Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with NestJS and Ionic Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-nestjs-and-ionic-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-nestjs-and-ionic-angular/</link>
       <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-nestjs-and-ionic-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-nestjs-and-ionic-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use NestJS and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Ionic Angular Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
-      <title>Modern JavaScript for React JS - ES6.</title>
-      <link>https://www.jobready.ml/modern-javascript-for-react-js-es6./</link>
-      <pubDate>Fri, 15 Oct 2021 19:22:29 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/modern-javascript-for-react-js-es6./</guid>
-      <description>Are you looking to extend your knowledge in Javascript programming by learning the concepts of modern javascript - ES6?If you want to start your journey to become a React or Angular developer, then this is the perfect course for you. 
-What&#39;s this course about?This course is specifically designed for those who want to get a quick start with Modern Javascript, especially ES6 concepts. It covers all the basic concepts of ES6: how the javascript has evolved, how to use its latest features that come under ES6 topics, what is babel, and how it is used to compile the ES6 code to make it browser compatible.</description>
-    </item>
-    
-    <item>
       <title>2-Second Website Speed Optimization In 1 Day - Technical SEO</title>
-      <link>https://www.jobready.ml/2-second-website-speed-optimization-in-1-day-technical-seo/</link>
+      <link>https://jobready.courseintern.com/2-second-website-speed-optimization-in-1-day-technical-seo/</link>
       <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/2-second-website-speed-optimization-in-1-day-technical-seo/</guid>
-      <description>A faster website will immediately get more sales and more user engagement!  This course is made for non-technical people to be able to make 90% of the technical SEO and website speed optimization yourself and begin seeing results almost immediately.
+      <guid>https://jobready.courseintern.com/2-second-website-speed-optimization-in-1-day-technical-seo/</guid>
+      <description>A faster website will immediately get more sales and more user engagement! This course is made for non-technical people to be able to make 90% of the technical SEO and website speed optimization yourself and begin seeing results almost immediately.
 In under 24 hours, you will:
 Speed up your website
 Increase engagement on your website
@@ -332,127 +1282,68 @@ Save money by not having to hire a developer or SEO freelancer</description>
     </item>
     
     <item>
-      <title>How to Install a Free SSL Certificate using Let&#39;s Encrypt</title>
-      <link>https://www.jobready.ml/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</link>
-      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/how-to-install-a-free-ssl-certificate-using-lets-encrypt/</guid>
-      <description>In the modern internet age, delivering web content over a secure protocol has become essential. Since January 2017, Google attaches a warning label to any website that does not secure sensitive web page content by delivering it using HTTPS. This includes web pages that contain forms asking for usernames, passwords, credit cards and other sensitive information. In the near future Google plans to roll out a requirement for all web pages to be secured.</description>
-    </item>
-    
-    <item>
       <title>Learn HTML5 In-Depth - With Real-World Examples</title>
-      <link>https://www.jobready.ml/learn-html5-in-depth-with-real-world-examples/</link>
+      <link>https://jobready.courseintern.com/learn-html5-in-depth-with-real-world-examples/</link>
       <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-html5-in-depth-with-real-world-examples/</guid>
-      <description>HTML is the main markup language for web pages. 
-HTML elements are the basic building-blocks of web pages. 
-Learning HTML is your first step to become a web developer. 
-HTML concepts will help you learn other web development technologies faster.
-
+      <guid>https://jobready.courseintern.com/learn-html5-in-depth-with-real-world-examples/</guid>
+      <description>HTML is the main markup language for web pages. HTML elements are the basic building-blocks of web pages. Learning HTML is your first step to become a web developer. HTML concepts will help you learn other web development technologies faster.
 In this course you will learn how to create web pages using HTML5.
-
 Which is foundation for web development.
-
 You will learn HTML5 elements including images, videos, lists, tables, forms, Iframes and much more with Real-world Examples.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Phoenix, Elixir and Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-phoenix-elixir-and-angular/</link>
       <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-phoenix-elixir-and-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Phoenix and Elixir. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Phoenix, Elixir and React</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-react/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-phoenix-elixir-and-react/</link>
       <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-react/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-phoenix-elixir-and-react/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Phoenix and Elixir. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to a React Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Phoenix, Elixir and Vue</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-vue/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-phoenix-elixir-and-vue/</link>
       <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-phoenix-elixir-and-vue/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-phoenix-elixir-and-vue/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Phoenix and Elixir. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to a Vue Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
-      <title>Install NGINX, PHP, MySQL, SSL &amp; WordPress on Ubuntu</title>
-      <link>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</link>
-      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/</guid>
-      <description>Hello and Welcome to our latest new course. We are glad you could join us on this exciting new learning expedition!
-In this course, we are going to be exploring one of the most powerful Web Server technologies available. One that has grown in popularity exponentially since its release - Yes, we are talking about NGINX.
-Whether you are an experienced web developer or new to the industry, you’ve likely heard of the age-old debate between Apache and NGINX.</description>
-    </item>
-    
-    <item>
       <title>Internet and Web Development Fundamentals</title>
-      <link>https://www.jobready.ml/internet-and-web-development-fundamentals/</link>
+      <link>https://jobready.courseintern.com/internet-and-web-development-fundamentals/</link>
       <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/internet-and-web-development-fundamentals/</guid>
+      <guid>https://jobready.courseintern.com/internet-and-web-development-fundamentals/</guid>
       <description>This course is part-one of the nine-part series that starts by taking an in-depth look at how the internet facilitates the movement of data packets across both LANs (Local Area Network) and WANs (Wide Area Network). Students learn how to interpret various protocols such as TCP/IP, HTTP, HTTPs, SMTP and FTP. We examine the entire flow and life-cycle of data-packet movement from origin to destination. The course examines the role of DNS and SMTP servers in routing internet traffic and email transmissions.</description>
     </item>
     
     <item>
-      <title>Practical MongoDB &#43; PHP: For Absolute Beginners</title>
-      <link>https://www.jobready.ml/practical-mongodb-php-for-absolute-beginners/</link>
-      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/practical-mongodb-php-for-absolute-beginners/</guid>
-      <description>=== Students&#39; reviews&#39; regarding this course ===
-&#34;In-depth explanations, good examples, knowledgeable instructor!&#34; -- Gordon Stanley
-&#34;Really very good course to start learning Mongodb.&#34; -- Saifaldeen
-&#34;Simply awesome. The instructor is explaining every line of code that he is typing it on the console and explains straight to the point. I got to learn many new things in this course as a beginner.&#34; -- Saurabh Mirajkar
-&#34;Great course. Loved the style of the instructor and the way things are presented.</description>
-    </item>
-    
-    <item>
       <title>Build An NFT Marketplace From Scratch - Blockchain DApp</title>
-      <link>https://www.jobready.ml/build-an-nft-marketplace-from-scratch-blockchain-dapp/</link>
+      <link>https://jobready.courseintern.com/build-an-nft-marketplace-from-scratch-blockchain-dapp/</link>
       <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-an-nft-marketplace-from-scratch-blockchain-dapp/</guid>
+      <guid>https://jobready.courseintern.com/build-an-nft-marketplace-from-scratch-blockchain-dapp/</guid>
       <description>Learn full stack DApp Development by building out from scratch to completion an NFT Marketplace (for minting, buying and selling NFTs live with IPFS data hosting) onto Polygon as a layer 2 Ethereum Solution using the best modern tools and languages. Join in early on an exciting technology implementing global changes to multiple industries and businesses with DApps.This is the course you&#39;ve been looking for to get the full picture and functionality for DApp development and what it takes to succeed from testing to successful deployments and upgrades.</description>
     </item>
     
     <item>
-      <title>Gatsby JS | Build a personal blog using gatsbyJS</title>
-      <link>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</link>
-      <pubDate>Sun, 10 Oct 2021 10:36:08 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/gatsby-js-build-a-personal-blog-using-gatsbyjs/</guid>
-      <description>Learn to build blazing fast apps and websites with React using Gatsby, a static PWA (Progressive Web App) generator! Starting from scratch, you’ll learn to build a full blog app
-Gatsby is a React-based, GraphQL powered static site generator. It combines together the best parts of React, webpack, react-router, GraphQL, and other front end tools to provide excellent developer experience. Gatsby is far more than typical static site generator though. You can think of it more like a modern front-end framework.</description>
-    </item>
-    
-    <item>
-      <title>Modern PHP Web Development w/ MySQL, GitHub &amp; Heroku</title>
-      <link>https://www.jobready.ml/modern-php-web-development-w/-mysql-github-heroku/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/modern-php-web-development-w/-mysql-github-heroku/</guid>
-      <description>Overview
-This course is designed to equip students with the skills required for creating dynamic web pages using PHP and MySQL. It further equips students with the fundamentals of PHP programming, while providing them with advanced features of the language. Immerse yourself in an end-to-end full-stack development experience, as we explore user interface design, business logic and hosting activities. By the end of this course, you will be able to build an attractive PHP application; styled using Bootstrap 4; track and manage changes with GitHub and deploy a fully data-driven application to Heroku Cloud Hosting.</description>
-    </item>
-    
-    <item>
       <title>Splunk Developer Certification Practice Tests 2021</title>
-      <link>https://www.jobready.ml/splunk-developer-certification-practice-tests-2021/</link>
+      <link>https://jobready.courseintern.com/splunk-developer-certification-practice-tests-2021/</link>
       <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/splunk-developer-certification-practice-tests-2021/</guid>
+      <guid>https://jobready.courseintern.com/splunk-developer-certification-practice-tests-2021/</guid>
       <description>The Splunk Certified Developer exam is the final step towards completion of the
 Splunk Certified Developer certification. This highly technical certification
 behaviors and visualizations, building apps using the Splunk Web Framework, and REST endpoints.
@@ -463,83 +1354,74 @@ Visualizations, Building Splunk Apps, and Developing with Splunk’s REST API co
     
     <item>
       <title>Web Development Masterclass - Complete Certificate Course</title>
-      <link>https://www.jobready.ml/web-development-masterclass-complete-certificate-course/</link>
+      <link>https://jobready.courseintern.com/web-development-masterclass-complete-certificate-course/</link>
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/web-development-masterclass-complete-certificate-course/</guid>
+      <guid>https://jobready.courseintern.com/web-development-masterclass-complete-certificate-course/</guid>
       <description>This course is fully compatible with the latest versions of Ubuntu (20.04 LTS, 18.04 LTS). You can also continue using 14.04 LTS or 16.04 LTS if you prefer, as the content is compatible with all versions.
 This course offers a comprehensive look into the entire web development process - from local server configuration using WAMP and MAMP (Apache, MySQL, PHP) to production deployment using the latest web technologies including: LAMP Stack (Linux, Apache, PHP and MySQL) for Ubuntu, HTML5, CSS, Bootstrap, JavaScript, jQuery, XML, and AJAX.</description>
     </item>
     
     <item>
       <title>Build a TodoList Fast with Angular and ASP.NET Core API</title>
-      <link>https://www.jobready.ml/build-a-todolist-fast-with-angular-and-asp.net-core-api/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-fast-with-angular-and-asp.net-core-api/</link>
       <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-fast-with-angular-and-asp.net-core-api/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-fast-with-angular-and-asp.net-core-api/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use ASPNet Core and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList Fast with NestJS and Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-fast-with-nestjs-and-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-fast-with-nestjs-and-angular/</link>
       <pubDate>Tue, 05 Oct 2021 10:01:23 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-fast-with-nestjs-and-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-fast-with-nestjs-and-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use NestJS and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Java, Spring Boot and Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-java-spring-boot-and-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-java-spring-boot-and-angular/</link>
       <pubDate>Tue, 05 Oct 2021 10:01:23 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-java-spring-boot-and-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-java-spring-boot-and-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Java, Spring Boot, and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Laravel and Angular</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-laravel-and-angular/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-laravel-and-angular/</link>
       <pubDate>Tue, 05 Oct 2021 10:01:23 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-laravel-and-angular/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-laravel-and-angular/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Laravel and Angular. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to an Angular Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
-      <title>cPanel Ultimate Course</title>
-      <link>https://www.jobready.ml/cpanel-ultimate-course/</link>
-      <pubDate>Tue, 05 Oct 2021 10:01:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/cpanel-ultimate-course/</guid>
-      <description>Have you always wanted to learn how to do use cPanel but don&#39;t know where to start? Would you like to access cPanel and bring your web hosting to life? Then cPanel Ultimate Course is for you! Hi, I’m your instructor Josh Werner and I’ll be leading you through this course. cPanel is an in-demand skill in 2021. The course begins with the basics. We&#39;ll Cover everything you need to know about cPanel from scratch.</description>
-    </item>
-    
-    <item>
       <title>Build A TodoList with Kotlin, Spring Boot and React</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-kotlin-spring-boot-and-react/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-kotlin-spring-boot-and-react/</link>
       <pubDate>Mon, 04 Oct 2021 10:00:23 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-kotlin-spring-boot-and-react/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-kotlin-spring-boot-and-react/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use Kotlin, Spring Boot, and React. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to a React Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>Build A TodoList with Python, FastAPI and React</title>
-      <link>https://www.jobready.ml/build-a-todolist-with-python-fastapi-and-react/</link>
+      <link>https://jobready.courseintern.com/build-a-todolist-with-python-fastapi-and-react/</link>
       <pubDate>Mon, 04 Oct 2021 10:00:23 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-todolist-with-python-fastapi-and-react/</guid>
+      <guid>https://jobready.courseintern.com/build-a-todolist-with-python-fastapi-and-react/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you. This course was built with the goal of teaching the students how to use FastAPI, Python, and React. It focuses heavily on designing a backend RESTful Web Service with CRUD functionality that sends data to a React Front End Application. This is an entry-level course that focuses on building and reinforcing some of the techniques used by developers to build a full-stack application.</description>
     </item>
     
     <item>
       <title>The Complete NFT Web Development Course - Zero To Expert</title>
-      <link>https://www.jobready.ml/the-complete-nft-web-development-course-zero-to-expert/</link>
+      <link>https://jobready.courseintern.com/the-complete-nft-web-development-course-zero-to-expert/</link>
       <pubDate>Mon, 04 Oct 2021 10:00:22 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-complete-nft-web-development-course-zero-to-expert/</guid>
+      <guid>https://jobready.courseintern.com/the-complete-nft-web-development-course-zero-to-expert/</guid>
       <description>The Complete NFT Web Development Course - Zero To ExpertLearn how to build an NFT Marketplace - Solidity And React - Truffle + Web3 for NFTs (Non-Fungible-Tokens) - Blockchain
 Become a Complete NFT Web Developer by learning the best in demand skills taught by renown engineer and full stack developer Clarian North. Join in early on an exciting technology implementing global changes to multiple industries and businesses.
 This course was designed with the latest NFT tools including the Solidity Compiler, Truffle, and Web3 Patterns in 2021 as well as teaches the very latest Web Development techniques and version of React with both hooks and class components!</description>
@@ -547,28 +1429,28 @@ This course was designed with the latest NFT tools including the Solidity Compil
     
     <item>
       <title>cssSelector Tutorial from basic to advance level.</title>
-      <link>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</link>
+      <link>https://jobready.courseintern.com/cssselector-tutorial-from-basic-to-advance-level./</link>
       <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/cssselector-tutorial-from-basic-to-advance-level./</guid>
+      <guid>https://jobready.courseintern.com/cssselector-tutorial-from-basic-to-advance-level./</guid>
       <description>~ Learn to write cssSelector from scratch and be an expert in cssSelector Writing~ In this cssSelector Tutorial series, we will learn all about cssSelector from basic to advance level with real time scenarios and its importance in automation like with selenium, cypress etc. We will learn about the different cssSelector functions in very simple way which will be very easy to understand and will make you perfect in cssSelector writing.</description>
     </item>
     
     <item>
       <title>PHP Crash Course For Absolute Beginners 2021</title>
-      <link>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</link>
+      <link>https://jobready.courseintern.com/php-crash-course-for-absolute-beginners-2021/</link>
       <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/php-crash-course-for-absolute-beginners-2021/</guid>
+      <guid>https://jobready.courseintern.com/php-crash-course-for-absolute-beginners-2021/</guid>
       <description>PHP is a general-purpose scripting language especially suited to web development. Learn about the basics of PHP.This course teaches you all of the concepts from absolute scratch. You do not require any prior knowledge of PHP. This course is created for absolute beginners.1. Introduction to PHP - Explains about what is PHP, its origin and uses of PHP2. Writing your first php code - Echo, Variables, Strings 3. Strings - Use of Single and Double Quotes4.</description>
     </item>
     
     <item>
       <title>React Redux Toolkit complete guide</title>
-      <link>https://www.jobready.ml/react-redux-toolkit-complete-guide/</link>
+      <link>https://jobready.courseintern.com/react-redux-toolkit-complete-guide/</link>
       <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/react-redux-toolkit-complete-guide/</guid>
+      <guid>https://jobready.courseintern.com/react-redux-toolkit-complete-guide/</guid>
       <description>Course description:
 This course is all about managing the state in react application using the redux toolkit. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge. You&#39;ll find plenty of discussions added in to help you understand exactly when and where to use each feature of React and Redux.
 What will you build?
@@ -576,95 +1458,11 @@ To get the most from this course we will demonstrate a redux toolkit by building
     </item>
     
     <item>
-      <title>Learn Bootstrap - For Beginners</title>
-      <link>https://www.jobready.ml/learn-bootstrap-for-beginners/</link>
-      <pubDate>Fri, 01 Oct 2021 09:38:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-bootstrap-for-beginners/</guid>
-      <description>Course: Learn Bootstrap - For BeginnersLearn to create mobile-responsive web pages using Bootstrap
-Students learn to create the front-end component of mobile-responsive web applications, using the Bootstrap framework.
-The techniques explored in this course will ensure your web applications adhere to strict development standards to avoid cross-browser and cross-device compatibility issues.
-The course starts with the fundamental concepts, including embedding Bootstrap into web pages. We then explore the Bootstrap Grid system and popular mobile responsive web layouts.</description>
-    </item>
-    
-    <item>
-      <title>Learn HTML - For Beginners</title>
-      <link>https://www.jobready.ml/learn-html-for-beginners/</link>
-      <pubDate>Fri, 01 Oct 2021 09:38:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-html-for-beginners/</guid>
-      <description>Course: Learn HTML - For BeginnersLean how to create web pages using HTML
-Students will learn how to create engaging web pages using HTML5, which is an integral part of the development process.
-The material covers an intensive array of HTML5 elements including images, videos, lists, tables, forms, iframes and much more.
-The course includes several hands-on projects to ensure comprehension of course materials.
-By the end of the training, students will be proficient with coding in HTML and ready to tackle the more advanced scripting languages that follow.</description>
-    </item>
-    
-    <item>
-      <title>Learn JavaScript - For Beginners</title>
-      <link>https://www.jobready.ml/learn-javascript-for-beginners/</link>
-      <pubDate>Fri, 01 Oct 2021 09:38:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-javascript-for-beginners/</guid>
-      <description>Course: Learn JavaScript - For BeginnersLearn how to Code Web Pages using JavaScript
-Students learn to add dynamic, interactivity to web pages using JavaScript.
-We start with exploring the fundamental concepts, including JavaScript placement and output functions. We then transition to working with arithmetic operators, math functions, arrays, sorting, conditional statements and loops. Students also learn to work with events and functions.
-The course includes several hands-on exercises to help students master this essential scripting language.</description>
-    </item>
-    
-    <item>
-      <title>Learn jQuery - For Beginners</title>
-      <link>https://www.jobready.ml/learn-jquery-for-beginners/</link>
-      <pubDate>Fri, 01 Oct 2021 09:38:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-jquery-for-beginners/</guid>
-      <description>Course: Learn jQuery - For BeginnersLearn to create animated, interactive web pages using jQuery Library
-Take your web development skills to new heights by using jQuery to create animated, interactive web page components using this powerful JavaScript Library.
-We begin with the fundamental concepts such as embedding jQuery into documents and basic syntax. We then progress into working with Events, Event handlers, animations, fading, sliding, toggling, hiding and much more. Students will also learn to effectively use Callback functions and chaining methods.</description>
-    </item>
-    
-    <item>
-      <title>Learn MySQL - For Beginners</title>
-      <link>https://www.jobready.ml/learn-mysql-for-beginners/</link>
-      <pubDate>Fri, 01 Oct 2021 09:38:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-mysql-for-beginners/</guid>
-      <description>Course: Learn MySQL - For BeginnersLearn to Create Database Driven Web Applications using MySQL
-Students learn to integrate and administer MySQL databases as part of PHP web application development.
-The course begins with an in-depth look into PhpMyAdmin to create, delete and modify databases. We also explore security considerations and user privileges.
-Next, students learn to build connections to existing databases in PHP, and execute commands using several essential SQL statements.</description>
-    </item>
-    
-    <item>
-      <title>Learn PHP - For Beginners</title>
-      <link>https://www.jobready.ml/learn-php-for-beginners/</link>
-      <pubDate>Fri, 01 Oct 2021 09:38:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-php-for-beginners/</guid>
-      <description>Course: Learn PHP - For BeginnersLearn to create dynamic web applications using PHP
-Students learn to integrate client-server communication into web pages to create dynamic functionality using PHP.
-We start with the fundamentals, including PHP syntax and variable declaration. The course transitions into working with objects, arithmetic operators, conditional statements, loops, functions and arrays.
-Students will also learn to utilize server side form validation techniques to maintain data integrity.
-What you&#39;ll learn - Overview:</description>
-    </item>
-    
-    <item>
-      <title>Learn WordPress &amp; Using WordPress to Make 6 Figures Online</title>
-      <link>https://www.jobready.ml/learn-wordpress-using-wordpress-to-make-6-figures-online/</link>
-      <pubDate>Fri, 01 Oct 2021 09:38:23 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-wordpress-using-wordpress-to-make-6-figures-online/</guid>
-      <description>Learn WordPress
-When WordPress was not there it was impossible to create a beautiful professional website in few hours. But WordPress made it so easy that you can create and bring your website live on the internet in few hours.
-Learning WordPress is easy and interesting but it becomes more interesting when you are learning wordpress for a money-making idea. To increase your interest in learning WordPress I have shared and taught you in this course a new and smart business idea called drop servicing.</description>
-    </item>
-    
-    <item>
       <title>Basics of PHP in 2 Hours</title>
-      <link>https://www.jobready.ml/basics-of-php-in-2-hours/</link>
+      <link>https://jobready.courseintern.com/basics-of-php-in-2-hours/</link>
       <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/basics-of-php-in-2-hours/</guid>
+      <guid>https://jobready.courseintern.com/basics-of-php-in-2-hours/</guid>
       <description>Basics in PHP in 2 Hours
 This course will help you master the basic concepts of PHP version 8 within just 2 hours. The Basics of PHP course covers, the concepts of PHP Scripting in 2 hours, and then you&#39;ll be creating your own applications, working with coding quizzes and challenges to excel what you learned.
 Why PHP?
@@ -672,173 +1470,35 @@ PHP (Hypertext Preprocessor) is known as a general-purpose scripting language th
     </item>
     
     <item>
-      <title>Learn CSS - For Beginners</title>
-      <link>https://www.jobready.ml/learn-css-for-beginners/</link>
-      <pubDate>Tue, 28 Sep 2021 10:00:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-css-for-beginners/</guid>
-      <description>Course: Learn CSS - For BeginnersLearn to Work with Cascading Style Sheets
-Students learn to harness the true power of front-end development using CSS (Cascading Style Sheets). Through comprehensive, hands-on exercises, students will develop stylish, responsive web layouts using CSS properties and style definitions.
-We start with basic concepts such as the parts of a CSS rule and working with Classes, Divisions and IDs. Next we explore an intensive collection of style definition, from working with text, backgrounds and transparency, right to CSS positioning, link styling, and popular layout development techniques.</description>
-    </item>
-    
-    <item>
-      <title>JavaScript - Basics to Advanced [step by step (2021)]</title>
-      <link>https://www.jobready.ml/javascript-basics-to-advanced-step-by-step-2021/</link>
-      <pubDate>Mon, 27 Sep 2021 18:04:21 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/javascript-basics-to-advanced-step-by-step-2021/</guid>
-      <description>*UPDATE: New Content Added
-Around 60+ video content added 
- + 
-Bonus Sections: jQuery and ES6 for ReactJS In this JavaScript course - At the beginning of this JavaScript course, you will learn and understand : 1) All the basic concepts of JavaScript. 2) And the advanced topics like object-oriented programming where you will learn the OOPs concepts like data binding, inheritance, data encapsulation, etc. 3) The most used part in JavaScript - Functional Programming where we will cover the special functions like map, filter, reduce, and many more.</description>
-    </item>
-    
-    <item>
-      <title>HTML, CSS, &amp; Bootstrap - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/html-css-bootstrap-certification-course-for-beginners/</link>
-      <pubDate>Sat, 25 Sep 2021 10:06:19 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/html-css-bootstrap-certification-course-for-beginners/</guid>
-      <description>This course covers three essential concepts for aspiring Web Developers. This includes HTML, CSS, &amp;amp; Bootstrap. Each section comes complete with comprehensive lessons that help students master the art of front-end coding. The course is divided as follows:
-HTML Development
-This section explores HTML. HTML is a key fundamental building block when learning to develop websites. Students initially learn the basics of HTML page structure and gradually transition into working with spacing, text formatting, lists, images, videos, links, anchors, tables, forms and much more.</description>
-    </item>
-    
-    <item>
-      <title>Bootstrap &amp; jQuery - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/bootstrap-jquery-certification-course-for-beginners/</link>
-      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/bootstrap-jquery-certification-course-for-beginners/</guid>
-      <description>Welcome to the Bootstrap &amp;amp; jQuery – Certification Course for BeginnersWith over 64% of the world using mobile devices to browse web pages, it’s no surprise that Bootstrap and jQuery have become the industry leaders in front-end scripting languages.This course starts right from the foundational concepts and gradually progresses to intermediate topics. Through a project-style learning approach, students will have the opportunity to build mobile-responsive web pages, complete with animation and interactivity.</description>
-    </item>
-    
-    <item>
-      <title>HTML, JavaScript, &amp; Bootstrap - Certification Course</title>
-      <link>https://www.jobready.ml/html-javascript-bootstrap-certification-course/</link>
-      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/html-javascript-bootstrap-certification-course/</guid>
-      <description>Welcome to the HTML, JavaScript, &amp;amp; Bootstrap – Certification Course for BeginnersThis course gives students the knowledge necessary to take their front-end development skills to the next level. This course, is meant for beginners who have little, to no experience with coding. We start right from the foundational concepts and work our way up to intermediate level topics. By the end of this course, students will be able to create stunning, mobile responsive web pages using the latest scripting languages.</description>
-    </item>
-    
-    <item>
-      <title>NGINX, Apache, SSL Encryption - Certification Course</title>
-      <link>https://www.jobready.ml/nginx-apache-ssl-encryption-certification-course/</link>
-      <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/nginx-apache-ssl-encryption-certification-course/</guid>
-      <description>Welcome to our latest course, which will guide you through the process of installing, securing, and configuring NGINX or Apache on an Ubuntu web server. You will also learn to encrypt all web traffic, using a Free SSL certificate from Let’s Encrypt.
-APACHE Section:
-This course begins with exploring the most widely used web server technology available, Apache. Statistics show that Apache is used to run over 65% of all web servers around the world.</description>
-    </item>
-    
-    <item>
-      <title>How the Internet Works &amp; the Web Development Process</title>
-      <link>https://www.jobready.ml/how-the-internet-works-the-web-development-process/</link>
-      <pubDate>Sun, 19 Sep 2021 21:40:45 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/how-the-internet-works-the-web-development-process/</guid>
-      <description>This course explores how the internet works, including the composition and transmission of data packets over both Local and Wide Area Networks. We take a look at the HTTP and HTTPS protocols as applicable to client and server side communications - including DNS Lookups. This course will also teach students how email exchange works over SMTP and IMAP. The role of Network Ports and Firewalls are also introduced.The course comes complete with two bonus sections which offer a quick guide for aspiring Web Developers.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Domain Names and Web Hosting - Quick Guide</title>
-      <link>https://www.jobready.ml/introduction-to-domain-names-and-web-hosting-quick-guide/</link>
-      <pubDate>Sun, 19 Sep 2021 21:40:45 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/introduction-to-domain-names-and-web-hosting-quick-guide/</guid>
-      <description>Domain Names Section:
-We provide an overview of the domain name registration process. This includes the role of registrars and TLD (Top Level Domain) administration by ICANN. ccTLD&#39;s (Country Code Top Level Domains) are also explored.
-Students will gain hands-on experience with the registration process using popular domain registrars. We will provide a comparison of different registrars and register a sample domain name using GoDaddy. Other topics of discussion will include: domain name privacy and administration, auto-renewal, domain forwarding, and name server assignment.</description>
-    </item>
-    
-    <item>
       <title>Web Design Specialist Practice Exam --&gt; Practice Test 2021</title>
-      <link>https://www.jobready.ml/web-design-specialist-practice-exam-practice-test-2021/</link>
+      <link>https://jobready.courseintern.com/web-design-specialist-practice-exam--practice-test-2021/</link>
       <pubDate>Sat, 18 Sep 2021 12:19:19 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/web-design-specialist-practice-exam-practice-test-2021/</guid>
+      <guid>https://jobready.courseintern.com/web-design-specialist-practice-exam--practice-test-2021/</guid>
       <description>Dear Friends,
-Are you Preparing for Interview in Web Development ? 
-Don’t be stressed, Take our Web Development Based Mock Test and prepare yourself for the Exam. Here you will get Web Development based Multiple Choice Question for your Next Exam.
-What you will get in These Mock Test ? 
-It contains sample questions which are likely to be asked in the Exam.
+Are you Preparing for Interview in Web Development ? Don’t be stressed, Take our Web Development Based Mock Test and prepare yourself for the Exam. Here you will get Web Development based Multiple Choice Question for your Next Exam.
+What you will get in These Mock Test ? It contains sample questions which are likely to be asked in the Exam.
 These Web Development based MCQ questions help you with self-study and self-assessment.</description>
     </item>
     
     <item>
-      <title>HTML, CSS, &amp; JavaScript - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/html-css-javascript-certification-course-for-beginners/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/html-css-javascript-certification-course-for-beginners/</guid>
-      <description>Welcome to the HTML, CSS, &amp;amp; JavaScript - Certification Course for Beginners.
-If you are interested in mastering the art of front-end development, look no further. This course is the complete beginners guide to developing cutting-edge web pages that are fully mobile responsive. The course branches into three sections. We start by exploring HTML5, students learn the composition of a web page and how a web browser interprets html code to display the visual elements of a page.</description>
-    </item>
-    
-    <item>
-      <title>JavaScript, Bootstrap, &amp; PHP - Certification for Beginners</title>
-      <link>https://www.jobready.ml/javascript-bootstrap-php-certification-for-beginners/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/javascript-bootstrap-php-certification-for-beginners/</guid>
-      <description>Welcome to the JavaScript, Bootstrap, &amp;amp; PHP - Certification Course for Beginners.
-This course offers an excellent introduction into three of the most widely used programming languages available for both front-end and back-end development.
-Students will start with adding client-side interactivity to web pages using JavaScript. JavaScript is a powerful language that can be used to add numerous functions to web pages, ranging from form validation to animated objects. By using the Document Object Model, students will manipulate individual html and css elements using JS.</description>
-    </item>
-    
-    <item>
-      <title>Setup a Virtual Web Server using Linode or Digital Ocean</title>
-      <link>https://www.jobready.ml/setup-a-virtual-web-server-using-linode-or-digital-ocean/</link>
-      <pubDate>Fri, 17 Sep 2021 19:52:12 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/setup-a-virtual-web-server-using-linode-or-digital-ocean/</guid>
-      <description>This course offers an in-depth, hands-on overview of setting up and configuring a production web server, using Linode or Digital Ocean. Virtual Cloud Servers have become the industry standard for hosting web applications of all sizes and complexity. This includes small static web pages, to dynamic, database driven web sites that handle thousands of simultaneous processes. Regardless of the project, virtual servers offer a solution that provides web developers a scalable infrastructure that can easily adapt to a changing environment.</description>
-    </item>
-    
-    <item>
-      <title>Learn Wordpress Now: Wordpress for Beginners</title>
-      <link>https://www.jobready.ml/learn-wordpress-now-wordpress-for-beginners/</link>
-      <pubDate>Wed, 15 Sep 2021 12:58:25 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-wordpress-now-wordpress-for-beginners/</guid>
-      <description>Have you ever wanted to start a website or blog on Wordpress but didn&#39;t know where to start? Felt overwhelmed by all the technical lingo or steps? Not to worry! With my Learn Wordpress Now: Wordpress for Beginners course, I take your hand and guide you step-by-step from the very beginning to show you how to get started and become familiar with the Wordpress platform in order to have your own blog or website setup in under an hour!</description>
-    </item>
-    
-    <item>
-      <title>SVG Ultimate Course</title>
-      <link>https://www.jobready.ml/svg-ultimate-course/</link>
-      <pubDate>Mon, 13 Sep 2021 20:22:08 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/svg-ultimate-course/</guid>
-      <description>Have you always wanted to learn how to code but don&#39;t know where to start?
-Would you like to make amazing websites and bring your ideas to life?
-Then SVG Ultimate Course is for you!
-Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
-Programming is the most in-demand skill in 2021. The course begins with the basics. I&#39;ll take you through everything you need to know to start building websites like an expert.</description>
-    </item>
-    
-    <item>
       <title>Python Django Full Social Media Course</title>
-      <link>https://www.jobready.ml/python-django-full-social-media-course/</link>
+      <link>https://jobready.courseintern.com/python-django-full-social-media-course/</link>
       <pubDate>Sun, 12 Sep 2021 23:49:51 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-django-full-social-media-course/</guid>
+      <guid>https://jobready.courseintern.com/python-django-full-social-media-course/</guid>
       <description>About this course
 In this course, you&#39;ll learn Django from the basics using the project-based approach. You will learn how to build a social media web app where a user can interact with other people.
-
 Why Django?
 Django is one of the most popular python frameworks. If you know python, and you are interested in web development, then Django is the best choice for you. Lot&#39;s of developers and companies choose to use Django because of it is an high level framework which allows you to build complex applications quickly.</description>
     </item>
     
     <item>
       <title>Go ile RESTful API Programlama</title>
-      <link>https://www.jobready.ml/go-ile-restful-api-programlama/</link>
+      <link>https://jobready.courseintern.com/go-ile-restful-api-programlama/</link>
       <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/go-ile-restful-api-programlama/</guid>
+      <guid>https://jobready.courseintern.com/go-ile-restful-api-programlama/</guid>
       <description>DeepLab.Bootcamp organizasyonu ile temelden ileri seviyeye birçok konuda profesyonel canlı yayın eğitimleri ve workshop&#39;lara katılmak için Discord kanalımızı ziyaret edebilirsiniz : discord .com/invite/eqgURvZdzj
 Kurs İçeriği
 Yazılım teknolojilerinin gelişmesiyle birlikte ortaya çıkan en güçlü ve performans programlama dillerinden birisi olan Golang ile web uygulamalar geliştirebilmek hem Türkiye hem de global olarak büyük bir kariyer adımı olacaktır.
@@ -846,126 +1506,21 @@ Google, SpaceX, Tesla, Docker, Kubernetes, Koding, Dropbox, Apple ve daha birço
     </item>
     
     <item>
-      <title>Create a Members Only Blog using PHP, MySQL, &amp; AJAX</title>
-      <link>https://www.jobready.ml/create-a-members-only-blog-using-php-mysql-ajax/</link>
-      <pubDate>Sat, 11 Sep 2021 12:13:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/create-a-members-only-blog-using-php-mysql-ajax/</guid>
-      <description>This course offers a hands-on approach in learning how to develop web applications using PHP, MySQL, and AJAX. Students will develop a blog with MySQL database integration. The project aims to cover the following key concepts:
-Creating Dynamic Web Pages in PHP
-Creating a MySQL Database to store Member Data.
-Creating PHP &amp;amp; AJAX Validated Member Registration Forms
-Creating PHP &amp;amp; AJAX Validated Member Login Authentication
-Working with Session Variables – Login/Logout Functionality</description>
-    </item>
-    
-    <item>
-      <title>PHP for Beginners: PHP Crash Course 2021</title>
-      <link>https://www.jobready.ml/php-for-beginners-php-crash-course-2021/</link>
-      <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-for-beginners-php-crash-course-2021/</guid>
-      <description>Welcome to the informative PHP crash course for 2021 where learn modern PHP.
-I put this crash course together for beginners and it was supposed to be less in the amount of time, but honestly, it got kind of far because the PHP is big, nonetheless, I promise you you will have great knowledge and confidence in your PHP skills after you finish this course. 
-
-So look at what I am offering here</description>
-    </item>
-    
-    <item>
       <title>Build a To-Do List App with Node, Express, React and MongoDB</title>
-      <link>https://www.jobready.ml/build-a-to-do-list-app-with-node-express-react-and-mongodb/</link>
+      <link>https://jobready.courseintern.com/build-a-to-do-list-app-with-node-express-react-and-mongodb/</link>
       <pubDate>Thu, 09 Sep 2021 09:53:56 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/build-a-to-do-list-app-with-node-express-react-and-mongodb/</guid>
+      <guid>https://jobready.courseintern.com/build-a-to-do-list-app-with-node-express-react-and-mongodb/</guid>
       <description>React is the most popular JavaScript library of the last five years, and the job market is still hotter than ever. Companies large and small hire engineers who understand React, and salaries for engineers are high all the time. So, it&#39;s a great time to learn React! This course starts with zero knowledge assumed! All you need is basic web development and JavaScript knowledge.
-
 In this course, you&#39;ll start with the basics of React and React Hooks and then expand your knowledge by building a fun to-do list app, both the front-end and the back-end, which puts you in a state of learning in a practical way.</description>
     </item>
     
     <item>
-      <title>jQuery for Absolute Beginners : From Beginning to Advanced</title>
-      <link>https://www.jobready.ml/jquery-for-absolute-beginners-from-beginning-to-advanced/</link>
-      <pubDate>Wed, 08 Sep 2021 17:46:02 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/jquery-for-absolute-beginners-from-beginning-to-advanced/</guid>
-      <description>Our students review about this course --
-&#34;Best course to get started with jQuery, Thankyou :) &#34; -- Vipinraj KT
-&#34;It is easy to understand for beginners in JQuery. Simple and clear explanation.&#34; -- Irina Zakharova
-&#34;taking everything into the details and steps by steps, I love the course so far&#34; -- Maher Mahbouby
-&#34;Loved this course. I had zero knowledge on jQuery and now I just love it!&#34; -- Sachin Satish Pai</description>
-    </item>
-    
-    <item>
-      <title>CSS3 and Bootstrap for Absolute Beginners : 4 courses in 1</title>
-      <link>https://www.jobready.ml/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1/</link>
-      <pubDate>Sat, 04 Sep 2021 14:39:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1/</guid>
-      <description>By completing this course, you will become a master in Web Design Technologies like CSS3 and Bootstrap and more. This course gives you hands-on and practical experience on detailed CSS3 and Bootstrap and more.
-Contents of this tutorial # 
-Interactive CSS3: Basics What is CSS? Why we need it?
-What&#39;s new in CSS3
-CSS Selectors, properties and attributes ID Selectors Class Selectors Element Selectors All Selectors Inline style sheets External Style sheets Interactive CSS3: Advanced The Box model Adding Color Working with fonts Background images Styling ID tags</description>
-    </item>
-    
-    <item>
-      <title>Front End Web Development Ultimate Course 2021</title>
-      <link>https://www.jobready.ml/front-end-web-development-ultimate-course-2021/</link>
-      <pubDate>Thu, 02 Sep 2021 22:17:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/front-end-web-development-ultimate-course-2021/</guid>
-      <description>Hi and Welcome to Front End Web Development Ultimate Course 2021
-I&#39;m you instructor Josh Werner and I&#39;ll be leading you through this course
-Have you always wanted to learn how to code but don&#39;t know where to start?	Would you like to make amazing websites and bring your ideas to life?	Then Front End Web Development Ultimate Course 2021 is for you!
-Programming is the most in-demand skill in 2021.</description>
-    </item>
-    
-    <item>
-      <title>PHP &amp; MySQL - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/php-mysql-certification-course-for-beginners/</link>
-      <pubDate>Thu, 02 Sep 2021 22:17:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-mysql-certification-course-for-beginners/</guid>
-      <description>Welcome to the PHP &amp;amp; MySQL Certification Course for Beginners.This course offers a comprehensive guide to learning how to code in PHP. We also explore integrating MySQL Databases into your PHP Projects for dynamic, user driven functionality.We start with PHP basics, including variable declaration and data output. The lessons then transition into working with objects, conditional statements, loops, functions, arrays, form validation, sorting, and much more.After the PHP Section, students learn to unleash the true power of dynamic page development with MySQL database integration.</description>
-    </item>
-    
-    <item>
-      <title>PHP for Beginners 2021: The Complete PHP MySQL PDO Course</title>
-      <link>https://www.jobready.ml/php-for-beginners-2021-the-complete-php-mysql-pdo-course/</link>
-      <pubDate>Thu, 02 Sep 2021 22:17:34 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/php-for-beginners-2021-the-complete-php-mysql-pdo-course/</guid>
-      <description>Welcome to my full stack PHP, MySQL, and PDO course where you will learn everything you need to know about one of the most three hot technologies right now. This course is organized systematically from the programming language (PHP) to The most well-known database (MySQL) to the best PHP tool to connect to this database which is (PDO) to give the most interesting, fun, informative, and worthy opportunity for learning web development the right way.</description>
-    </item>
-    
-    <item>
-      <title>CSS &amp; JavaScript - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/css-javascript-certification-course-for-beginners/</link>
-      <pubDate>Thu, 02 Sep 2021 22:17:33 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/css-javascript-certification-course-for-beginners/</guid>
-      <description>Welcome to the CSS &amp;amp; JavaScript – Certification Course for BeginnersThis two part series provides a detailed overview of the fundamentals of coding using CSS and JavaScript. Students will learn how to create responsive web pages using project based learning. The CSS section explores almost every aspect of CSS development. This includes:
-Working with IDs, Classes, and Divisions.
-CSS Text Properties, Borders and Backgrounds
-Styling Images and Links
-CSS Display Properties</description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS - Certification Course for Beginners</title>
-      <link>https://www.jobready.ml/html-css-certification-course-for-beginners/</link>
-      <pubDate>Thu, 02 Sep 2021 22:17:33 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/html-css-certification-course-for-beginners/</guid>
-      <description>Welcome to the HTML &amp;amp; CSS – Certification Course for BeginnersThis two part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start with exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms.</description>
-    </item>
-    
-    <item>
       <title>Introduction to Domain Names &amp; Web Hosting(Free Domain Name)</title>
-      <link>https://www.jobready.ml/introduction-to-domain-names-web-hostingfree-domain-name/</link>
+      <link>https://jobready.courseintern.com/introduction-to-domain-names-web-hostingfree-domain-name/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/introduction-to-domain-names-web-hostingfree-domain-name/</guid>
+      <guid>https://jobready.courseintern.com/introduction-to-domain-names-web-hostingfree-domain-name/</guid>
       <description>Domain Names Section:
 We provide an overview of the domain name registration process. This includes the role of registrars and TLD (Top Level Domain) administration by ICANN. ccTLD&#39;s (Country Code Top Level Domains) are also explored.
 Students will gain hands-on experience with the registration process using popular domain registrars such as GoDaddy/Namecheap. We will provide a comparison of different registrars and register a sample domain name using GoDaddy/Namecheap. Other topics of discussion will include: domain name privacy and administration, auto-renewal, domain forwarding, and name server assignment.</description>
@@ -973,68 +1528,56 @@ Students will gain hands-on experience with the registration process using popul
     
     <item>
       <title>Learn Basic HTML, CSS &amp; Javascript (Typescript) with Vue</title>
-      <link>https://www.jobready.ml/learn-basic-html-css-javascript-typescript-with-vue/</link>
+      <link>https://jobready.courseintern.com/learn-basic-html-css-javascript-typescript-with-vue/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-basic-html-css-javascript-typescript-with-vue/</guid>
+      <guid>https://jobready.courseintern.com/learn-basic-html-css-javascript-typescript-with-vue/</guid>
       <description>If you&#39;re tired of long courses and just want to learn basic web development this course is for you.
-
 We focus on teaching you only what you need to know and keeping the videos short. The main focus of this course is to teach the basics of HTML, CSS, Javascript, Typescript, and Vue JS. By the end of this course, you should be able to create a basic website, understand how styling a website works and how to get data from a server.</description>
     </item>
     
     <item>
       <title>Modern React JS Hooks e Context com a Edição Mais Recente</title>
-      <link>https://www.jobready.ml/modern-react-js-hooks-e-context-com-a-edi%C3%A7%C3%A3o-mais-recente/</link>
+      <link>https://jobready.courseintern.com/modern-react-js-hooks-e-context-com-a-edi%C3%A7%C3%A3o-mais-recente/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/modern-react-js-hooks-e-context-com-a-edi%C3%A7%C3%A3o-mais-recente/</guid>
+      <guid>https://jobready.courseintern.com/modern-react-js-hooks-e-context-com-a-edi%C3%A7%C3%A3o-mais-recente/</guid>
       <description>Olá,
 Bem-vindo ao Curso Modern React JS Hooks e Context com a Edição Mais Recente.
 Você quer aprender React JS, mas não tem experiência alguma? Nosso curso React JS Hooks e Context é perfeito para você começar. Neste curso, desenvolvemos o curso React JS para fornecer tudo o que você precisa aprender para dominar o Hooks e Context.
-
 Neste curso, mostraremos tudo o que você precisa saber para dominar o web development usando ReactJS, fornecendo um conhecimento poderoso por meio de uma mistura de diagramas e da criação de um aplicativo simples.</description>
     </item>
     
     <item>
       <title>NodeJs: Build The Complete E-Commerce Web API [2021]</title>
-      <link>https://www.jobready.ml/nodejs-build-the-complete-e-commerce-web-api-2021/</link>
+      <link>https://jobready.courseintern.com/nodejs-build-the-complete-e-commerce-web-api-2021/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/nodejs-build-the-complete-e-commerce-web-api-2021/</guid>
+      <guid>https://jobready.courseintern.com/nodejs-build-the-complete-e-commerce-web-api-2021/</guid>
       <description>What is Node.js?
 Node.js, or Node, is a runtime environment for executing JavaScript code outside of a browser. It is ideal for building highly-scalable, data-intensive backend services (APIs) that power your client’s apps (web or mobile apps).
-
 Why Should learn Node?
 Node is great for prototyping and agile development as well as building super fast and highly scalable apps; Companies like Uber and PayPal use Node in production to build applications because it requires fewer people and less code.</description>
     </item>
     
     <item>
       <title>The Complete Solidity Course  - Blockchain - Zero to Expert</title>
-      <link>https://www.jobready.ml/the-complete-solidity-course-blockchain-zero-to-expert/</link>
+      <link>https://jobready.courseintern.com/the-complete-solidity-course-blockchain-zero-to-expert/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/the-complete-solidity-course-blockchain-zero-to-expert/</guid>
+      <guid>https://jobready.courseintern.com/the-complete-solidity-course-blockchain-zero-to-expert/</guid>
       <description>Solidity is the most popular blockchain language in the world designed to build DApplications (Smart Contracts). It powers Ethereum and there is an in demand exponential growth of high-paying jobs all over the world which is changing the way we conduct business.
 Learning Solidity can be likened to learning web development languages years ago - You are very much ahead of the game starting today -and that&#39;s why you want to learn Solidity too.</description>
     </item>
     
     <item>
       <title>Web Development with Bootstrap, Python &amp; Django</title>
-      <link>https://www.jobready.ml/web-development-with-bootstrap-python-django/</link>
+      <link>https://jobready.courseintern.com/web-development-with-bootstrap-python-django/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/web-development-with-bootstrap-python-django/</guid>
+      <guid>https://jobready.courseintern.com/web-development-with-bootstrap-python-django/</guid>
       <description>Hello there, Welcome to Web Development with Bootstrap, Python &amp;amp; Django course.
 This course will be your gateway to learn web design with blank HTML, CSS, and Bootstrap files with a step-by-step approach.&amp;nbsp; We can assure you that only this course will enough for you to learn web development from scratch to intermediate. Then you will learn Python Programming step-by-step. I made Python 3 programming simple and easy with exercises, challenges, and lots of real-life examples.</description>
-    </item>
-    
-    <item>
-      <title>The Ultimate WordPress Quiz for Beginners and Advanced Users</title>
-      <link>https://www.jobready.ml/the-ultimate-wordpress-quiz-for-beginners-and-advanced-users/</link>
-      <pubDate>Sat, 28 Aug 2021 15:04:35 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/the-ultimate-wordpress-quiz-for-beginners-and-advanced-users/</guid>
-      <description>WordPress has surely come a long way since it was first released long back&amp;nbsp; — so too do the WordPress numbers (stats, basically) that serve to characterize this popular tech platform. Because of its user-friendly interface, WordPress users can easily publish their content on the Internet - meaning it simplifies the website building efforts of designers and developers using the platform. A significant segment of the WordPress user community needs to learn more about the platform so that they can not only publish content but also design, customize, and manipulate their WordPress themes to make their websites look amazing.</description>
     </item>
     
   </channel>

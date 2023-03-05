@@ -2,230 +2,441 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on </title>
-    <link>https://www.jobready.ml/tags/data-science/</link>
+    <link>https://jobready.courseintern.com/tags/data-science/</link>
     <description>Recent content in Data Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Dec 2021 16:01:27 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Jun 2022 20:43:25 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artificial Intelligence in Digital Marketing - Gold Edition</title>
-      <link>https://www.jobready.ml/artificial-intelligence-in-digital-marketing-gold-edition/</link>
-      <pubDate>Thu, 02 Dec 2021 16:01:27 +0530</pubDate>
+      <title>Data Manipulation in Python: Master Python, Numpy &amp; Pandas</title>
+      <link>https://jobready.courseintern.com/data-manipulation-in-python-master-python-numpy-pandas/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/artificial-intelligence-in-digital-marketing-gold-edition/</guid>
-      <description>Welcome to the first course in Term 1 as part of the series &#34;MBA in Artificial Intelligence Digital Marketing&#34;.
-Artificial Intelligence in Digital Marketing - Gold Edition.
-Artificial Intelligence has transformed the virtual panorama, inclusive of Google’s RankBrain personalising suggestions by Amazon. Artificial Intelligence (AI) is hastily turning into important in the daily happenings of the virtual global, with marketing and advertising and marketing being no exception. The idea of AI may also bring to thoughts 60’s sci-fi with futuristic robots, however it’s definitely approximately so much greater.</description>
+      <guid>https://jobready.courseintern.com/data-manipulation-in-python-master-python-numpy-pandas/</guid>
+      <description>When it comes to being attractive, data scientists are already there. In a highly competitive job market, it is tough to keep them after they have been hired. People with a unique mix of scientific training, computer expertise, and analytical abilities are hard to find.
+Like the Wall Street &#34;quants&#34; of the 1980s and 1990s, modern-day data scientists are expected to have a similar skill set. People with a background in physics and mathematics flocked to investment banks and hedge funds in those days because they could come up with novel algorithms and data methods.</description>
     </item>
     
     <item>
-      <title>Amazon Sagemaker Ultimate Course</title>
-      <link>https://www.jobready.ml/amazon-sagemaker-ultimate-course/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <title>Python for Deep Learning: Build Neural Networks in Python</title>
+      <link>https://jobready.courseintern.com/python-for-deep-learning-build-neural-networks-in-python/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/amazon-sagemaker-ultimate-course/</guid>
-      <description>Have you always wanted to learn how to do use Amazon SageMaker but don&#39;t know where to start?	Would you like to learn about Machine Learning?	Then Amazon SageMaker Ultimate Course is for you!	Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
-Amazon SageMaker is an in-demand skill in 2021. The course begins with the basics. We&#39;ll Cover everything you need to know about Amazon SageMaker from scratch.</description>
+      <guid>https://jobready.courseintern.com/python-for-deep-learning-build-neural-networks-in-python/</guid>
+      <description>Python is famed as one of the best programming languages for its flexibility. It works in almost all fields, from web development to developing financial applications. However, it&#39;s no secret that Python’s best application is in deep learning and artificial intelligence tasks.
+While Python makes deep learning easy, it will still be quite frustrating for someone with no knowledge of how machine learning works in the first place.
+If you know the basics of Python and you have a drive for deep learning, this course is designed for you.</description>
     </item>
     
     <item>
-      <title>Artificial Intelligence and the Future of Work (2021)</title>
-      <link>https://www.jobready.ml/artificial-intelligence-and-the-future-of-work-2021/</link>
-      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      <title>Python for Machine Learning: The Complete Beginner&#39;s Course</title>
+      <link>https://jobready.courseintern.com/python-for-machine-learning-the-complete-beginners-course/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/artificial-intelligence-and-the-future-of-work-2021/</guid>
-      <description>Welcome to the twelfth course in Term 1 as part of the series &#34;MBA in Artificial Intelligence Digital Marketing&#34;.
-Did you know? A great technological shift is on the verge of occurring very soon. Disruptive Artificial Intelligence technologies are going to change the world and human labour will be replaced by robot workers and the shift has in-fact started. This mind-blowing course introduces you to the concept of Artificial Intelligence usage in the workplace along with providing you practical examples of the different platforms that deploy the same for automation.</description>
+      <guid>https://jobready.courseintern.com/python-for-machine-learning-the-complete-beginners-course/</guid>
+      <description>To understand how organizations like Google, Amazon, and even Udemy use machine learning and artificial intelligence (AI) to extract meaning and insights from enormous data sets, this machine learning course will provide you with the essentials. According to Glassdoor and Indeed, data scientists earn an average income of $120,000, and that is just the norm! When it comes to being attractive, data scientists are already there. In a highly competitive job market, it is tough to keep them after they have been hired.</description>
     </item>
     
     <item>
-      <title>Learn Machine learning &amp; AI (Including Hands-on 3 Projects)</title>
-      <link>https://www.jobready.ml/learn-machine-learning-ai-including-hands-on-3-projects/</link>
-      <pubDate>Mon, 18 Oct 2021 21:05:38 +0530</pubDate>
+      <title>No-Code Machine Learning Using Amazon AWS SageMaker Canvas</title>
+      <link>https://jobready.courseintern.com/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:24 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-machine-learning-ai-including-hands-on-3-projects/</guid>
-      <description>Do you feel overwhelmed going through all the AI and Machine learning study materials? These Machine learning and AI projects will get you started with the implementation of a few very interesting projects from scratch. The first one, a Web application for Object Identification will teach you to deploy a simple machine learning application. The second one, Dog Breed Prediction will help you building &amp;amp; optimizing a model for dog breed prediction among 120 breeds of dogs.</description>
+      <guid>https://jobready.courseintern.com/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/</guid>
+      <description>This AWS SageMaker Canvas Course will help you to become a Machine Learning Expert and will enhance your skills by offering you comprehensive knowledge, and the required hands-on experience on this newly launched Cloud based ML tool, by solving real-time industry-based projects, without needing any complex coding expertise.
+Top Reasons why you should learn AWS SageMaker Canvas : AWS is the #1 cloud based tool used industry wide for Machine Learning Projects.</description>
     </item>
     
     <item>
-      <title>Python for Data Science &amp; Machine Learning from A-Z</title>
-      <link>https://www.jobready.ml/python-for-data-science-machine-learning-from-a-z/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:05 +0530</pubDate>
+      <title>Artificial Intelligence in Web Design &#43; Live Class</title>
+      <link>https://jobready.courseintern.com/artificial-intelligence-in-web-design--live-class/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-for-data-science-machine-learning-from-a-z/</guid>
-      <description>Learn Python for Data Science &amp;amp; Machine Learning from A-Z
-In this practical, hands-on course you’ll learn how to program using Python for Data Science and Machine Learning. This includes data analysis, visualization, and how to make use of that data in a practical manner. Our main objective is to give you the education not just to understand the ins and outs of the Python programming language for Data Science and Machine Learning, but also to learn exactly how to become a professional Data Scientist with Python and land your first job.</description>
-    </item>
-    
-    <item>
-      <title>Data Science &amp; Machine Learning with R from A-Z Masterclass</title>
-      <link>https://www.jobready.ml/data-science-machine-learning-with-r-from-a-z-masterclass/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/data-science-machine-learning-with-r-from-a-z-masterclass/</guid>
-      <description>Welcome to the Learn Data Science and Machine Learning with R from A-Z Course!
-In this practical, hands-on course you’ll learn how to program in R and how to use R for effective data analysis, visualization and how to make use of that data in a practical manner. You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language concepts as they are implemented in a high-level statistical language.</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning- From Basics to Advanced</title>
-      <link>https://www.jobready.ml/machine-learning-from-basics-to-advanced/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/machine-learning-from-basics-to-advanced/</guid>
-      <description>If you are looking to start your career in Machine learning then this is the course for you. This is a course designed in such a way that you will learn all the concepts of machine learning right from basic to advanced levels.
-This course has 5 parts as given below:
-Introduction &amp;amp; Data Wrangling in machine learning Linear Models, Trees &amp;amp; Preprocessing in machine learning Model Evaluation, Feature Selection &amp;amp; Pipelining in machine learning Bayes, Nearest Neighbors &amp;amp; Clustering in machine learning SVM, Anomalies, Imbalanced Classes, Ensemble Methods in machine learning For the code explained in each lecture, you can find a GitHub link in the resources section.</description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing Real World Use-cases in Python</title>
-      <link>https://www.jobready.ml/natural-language-processing-real-world-use-cases-in-python/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/natural-language-processing-real-world-use-cases-in-python/</guid>
-      <description>Are you looking to land a top-paying job in Data Science/Natural Language Processing?
-Or are you a seasoned AI practitioner who want to take your career to the next level?
-Or are you an aspiring data scientist who wants to get Hands-on Natural Language Processing and Machine Lrarning?
-
-Welcome to the course of Real world use-cases on Natural Language Processing ! This course is specifically designed to be ready for Job perspective in Natural Language Processing domain using Python programming language.</description>
-    </item>
-    
-    <item>
-      <title>Ultimate Python Bootcamp For Data Science &amp; Machine Learning</title>
-      <link>https://www.jobready.ml/ultimate-python-bootcamp-for-data-science-machine-learning/</link>
-      <pubDate>Sat, 16 Oct 2021 13:42:24 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/ultimate-python-bootcamp-for-data-science-machine-learning/</guid>
-      <description>Hi, dear learning aspirants welcome to “Ultimate Python Bootcamp For Data Science &amp;amp; Machine Learning ” from beginner to advanced level. We love programming. Python is one of the most popular programming languages in today’s technical world. Python offers both object-oriented and structural programming features. Hence, we are interested in data analysis with Pandas in this course. This course is for those who are ready to take their data analysis skill to the next higher level with the Python data analysis toolkit, i.</description>
-    </item>
-    
-    <item>
-      <title>Statistical Thinking and Data Science with R.</title>
-      <link>https://www.jobready.ml/statistical-thinking-and-data-science-with-r./</link>
-      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/statistical-thinking-and-data-science-with-r./</guid>
-      <description>not only you learn R in this course, but you also learn how to use statistics and machine learning to make decisions!!!
-
-
-It&#39;s been six years since I moved from Excel to R and since then I have never looked back! With eleven years between working in Procurement, lecturing in universities, training over 2000 professionals in supply chain and data science with R and python, and finally opening my own business in consulting for two years now.</description>
-    </item>
-    
-    <item>
-      <title>Time Series Analysis Real world use-cases in python</title>
-      <link>https://www.jobready.ml/time-series-analysis-real-world-use-cases-in-python/</link>
-      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/time-series-analysis-real-world-use-cases-in-python/</guid>
-      <description>Are you looking to land a top-paying job in Data Science , AI &amp;amp; Time Series Analysis &amp;amp; Forecasting?
-Or are you a seasoned AI practitioner who want to take your career to the next level?
-Or are you an aspiring data scientist who wants to get Hands-on Data Science and Time Series Analysis?
-
-If the answer is yes to any of these questions, then this course is for you!</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence in Web Design (Special Edition)</title>
-      <link>https://www.jobready.ml/artificial-intelligence-in-web-design-special-edition/</link>
-      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/artificial-intelligence-in-web-design-special-edition/</guid>
-      <description>Welcome to Level 2 of the series &#34;MBA in Creative Arts, Design and Animation&#34;.
-Artificial Intelligence in Web Design (Special Edition)
-What is this 2021 Special Edition Website Design course all about?
+      <guid>https://jobready.courseintern.com/artificial-intelligence-in-web-design--live-class/</guid>
+      <description>Welcome to learn, implement and master the course titled &#34;Artificial Intelligence in Web Design (Special Edition)&#34;.
+What is this 2022 Special Edition Website Design course all about?
 Website design is the art and science of building the look, feel, and how a website functions in a nutshell. This course is having clear, concise, and easy to use website design technologies and will ultimately lead to a better user experience for your custom audience or clients.</description>
     </item>
     
     <item>
-      <title>Artificial Intelligence Music Creation (2021 Edition)</title>
-      <link>https://www.jobready.ml/artificial-intelligence-music-creation-2021-edition/</link>
-      <pubDate>Wed, 13 Oct 2021 12:30:29 +0530</pubDate>
+      <title>Artificial Intelligence Music Creation (2022 New Edition)</title>
+      <link>https://jobready.courseintern.com/artificial-intelligence-music-creation-2022-new-edition/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/artificial-intelligence-music-creation-2021-edition/</guid>
-      <description>Welcome to the fifth course in Level 2 as part of the series &#34;MBA in Creative Arts, Design and Animation&#34;.
-Giant Tech firms have developed AI software that can compose music on its own. So, the machines will be composing soundtracks using Artificial Intelligence. This game-changing course focuses on &#34;Artificial Intelligence Music Creation (2021 Edition)&#34;  introduces you to new-age technologies in Artificial Intelligence music creation to help you become a music star in no time with the power of automagical music-making tools.</description>
+      <guid>https://jobready.courseintern.com/artificial-intelligence-music-creation-2022-new-edition/</guid>
+      <description>Welcome to experience &#34;Artificial Intelligence Music Creation (2022 New Edition)&#34;.
+Giant Tech firms have developed AI software that can compose music on its own. So, the machines will be composing soundtracks using Artificial Intelligence. This game-changing course focuses on &#34;Artificial Intelligence Music Creation (2022 New Edition)&#34; introduces you to new-age technologies in Artificial Intelligence music creation to help you become a music star in no time with the power of automagical music-making tools.</description>
     </item>
     
     <item>
-      <title>Apache Spark In-Depth (Spark with Scala)</title>
-      <link>https://www.jobready.ml/apache-spark-in-depth-spark-with-scala/</link>
-      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      <title>Deep Learning avec Python: La Formation Complète</title>
+      <link>https://jobready.courseintern.com/deep-learning-avec-python-la-formation-compl%C3%A8te/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/apache-spark-in-depth-spark-with-scala/</guid>
-      <description>Learn Apache Spark From Scratch To In-Depth
-
-From the instructor of successful Data Engineering courses on &#34;Big Data Hadoop and Spark with Scala&#34; and &#34;Scala Programming In-Depth&#34;
-
-From Simple program on word count to Batch Processing to Spark Structure Streaming. 
-From Developing and Deploying Spark application to debugging. 
-From Performance tuning, Optimization to Troubleshooting
-
-Contents all you need for in-depth study of Apache Spark and to clear Spark interviews.</description>
+      <guid>https://jobready.courseintern.com/deep-learning-avec-python-la-formation-compl%C3%A8te/</guid>
+      <description>Python est reconnu comme l&#39;un des meilleurs langages de programmation pour sa flexibilité. Il fonctionne dans presque tous les domaines, du développement Web au développement d&#39;applications financières. Cependant, ce n&#39;est un secret pour personne que la meilleure application de Python est dans les tâches d&#39;apprentissage en profondeur et d&#39;intelligence artificielle.
+Bien que Python facilite l&#39;utilisation du Deep Learning, il sera toujours assez frustrant pour quelqu&#39;un qui n&#39;a aucune connaissance du fonctionnement de l&#39;apprentissage automatique.</description>
     </item>
     
     <item>
-      <title>Python and Data Handling for Everyone 2021 Mastery Bootcamp</title>
-      <link>https://www.jobready.ml/python-and-data-handling-for-everyone-2021-mastery-bootcamp/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      <title>Artificial Neural Networks (ANN) with Keras in Python and R</title>
+      <link>https://jobready.courseintern.com/artificial-neural-networks-ann-with-keras-in-python-and-r/</link>
+      <pubDate>Wed, 22 Jun 2022 21:28:59 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-and-data-handling-for-everyone-2021-mastery-bootcamp/</guid>
-      <description>Hello and welcome to the Python and Data Handling for Everyone 2021 Mastery Bootcamp.
-Data science is a huge field, and one of the promising fields that is spreading in a fast way, also, it is one of the very rewarding, and it is increasing in expansion day by day, due to its great importance and benefits, as it is the future.
-Data science enables companies to measure, track, and record performance metrics for facilitating and enhancing decision making.</description>
-    </item>
-    
-    <item>
-      <title>Data Science Real-World Use Cases - Hands On Python</title>
-      <link>https://www.jobready.ml/data-science-real-world-use-cases-hands-on-python/</link>
-      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/data-science-real-world-use-cases-hands-on-python/</guid>
-      <description>Are you looking to land a top-paying job in Data Science?
-Or are you a seasoned AI practitioner who want to take your career to the next level?
-Or are you an aspiring data scientist who wants to get Hands-on Data Science and Artificial Intelligence?
-
-If the answer is yes to any of these questions, then this course is for you!
-Data Science is one of the hottest tech fields to be in right now!</description>
-    </item>
-    
-    <item>
-      <title>Data Analysis Real world use-cases- Hands on Python</title>
-      <link>https://www.jobready.ml/data-analysis-real-world-use-cases-hands-on-python/</link>
-      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/data-analysis-real-world-use-cases-hands-on-python/</guid>
-      <description>This is the first course that gives hands-on Data Analysis Projects using Python..
-
-
-Can you start right now?
-A frequently asked question of Python Beginners is: &#34;Do I need to become an expert in Python coding before I can start working on Data Analysis Projects?&#34;
-The clear answer is: &#34;No!
-You just require some Python Basics like data types, simple operations/operators, lists and numpy arrays that you can learn from my Free Python course &#39;Basics Of Python&#39;</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning &amp; Deep Learning in Python &amp; R</title>
-      <link>https://www.jobready.ml/machine-learning-deep-learning-in-python-r/</link>
-      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/machine-learning-deep-learning-in-python-r/</guid>
-      <description>You&#39;re looking for a complete Machine Learning and Deep Learning course that can help you launch a flourishing career in the field of Data Science, Machine Learning, Python, R or Deep Learning, right?
-You&#39;ve found the right Machine Learning course!
+      <guid>https://jobready.courseintern.com/artificial-neural-networks-ann-with-keras-in-python-and-r/</guid>
+      <description>You&#39;re looking for a complete Course on Deep Learning using Keras and Tensorflow that teaches you everything you need to create a Neural Network model in Python and R, right?
+You&#39;ve found the right Neural Networks course!
 After completing this course you will be able to:
-· Confidently build predictive Machine Learning and Deep Learning models using R, Python to solve business problems and create business strategy</description>
+Identify the business problem which can be solved using Neural network Models.
+Have a clear understanding of Advanced Neural network concepts such as Gradient Descent, forward and Backward Propagation etc.</description>
+    </item>
+    
+    <item>
+      <title>2022 Natural Language Processing &amp; Image Processing Projects</title>
+      <link>https://jobready.courseintern.com/2022-natural-language-processing-image-processing-projects/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/2022-natural-language-processing-image-processing-projects/</guid>
+      <description>This course teaches you an in-depth analysis of Text and Image data. We cover the theory and coding part together for better understanding. You will learn how to project text data into vector space along with the image data. Image and Text data is projected into the same vector space where we can search for a relevant image from text data. This course covers advanced natural language processing and image processing projects which you can use in your organization.</description>
+    </item>
+    
+    <item>
+      <title>2022 Natural Language Processing in Python for Beginners</title>
+      <link>https://jobready.courseintern.com/2022-natural-language-processing-in-python-for-beginners/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/2022-natural-language-processing-in-python-for-beginners/</guid>
+      <description>Welcome to KGP Talkie&#39;s Natural Language Processing (NLP) course. It is designed to give you a complete understanding of Text Processing and Mining with the use of State-of-the-Art NLP algorithms in Python.
+We will learn Spacy in detail and we will also explore the uses of NLP in real life. This course covers the basics of NLP to advance topics like word2vec, GloVe, Deep Learning for NLP like CNN, ANN, and LSTM.</description>
+    </item>
+    
+    <item>
+      <title>2022 Python for Linear Regression in Machine Learning</title>
+      <link>https://jobready.courseintern.com/2022-python-for-linear-regression-in-machine-learning/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/2022-python-for-linear-regression-in-machine-learning/</guid>
+      <description>This course teaches you an in-depth analysis of Linear Regression. We cover the theory and coding part together for better understanding. You will learn how to do an exhaustive analysis of machine learning models. We will show you result-oriented techniques to boost the accuracy of your machine learning models. This course teaches you everything you need to create an accurate Linear Regression model in Python.
+You should have an introductory knowledge of Python before enrolling in this course otherwise please do not enroll in this course.</description>
+    </item>
+    
+    <item>
+      <title>2022 R 4.0 Programming for Data Science || Beginners to Pro</title>
+      <link>https://jobready.courseintern.com/2022-r-4.0-programming-for-data-science-beginners-to-pro/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/2022-r-4.0-programming-for-data-science-beginners-to-pro/</guid>
+      <description>Are you ready to accept the R Programming Challenge?
+Want to analyze and get insights from your datasets?
+This Course is for You!!!
+You will learn R programming in a very interactive way. I will be explaining to you each line of code. You do not need any prior experience in coding. Anyone can start learning. We will start with R Programming and R-Studio set up on the computer thereafter I will be teaching you the fundamentals of R Programming.</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Digital Marketing &#43; Live Class</title>
+      <link>https://jobready.courseintern.com/artificial-intelligence-in-digital-marketing--live-class/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/artificial-intelligence-in-digital-marketing--live-class/</guid>
+      <description>Welcome to experience &#34;Artificial Intelligence in Digital Marketing - Gold Edition 2022.&#34;
+Artificial Intelligence has transformed the virtual panorama, inclusive of Google’s RankBrain personalising suggestions by Amazon. Artificial Intelligence (AI) is hastily turning into important in the daily happenings of the virtual global, with marketing and advertising and marketing being no exception. The idea of AI may also bring to thought 60’s sci-fi with futuristic robots, however, it’s definitely approximately so much greater.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization in Python Masterclass™: Beginners to Pro</title>
+      <link>https://jobready.courseintern.com/data-visualization-in-python-masterclass-beginners-to-pro/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/data-visualization-in-python-masterclass-beginners-to-pro/</guid>
+      <description>Are you ready to start your path to becoming a Data Scientist!
+KGP Talkie brings you all in one course. Learn all kinds of Data Visualization with practical datasets. This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations! This is a very unique course where you will learn EDA on Kaggle&#39;s Boston Housing, Titanic and Latest Covid-19 Datasets, Text Dataset, IPL Cricket Matches of all seasons, and FIFA world cup matches with real and practical examples.</description>
+    </item>
+    
+    <item>
+      <title>Deployment of Machine Learning Models in Production | Python</title>
+      <link>https://jobready.courseintern.com/deployment-of-machine-learning-models-in-production-python/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/deployment-of-machine-learning-models-in-production-python/</guid>
+      <description>Are you ready to kickstart your Advanced NLP course? Are you ready to deploy your machine learning models in production at AWS? You will learn each and every steps on how to build and deploy your ML model on a robust and secure server at AWS.
+Prior knowledge of python and Data Science is assumed. If you are AN absolute beginner in Data Science, please do not take this course. This course is made for medium or advanced level of Data Scientist.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Spacy 3 for Natural Language Processing</title>
+      <link>https://jobready.courseintern.com/introduction-to-spacy-3-for-natural-language-processing/</link>
+      <pubDate>Sat, 18 Jun 2022 21:42:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/introduction-to-spacy-3-for-natural-language-processing/</guid>
+      <description>Hi There,
+Please take this course only if you have an introductory knowledge of Machine Learning and Python. This course is all about SpaCy. Spacy is fast and easy to use than NLTK. It is one of the fundamental building blocks of today&#39;s modern NLP. SpaCy is an open-source software library for advanced natural language processing, written in the programming languages Python and Cython. The library is published under the MIT license and its main developers are Matthew Honnibal and Ines Montani, the founders of the software company Explosion.</description>
+    </item>
+    
+    <item>
+      <title>Learn Machine learning &amp; AI (Including Hands-on 3 Projects)</title>
+      <link>https://jobready.courseintern.com/learn-machine-learning-ai-including-hands-on-3-projects/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:59 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-machine-learning-ai-including-hands-on-3-projects/</guid>
+      <description>Do you feel overwhelmed going through all the AI and Machine learning study materials? These Machine learning and AI projects will get you started with the implementation of a few very interesting projects from scratch. The first one, a Web application for Object Identification will teach you to deploy a simple machine learning application. The second one, Dog Breed Prediction will help you building &amp;amp; optimizing a model for dog breed prediction among 120 breeds of dogs.</description>
+    </item>
+    
+    <item>
+      <title>Docker Course for Beginners</title>
+      <link>https://jobready.courseintern.com/docker-course-for-beginners/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/docker-course-for-beginners/</guid>
+      <description>Containerization of the applications is going on in the full swing across the IT industry. Docker&#39;s course covers the fundamental concepts of Docker containers. Along with the concepts it also covers the most useful commands related to container management, image management, and Dockerfile. After studying this course one would be ready to dive deeper into the world of container orchestration. Docker&#39;s course becomes the necessary prerequisite for learning Docker Swarm and Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Python 3: Análisis y visualización de datos</title>
+      <link>https://jobready.courseintern.com/python-3-an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-3-an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos/</guid>
+      <description>Python es un lenguaje de programación de código abierto, orientado a objetos, muy simple y fácil de entender. Tiene una sintaxis sencilla que cuenta con una vasta biblioteca de herramientas, que hacen de Python un lenguaje de programación único.
+Saber programar en Python es una habilidad solicitada por las empresas de todo el mundo. Un programador Jr. en Python gana $77,000 USD al año en promedio.
+En el curso aprenderemos:</description>
+    </item>
+    
+    <item>
+      <title>Linear Regression and Logistic Regression in Python</title>
+      <link>https://jobready.courseintern.com/linear-regression-and-logistic-regression-in-python/</link>
+      <pubDate>Mon, 13 Jun 2022 20:40:32 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/linear-regression-and-logistic-regression-in-python/</guid>
+      <description>You&#39;re looking for a complete Linear Regression and Logistic Regression course that teaches you everything you need to create a Linear or Logistic Regression model in Python, right?
+You&#39;ve found the right Linear Regression course!
+After completing this course you will be able to:
+Identify the business problem which can be solved using linear and logistic regression technique of Machine Learning.
+Create a linear regression and logistic regression model in Python and analyze its result.</description>
+    </item>
+    
+    <item>
+      <title>Most Effective Tips to get your Dream Data Science Job</title>
+      <link>https://jobready.courseintern.com/most-effective-tips-to-get-your-dream-data-science-job/</link>
+      <pubDate>Sat, 11 Jun 2022 20:13:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/most-effective-tips-to-get-your-dream-data-science-job/</guid>
+      <description>It’s the job the Harvard Business Review has called “the sexiest job of the 21st century”. Is it modeling? Head coach of Real Madrid? Nope. It’s Data Science. Over the past decade, as the tech world has seen advances in big data, machine learning, cloud computing, and artificial intelligence, opportunities for data scientists have blossomed. In addition, their compensation has blossomed as companies increasingly demand data scientists. So, how do you become a data scientist, and how do you get hired?</description>
+    </item>
+    
+    <item>
+      <title>250&#43; Exercises - Data Science Bootcamp in Python - 2022</title>
+      <link>https://jobready.courseintern.com/250-exercises-data-science-bootcamp-in-python-2022/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/250-exercises-data-science-bootcamp-in-python-2022/</guid>
+      <description>Welcome to the 250+ Exercises - Data Science Bootcamp in Python course where you can test your Python programming and data science skills. The course consists of 250 exercises (exercises + solutions) in data science with Python. Python can be easy to pick up whether you&#39;re a first time programmer or you&#39;re experienced with other languages. Python is a programming language that lets you work quickly and integrate systems more effectively.</description>
+    </item>
+    
+    <item>
+      <title>200&#43; Questions - Job Interview - Data Scientist - 2022</title>
+      <link>https://jobready.courseintern.com/200-questions-job-interview-data-scientist-2022/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/200-questions-job-interview-data-scientist-2022/</guid>
+      <description>200+ Questions - Job Interview - Data Scientist
+Are you ready to apply for the position of Data Scientist? Test yourself by answering over 200 questions!
+This course is in the form of practice tests and consists of over 200 questions that may appear during an interview for a Data Scientist or related positions. This course allows you to confirm your proficiency and give you the confidence you need to succeed in the recruiting process.</description>
+    </item>
+    
+    <item>
+      <title>NLP Certification- BERT, GPTs, Software 3.0 &amp; Multimodal NLP</title>
+      <link>https://jobready.courseintern.com/nlp-certification-bert-gpts-software-3.0-multimodal-nlp/</link>
+      <pubDate>Fri, 03 Jun 2022 21:31:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/nlp-certification-bert-gpts-software-3.0-multimodal-nlp/</guid>
+      <description>This course introduces you to the fundamentals of Transformers in NLP. The topics include are;
+1. Recurrent Neural Networks &amp;amp; LSTM
+2. Bi-Directional Encoder Representation from Transformers.
+3. Masked Language Modelling.
+4. Next Sentence Prediction using Transformers.
+5. Generative Pre-trained Transformers and their implementation in RASA and SpiCy.
+6. Complete Code for Online Fraud Detection System.
+7. Complete Code for Text Classification.
+8. Complete Code for Language Translation System.
+9. Complete Code for Movie Recommender System.</description>
+    </item>
+    
+    <item>
+      <title>Logistic Regression in Python</title>
+      <link>https://jobready.courseintern.com/logistic-regression-in-python/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:58 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/logistic-regression-in-python/</guid>
+      <description>You&#39;re looking for a complete Classification modeling course that teaches you everything you need to create a Classification model in Python, right?
+You&#39;ve found the right Classification modeling course!
+After completing this course you will be able to:
+Identify the business problem which can be solved using Classification modeling techniques of Machine Learning.
+Create different Classification modelling model in Python and compare their performance.
+Confidently practice, discuss and understand Machine Learning concepts</description>
+    </item>
+    
+    <item>
+      <title>Big Data Programming Languages &amp; Big Data Vs Data Science</title>
+      <link>https://jobready.courseintern.com/big-data-programming-languages-big-data-vs-data-science/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/big-data-programming-languages-big-data-vs-data-science/</guid>
+      <description>Students will learn the following topics in this course.
+Big Data Programming Languages Programming Language Concepts
+Skills to become a Big Data Professional
+Differences between Big Data &amp;amp; Data Science
+Similarities Between Big Data &amp;amp; Data Science
+Challenges of Big Data
+Big Data Programming Languages
+Programming Language Concepts
+Skills to become a Big Data Professional
+Differences between Big Data &amp;amp; Data Science
+Similarities Between Big Data &amp;amp; Data Science
+Challenges of Big Data</description>
+    </item>
+    
+    <item>
+      <title>MLOps Certification- Basics, Deployment &amp; Vertex AI Darknet</title>
+      <link>https://jobready.courseintern.com/mlops-certification-basics-deployment-vertex-ai-darknet/</link>
+      <pubDate>Wed, 01 Jun 2022 21:29:57 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/mlops-certification-basics-deployment-vertex-ai-darknet/</guid>
+      <description>This course introduces participants to MLOps concepts and best practices for deploying, evaluating, monitoring and operating production ML systems on both cloud and Edge. MLOps is a discipline focused on the deployment, testing, monitoring, and automation of ML systems in production. Machine Learning Engineering professionals use tools for continuous improvement and evaluation of deployed models. They work with Data Scientists, who develop models, to enable velocity and rigor in deploying the best performing models.</description>
+    </item>
+    
+    <item>
+      <title>Complete Machine Learning with R Studio - ML for 2022</title>
+      <link>https://jobready.courseintern.com/complete-machine-learning-with-r-studio-ml-for-2022/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/complete-machine-learning-with-r-studio-ml-for-2022/</guid>
+      <description>You&#39;re looking for a complete Machine Learning course that can help you launch a flourishing career in the field of Data Science, Machine Learning, R and Predictive Modeling, right?
+You&#39;ve found the right Machine Learning course!
+After completing this course, you will be able to:
+· Confidently build predictive Machine Learning models using R to solve business problems and create business strategy
+· Answer Machine Learning related interview questions
+· Participate and perform in online Data Analytics competitions such as Kaggle competitions</description>
+    </item>
+    
+    <item>
+      <title>Decision Trees, Random Forests, Bagging &amp; XGBoost: R Studio</title>
+      <link>https://jobready.courseintern.com/decision-trees-random-forests-bagging-xgboost-r-studio/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/decision-trees-random-forests-bagging-xgboost-r-studio/</guid>
+      <description>You&#39;re looking for a complete Decision tree course that teaches you everything you need to create a Decision tree/ Random Forest/ XGBoost model in R, right?
+You&#39;ve found the right Decision Trees and tree based advanced techniques course!
+After completing this course you will be able to:
+Identify the business problem which can be solved using Decision tree/ Random Forest/ XGBoost of Machine Learning.
+Have a clear understanding of Advanced Decision tree based algorithms such as Random Forest, Bagging, AdaBoost and XGBoost</description>
+    </item>
+    
+    <item>
+      <title>NLP Course for Beginner</title>
+      <link>https://jobready.courseintern.com/nlp-course-for-beginner/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/nlp-course-for-beginner/</guid>
+      <description>Welcome to the best Natural Language Processing course on the Udemy! This course is designed to be your complete online resource for learning how to use Natural Language Processing with the Python programming language.
+In the course we will cover everything you need to learn in order to become a world class practitioner of NLP with Python.
+We&#39;ll start off with the basics, learning how to open and work with text, as well as learning how to use regular expressions to search for custom patterns inside of text files.</description>
+    </item>
+    
+    <item>
+      <title>Support Vector Machines in Python: SVM Concepts &amp; Code</title>
+      <link>https://jobready.courseintern.com/support-vector-machines-in-python-svm-concepts-code/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/support-vector-machines-in-python-svm-concepts-code/</guid>
+      <description>You&#39;re looking for a complete Support Vector Machines course that teaches you everything you need to create a Support Vector Machines model in Python, right?
+You&#39;ve found the right Support Vector Machines techniques course!
+How this course will help you?
+A Verifiable Certificate of Completion is presented to all students who undertake this Machine learning advanced course.
+If you are a business manager or an executive, or a student who wants to learn and apply machine learning in Real world problems of business, this course will give you a solid base for that by teaching you some of the advanced technique of machine learning, which are Support Vector Machines.</description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis and Forecasting using Python</title>
+      <link>https://jobready.courseintern.com/time-series-analysis-and-forecasting-using-python/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/time-series-analysis-and-forecasting-using-python/</guid>
+      <description>You&#39;re looking for a complete course on Time Series Forecasting to drive business decisions involving production schedules, inventory management, manpower planning, and many other parts of the business., right?
+You&#39;ve found the right Time Series Forecasting and Time Series Analysis course using Python Time Series techniques. This course teaches you everything you need to know about different time series forecasting and time series analysis models and how to implement these models in Python time series.</description>
+    </item>
+    
+    <item>
+      <title>Digishock 2.0: Learn Machine Learning in 2022 (No Coding)</title>
+      <link>https://jobready.courseintern.com/digishock-2.0-learn-machine-learning-in-2022-no-coding/</link>
+      <pubDate>Sat, 28 May 2022 20:32:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/digishock-2.0-learn-machine-learning-in-2022-no-coding/</guid>
+      <description>Welcome to experience &#34;Digishock 2.0: Learn Machine Learning in 2022&#34; in a new interactive and engaging way.
+We all know that Machine learning is the actual application of Artificial Intelligence (AI) that provides systems with the ability to automatically learn and improve from experience. Let us elaborate on this further. Machine learning is a subset of artificial intelligence (AI) that allows systems to learn and improve on their own without having to be explicitly programmed.</description>
+    </item>
+    
+    <item>
+      <title>Python-Introduction to Data Science and Machine learning A-Z</title>
+      <link>https://jobready.courseintern.com/python-introduction-to-data-science-and-machine-learning-a-z/</link>
+      <pubDate>Sat, 28 May 2022 20:32:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-introduction-to-data-science-and-machine-learning-a-z/</guid>
+      <description>Learning how to program in Python is not always easy especially if you want to use it for Data science. Indeed, there are many of different tools that have to be learned to be able to properly use Python for Data science and machine learning and each of those tools is not always easy to learn. But, this course will give all the basics you need no matter for what objective you want to use it so if you :</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence and the Future of Work (2022)</title>
+      <link>https://jobready.courseintern.com/artificial-intelligence-and-the-future-of-work-2022/</link>
+      <pubDate>Sat, 28 May 2022 20:32:10 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/artificial-intelligence-and-the-future-of-work-2022/</guid>
+      <description>Welcome to experience &#34;Artificial Intelligence and the Future of Work (2022)&#34;.
+Did you know? A great technological shift is on the verge of occurring very soon. Disruptive Artificial Intelligence technologies are going to change the world and human labour will be replaced by robot workers and the shift has in-fact started. This mind-blowing course introduces you to the concept of Artificial Intelligence usage in the workplace along with providing you practical examples of the different platforms that deploy the same for automation.</description>
+    </item>
+    
+    <item>
+      <title>Artificial Neural Networks for Business Managers in R Studio</title>
+      <link>https://jobready.courseintern.com/artificial-neural-networks-for-business-managers-in-r-studio/</link>
+      <pubDate>Tue, 24 May 2022 21:50:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/artificial-neural-networks-for-business-managers-in-r-studio/</guid>
+      <description>You&#39;re looking for a complete Artificial Neural Network (ANN) course that teaches you everything you need to create a Neural Network model in R, right?
+You&#39;ve found the right Neural Networks course!
+After completing this course you will be able to:
+Identify the business problem which can be solved using Neural network Models.
+Have a clear understanding of Advanced Neural network concepts such as Gradient Descent, forward and Backward Propagation etc.</description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks in Python: CNN Computer Vision</title>
+      <link>https://jobready.courseintern.com/convolutional-neural-networks-in-python-cnn-computer-vision/</link>
+      <pubDate>Fri, 20 May 2022 19:57:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/convolutional-neural-networks-in-python-cnn-computer-vision/</guid>
+      <description>You&#39;re looking for a complete Convolutional Neural Network (CNN) course that teaches you everything you need to create a Image Recognition model in Python, right?
+You&#39;ve found the right Convolutional Neural Networks course!
+After completing this course you will be able to:
+Identify the Image Recognition problems which can be solved using CNN Models.
+Create CNN models in Python using Keras and Tensorflow libraries and analyze their results.
+Confidently practice, discuss and understand Deep Learning concepts</description>
+    </item>
+    
+    <item>
+      <title>No-Code Machine Learning with Qlik AutoML</title>
+      <link>https://jobready.courseintern.com/no-code-machine-learning-with-qlik-automl/</link>
+      <pubDate>Fri, 20 May 2022 19:57:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/no-code-machine-learning-with-qlik-automl/</guid>
+      <description>This Qlik AutoML Course will help you to become a Machine Learning Expert and will enhance your skills by offering you comprehensive knowledge, and the required hands-on experience on this newly launched Cloud based ML tool, by solving real-time industry-based projects, without needing any complex coding expertise.
+Top Reasons why you should learn Qlik AutoML : Qlik AutoML is an automated machine learning platform for analytics teams, or any individual, to generate models, make predictions, and test business scenarios using a simple, code-free experience.</description>
     </item>
     
     <item>
       <title>Linear Regression and Logistic Regression using R Studio</title>
-      <link>https://www.jobready.ml/linear-regression-and-logistic-regression-using-r-studio/</link>
-      <pubDate>Thu, 07 Oct 2021 11:25:05 +0530</pubDate>
+      <link>https://jobready.courseintern.com/linear-regression-and-logistic-regression-using-r-studio/</link>
+      <pubDate>Sun, 15 May 2022 20:40:05 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/linear-regression-and-logistic-regression-using-r-studio/</guid>
+      <guid>https://jobready.courseintern.com/linear-regression-and-logistic-regression-using-r-studio/</guid>
       <description>You&#39;re looking for a complete Linear Regression and Logistic Regression course that teaches you everything you need to create a Linear or Logistic Regression model in R Studio, right?
 You&#39;ve found the right Linear Regression course!
 After completing this course you will be able to:
@@ -234,40 +445,341 @@ Create a linear regression and logistic regression model in R Studio and analyze
     </item>
     
     <item>
+      <title>Logistic Regression in R Studio</title>
+      <link>https://jobready.courseintern.com/logistic-regression-in-r-studio/</link>
+      <pubDate>Sun, 15 May 2022 20:40:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/logistic-regression-in-r-studio/</guid>
+      <description>You&#39;re looking for a complete Classification modeling course that teaches you everything you need to create a Classification model in R, right?
+You&#39;ve found the right Classification modeling course covering logistic regression, LDA and kNN in R studio!
+After completing this course, you will be able to:
+· Identify the business problem which can be solved using Classification modeling techniques of Machine Learning.
+· Create different Classification modelling model in R and compare their performance.</description>
+    </item>
+    
+    <item>
+      <title>Data Science with Python Complete Course</title>
+      <link>https://jobready.courseintern.com/data-science-with-python-complete-course/</link>
+      <pubDate>Thu, 12 May 2022 15:57:40 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/data-science-with-python-complete-course/</guid>
+      <description>Today Data Science and Machine Learning are used in almost every industry, including automobiles, banks, health, telecommunications, telecommunications, and more.
+As the manager of Data Science and Machine Learning, you will have to research and look beyond common problems, you may need to do a lot of data processing. test data using advanced tools and build amazing business solutions. However, where and how will you learn these skills required in Data Science and Machine Learning?</description>
+    </item>
+    
+    <item>
+      <title>Automated Machine Learning for Beginners (Google &amp; Apple)</title>
+      <link>https://jobready.courseintern.com/automated-machine-learning-for-beginners-google-apple/</link>
+      <pubDate>Wed, 11 May 2022 20:40:15 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/automated-machine-learning-for-beginners-google-apple/</guid>
+      <description>Begin your AI journey with Automated Machine Learning!
+This course focuses on giving you the big picture of Artificial Intelligence: the streamlined process of creating AI machine learning models. Leave the mathematical equations and Python coding aside and concentrate on what really matters!
+Course Architecture guarantees Best Cognitive Learning Outcomes
+Richard Shinn, PhD in AI and CEO of AIBrain, is the Chief Architect behind this course. He designed the entire course structure to help learners acquire cognitive skills; learning by examples first, then learning based on denotational semantics and operational semantics.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning with Apache Spark 3.0 using Scala</title>
+      <link>https://jobready.courseintern.com/machine-learning-with-apache-spark-3.0-using-scala/</link>
+      <pubDate>Tue, 10 May 2022 20:12:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/machine-learning-with-apache-spark-3.0-using-scala/</guid>
+      <description>Machine Learning with Apache Spark 3.0 using Scala with Examples and Project
+“Big data&#34; analysis is a hot and highly valuable skill – and this course will teach you the hottest technology in big data: Apache Spark. Employers including Amazon, eBay, NASA, Yahoo, and many more. All are using Spark to quickly extract meaning from massive data sets across a fault-tolerant Hadoop cluster. You&#39;ll learn those same techniques, using your own Operating system right at home.</description>
+    </item>
+    
+    <item>
+      <title>SVM for Beginners: Support Vector Machines in R Studio</title>
+      <link>https://jobready.courseintern.com/svm-for-beginners-support-vector-machines-in-r-studio/</link>
+      <pubDate>Sun, 01 May 2022 16:38:23 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/svm-for-beginners-support-vector-machines-in-r-studio/</guid>
+      <description>You&#39;re looking for a complete Support Vector Machines course that teaches you everything you need to create a SVM model in R, right?
+You&#39;ve found the right Support Vector Machines techniques course!
+How this course will help you?
+A Verifiable Certificate of Completion is presented to all students who undertake this Machine learning advanced course.
+If you are a business manager or an executive, or a student who wants to learn and apply machine learning in Real world problems of business, this course will give you a solid base for that by teaching you some of the advanced technique of machine learning, which are Support Vector Machines.</description>
+    </item>
+    
+    <item>
+      <title>230&#43; Exercises - Python for Data Science - NumPy &#43; Pandas</title>
+      <link>https://jobready.courseintern.com/230-exercises-python-for-data-science-numpy--pandas/</link>
+      <pubDate>Sat, 30 Apr 2022 17:17:01 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/230-exercises-python-for-data-science-numpy--pandas/</guid>
+      <description>Welcome to the 230+ Exercises - Python for Data Science - NumPy + Pandas course where you can test your Python programming skills in data science, specifically in NumPy and Pandas.
+Some numpy topics you will find in the exercises:
+working with numpy arrays
+generating numpy arrays
+generating numpy arrays with random values
+iterating through arrays
+dealing with missing values
+working with matrices
+reading/writing files
+joining arrays
+reshaping arrays
+computing basic array statistics</description>
+    </item>
+    
+    <item>
+      <title>awk tutorial</title>
+      <link>https://jobready.courseintern.com/awk-tutorial/</link>
+      <pubDate>Fri, 29 Apr 2022 20:24:35 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/awk-tutorial/</guid>
+      <description>awk is an incredibly powerful programming language. You can use it to replace sed, grep, cut, sort, uniq (and more) on the command line in most Unix-like operating systems.
+awk, a programming language that can be used for text processing.
+Awk is a scripting language, so it processes text one line at a time, and doesn’t rely on any underlying commands or libraries to do its work. It operates on text files that you pass to it.</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Python Bootcamp For Data Science &amp; Machine Learning</title>
+      <link>https://jobready.courseintern.com/ultimate-python-bootcamp-for-data-science-machine-learning/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ultimate-python-bootcamp-for-data-science-machine-learning/</guid>
+      <description>Hi, dear learning aspirants welcome to “Ultimate Python Bootcamp For Data Science &amp;amp; Machine Learning ” from beginner to advanced level. We love programming. Python is one of the most popular programming languages in today’s technical world. Python offers both object-oriented and structural programming features. Hence, we are interested in data analysis with Pandas in this course. This course is for those who are ready to take their data analysis skill to the next higher level with the Python data analysis toolkit, i.</description>
+    </item>
+    
+    <item>
+      <title>Numpy Pandas in Python from Scratch</title>
+      <link>https://jobready.courseintern.com/numpy-pandas-in-python-from-scratch/</link>
+      <pubDate>Thu, 14 Apr 2022 18:10:15 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/numpy-pandas-in-python-from-scratch/</guid>
+      <description>The most important part of data science is understanding the data that is available to data scientists. You will only be able to achieve the best outcomes if you have the correct knowledge of data and the appropriate data for the task at hand. The analysis, Visualization, and manipulation of data are all very important in Data Science.
+Everything about machine learning and data science is made exceedingly simple with Python.</description>
+    </item>
+    
+    <item>
+      <title>The Complete Intro to Machine Learning [Get Free Coupons]</title>
+      <link>https://jobready.courseintern.com/the-complete-intro-to-machine-learning-get-free-coupons/</link>
+      <pubDate>Mon, 31 Jan 2022 13:34:20 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/the-complete-intro-to-machine-learning-get-free-coupons/</guid>
+      <description>Quick Note on Pricing:
+We believe education should be accessible, so if you&#39;d like to get this course without any cost, please return during each of the following days and use the provided coupon format:
+During the first 3 days of the month (1-3), enter &#34;SMLCCOURSE&#34; followed by the month (eg. &#34;01&#34; for January and &#34;11&#34; for November) followed by &#34;1&#34;—here is an example for a coupon during the first three days of June: &#34;</description>
+    </item>
+    
+    <item>
+      <title>RA: Retail Customer Analytics and Trade Area Modeling.</title>
+      <link>https://jobready.courseintern.com/ra-retail-customer-analytics-and-trade-area-modeling./</link>
+      <pubDate>Fri, 21 Jan 2022 21:08:04 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/ra-retail-customer-analytics-and-trade-area-modeling./</guid>
+      <description>&#34;This is one of the three courses in the Retail Series by RA, each course can be taken independently.&#34;
+Master Retail management and analytics with Excel and Python
+Retailers face fierce competition every day and keeping up with the new trends and customer preferences is a guarantee for excellence in the modern retail environment. one Keyway to excel in retail management is utilizing the data that is produced every day.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning A-Z with Python with Project (Beginner)</title>
+      <link>https://jobready.courseintern.com/machine-learning-a-z-with-python-with-project-beginner/</link>
+      <pubDate>Tue, 11 Jan 2022 17:13:56 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/machine-learning-a-z-with-python-with-project-beginner/</guid>
+      <description>Machine Learning and artificial intelligence (AI) is everywhere; if you want to know how companies like Google, Amazon, and even Udemy extract meaning and insights from massive data sets, this data science course will give you the fundamentals you need. Data Scientists enjoy one of the top-paying jobs, with an average salary of $120,000 according to Glassdoor and Indeed. That&#39;s just the average! And it&#39;s not just about money - it&#39;s interesting work too!</description>
+    </item>
+    
+    <item>
+      <title>SuperMinds: The Future of Artificial Intelligence (AI)</title>
+      <link>https://jobready.courseintern.com/superminds-the-future-of-artificial-intelligence-ai/</link>
+      <pubDate>Sun, 12 Dec 2021 21:51:07 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/superminds-the-future-of-artificial-intelligence-ai/</guid>
+      <description>Welcome to the second course in Term 2 as part of the series &#34;MBA in Artificial Intelligence Digital Marketing&#34;.
+Artificial intelligence was once the dream of science fiction writers - the most famous ones.
+In today’s day, AI research is constant and continues to grow day by day. Artificial Intelligence (AI) has a hand in everything from what we see on a Facebook-like social media platform to actually determining what the best treatment will be during a hospital stay.</description>
+    </item>
+    
+    <item>
+      <title>360° Dijital Pazarlama &amp; Web Scraping A-Z™</title>
+      <link>https://jobready.courseintern.com/360-dijital-pazarlama-web-scraping-a-z/</link>
+      <pubDate>Sat, 04 Dec 2021 22:36:37 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/360-dijital-pazarlama-web-scraping-a-z/</guid>
+      <description>Web Scraping bugünlerde en çok konuşulan konulardan biri haline geldi, piyasada her zaman bir tüketici olarak işlevleriyle sınırlı kalacağınız için işlerin nasıl yapıldığını size hiçbir şey göstermeyen birçok ücretli araç var.
+Bu eğitim süresince hem kod yazarak hem kod yazmadan sizlere pazar-market,akademik araştırmalarınız için nasıl veri çekileceğini göstereceğim.
+Peki bu eğitim kapsamında hangi projeleri gerçekleştireceğiz ? Tatil yapmayı planlayanlar için en uygun otel araştırılması
+Ürün almayı planlayanlar için yorumbudur sitesi üzerinden ürün yorumlarının araştırılması</description>
+    </item>
+    
+    <item>
+      <title>تحليل البيانات بأستخدام بايثون</title>
+      <link>https://jobready.courseintern.com/%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A8%D8%A3%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86/</link>
+      <pubDate>Sat, 04 Dec 2021 22:11:36 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A8%D8%A3%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86/</guid>
+      <description>السلام عليكم و رحمة الله و بركاته اهلا بكم في دورة تحليل البيانات ب استخدام لغة البرمجة بايثون
+في هذه الدورة سوف نتعرف ما المقصود بتحليل البيانات و ما هي اهميته و كيف نستفاد منه ثم سوف ننتقل الي القسم الثاني و هو الخاص ب تعلم الرياضيات و الاحصاء اللازمة سوف نشرحها بشكل سهل و بسيط ان شاء الله و محتواه هو :
+- شرح المتوسط الحسابي
+- شرح الوسط الحسابي</description>
+    </item>
+    
+    <item>
+      <title>Amazon Sagemaker Ultimate Course</title>
+      <link>https://jobready.courseintern.com/amazon-sagemaker-ultimate-course/</link>
+      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/amazon-sagemaker-ultimate-course/</guid>
+      <description>Have you always wanted to learn how to do use Amazon SageMaker but don&#39;t know where to start?	Would you like to learn about Machine Learning?	Then Amazon SageMaker Ultimate Course is for you!	Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+Amazon SageMaker is an in-demand skill in 2021. The course begins with the basics. We&#39;ll Cover everything you need to know about Amazon SageMaker from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Python for Data Science &amp; Machine Learning from A-Z</title>
+      <link>https://jobready.courseintern.com/python-for-data-science-machine-learning-from-a-z/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:05 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-for-data-science-machine-learning-from-a-z/</guid>
+      <description>Learn Python for Data Science &amp;amp; Machine Learning from A-Z
+In this practical, hands-on course you’ll learn how to program using Python for Data Science and Machine Learning. This includes data analysis, visualization, and how to make use of that data in a practical manner. Our main objective is to give you the education not just to understand the ins and outs of the Python programming language for Data Science and Machine Learning, but also to learn exactly how to become a professional Data Scientist with Python and land your first job.</description>
+    </item>
+    
+    <item>
+      <title>Data Science &amp; Machine Learning with R from A-Z Masterclass</title>
+      <link>https://jobready.courseintern.com/data-science-machine-learning-with-r-from-a-z-masterclass/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/data-science-machine-learning-with-r-from-a-z-masterclass/</guid>
+      <description>Welcome to the Learn Data Science and Machine Learning with R from A-Z Course!
+In this practical, hands-on course you’ll learn how to program in R and how to use R for effective data analysis, visualization and how to make use of that data in a practical manner. You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language concepts as they are implemented in a high-level statistical language.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning- From Basics to Advanced</title>
+      <link>https://jobready.courseintern.com/machine-learning-from-basics-to-advanced/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/machine-learning-from-basics-to-advanced/</guid>
+      <description>If you are looking to start your career in Machine learning then this is the course for you. This is a course designed in such a way that you will learn all the concepts of machine learning right from basic to advanced levels.
+This course has 5 parts as given below:
+Introduction &amp;amp; Data Wrangling in machine learning Linear Models, Trees &amp;amp; Preprocessing in machine learning Model Evaluation, Feature Selection &amp;amp; Pipelining in machine learning Bayes, Nearest Neighbors &amp;amp; Clustering in machine learning SVM, Anomalies, Imbalanced Classes, Ensemble Methods in machine learning For the code explained in each lecture, you can find a GitHub link in the resources section.</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing Real World Use-cases in Python</title>
+      <link>https://jobready.courseintern.com/natural-language-processing-real-world-use-cases-in-python/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/natural-language-processing-real-world-use-cases-in-python/</guid>
+      <description>Are you looking to land a top-paying job in Data Science/Natural Language Processing?
+Or are you a seasoned AI practitioner who want to take your career to the next level?
+Or are you an aspiring data scientist who wants to get Hands-on Natural Language Processing and Machine Lrarning?
+Welcome to the course of Real world use-cases on Natural Language Processing ! This course is specifically designed to be ready for Job perspective in Natural Language Processing domain using Python programming language.</description>
+    </item>
+    
+    <item>
+      <title>Statistical Thinking and Data Science with R.</title>
+      <link>https://jobready.courseintern.com/statistical-thinking-and-data-science-with-r./</link>
+      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/statistical-thinking-and-data-science-with-r./</guid>
+      <description>not only you learn R in this course, but you also learn how to use statistics and machine learning to make decisions!!!
+It&#39;s been six years since I moved from Excel to R and since then I have never looked back! With eleven years between working in Procurement, lecturing in universities, training over 2000 professionals in supply chain and data science with R and python, and finally opening my own business in consulting for two years now.</description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis Real world use-cases in python</title>
+      <link>https://jobready.courseintern.com/time-series-analysis-real-world-use-cases-in-python/</link>
+      <pubDate>Thu, 14 Oct 2021 16:10:21 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/time-series-analysis-real-world-use-cases-in-python/</guid>
+      <description>Are you looking to land a top-paying job in Data Science , AI &amp;amp; Time Series Analysis &amp;amp; Forecasting?
+Or are you a seasoned AI practitioner who want to take your career to the next level?
+Or are you an aspiring data scientist who wants to get Hands-on Data Science and Time Series Analysis?
+If the answer is yes to any of these questions, then this course is for you!</description>
+    </item>
+    
+    <item>
+      <title>Apache Spark In-Depth (Spark with Scala)</title>
+      <link>https://jobready.courseintern.com/apache-spark-in-depth-spark-with-scala/</link>
+      <pubDate>Tue, 12 Oct 2021 15:40:19 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/apache-spark-in-depth-spark-with-scala/</guid>
+      <description>Learn Apache Spark From Scratch To In-Depth
+From the instructor of successful Data Engineering courses on &#34;Big Data Hadoop and Spark with Scala&#34; and &#34;Scala Programming In-Depth&#34;
+From Simple program on word count to Batch Processing to Spark Structure Streaming. From Developing and Deploying Spark application to debugging. From Performance tuning, Optimization to Troubleshooting
+Contents all you need for in-depth study of Apache Spark and to clear Spark interviews.
+Taught in very simple English language so any one can follow the course very easily.</description>
+    </item>
+    
+    <item>
+      <title>Python and Data Handling for Everyone 2021 Mastery Bootcamp</title>
+      <link>https://jobready.courseintern.com/python-and-data-handling-for-everyone-2021-mastery-bootcamp/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/python-and-data-handling-for-everyone-2021-mastery-bootcamp/</guid>
+      <description>Hello and welcome to the Python and Data Handling for Everyone 2021 Mastery Bootcamp.
+Data science is a huge field, and one of the promising fields that is spreading in a fast way, also, it is one of the very rewarding, and it is increasing in expansion day by day, due to its great importance and benefits, as it is the future.
+Data science enables companies to measure, track, and record performance metrics for facilitating and enhancing decision making.</description>
+    </item>
+    
+    <item>
+      <title>Data Science Real-World Use Cases - Hands On Python</title>
+      <link>https://jobready.courseintern.com/data-science-real-world-use-cases-hands-on-python/</link>
+      <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/data-science-real-world-use-cases-hands-on-python/</guid>
+      <description>Are you looking to land a top-paying job in Data Science?
+Or are you a seasoned AI practitioner who want to take your career to the next level?
+Or are you an aspiring data scientist who wants to get Hands-on Data Science and Artificial Intelligence?
+If the answer is yes to any of these questions, then this course is for you!
+Data Science is one of the hottest tech fields to be in right now!</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis Real world use-cases- Hands on Python</title>
+      <link>https://jobready.courseintern.com/data-analysis-real-world-use-cases-hands-on-python/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/data-analysis-real-world-use-cases-hands-on-python/</guid>
+      <description>This is the first course that gives hands-on Data Analysis Projects using Python..
+Can you start right now?
+A frequently asked question of Python Beginners is: &#34;Do I need to become an expert in Python coding before I can start working on Data Analysis Projects?&#34;
+The clear answer is: &#34;No!
+You just require some Python Basics like data types, simple operations/operators, lists and numpy arrays that you can learn from my Free Python course &#39;Basics Of Python&#39;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning &amp; Deep Learning in Python &amp; R</title>
+      <link>https://jobready.courseintern.com/machine-learning-deep-learning-in-python-r/</link>
+      <pubDate>Thu, 07 Oct 2021 11:25:06 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/machine-learning-deep-learning-in-python-r/</guid>
+      <description>You&#39;re looking for a complete Machine Learning and Deep Learning course that can help you launch a flourishing career in the field of Data Science, Machine Learning, Python, R or Deep Learning, right?
+You&#39;ve found the right Machine Learning course!
+After completing this course you will be able to:
+· Confidently build predictive Machine Learning and Deep Learning models using R, Python to solve business problems and create business strategy</description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing for Text Summarization</title>
-      <link>https://www.jobready.ml/natural-language-processing-for-text-summarization/</link>
+      <link>https://jobready.courseintern.com/natural-language-processing-for-text-summarization/</link>
       <pubDate>Wed, 22 Sep 2021 21:16:28 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/natural-language-processing-for-text-summarization/</guid>
+      <guid>https://jobready.courseintern.com/natural-language-processing-for-text-summarization/</guid>
       <description>The area of ​​Natural Language Processing (NLP) is a subarea of ​​Artificial Intelligence that aims to make computers capable of understanding human language, both written and spoken. Some examples of practical applications are: translators between languages, translation from text to speech or speech to text, chatbots, automatic question and answer systems (Q&amp;amp;A), automatic generation of descriptions for images, generation of subtitles in videos, classification of sentiments in sentences, among many others!</description>
     </item>
     
     <item>
       <title>Spatial Analysis &amp; Geospatial Data Science in Python</title>
-      <link>https://www.jobready.ml/spatial-analysis-geospatial-data-science-in-python/</link>
+      <link>https://jobready.courseintern.com/spatial-analysis-geospatial-data-science-in-python/</link>
       <pubDate>Sun, 19 Sep 2021 12:22:51 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/spatial-analysis-geospatial-data-science-in-python/</guid>
+      <guid>https://jobready.courseintern.com/spatial-analysis-geospatial-data-science-in-python/</guid>
       <description>Geospatial data science is a subset of data science that focuses on spatial data and its unique techniques. In this, we are going to perform spatial analysis and trying to find insights from spatial data. In this course, we lay the foundation for a career in Geospatial Data Science. You will get hands-on Geopy, Plotly etc.. the workhorse of Geospatial data science Python libraries.
-
 The topics covered in this course widely touch on some of the most used spatial technique in Geospatial data science.</description>
     </item>
     
     <item>
-      <title>Docker Course for Beginners</title>
-      <link>https://www.jobready.ml/docker-course-for-beginners/</link>
-      <pubDate>Sat, 18 Sep 2021 22:18:36 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/docker-course-for-beginners/</guid>
-      <description>Containerization of the applications is going on in the full swing across the IT industry. Docker&#39;s course covers the fundamental concepts of Docker containers. Along with the concepts it also covers the most useful commands related to container management, image management, and Dockerfile. After studying this course one would be ready to dive deeper into the world of container orchestration. Docker&#39;s course becomes the necessary prerequisite for learning Docker Swarm and Kubernetes.</description>
-    </item>
-    
-    <item>
       <title>Guide to Careers in Data Science - Interview Hacks (2021)</title>
-      <link>https://www.jobready.ml/guide-to-careers-in-data-science-interview-hacks-2021/</link>
+      <link>https://jobready.courseintern.com/guide-to-careers-in-data-science-interview-hacks-2021/</link>
       <pubDate>Sat, 18 Sep 2021 07:41:34 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/guide-to-careers-in-data-science-interview-hacks-2021/</guid>
+      <guid>https://jobready.courseintern.com/guide-to-careers-in-data-science-interview-hacks-2021/</guid>
       <description>Want to start your career in Data Science? Then this course is for YOU!
 This complete guide is designed to answer all your queries regarding careers in Data Science such as:
 Efficient job search
@@ -282,20 +794,11 @@ Job Titles in Data Science</description>
     </item>
     
     <item>
-      <title>Python-Introduction to Data Science and Machine learning A-Z</title>
-      <link>https://www.jobready.ml/python-introduction-to-data-science-and-machine-learning-a-z/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/python-introduction-to-data-science-and-machine-learning-a-z/</guid>
-      <description>Learning how to program in Python is not always easy especially if you want to use it for Data science. Indeed, there are many of different tools that have to be learned to be able to properly use Python for Data science and machine learning and each of those tools is not always easy to learn. But, this course will give all the basics you need no matter for what objective you want to use it so if you :</description>
-    </item>
-    
-    <item>
       <title>Natural Language Processing [ Building Real World Projects]</title>
-      <link>https://www.jobready.ml/natural-language-processing-building-real-world-projects/</link>
+      <link>https://jobready.courseintern.com/natural-language-processing-building-real-world-projects/</link>
       <pubDate>Sun, 12 Sep 2021 16:52:26 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/natural-language-processing-building-real-world-projects/</guid>
+      <guid>https://jobready.courseintern.com/natural-language-processing-building-real-world-projects/</guid>
       <description>Welcome to your first steps into the world of Natural Language Processing!
 This course will guide you through the world of Natural Language Processing through hands-on tutorials with real world examples.
 We will start off with the basics of Natural Language Processing, and work towards developing our very own application. By the end of this course, we will build an application that predicts what people think of any topic based on what people have said about it on Twitter.</description>
@@ -303,68 +806,39 @@ We will start off with the basics of Natural Language Processing, and work towar
     
     <item>
       <title>Machine Learning pour le trading de A à Z</title>
-      <link>https://www.jobready.ml/machine-learning-pour-le-trading-de-a-%C3%A0-z/</link>
+      <link>https://jobready.courseintern.com/machine-learning-pour-le-trading-de-a-%C3%A0-z/</link>
       <pubDate>Sat, 11 Sep 2021 19:07:10 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/machine-learning-pour-le-trading-de-a-%C3%A0-z/</guid>
+      <guid>https://jobready.courseintern.com/machine-learning-pour-le-trading-de-a-%C3%A0-z/</guid>
       <description>Cette formation vous propose un large choix d&#39;algorithme permettant d&#39;appréhender les variations des marchés financier, nous créerons également un robot trader à l&#39;aide d&#39;un algorithme de Deep Reinforcement Learning.
-
 La data science est en pleine expansion est s&#39;insère jour après jour dans tous les secteurs. La finance est l&#39;un des secteurs les plus enclins à l&#39;arrivée de la data science car depuis la crise de 2008 le secteur financier à un besoin croissant de quantifier les risques, mais aussi de pricer (prévoir les variations des actifs financiers) les différents actifs sur lesquelles les acteurs de la finance investissent.</description>
     </item>
     
     <item>
       <title>Reinforcement Learning (application en finance)</title>
-      <link>https://www.jobready.ml/reinforcement-learning-application-en-finance/</link>
+      <link>https://jobready.courseintern.com/reinforcement-learning-application-en-finance/</link>
       <pubDate>Sat, 11 Sep 2021 17:04:39 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/reinforcement-learning-application-en-finance/</guid>
+      <guid>https://jobready.courseintern.com/reinforcement-learning-application-en-finance/</guid>
       <description>Cette formation vous propose un cours complet concernant les algorithmes de Depp Q Learning. Vous aborderez la théorie dans un premier temps qui vous permettra d&#39;appréhendez au mieux la seconde plus appliquée.
-
-L&#39;apprentissage par renforcement est une discipline de plus en plus utilisée dans le monde réelle. C&#39;est pourquoi, la formation met l&#39;accent sur les aspects intuitifs, les principales librairies du renforcement learning et notamment Open AI Gym.</description>
-    </item>
-    
-    <item>
-      <title>SVM for Beginners: Support Vector Machines in R Studio</title>
-      <link>https://www.jobready.ml/svm-for-beginners-support-vector-machines-in-r-studio/</link>
-      <pubDate>Fri, 10 Sep 2021 22:45:16 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/svm-for-beginners-support-vector-machines-in-r-studio/</guid>
-      <description>You&#39;re looking for a complete Support Vector Machines course that teaches you everything you need to create a SVM model in R, right?
-You&#39;ve found the right Support Vector Machines techniques course!
-How this course will help you?
-A Verifiable Certificate of Completion is presented to all students who undertake this Machine learning advanced course.
-If you are a business manager or an executive, or a student who wants to learn and apply machine learning in Real world problems of business, this course will give you a solid base for that by teaching you some of the advanced technique of machine learning, which are Support Vector Machines.</description>
-    </item>
-    
-    <item>
-      <title>Convolutional Neural Networks in Python: CNN Computer Vision</title>
-      <link>https://www.jobready.ml/convolutional-neural-networks-in-python-cnn-computer-vision/</link>
-      <pubDate>Fri, 10 Sep 2021 20:51:14 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/convolutional-neural-networks-in-python-cnn-computer-vision/</guid>
-      <description>You&#39;re looking for a complete Convolutional Neural Network (CNN) course that teaches you everything you need to create a Image Recognition model in Python, right?
-You&#39;ve found the right Convolutional Neural Networks course!
-After completing this course you will be able to:
-Identify the Image Recognition problems which can be solved using CNN Models.
-Create CNN models in Python using Keras and Tensorflow libraries and analyze their results.
-Confidently practice, discuss and understand Deep Learning concepts</description>
+L&#39;apprentissage par renforcement est une discipline de plus en plus utilisée dans le monde réelle. C&#39;est pourquoi, la formation met l&#39;accent sur les aspects intuitifs, les principales librairies du renforcement learning et notamment Open AI Gym. Dans le cadre de ce cours nous nous intéresserons aux méthodes d&#39;apprentissage par renforcement en mettons l&#39;accent sur 3 grands points:</description>
     </item>
     
     <item>
       <title>Fraud Analytics in Banking and Credit using Machine Learning</title>
-      <link>https://www.jobready.ml/fraud-analytics-in-banking-and-credit-using-machine-learning/</link>
+      <link>https://jobready.courseintern.com/fraud-analytics-in-banking-and-credit-using-machine-learning/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/fraud-analytics-in-banking-and-credit-using-machine-learning/</guid>
+      <guid>https://jobready.courseintern.com/fraud-analytics-in-banking-and-credit-using-machine-learning/</guid>
       <description>In general, fraud can be defined as some illegal or criminal thing done by any person who intended to deceive in financial organizations or personal profit. So the processes of analyzing such illegitimate transactions done by anyone like buyer or customer are caught and only the legal transactions are allowed to be made. As fraud is increasing in day to day life so to analyze frauds that are occurring in the organizations or companies these frauds are analyzed using some quantitative science to understand the fraud, through BI (Business Intelligence), and then we have to develop effective fraud detection solutions through data science.</description>
     </item>
     
     <item>
       <title>MatPlotLib for Python Developers - Advanced</title>
-      <link>https://www.jobready.ml/matplotlib-for-python-developers-advanced/</link>
+      <link>https://jobready.courseintern.com/matplotlib-for-python-developers-advanced/</link>
       <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/matplotlib-for-python-developers-advanced/</guid>
+      <guid>https://jobready.courseintern.com/matplotlib-for-python-developers-advanced/</guid>
       <description>We will be covering all the advanced level concepts in the course by the virtue of the sample questions which have been included to help the trainees on getting a precise view of the topics. You will get to learn about all the advanced-level topics and will also learn how to leverage them to draft solutions for plotting-based problems. Once you are done with this unit, you will be able to work proficiently with all the aspects of Matplotlib.</description>
     </item>
     

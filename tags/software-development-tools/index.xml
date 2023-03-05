@@ -2,70 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Development Tools on </title>
-    <link>https://www.jobready.ml/tags/software-development-tools/</link>
+    <link>https://jobready.courseintern.com/tags/software-development-tools/</link>
     <description>Recent content in Software Development Tools on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Oct 2021 12:26:02 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 20:43:25 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/software-development-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Computing Fundamentals with Microsoft Azure Quantum</title>
+      <link>https://jobready.courseintern.com/quantum-computing-fundamentals-with-microsoft-azure-quantum/</link>
+      <pubDate>Thu, 30 Jun 2022 20:43:25 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/quantum-computing-fundamentals-with-microsoft-azure-quantum/</guid>
+      <description>Quantum computing is evolving quickly and the right time to learn it, is now ! There are many different technologies and development tools vying for your consideration. It can be challenging to know where to get started and how to optimally invest your resources.
+As you start on your quantum journey, you should begin with exploring at your own pace, with the best quantum solutions providers (like Toshiba, IonQ etc.), right in your Computer, and initially for free, so you can experiment freely - but wait - is that possible ?</description>
+    </item>
     
-	<atom:link href="https://www.jobready.ml/tags/software-development-tools/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Crash Course on Civil Engineering and AutoCAD: Part 2</title>
+      <link>https://jobready.courseintern.com/crash-course-on-civil-engineering-and-autocad-part-2/</link>
+      <pubDate>Sat, 25 Jun 2022 20:43:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/crash-course-on-civil-engineering-and-autocad-part-2/</guid>
+      <description>&#34;An estimate for any construction work may be defined as the actual process of calculating the quantities and costs of the various items required in connection with the specialised project - whatsoever&#34;.
+Before the start of the project for its execution, the owner should have full knowledge of the volume of work that is to be carried out. The tiny details can help him understand if the actual work can be completed within the proposed time frame and budget.</description>
+    </item>
     
     <item>
       <title>Introduction to Microservices</title>
-      <link>https://www.jobready.ml/introduction-to-microservices/</link>
-      <pubDate>Tue, 19 Oct 2021 12:26:02 +0530</pubDate>
+      <link>https://jobready.courseintern.com/introduction-to-microservices/</link>
+      <pubDate>Tue, 14 Jun 2022 21:22:58 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/introduction-to-microservices/</guid>
-      <description>Microservices architecture provides a modern way of building highly scalable applications. Normally in building cloud-native applications microservices-based architecture is used. In this course, I have explained microservices in the simplest possible way. We start with the explanation of traditional architecture such as Monolithic Architecture, then we discuss how it evolved via service-oriented architecture (SOA) to finally microservices architecture. We talk about the benefits and the challenges of these architectures.</description>
-    </item>
-    
-    <item>
-      <title>Learn CI/CD YAML pipelines with Azure DevOps</title>
-      <link>https://www.jobready.ml/learn-ci/cd-yaml-pipelines-with-azure-devops/</link>
-      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/learn-ci/cd-yaml-pipelines-with-azure-devops/</guid>
-      <description>LEARN THE FUNDAMENTALS OF CI/CD AND CREATE A CI/CD PIPELINE FROM SCRATCH
-This is a unique course designed to help you to understand the CI/CD concept from the ground up. This means you do not need any upfront knowledge about CI/CD, DevOps or working with pipelines. I will explain everything in detail while I present it in practice. After learning basic knowledge, we create a fully automated CI/CD pipeline using Azure DevOps Pipelines to see how everything is implemented in practice.</description>
-    </item>
-    
-    <item>
-      <title>Git from Basics to Advanced: Practical Guide for Developers</title>
-      <link>https://www.jobready.ml/git-from-basics-to-advanced-practical-guide-for-developers/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/git-from-basics-to-advanced-practical-guide-for-developers/</guid>
-      <description>From this course you can learn Git from basics to advanced concepts. 
-This course created for software engineers who wants to learn how to track changes with the help of the Git. No matter what programming language you use - the git is equal for everyone :)
-There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Real-life cases &amp;amp; demo during the video lesson</description>
-    </item>
-    
-    <item>
-      <title>Create Articulate Storyline 360 eLearning Course || Mastery</title>
-      <link>https://www.jobready.ml/create-articulate-storyline-360-elearning-course-mastery/</link>
-      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/create-articulate-storyline-360-elearning-course-mastery/</guid>
-      <description>Welcome to the Complete Articulate Storyline 360 Course. My name is Anwer Khan and I will be your instructor through out this course. In this course we will talk straight to the point. Therefore, we will cover more in less time. Articulate Storyline is the industry&#39;s favorite software for creating interactive courses. It&#39;s simple enough for beginners, yet powerful enough for experts. And it lets you create virtually any interaction you can imagine, in minutes.</description>
-    </item>
-    
-    <item>
-      <title>Git &amp; GitHub A Practical Course: Beginner To Advanced Level</title>
-      <link>https://www.jobready.ml/git-github-a-practical-course-beginner-to-advanced-level/</link>
-      <pubDate>Wed, 06 Oct 2021 10:56:56 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/git-github-a-practical-course-beginner-to-advanced-level/</guid>
-      <description>This is all about high level overview on Complete Git &amp;amp; GitHub both for the beginners and advanced software professionals.
-If any one wants to develop their Open Source Project Or wants to contribute to the Open Source Project then learning Git and GitHub is must. Even if you are a student and wants to become a software developer Or website designer then learning Git and GitHub will help you achieve your goal with well designed infrastructure to get contribution for your project from different developers.</description>
+      <guid>https://jobready.courseintern.com/introduction-to-microservices/</guid>
+      <description>Microservices architecture provides a modern way of building highly scalable applications. Normally in building cloud-native applications microservices-based architecture is used. In this course, I have explained microservices in the simplest possible way. We start with the explanation of traditional architecture such as Monolithic Architecture, then we discuss how it evolved via service-oriented architecture (SOA) to finally microservices architecture. We talk about the benefits and the challenges of these architectures.
+In this course, we do NOT cover the microservices-based-frameworks or advanced level of design patterns of microservices.</description>
     </item>
     
     <item>
       <title>GitLab</title>
-      <link>https://www.jobready.ml/gitlab/</link>
-      <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
+      <link>https://jobready.courseintern.com/gitlab/</link>
+      <pubDate>Mon, 06 Jun 2022 21:38:33 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/gitlab/</guid>
+      <guid>https://jobready.courseintern.com/gitlab/</guid>
       <description>Have you always wanted to learn how to code but don&#39;t know where to start?
 Would you like to make amazing websites and bring your ideas to life?
 Then GitLab Ultimate Course is for you!
@@ -74,25 +51,133 @@ Programming is the most in-demand skill in 2021. The course begins with the basi
     </item>
     
     <item>
+      <title>Microsoft Edge Basics</title>
+      <link>https://jobready.courseintern.com/microsoft-edge-basics/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:27 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/microsoft-edge-basics/</guid>
+      <description>SO, YOU’RE LOOKING FOR A COURSE THAT WILL TEACH YOU MICROSOFT EDGE QUICKLY &amp;amp; IN A FUN MANNER?
+I’ve got just the course for you!
+Welcome, my name is Josh Werner with Learn Tech Plus and I’ve put this course together to help people just like you quickly master Microsoft Edge...Whether you’re a beginner or a web developer with existing programming knowledge/skills!
+If your goal is to become a web developer, then this course is perfect for you.</description>
+    </item>
+    
+    <item>
+      <title>200&#43; Questions - Job Interview - Software Developer - Git</title>
+      <link>https://jobready.courseintern.com/200-questions-job-interview-software-developer-git/</link>
+      <pubDate>Sun, 05 Jun 2022 19:56:26 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/200-questions-job-interview-software-developer-git/</guid>
+      <description>200+ Questions - Job Interview - Software Developer - Git
+Are you ready to apply for the position of Software Developer? Test yourself by answering over 200 questions!
+This course is in the form of practice tests and consists of over 200 questions that may appear during an interview for a Software Developer or related positions. This course allows you to confirm your proficiency with Git and give you the confidence you need to succeed in the recruiting process.</description>
+    </item>
+    
+    <item>
+      <title>Crash Course on Civil Engineering and AutoCAD: Part 1</title>
+      <link>https://jobready.courseintern.com/crash-course-on-civil-engineering-and-autocad-part-1/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/crash-course-on-civil-engineering-and-autocad-part-1/</guid>
+      <description>Here&#39;s a grand welcome to the crash course on &#34;Civil Engineering and AutoCAD&#34; (2022 Edition). This course will serve to be the first course in the series. We kickstart the course by teaching the concept of Artificial Intelligence (AI) application in the civil field.
+We all know that Artificial intelligence (AI) has made an impact in almost every industrial sector, and civil engineering now is now joining the stage - as stated above.</description>
+    </item>
+    
+    <item>
+      <title>Crash Course on Civil Engineering and AutoCAD: Part 5</title>
+      <link>https://jobready.courseintern.com/crash-course-on-civil-engineering-and-autocad-part-5/</link>
+      <pubDate>Mon, 30 May 2022 19:02:31 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/crash-course-on-civil-engineering-and-autocad-part-5/</guid>
+      <description>Welcome to experience &#34;Crash Course on Civil Engineering and AutoCAD: Part 5&#34;.
+Anyone who is willing to construct something will surely be bothered about the quality &amp;amp; money/cost and this is where the concept of &#34;building estimation&#34; comes into the picture.
+We all know that an &#34;Estimate&#34; is a rough calculation of the quantities of various items of work, and the expenses likely to be incurred for the construction projects that one may undertake to complete successfully.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript: Desde cero con NodeJS</title>
+      <link>https://jobready.courseintern.com/javascript-desde-cero-con-nodejs/</link>
+      <pubDate>Mon, 23 May 2022 20:27:44 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/javascript-desde-cero-con-nodejs/</guid>
+      <description>¡Empieza desde cero con JavaScript y NodeJS!
+Si eres un estudiante o profesionista que quiere potenciar su carrera profesional te tengo una buena noticia:
+¡Encontraste el curso indicado!
+¿Sientes que tu carrera profesional esta estancada?
+¿Tu perfil no destaca entre el de los demás?
+¿Sientes que en la escuela no aprendiste nada útil para el mundo laboral?
+Node.js es un entorno de tiempo de ejecución de JavaScript (de ahí su terminación en .</description>
+    </item>
+    
+    <item>
+      <title>Git &amp; GitHub A Practical Course: Beginner To Advanced Level</title>
+      <link>https://jobready.courseintern.com/git-github-a-practical-course-beginner-to-advanced-level/</link>
+      <pubDate>Thu, 28 Apr 2022 22:09:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/git-github-a-practical-course-beginner-to-advanced-level/</guid>
+      <description>This is all about high level overview on Complete Git &amp;amp; GitHub both for the beginners and advanced software professionals.
+If any one wants to develop their Open Source Project Or wants to contribute to the Open Source Project then learning Git and GitHub is must. Even if you are a student and wants to become a software developer Or website designer then learning Git and GitHub will help you achieve your goal with well designed infrastructure to get contribution for your project from different developers.</description>
+    </item>
+    
+    <item>
+      <title>Apache Zeppelin - Big Data Visualization Tool</title>
+      <link>https://jobready.courseintern.com/apache-zeppelin-big-data-visualization-tool/</link>
+      <pubDate>Fri, 15 Apr 2022 15:17:51 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/apache-zeppelin-big-data-visualization-tool/</guid>
+      <description>Apache Zeppelin - Big Data Visualization Tool for Big data Engineers An Open Source Tool (Free Source for Data Visualization)
+Learn the latest Big Data Technology - Apache Zeppelin! And learn to use it with one of the most popular programming Data Visualization Tool!
+One of the most valuable technology skills is the ability to analyze huge data sets, and this course is specifically designed to bring you up to speed on one of the best technologies for this task, Apache Zeppelin!</description>
+    </item>
+    
+    <item>
+      <title>Learn CI/CD YAML pipelines with Azure DevOps</title>
+      <link>https://jobready.courseintern.com/learn-ci/cd-yaml-pipelines-with-azure-devops/</link>
+      <pubDate>Mon, 18 Oct 2021 13:24:04 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/learn-ci/cd-yaml-pipelines-with-azure-devops/</guid>
+      <description>LEARN THE FUNDAMENTALS OF CI/CD AND CREATE A CI/CD PIPELINE FROM SCRATCH
+This is a unique course designed to help you to understand the CI/CD concept from the ground up. This means you do not need any upfront knowledge about CI/CD, DevOps or working with pipelines. I will explain everything in detail while I present it in practice. After learning basic knowledge, we create a fully automated CI/CD pipeline using Azure DevOps Pipelines to see how everything is implemented in practice.</description>
+    </item>
+    
+    <item>
+      <title>Git from Basics to Advanced: Practical Guide for Developers</title>
+      <link>https://jobready.courseintern.com/git-from-basics-to-advanced-practical-guide-for-developers/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/git-from-basics-to-advanced-practical-guide-for-developers/</guid>
+      <description>From this course you can learn Git from basics to advanced concepts. This course created for software engineers who wants to learn how to track changes with the help of the Git. No matter what programming language you use - the git is equal for everyone :)
+There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Real-life cases &amp;amp; demo during the video lesson There are a lot of other courses that teached you Git.</description>
+    </item>
+    
+    <item>
+      <title>Create Articulate Storyline 360 eLearning Course || Mastery</title>
+      <link>https://jobready.courseintern.com/create-articulate-storyline-360-elearning-course-mastery/</link>
+      <pubDate>Sat, 09 Oct 2021 10:08:40 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/create-articulate-storyline-360-elearning-course-mastery/</guid>
+      <description>Welcome to the Complete Articulate Storyline 360 Course. My name is Anwer Khan and I will be your instructor through out this course. In this course we will talk straight to the point. Therefore, we will cover more in less time. Articulate Storyline is the industry&#39;s favorite software for creating interactive courses. It&#39;s simple enough for beginners, yet powerful enough for experts. And it lets you create virtually any interaction you can imagine, in minutes.</description>
+    </item>
+    
+    <item>
       <title>python web scraping by arabic</title>
-      <link>https://www.jobready.ml/python-web-scraping-by-arabic/</link>
+      <link>https://jobready.courseintern.com/python-web-scraping-by-arabic/</link>
       <pubDate>Sat, 02 Oct 2021 11:48:06 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/python-web-scraping-by-arabic/</guid>
+      <guid>https://jobready.courseintern.com/python-web-scraping-by-arabic/</guid>
       <description>in this course you will learn how to use python in web scraping and you will learn how to use some modules like (requests,bs4,re)
 and you will learn ( regular expression ) and how to use it to make patterns for emails &amp;amp; phone number &amp;amp; ip and use it in scraping , i hope to get what you need from this course .
 good luck..
 thanks :)
-
- Ratings: 4.</description>
+Ratings: 4.64/5</description>
     </item>
     
     <item>
       <title>Learn Azure DevOps CI/CD pipelines</title>
-      <link>https://www.jobready.ml/learn-azure-devops-ci/cd-pipelines/</link>
+      <link>https://jobready.courseintern.com/learn-azure-devops-ci/cd-pipelines/</link>
       <pubDate>Wed, 22 Sep 2021 14:40:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/learn-azure-devops-ci/cd-pipelines/</guid>
+      <guid>https://jobready.courseintern.com/learn-azure-devops-ci/cd-pipelines/</guid>
       <description>Are you a developer and you want to learn more about DevOps ?
 Are you looking for a practical guide to get you started with Continuous Integration and Continuous Deployment ?
 Are you working on Web, Mobile, Container or Database projects and you want to implement CI/CD ?
@@ -101,33 +186,12 @@ You will start with web applications: Java, .</description>
     </item>
     
     <item>
-      <title>Apache Zeppelin - Big Data Visualization Tool</title>
-      <link>https://www.jobready.ml/apache-zeppelin-big-data-visualization-tool/</link>
-      <pubDate>Wed, 15 Sep 2021 15:46:17 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/apache-zeppelin-big-data-visualization-tool/</guid>
-      <description>Apache Zeppelin - Big Data Visualization Tool for Big data Engineers An Open Source Tool (Free Source for Data Visualization)
-Learn the latest Big Data Technology - Apache Zeppelin! And learn to use it with one of the most popular programming Data Visualization Tool!
-One of the most valuable technology skills is the ability to analyze huge data sets, and this course is specifically designed to bring you up to speed on one of the best technologies for this task, Apache Zeppelin!</description>
-    </item>
-    
-    <item>
       <title>Jira Essentials</title>
-      <link>https://www.jobready.ml/jira-essentials/</link>
+      <link>https://jobready.courseintern.com/jira-essentials/</link>
       <pubDate>Mon, 13 Sep 2021 12:05:21 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/jira-essentials/</guid>
+      <guid>https://jobready.courseintern.com/jira-essentials/</guid>
       <description>More than 65 000 companies use Jira nowadays and the number is growing. Whether you are already working in one of these companies and need to step up in your Jira game, or are planning a career change and need to add &#34;Jira expertise&#34; to your CV to increase your chances, this course is for you! After completing this course you will be able to confidently set up Jira projects, create and modify issues, set up filters, Scrum and Kanban boards and dashboards.</description>
-    </item>
-    
-    <item>
-      <title>Crash Course on Civil Engineering and AutoCAD: Part 2</title>
-      <link>https://www.jobready.ml/crash-course-on-civil-engineering-and-autocad-part-2/</link>
-      <pubDate>Sun, 29 Aug 2021 00:48:31 +0530</pubDate>
-      
-      <guid>https://www.jobready.ml/crash-course-on-civil-engineering-and-autocad-part-2/</guid>
-      <description>&#34;An estimate for any construction work may be defined as the actual process of calculating the quantities and costs of the various items required in connection with the specialised project - whatsoever&#34;.
-Before the start of the project for its execution, the owner should have full knowledge of the volume of work that is to be carried out. The tiny details can help him understand if the actual work can be completed within the proposed time frame and budget.</description>
     </item>
     
   </channel>

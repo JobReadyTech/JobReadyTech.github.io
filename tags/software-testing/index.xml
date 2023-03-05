@@ -2,48 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Testing on </title>
-    <link>https://www.jobready.ml/tags/software-testing/</link>
+    <link>https://jobready.courseintern.com/tags/software-testing/</link>
     <description>Recent content in Software Testing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Dec 2021 09:53:38 +0530</lastBuildDate>
-    
-	<atom:link href="https://www.jobready.ml/tags/software-testing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 28 May 2022 20:32:11 +0530</lastBuildDate><atom:link href="https://jobready.courseintern.com/tags/software-testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Real time Automation&#43;Manual Interview Questions with Answers</title>
-      <link>https://www.jobready.ml/real-time-automation-manual-interview-questions-with-answers/</link>
-      <pubDate>Wed, 01 Dec 2021 09:53:38 +0530</pubDate>
+      <link>https://jobready.courseintern.com/real-time-automation-manual-interview-questions-with-answers/</link>
+      <pubDate>Sat, 28 May 2022 20:32:11 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/real-time-automation-manual-interview-questions-with-answers/</guid>
+      <guid>https://jobready.courseintern.com/real-time-automation-manual-interview-questions-with-answers/</guid>
       <description>How about Quickly Revising all the Important Software testing Concepts in just a few hours before an interview?
-
 This course focuses on revising most Real-time interview questions around Testing. An interview is all about expressing your answers in a precise and proper way. You can have tons of knowledge, you must have done tons of coding but cracking an interview is a different ball game.
-
 This course is a revision course where I have focused on what kind of questions are asked and how to answer them in an elaborate way.</description>
     </item>
     
     <item>
-      <title>Selenium in C# - Setup Simple Test Automation Framework</title>
-      <link>https://www.jobready.ml/selenium-in-c#-setup-simple-test-automation-framework/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <title>ISTQB Foundation Level Essential Training || Exam Prep ||</title>
+      <link>https://jobready.courseintern.com/istqb-foundation-level-essential-training-exam-prep/</link>
+      <pubDate>Fri, 20 May 2022 19:57:41 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/selenium-in-c#-setup-simple-test-automation-framework/</guid>
-      <description>Some of you may ask a question like: “Why should I select this course, instead of learning Selenium by myself?”
-So, what is extremely cool about this course?
-You won’t learn just theory.
-You will have practical technical tasks to implement real test applications.
-You won’t need to search for answers to your questions on Google, because you can&#39;t understand lessons or homework.
-Everything is in here. In one place. In this training course.</description>
+      <guid>https://jobready.courseintern.com/istqb-foundation-level-essential-training-exam-prep/</guid>
+      <description>Welcome guys my name is Anwer khan and I will be your instructor through out this course. In this course I will talk straight to the point. Therefore, we will cover more in less time. The ISTQB is one of the world&#39;s most recognized certifications for software testing. In the last few years, it has become the standard for most applicants looking to break into the world of testing.
+The International Software Testing Qualifications Board (ISTQB) is the lead organization in the world that certifies software quality analysts and tests their skill.</description>
     </item>
     
     <item>
       <title>Selenium in Java - Setup Simple Test Automation Framework</title>
-      <link>https://www.jobready.ml/selenium-in-java-setup-simple-test-automation-framework/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <link>https://jobready.courseintern.com/selenium-in-java-setup-simple-test-automation-framework/</link>
+      <pubDate>Mon, 09 May 2022 19:27:02 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/selenium-in-java-setup-simple-test-automation-framework/</guid>
+      <guid>https://jobready.courseintern.com/selenium-in-java-setup-simple-test-automation-framework/</guid>
       <description>Some of you may ask a question like: “Why should I select this course, instead of learning Selenium by myself?”
 So, what is extremely cool about this course?
 You won’t learn just theory.
@@ -54,10 +44,10 @@ Everything is in here. In one place. In this training course.</description>
     
     <item>
       <title>Webservices API Testing with Postman - Complete Guide</title>
-      <link>https://www.jobready.ml/webservices-api-testing-with-postman-complete-guide/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <link>https://jobready.courseintern.com/webservices-api-testing-with-postman-complete-guide/</link>
+      <pubDate>Sun, 08 May 2022 16:10:23 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/webservices-api-testing-with-postman-complete-guide/</guid>
+      <guid>https://jobready.courseintern.com/webservices-api-testing-with-postman-complete-guide/</guid>
       <description>Some of you may ask a question: “Why should I select this course, instead of learning Postman by myself?”
 So, what is extremely cool about this course?
 That you won’t learn just theory.
@@ -67,11 +57,47 @@ Everything is in here. In one place. In this training course.</description>
     </item>
     
     <item>
-      <title>WebServices testing (RestAssured &#43; Postman) Complete Guide</title>
-      <link>https://www.jobready.ml/webservices-testing-restassured-postman-complete-guide/</link>
-      <pubDate>Wed, 20 Oct 2021 23:13:24 +0530</pubDate>
+      <title>C# Test Automation Engineer - from Zero to Hero</title>
+      <link>https://jobready.courseintern.com/c#-test-automation-engineer-from-zero-to-hero/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/webservices-testing-restassured-postman-complete-guide/</guid>
+      <guid>https://jobready.courseintern.com/c#-test-automation-engineer-from-zero-to-hero/</guid>
+      <description>From this course you can learn how to become Software Test Automation Engineer and get all necessary practical skill.
+There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
+To learn programming, it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course, you will review multiple practical tasks and coding examples which will help you learn and understand C# better.</description>
+    </item>
+    
+    <item>
+      <title>Java Test Automation Engineer - from Zero to Hero</title>
+      <link>https://jobready.courseintern.com/java-test-automation-engineer-from-zero-to-hero/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/java-test-automation-engineer-from-zero-to-hero/</guid>
+      <description>From this course you can learn how to become Software Test Automation Engineer and get all necessary practical skill.
+There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
+To learn programming, it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course, you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
+    </item>
+    
+    <item>
+      <title>Selenium in C# - Setup Simple Test Automation Framework</title>
+      <link>https://jobready.courseintern.com/selenium-in-c#-setup-simple-test-automation-framework/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/selenium-in-c#-setup-simple-test-automation-framework/</guid>
+      <description>Some of you may ask a question like: “Why should I select this course, instead of learning Selenium by myself?”
+So, what is extremely cool about this course?
+You won’t learn just theory.
+You will have practical technical tasks to implement real test applications.
+You won’t need to search for answers to your questions on Google, because you can&#39;t understand lessons or homework.
+Everything is in here. In one place. In this training course.</description>
+    </item>
+    
+    <item>
+      <title>WebServices testing (RestAssured &#43; Postman) Complete Guide</title>
+      <link>https://jobready.courseintern.com/webservices-testing-restassured--postman-complete-guide/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/webservices-testing-restassured--postman-complete-guide/</guid>
       <description>Some of you may ask a question like: “Why should I select this course, instead of learning API Testing by myself?”
 So, what is extremely cool about this course?
 You won’t learn just theory.
@@ -81,11 +107,41 @@ Everything is in here. In one place.</description>
     </item>
     
     <item>
+      <title>WebServices testing (RestSharp &#43; Postman) Complete Guide</title>
+      <link>https://jobready.courseintern.com/webservices-testing-restsharp--postman-complete-guide/</link>
+      <pubDate>Mon, 28 Feb 2022 21:02:47 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/webservices-testing-restsharp--postman-complete-guide/</guid>
+      <description>Some of you may ask a question like: “Why should I select this course, instead of learning API Testing by myself?”
+So, what is extremely cool about this course?
+You won’t learn just theory.
+You will have practical technical tasks to implement real test applications.
+You won’t need to search for answers to your questions on Google, because you can&#39;t understand lessons or homework.
+Everything is in here. In one place.</description>
+    </item>
+    
+    <item>
+      <title>ISTQB mobile Application testing training &#43; 200 Quizes</title>
+      <link>https://jobready.courseintern.com/istqb-mobile-application-testing-training--200-quizes/</link>
+      <pubDate>Mon, 17 Jan 2022 13:47:11 +0530</pubDate>
+      
+      <guid>https://jobready.courseintern.com/istqb-mobile-application-testing-training--200-quizes/</guid>
+      <description>ISTQB mobile testing Training + Topic wise Quiz + Chapter Wise Quiz : COMPLETE PACKAGE
+First few video are provided for free, you can watch them to check the quality of the course.
+we have maintained the same quality through the course. Chapters covered:
+Mobile World -Business and Technology Drivers
+Mobile Application Test Types
+Common Test Types and Test Process for Mobile Applications
+Mobile Application Platforms, Tools and Environment
+Automating the Test Execution</description>
+    </item>
+    
+    <item>
       <title>JUnit 5, Mockito, PowerMock, TDD, BDD &amp; ATTD</title>
-      <link>https://www.jobready.ml/junit-5-mockito-powermock-tdd-bdd-attd/</link>
+      <link>https://jobready.courseintern.com/junit-5-mockito-powermock-tdd-bdd-attd/</link>
       <pubDate>Sat, 09 Oct 2021 10:08:41 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/junit-5-mockito-powermock-tdd-bdd-attd/</guid>
+      <guid>https://jobready.courseintern.com/junit-5-mockito-powermock-tdd-bdd-attd/</guid>
       <description>From this course you can learn Testing for software engineers that includes learning of JUnit 5, Mockito, PowerMock and TDD approach.
 There are a lot of other courses in this topic. So, why would you choose exactly this course? Here just a few reasons:- Coding examples
 To learn programming it is not enough just watching videos and reading books. You also need to have a lot of practice. In this training course you will review multiple practical tasks and coding examples which will help you learn and understand Java better.</description>
@@ -93,10 +149,10 @@ To learn programming it is not enough just watching videos and reading books. Yo
     
     <item>
       <title>Server Infrastructure</title>
-      <link>https://www.jobready.ml/server-infrastructure/</link>
+      <link>https://jobready.courseintern.com/server-infrastructure/</link>
       <pubDate>Fri, 08 Oct 2021 10:23:46 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/server-infrastructure/</guid>
+      <guid>https://jobready.courseintern.com/server-infrastructure/</guid>
       <description>SO, YOU’RE LOOKING FOR A COURSE THAT WILL TEACH YOU SERVER INFRASTRUCTURE &amp;amp; IN A FUN MANNER?
 I’ve got just the course for you!
 Welcome, my name is Josh Werner with Learn Tech Plus and I’ve put this course together to help people just like you quickly master Server Infrastructure...Whether you’re a beginner or experienced with Server Infrastructure!
@@ -105,14 +161,12 @@ If your goal is to become a user of Server Infrastructure, then this course is p
     
     <item>
       <title>Java (and Cucumber) for Automation Testing</title>
-      <link>https://www.jobready.ml/java-and-cucumber-for-automation-testing/</link>
+      <link>https://jobready.courseintern.com/java-and-cucumber-for-automation-testing/</link>
       <pubDate>Tue, 07 Sep 2021 23:15:12 +0530</pubDate>
       
-      <guid>https://www.jobready.ml/java-and-cucumber-for-automation-testing/</guid>
-      <description>Are you thinking of moving from Manual to Automation Testing? 
-Do you believe Coding is the key to Automation Testing Career?
-Then you should also be aware that Test Automation is certainly in high demand and that Java is one of the most common programming language used for Automation Testing. So, learn Java for Automation Testing covering Java Beginners to Advanced - from Automation Testing Projects view-point. 
-This realistic course covers “How to get started with Java for Automation Testing” to “How to use SOLID principles to become an Automation Tester”.</description>
+      <guid>https://jobready.courseintern.com/java-and-cucumber-for-automation-testing/</guid>
+      <description>Are you thinking of moving from Manual to Automation Testing? Do you believe Coding is the key to Automation Testing Career?
+Then you should also be aware that Test Automation is certainly in high demand and that Java is one of the most common programming language used for Automation Testing. So, learn Java for Automation Testing covering Java Beginners to Advanced - from Automation Testing Projects view-point. This realistic course covers “How to get started with Java for Automation Testing” to “How to use SOLID principles to become an Automation Tester”.</description>
     </item>
     
   </channel>
